@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+
+	<title type="text">Blog - Octopart</title>
+	<id>http://</id>
+	<icon>https://octopart.com/favicon-32x32.png</icon>
+	<logo>https://octopart.com/favicon-32x32.png</logo>
+	<updated>2022-04-16T19:35:41+00:00</updated>
+	<author>
+		<name>RSS-Bridge</name>
+	</author>
+	<link rel="alternate" type="text/html" href="https://octopart.com/blog" />
+	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">Complete Guide to Selecting Board-to-Board Connectors</title>
+		<published>2022-04-07T00:00:00+00:00</published>
+		<updated>2022-04-07T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/04/complete-guide-to-selecting-board-to-board-connectors</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/04/complete-guide-to-selecting-board-to-board-connectors"/>
+		
+		<content type="html">Complete Guide to Selecting Board-to-Board Connectors</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/7jZ1k2vIaK6JKyT1GoRzOe/c8cd881d94cdb67961397e5200538d74/1080x1080__9_.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The Octopart API is now the Nexar Legacy API</title>
+		<published>2022-03-31T00:00:00+00:00</published>
+		<updated>2022-03-31T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/03/the-octopart-api-is-now-the-nexar-legacy-api</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/the-octopart-api-is-now-the-nexar-legacy-api"/>
+		
+		<content type="html">The Octopart API is now the Nexar Legacy API</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/5BLbKltAf1kZnludU2W4IL/df3b5c0c92311e83bac456a469248048/pluginupdatesquare.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</title>
+		<published>2022-03-01T00:00:00+00:00</published>
+		<updated>2022-03-01T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra"/>
+		
+		<content type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4J3ZfLMCrl9LcxKe35NvBg/18047fb2a24513d4179f4c785eb499a8/Spectra_Blog_Square_720x720.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">What Will Quantum Computer Components Look Like?</title>
+		<published>2022-03-29T00:00:00+00:00</published>
+		<updated>2022-03-29T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/03/what-will-quantum-computer-components-look-like</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/what-will-quantum-computer-components-look-like"/>
+		
+		<content type="html">What Will Quantum Computer Components Look Like?</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/Disv7dDLA3XVBMV914Z89/6730cfbe25a10f70d9b1b308840a21c2/1080x1080__8_.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Japan's Earthquake Shuts Down Semiconductor Plants</title>
+		<published>2022-03-24T00:00:00+00:00</published>
+		<updated>2022-03-24T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/03/japans-earthquake-shuts-down-semiconductor-plants</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/japans-earthquake-shuts-down-semiconductor-plants"/>
+		
+		<content type="html">Japan's Earthquake Shuts Down Semiconductor Plants</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/UihmRWr34wJU7ylNsC3l6/f46d6208e4c6a497b5f75190d240cb1d/1080x1080__6_.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">High Temperature Resistor Selection Guide</title>
+		<published>2022-03-18T00:00:00+00:00</published>
+		<updated>2022-03-18T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/03/high-temperature-resistor-selection-guide</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/high-temperature-resistor-selection-guide"/>
+		
+		<content type="html">High Temperature Resistor Selection Guide</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/6hawbsGHC0L51lNUKifVT/e5c8ac93c15111f309f4e27b34c21bfc/1080x1080__5_.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Sourcing Electronic Parts in an Era of Supply Chain Uncertainty</title>
+		<published>2022-03-09T00:00:00+00:00</published>
+		<updated>2022-03-09T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/03/sourcing-electronic-parts-in-an-era-of-supply-chain-uncertainty</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/sourcing-electronic-parts-in-an-era-of-supply-chain-uncertainty"/>
+		
+		<content type="html">Sourcing Electronic Parts in an Era of Supply Chain Uncertainty</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/65QyZcDr6oBWqR8sFzCXEa/2d156df4f55d2ab017730a7dc2c87e71/inventory_history_square.jpg" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Half-bridge Isolated DC-DC Converter Design</title>
+		<published>2022-03-04T00:00:00+00:00</published>
+		<updated>2022-03-04T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/03/half-bridge-isolated-dc-dc-converter-design</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/half-bridge-isolated-dc-dc-converter-design"/>
+		
+		<content type="html">Half-bridge Isolated DC-DC Converter Design</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/3qWerQ5kGIto6c74Tt19UL/d9979a24f0e9b4683800fd9da662cc86/1080x1080__4_.png" type="image/png" />
+
+		
+		
+	</entry>
+
+</feed>
