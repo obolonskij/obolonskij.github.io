@@ -5,7 +5,7 @@
 	<id>http://</id>
 	<icon>https://embedsysweekly.com/img/favicon.ico</icon>
 	<logo>https://embedsysweekly.com/img/favicon.ico</logo>
-	<updated>2022-04-18T21:03:06+00:00</updated>
+	<updated>2022-04-23T17:00:54+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
@@ -13,9 +13,22 @@
 	<link rel="self" type="application/atom+xml" href="http://" />
 
 	<entry>
+		<title type="html">issue 97</title>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
+		<id>https://embedsysweekly.com/embedded-systems-issue97</id>
+		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue97"/>
+		
+		<content type="html">issue 97</content>
+		
+		
+		
+	</entry>
+
+	<entry>
 		<title type="html">issue 96</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue96</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue96"/>
 		
@@ -27,8 +40,8 @@
 
 	<entry>
 		<title type="html">issue 95</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue95</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue95"/>
 		
@@ -40,8 +53,8 @@
 
 	<entry>
 		<title type="html">issue 94</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue94</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue94"/>
 		
@@ -53,8 +66,8 @@
 
 	<entry>
 		<title type="html">issue 93</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue93</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue93"/>
 		
@@ -66,8 +79,8 @@
 
 	<entry>
 		<title type="html">issue 92</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue92</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue92"/>
 		
@@ -79,8 +92,8 @@
 
 	<entry>
 		<title type="html">issue 91</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue91</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue91"/>
 		
@@ -92,8 +105,8 @@
 
 	<entry>
 		<title type="html">issue 90</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue90</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue90"/>
 		
@@ -105,8 +118,8 @@
 
 	<entry>
 		<title type="html">issue 89</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue89</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue89"/>
 		
@@ -118,8 +131,8 @@
 
 	<entry>
 		<title type="html">issue 88</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue88</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue88"/>
 		
@@ -131,8 +144,8 @@
 
 	<entry>
 		<title type="html">issue 87</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue87</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue87"/>
 		
@@ -144,8 +157,8 @@
 
 	<entry>
 		<title type="html">issue 86</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue86</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue86"/>
 		
@@ -157,8 +170,8 @@
 
 	<entry>
 		<title type="html">issue 85</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue85</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue85"/>
 		
@@ -170,8 +183,8 @@
 
 	<entry>
 		<title type="html">issue 84</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue84</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue84"/>
 		
@@ -183,8 +196,8 @@
 
 	<entry>
 		<title type="html">issue 83</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue83</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue83"/>
 		
@@ -196,8 +209,8 @@
 
 	<entry>
 		<title type="html">issue 82</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue82</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue82"/>
 		
@@ -209,8 +222,8 @@
 
 	<entry>
 		<title type="html">issue 81</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue81</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue81"/>
 		
@@ -222,8 +235,8 @@
 
 	<entry>
 		<title type="html">issue 80</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue80</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue80"/>
 		
@@ -235,8 +248,8 @@
 
 	<entry>
 		<title type="html">issue 79</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue79</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue79"/>
 		
@@ -248,8 +261,8 @@
 
 	<entry>
 		<title type="html">issue 78</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue78</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue78"/>
 		
@@ -261,8 +274,8 @@
 
 	<entry>
 		<title type="html">issue 77</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue77</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue77"/>
 		
@@ -274,8 +287,8 @@
 
 	<entry>
 		<title type="html">issue 76</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue76</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue76"/>
 		
@@ -287,8 +300,8 @@
 
 	<entry>
 		<title type="html">issue 75</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue75</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue75"/>
 		
@@ -300,8 +313,8 @@
 
 	<entry>
 		<title type="html">issue 74</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue74</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue74"/>
 		
@@ -313,8 +326,8 @@
 
 	<entry>
 		<title type="html">issue 73</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue73</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue73"/>
 		
@@ -326,8 +339,8 @@
 
 	<entry>
 		<title type="html">issue 72</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue72</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue72"/>
 		
@@ -339,8 +352,8 @@
 
 	<entry>
 		<title type="html">issue 71</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue71</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue71"/>
 		
@@ -352,8 +365,8 @@
 
 	<entry>
 		<title type="html">issue 70</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue70</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue70"/>
 		
@@ -365,8 +378,8 @@
 
 	<entry>
 		<title type="html">issue 69</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue69</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue69"/>
 		
@@ -378,8 +391,8 @@
 
 	<entry>
 		<title type="html">issue 68</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue68</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue68"/>
 		
@@ -391,8 +404,8 @@
 
 	<entry>
 		<title type="html">issue 67</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue67</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue67"/>
 		
@@ -404,8 +417,8 @@
 
 	<entry>
 		<title type="html">issue 66</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue66</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue66"/>
 		
@@ -417,8 +430,8 @@
 
 	<entry>
 		<title type="html">issue 65</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue65</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue65"/>
 		
@@ -430,8 +443,8 @@
 
 	<entry>
 		<title type="html">issue 64</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue64</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue64"/>
 		
@@ -443,8 +456,8 @@
 
 	<entry>
 		<title type="html">issue 63</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/embedded-systems-issue63</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/embedded-systems-issue63"/>
 		
@@ -456,8 +469,8 @@
 
 	<entry>
 		<title type="html">issue 22</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue22</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue22"/>
 		
@@ -469,8 +482,8 @@
 
 	<entry>
 		<title type="html">issue 21</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue21-pcb-memory-safety-gdb</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue21-pcb-memory-safety-gdb"/>
 		
@@ -482,8 +495,8 @@
 
 	<entry>
 		<title type="html">issue 20</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue20-linux-kernel-hardware</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue20-linux-kernel-hardware"/>
 		
@@ -495,8 +508,8 @@
 
 	<entry>
 		<title type="html">issue 19</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue19-linux-c11-atomic</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue19-linux-c11-atomic"/>
 		
@@ -508,8 +521,8 @@
 
 	<entry>
 		<title type="html">issue 18</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue18-volatile-linux-kernel</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue18-volatile-linux-kernel"/>
 		
@@ -521,8 +534,8 @@
 
 	<entry>
 		<title type="html">issue 17</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue17-arduino-gcc-c-language</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue17-arduino-gcc-c-language"/>
 		
@@ -534,8 +547,8 @@
 
 	<entry>
 		<title type="html">issue 16</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue16-jtag-cpu-elf-executable</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue16-jtag-cpu-elf-executable"/>
 		
@@ -547,8 +560,8 @@
 
 	<entry>
 		<title type="html">issue 15</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue15-realtime-systems-c-strace</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue15-realtime-systems-c-strace"/>
 		
@@ -560,8 +573,8 @@
 
 	<entry>
 		<title type="html">issue 14</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue14-linux-kernel-debugger-sniffing</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue14-linux-kernel-debugger-sniffing"/>
 		
@@ -573,8 +586,8 @@
 
 	<entry>
 		<title type="html">issue 13</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue13-microcontroller-8051-pic</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue13-microcontroller-8051-pic"/>
 		
@@ -586,8 +599,8 @@
 
 	<entry>
 		<title type="html">issue 12</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue12-embedded-c-programming</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue12-embedded-c-programming"/>
 		
@@ -599,8 +612,8 @@
 
 	<entry>
 		<title type="html">issue 11</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue11-embedded-fpga-uboot</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue11-embedded-fpga-uboot"/>
 		
@@ -612,8 +625,8 @@
 
 	<entry>
 		<title type="html">issue 10</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue10-system-on-chip-resistor-nand-tcp</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue10-system-on-chip-resistor-nand-tcp"/>
 		
@@ -625,8 +638,8 @@
 
 	<entry>
 		<title type="html">issue 9</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue9-memory-barriers-compilers-architecture-rs232</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue9-memory-barriers-compilers-architecture-rs232"/>
 		
@@ -638,8 +651,8 @@
 
 	<entry>
 		<title type="html">issue 8</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue8-embedded-systems-compiler-linker-qemu</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue8-embedded-systems-compiler-linker-qemu"/>
 		
@@ -651,8 +664,8 @@
 
 	<entry>
 		<title type="html">issue 7</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue7-datasheet-schematic-gpio-shell-malloc</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue7-datasheet-schematic-gpio-shell-malloc"/>
 		
@@ -664,8 +677,8 @@
 
 	<entry>
 		<title type="html">issue 6</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue6</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue6"/>
 		
@@ -677,8 +690,8 @@
 
 	<entry>
 		<title type="html">issue 5</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue5</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue5"/>
 		
@@ -690,8 +703,8 @@
 
 	<entry>
 		<title type="html">issue 4</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue4</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue4"/>
 		
@@ -703,8 +716,8 @@
 
 	<entry>
 		<title type="html">issue 3</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue3</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue3"/>
 		
@@ -716,8 +729,8 @@
 
 	<entry>
 		<title type="html">issue 2</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue2</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue2"/>
 		
@@ -729,8 +742,8 @@
 
 	<entry>
 		<title type="html">issue 1</title>
-		<published>2022-04-18T21:03:06+00:00</published>
-		<updated>2022-04-18T21:03:06+00:00</updated>
+		<published>2022-04-23T17:00:54+00:00</published>
+		<updated>2022-04-23T17:00:54+00:00</updated>
 		<id>https://embedsysweekly.com/issue1</id>
 		<link rel="alternate" type="text/html" href="https://embedsysweekly.com/issue1"/>
 		

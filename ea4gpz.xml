@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+
+	<title type="text">Twitter @ea4gpz</title>
+	<id>http://</id>
+	<icon>https://twitter.com//favicon.ico</icon>
+	<logo>https://twitter.com//favicon.ico</logo>
+	<updated>2022-04-23T16:58:57+00:00</updated>
+	<author>
+		<name>RSS-Bridge</name>
+	</author>
+	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
+	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@azonenberg Perhaps (rd_ptr + DEPTH)[N-1:0] == wr_ptr fixes this.</title>
+		<published>2022-04-23T06:40:56+00:00</published>
+		<updated>2022-04-23T06:40:56+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1517755381761593347</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1517755381761593347"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@azonenberg Perhaps (rd_ptr + DEPTH)[N-1:0] == wr_ptr fixes this.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@azonenberg I can believe that. Verilog arithmetic is tricky. The sum is not truncated, just in case you want to assign it to an I-value which is large enough to fit the bit growth. Then I would assume that if you == two expressions of unequal length, the shorter is zero extended on the left</title>
+		<published>2022-04-23T06:39:18+00:00</published>
+		<updated>2022-04-23T06:39:18+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1517754973379080192</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1517754973379080192"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@azonenberg I can believe that. Verilog arithmetic is tricky. The sum is not truncated, just in case you want to assign it to an I-value which is large enough to fit the bit growth. Then I would assume that if you == two expressions of unequal length, the shorter is zero extended on the left&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@azonenberg What are the sizes and types of the terms used here? I have a hunch that it might be related to that.</title>
+		<published>2022-04-23T06:31:45+00:00</published>
+		<updated>2022-04-23T06:31:45+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1517753072478560256</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1517753072478560256"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@azonenberg What are the sizes and types of the terms used here? I have a hunch that it might be related to that.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">As always, the Python code and the recording in SigMF format is provided. Read more: destevez.net/2022/04/lte-do…</title>
+		<published>2022-04-21T19:37:02+00:00</published>
+		<updated>2022-04-21T19:37:02+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1517225918904913920</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1517225918904913920"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;As always, the Python code and the recording in SigMF format is provided. Read more: &lt;a href="https://destevez.net/2022/04/lte-downlink-synchronization-signals/"&gt;destevez.net/2022/04/lte-do…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">An interesting result is that the cells are completely synchronized. Even the carrier phase difference stays consistent over time. Each of the 5 beams shows a different carrier phase difference. (8/9) pic.twitter.com/b9RsB3Qngd</title>
+		<published>2022-04-21T19:37:01+00:00</published>
+		<updated>2022-04-21T19:37:01+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1517225914215587841</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1517225914215587841"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;An interesting result is that the cells are completely synchronized. Even the carrier phase difference stays consistent over time. Each of the 5 beams shows a different carrier phase difference. (8/9) &lt;a href="https://twitter.com/ea4gpz/status/1517225914215587841/photo/1"&gt;pic.twitter.com/b9RsB3Qngd&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FQ5EX9sXEAItaXo.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FQ5EX9sXEAItaXo.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FQ5EX9sXEAItaXo.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">We look at the SSS and show how to find the Physical Cell ID from the received SSS sequence. We also look at the SSS signals from the two weaker cells. (7/9) pic.twitter.com/BgZYcigI9z</title>
+		<published>2022-04-21T19:37:00+00:00</published>
+		<updated>2022-04-21T19:37:00+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1517225909975240704</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1517225909975240704"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;We look at the SSS and show how to find the Physical Cell ID from the received SSS sequence. We also look at the SSS signals from the two weaker cells. (7/9) &lt;a href="https://twitter.com/ea4gpz/status/1517225909975240704/photo/1"&gt;pic.twitter.com/BgZYcigI9z&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FQ5EAILX0AA1tzm.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FQ5EAILX0AA1tzm.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FQ5EAILX0AA1tzm.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">In the recording, the signal from cell with PCI 380 is very strong, since its antennas were in line-of-sight. But the signals from the other cells in the same site, PCI 378 and 379 are also present. I show some ways of cancelling the strongest signal to estimate these. (6/9)</title>
+		<published>2022-04-21T19:36:59+00:00</published>
+		<updated>2022-04-21T19:36:59+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1517225906426855425</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1517225906426855425"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;In the recording, the signal from cell with PCI 380 is very strong, since its antennas were in line-of-sight. But the signals from the other cells in the same site, PCI 378 and 379 are also present. I show some ways of cancelling the strongest signal to estimate these. (6/9)&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">We can measure fine properties of these 5 beams, such as slightly different group delays. Here the transmissions are grouped by beam using 5 colours. (5/9) pic.twitter.com/WuFJ2HS9Pu</title>
+		<published>2022-04-21T19:36:58+00:00</published>
+		<updated>2022-04-21T19:36:58+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1517225903209816064</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1517225903209816064"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;We can measure fine properties of these 5 beams, such as slightly different group delays. Here the transmissions are grouped by beam using 5 colours. (5/9) &lt;a href="https://twitter.com/ea4gpz/status/1517225903209816064/photo/1"&gt;pic.twitter.com/WuFJ2HS9Pu&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FQ5DxWxXEAUiGjn.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FQ5DxWxXEAUiGjn.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FQ5DxWxXEAUiGjn.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The PSS symbols show a changing amplitude that repeats in a cycle every 5 transmissions. I think this is caused by the PSS being transmitted by 5 different beams in sequence. (4/9) pic.twitter.com/CpwqxwylBT</title>
+		<published>2022-04-21T19:36:57+00:00</published>
+		<updated>2022-04-21T19:36:57+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1517225898579304449</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1517225898579304449"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The PSS symbols show a changing amplitude that repeats in a cycle every 5 transmissions. I think this is caused by the PSS being transmitted by 5 different beams in sequence. (4/9) &lt;a href="https://twitter.com/ea4gpz/status/1517225898579304449/photo/1"&gt;pic.twitter.com/CpwqxwylBT&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FQ5DiyYWQAEdwgu.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FQ5DiyYWQAEdwgu.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FQ5DiyYWQAEdwgu.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">We take a look at how to detect the PSS using correlation, and the effects of the cross-correlation of the 3 possible PSS patterns. (3/9) pic.twitter.com/aBFDUSUqu0</title>
+		<published>2022-04-21T19:36:56+00:00</published>
+		<updated>2022-04-21T19:36:56+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1517225894301081601</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1517225894301081601"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;We take a look at how to detect the PSS using correlation, and the effects of the cross-correlation of the 3 possible PSS patterns. (3/9) &lt;a href="https://twitter.com/ea4gpz/status/1517225894301081601/photo/1"&gt;pic.twitter.com/aBFDUSUqu0&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FQ5DQKOXoAAbHsf.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FQ5DQKOXoAAbHsf.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FQ5DQKOXoAAbHsf.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">We show how to see many signal features in the waterfall, such as the location of the synchronization signals, and even distinguish the cell ID NID2 by looking at the waterfall. (2/9) pic.twitter.com/AWuQ5hWJ0x</title>
+		<published>2022-04-21T19:36:55+00:00</published>
+		<updated>2022-04-21T19:36:55+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1517225888944951297</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1517225888944951297"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;We show how to see many signal features in the waterfall, such as the location of the synchronization signals, and even distinguish the cell ID NID2 by looking at the waterfall. (2/9) &lt;a href="https://twitter.com/ea4gpz/status/1517225888944951297/photo/1"&gt;pic.twitter.com/AWuQ5hWJ0x&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FQ5C_8lWUAAw_Ox.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FQ5C_8lWUAAw_Ox.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FQ5C_8lWUAAw_Ox.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">New blog post: LTE downlink - synchronization signals. A couple weeks ago I went to my local cell site to record some signals. Here I give the analysis of the Primary and Secondary Synchronization Signals (PSS and SSS). (1/9)
+twitter.com/ea4gpz/status/…</title>
+		<published>2022-04-21T19:36:54+00:00</published>
+		<updated>2022-04-21T19:36:54+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1517225883957960704</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1517225883957960704"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;New blog post: LTE downlink - synchronization signals. A couple weeks ago I went to my local cell site to record some signals. Here I give the analysis of the Primary and Secondary Synchronization Signals (PSS and SSS). (1/9)
+&lt;a href="https://twitter.com/ea4gpz/status/1512762597380173824"&gt;twitter.com/ea4gpz/status/…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Interesting idea to run the AD9361 in TDD and power the TX LO divider on and off via SPI commands. twitter.com/jxjputaoshu/st…</title>
+		<published>2022-04-19T21:18:17+00:00</published>
+		<updated>2022-04-19T21:18:17+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1516526621972475904</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1516526621972475904"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Interesting idea to run the AD9361 in TDD and power the TX LO divider on and off via SPI commands. &lt;a href="https://twitter.com/jxjputaoshu/status/1516360355022311430"&gt;twitter.com/jxjputaoshu/st…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">MIR-SAT 1: MRIC and MARS will jointly issue a special Award (with some goodies, T-Shirt etc..) to the station capturing and sending to Satnogs the last telemetry before re-entry. Please help us catching the last moments/words of MO-112 which is decaying rapidly now. 73 Jean Marc</title>
+		<published>2022-04-17T16:14:19+00:00</published>
+		<updated>2022-04-17T16:14:19+00:00</updated>
+		<id>https://twitter.com/3b8du/status/1515725352748077059</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/3b8du/status/1515725352748077059"/>
+		<author><name>RT: 3B8DU Jean Marc (@3b8du)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/3b8du"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="3b8du"
+	src="https://pbs.twimg.com/profile_images/1502699749740523522/szz1LkfY_normal.jpg"
+	title="3B8DU Jean Marc" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;MIR-SAT 1: MRIC and MARS will jointly issue a special Award (with some goodies, T-Shirt etc..) to the station capturing and sending to Satnogs the last telemetry before re-entry. Please help us catching the last moments/words of MO-112 which is decaying rapidly now. 73 Jean Marc&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@abraxas3d @G4GUO That reminds me of playing pool at the maths olympiads for university students (not part of the competition but of the night life!). I can assure that a few of Europe's most talented young maths students were quite fine pool players.</title>
+		<published>2022-04-16T18:33:12+00:00</published>
+		<updated>2022-04-16T18:33:12+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1515397914088062989</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1515397914088062989"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@abraxas3d @G4GUO That reminds me of playing pool at the maths olympiads for university students (not part of the competition but of the night life!). I can assure that a few of Europe's most talented young maths students were quite fine pool players.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@d_w_bliss @IanJohnBuckley @robert_watson @dEnergy_dTime On standards, it's very interesting whenever they come with design choice justifications. The CCSDS green books are a notoriously good example. Reading other standards (for instance 3GPP) often leaves me wondering.</title>
+		<published>2022-04-15T19:53:37+00:00</published>
+		<updated>2022-04-15T19:53:37+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1515055763789598731</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1515055763789598731"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@d_w_bliss @IanJohnBuckley @robert_watson @dEnergy_dTime On standards, it's very interesting whenever they come with design choice justifications. The CCSDS green books are a notoriously good example. Reading other standards (for instance 3GPP) often leaves me wondering.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@Ayliean The boring standard answer is that the probability that your flight will crash conditioned to the fact that you already crashed in a previous flight equals the probability that your flight will crash without any a priori info. But your video was interesting and got me thinking!</title>
+		<published>2022-04-15T19:50:56+00:00</published>
+		<updated>2022-04-15T19:50:56+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1515055090012499970</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1515055090012499970"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@Ayliean The boring standard answer is that the probability that your flight will crash conditioned to the fact that you already crashed in a previous flight equals the probability that your flight will crash without any a priori info. But your video was interesting and got me thinking!&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@pranavp_25 @UCIPhysAstro Congratulations!</title>
+		<published>2022-04-15T06:27:07+00:00</published>
+		<updated>2022-04-15T06:27:07+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1514852803600072710</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1514852803600072710"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@pranavp_25 @UCIPhysAstro Congratulations!&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@robert_watson @IanJohnBuckley f. harris is very good, but it's mostly about filter design (but if you understand all this, it's very applicable to modem design). Maybe not the best read for modem design. Sklar I've only read some sections. I think it has a lot of stuff, so maybe select some chapters?</title>
+		<published>2022-04-13T17:31:24+00:00</published>
+		<updated>2022-04-13T17:31:24+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1514295199643709442</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1514295199643709442"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@robert_watson @IanJohnBuckley f. harris is very good, but it's mostly about filter design (but if you understand all this, it's very applicable to modem design). Maybe not the best read for modem design. Sklar I've only read some sections. I think it has a lot of stuff, so maybe select some chapters?&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@IanJohnBuckley @robert_watson By the way, it's been almost 5 years I'm no longer in academia. And back then it was pure maths for me. Time flies.</title>
+		<published>2022-04-13T17:27:57+00:00</published>
+		<updated>2022-04-13T17:27:57+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1514294330420301827</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1514294330420301827"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@IanJohnBuckley @robert_watson By the way, it's been almost 5 years I'm no longer in academia. And back then it was pure maths for me. Time flies.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+</feed>
