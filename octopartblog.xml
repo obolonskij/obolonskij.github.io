@@ -5,12 +5,26 @@
 	<id>http://</id>
 	<icon>https://octopart.com/favicon-32x32.png</icon>
 	<logo>https://octopart.com/favicon-32x32.png</logo>
-	<updated>2022-04-20T07:43:38+00:00</updated>
+	<updated>2022-04-26T09:15:06+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://octopart.com/blog" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">Comparing the Best MOSFETs for Power Electronics</title>
+		<published>2022-04-25T00:00:00+00:00</published>
+		<updated>2022-04-25T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/04/comparing-the-best-mosfets-for-power-electronics</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/04/comparing-the-best-mosfets-for-power-electronics"/>
+		
+		<content type="html">Comparing the Best MOSFETs for Power Electronics</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/xMSlfib5dfifsJP2GCQIU/586a2ae422d35695d9146305d2c5bb7d/1080_1.jpg" type="image/jpeg" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">New Wifi 6 Chipsets Give Wireless an Upgrade</title>
@@ -27,20 +41,6 @@
 	</entry>
 
 	<entry>
-		<title type="html">Complete Guide to Selecting Board-to-Board Connectors</title>
-		<published>2022-04-07T00:00:00+00:00</published>
-		<updated>2022-04-07T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/04/complete-guide-to-selecting-board-to-board-connectors</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/04/complete-guide-to-selecting-board-to-board-connectors"/>
-		
-		<content type="html">Complete Guide to Selecting Board-to-Board Connectors</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/7jZ1k2vIaK6JKyT1GoRzOe/c8cd881d94cdb67961397e5200538d74/1080x1080__9_.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
 		<title type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</title>
 		<published>2022-03-01T00:00:00+00:00</published>
 		<updated>2022-03-01T00:00:00+00:00</updated>
@@ -49,6 +49,20 @@
 		
 		<content type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4J3ZfLMCrl9LcxKe35NvBg/18047fb2a24513d4179f4c785eb499a8/Spectra_Blog_Square_720x720.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Complete Guide to Selecting Board-to-Board Connectors</title>
+		<published>2022-04-07T00:00:00+00:00</published>
+		<updated>2022-04-07T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/04/complete-guide-to-selecting-board-to-board-connectors</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/04/complete-guide-to-selecting-board-to-board-connectors"/>
+		
+		<content type="html">Complete Guide to Selecting Board-to-Board Connectors</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/7jZ1k2vIaK6JKyT1GoRzOe/c8cd881d94cdb67961397e5200538d74/1080x1080__9_.png" type="image/png" />
 
 		
 		
@@ -105,20 +119,6 @@
 		
 		<content type="html">High Temperature Resistor Selection Guide</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/6hawbsGHC0L51lNUKifVT/e5c8ac93c15111f309f4e27b34c21bfc/1080x1080__5_.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Sourcing Electronic Parts in an Era of Supply Chain Uncertainty</title>
-		<published>2022-03-09T00:00:00+00:00</published>
-		<updated>2022-03-09T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/03/sourcing-electronic-parts-in-an-era-of-supply-chain-uncertainty</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/sourcing-electronic-parts-in-an-era-of-supply-chain-uncertainty"/>
-		
-		<content type="html">Sourcing Electronic Parts in an Era of Supply Chain Uncertainty</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/65QyZcDr6oBWqR8sFzCXEa/2d156df4f55d2ab017730a7dc2c87e71/inventory_history_square.jpg" type="image/jpeg" />
 
 		
 		
