@@ -5,12 +5,198 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-04-26T09:15:07+00:00</updated>
+	<updated>2022-04-27T22:25:44+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/uhf_satcom" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">In case anybody is interested: I have released my RS-232 loopback on github.
+github.com/svenpetersen19…
+@GN55500918 pic.twitter.com/vC0s36wTEH</title>
+		<published>2022-04-27T15:15:50+00:00</published>
+		<updated>2022-04-27T15:15:50+00:00</updated>
+		<id>https://twitter.com/svenpetersen191/status/1519334515008839683</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/svenpetersen191/status/1519334515008839683"/>
+		<author><name>RT: Sven Petersen 🙈🙉🙊 (เด็กอ้วน) (@svenpetersen191)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/svenpetersen191"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="svenpetersen191"
+	src="https://pbs.twimg.com/profile_images/1458939535665082369/GJ5OU2WA_normal.jpg"
+	title="Sven Petersen 🙈🙉🙊 (เด็กอ้วน)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;In case anybody is interested: I have released my RS-232 loopback on github.
+&lt;a href="https://github.com/svenpetersen1965/RS232-loopback"&gt;github.com/svenpetersen19…&lt;/a&gt;
+@GN55500918 &lt;a href="https://twitter.com/svenpetersen191/status/1519334515008839683/photo/1"&gt;pic.twitter.com/vC0s36wTEH&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FRXCrcKWUAQY8uD.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FRXCrcKWUAQY8uD.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FRXCrcKWUAQY8uD.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@M0DTS Talking of tele, I read in radcom that band 1 and 3 antennas are now protected! So in our money that's what 6m and 2m sounds like a fun test case ;-)</title>
+		<published>2022-04-27T13:05:50+00:00</published>
+		<updated>2022-04-27T13:05:50+00:00</updated>
+		<id>https://twitter.com/uhf_satcom/status/1519301798242271234</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/uhf_satcom/status/1519301798242271234"/>
+		<author><name>UHF Satcom 🇬🇧 📡 📻 (@uhf_satcom)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/uhf_satcom"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="uhf_satcom"
+	src="https://pbs.twimg.com/profile_images/760595767/uhfsatcom_normal.jpg"
+	title="UHF Satcom 🇬🇧 📡 📻" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@M0DTS Talking of tele, I read in radcom that band 1 and 3 antennas are now protected! So in our money that's what 6m and 2m sounds like a fun test case ;-)&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@benjedwards Nice to see a proper BBS back! We have spare hardware plus an analogue phone line, what BBS software is best for dial in? Wildcat or similar ?</title>
+		<published>2022-04-27T10:53:27+00:00</published>
+		<updated>2022-04-27T10:53:27+00:00</updated>
+		<id>https://twitter.com/uhf_satcom/status/1519268481786601472</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/uhf_satcom/status/1519268481786601472"/>
+		<author><name>UHF Satcom 🇬🇧 📡 📻 (@uhf_satcom)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/uhf_satcom"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="uhf_satcom"
+	src="https://pbs.twimg.com/profile_images/760595767/uhfsatcom_normal.jpg"
+	title="UHF Satcom 🇬🇧 📡 📻" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@benjedwards Nice to see a proper BBS back! We have spare hardware plus an analogue phone line, what BBS software is best for dial in? Wildcat or similar ?&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@keithvk6eme @g4bao @TheRealMike @HeathrowAirport @DXING I once bought a huge vacuum capacitor back thru Zurich Airport, bomb squad were there it was great fun. They insisted on breaking the glass to look inside, eventually found someone that understood physics and I was on my way. Its now an ornament along with a huge USSR valve.</title>
+		<published>2022-04-27T08:25:33+00:00</published>
+		<updated>2022-04-27T08:25:33+00:00</updated>
+		<id>https://twitter.com/uhf_satcom/status/1519231261520404481</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/uhf_satcom/status/1519231261520404481"/>
+		<author><name>UHF Satcom 🇬🇧 📡 📻 (@uhf_satcom)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/uhf_satcom"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="uhf_satcom"
+	src="https://pbs.twimg.com/profile_images/760595767/uhfsatcom_normal.jpg"
+	title="UHF Satcom 🇬🇧 📡 📻" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@keithvk6eme @g4bao @TheRealMike @HeathrowAirport @DXING I once bought a huge vacuum capacitor back thru Zurich Airport, bomb squad were there it was great fun. They insisted on breaking the glass to look inside, eventually found someone that understood physics and I was on my way. Its now an ornament along with a huge USSR valve.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Voice of Greece
+Transmission end today at 17.00z pic.twitter.com/tVZIcnckBx</title>
+		<published>2022-04-26T17:06:11+00:00</published>
+		<updated>2022-04-26T17:06:11+00:00</updated>
+		<id>https://twitter.com/shortwaveberlin/status/1518999896459784192</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/shortwaveberlin/status/1518999896459784192"/>
+		<author><name>RT: Andrew Pitt (@shortwaveberlin)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/shortwaveberlin"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="shortwaveberlin"
+	src="https://pbs.twimg.com/profile_images/879989438411145216/YjQBNWK2_normal.jpg"
+	title="Andrew Pitt" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Voice of Greece
+Transmission end today at 17.00z &lt;a href="https://twitter.com/shortwaveberlin/status/1518999896459784192/video/1"&gt;pic.twitter.com/tVZIcnckBx&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://twitter.com/shortwaveberlin/status/1518999896459784192/video/1"&gt;Video&lt;/a&gt;
+&lt;video
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://video.twimg.com/ext_tw_video/1518999847172513795/pu/vid/1280x720/xjomSAzWMG_h2tdt.mp4?tag=12" poster="https://pbs.twimg.com/ext_tw_video_thumb/1518999847172513795/pu/img/wifDyuHqKcs9uZ4H.jpg" /&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://video.twimg.com/ext_tw_video/1518999847172513795/pu/vid/1280x720/xjomSAzWMG_h2tdt.mp4?tag=12" type="video/mp4" />
+<link rel="enclosure" href="https://pbs.twimg.com/ext_tw_video_thumb/1518999847172513795/pu/img/wifDyuHqKcs9uZ4H.jpg" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Maybe someone here knows this chip - 2126 MSUA215.1 for now I know it is connected to the input of sound amplifier chip. It is probably connect to 2 CM4 gpio pins. But we cannot get sound so it may have some OE pic.twitter.com/S93XIHkUh7</title>
+		<published>2022-04-26T11:54:13+00:00</published>
+		<updated>2022-04-26T11:54:13+00:00</updated>
+		<id>https://twitter.com/GMahovlic/status/1518921385032175619</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/GMahovlic/status/1518921385032175619"/>
+		<author><name>RT: Goran_Mahovlic (@GMahovlic)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/GMahovlic"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="GMahovlic"
+	src="https://pbs.twimg.com/profile_images/1083082030844440577/uPcDtQfY_normal.jpg"
+	title="Goran_Mahovlic" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Maybe someone here knows this chip - 2126 MSUA215.1 for now I know it is connected to the input of sound amplifier chip. It is probably connect to 2 CM4 gpio pins. But we cannot get sound so it may have some OE &lt;a href="https://twitter.com/GMahovlic/status/1518921385032175619/photo/1"&gt;pic.twitter.com/S93XIHkUh7&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FRRKHcyXsAAFpUU.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FRRKHcyXsAAFpUU.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FRRKHcyXsAAFpUU.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@wgoodf @g7soz Hahh well my running was really designed to offset my love of craft beers ;-) at least that's what I tell everyone ! Planning to do a full marathon later this year but need to find one that ends at a decant pub.</title>
@@ -416,190 +602,6 @@
 	&lt;blockquote&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
 		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Some new toys arrived…a couple of lovely WellGood loop amp &amp;amp; bias-t boards - thanks to @m1geo pic.twitter.com/PvEW2wxYcU</title>
-		<published>2022-04-20T08:53:52+00:00</published>
-		<updated>2022-04-20T08:53:52+00:00</updated>
-		<id>https://twitter.com/rdavies6/status/1516701671946174470</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/rdavies6/status/1516701671946174470"/>
-		<author><name>RT: Robin Davies (@rdavies6)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/rdavies6"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="rdavies6"
-	src="https://pbs.twimg.com/profile_images/817051881906307072/GoAtgpEN_normal.jpg"
-	title="Robin Davies" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Some new toys arrived…a couple of lovely WellGood loop amp &amp;amp; bias-t boards - thanks to @m1geo &lt;a href="https://twitter.com/rdavies6/status/1516701671946174470/photo/1"&gt;pic.twitter.com/PvEW2wxYcU&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FQxoIPIXoAYblzt.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FQxoIPIXoAYblzt.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FQxoIPIXoAYblzt.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@2m0sql HF you say.... mmmm lol</title>
-		<published>2022-04-19T20:42:24+00:00</published>
-		<updated>2022-04-19T20:42:24+00:00</updated>
-		<id>https://twitter.com/uhf_satcom/status/1516517591606571021</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/uhf_satcom/status/1516517591606571021"/>
-		<author><name>UHF Satcom 🇬🇧 📡 📻 (@uhf_satcom)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/uhf_satcom"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="uhf_satcom"
-	src="https://pbs.twimg.com/profile_images/760595767/uhfsatcom_normal.jpg"
-	title="UHF Satcom 🇬🇧 📡 📻" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@2m0sql HF you say.... mmmm lol&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Anyone know is there such a thing as a cable waterproofing gland that's large enough to pass a N type plug but will close tight enough to seal against Westflex 103?</title>
-		<published>2022-04-19T16:31:23+00:00</published>
-		<updated>2022-04-19T16:31:23+00:00</updated>
-		<id>https://twitter.com/Mi0VAX/status/1516454424801157121</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/Mi0VAX/status/1516454424801157121"/>
-		<author><name>RT: 📻 Pete 📻 🇺🇦 (@Mi0VAX)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/Mi0VAX"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="Mi0VAX"
-	src="https://pbs.twimg.com/profile_images/1249831225596039169/G_m42yq0_normal.png"
-	title="📻 Pete 📻 🇺🇦" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Anyone know is there such a thing as a cable waterproofing gland that's large enough to pass a N type plug but will close tight enough to seal against Westflex 103?&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">I looked into this more, it uses differential coding, frame length depends on the mode the satellite is in but in normal full Earth scan it's 3023040 bits per frame/line
-Data is in 480-bit blocks, each containing 48 10-bit words
-Some basic bit manipulation reveals the Earth twitter.com/dereksgc/statu… pic.twitter.com/iNFHUhcMGB</title>
-		<published>2022-04-19T15:01:43+00:00</published>
-		<updated>2022-04-19T15:01:43+00:00</updated>
-		<id>https://twitter.com/dereksgc/status/1516431856383705100</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/dereksgc/status/1516431856383705100"/>
-		<author><name>RT: derek (@dereksgc)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/dereksgc"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="dereksgc"
-	src="https://pbs.twimg.com/profile_images/1434275618686967808/s4pheSSI_normal.jpg"
-	title="derek" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;I looked into this more, it uses differential coding, frame length depends on the mode the satellite is in but in normal full Earth scan it's 3023040 bits per frame/line
-Data is in 480-bit blocks, each containing 48 10-bit words
-Some basic bit manipulation reveals the Earth &lt;a href="https://twitter.com/dereksgc/status/1515646126036242438"&gt;twitter.com/dereksgc/statu…&lt;/a&gt; &lt;a href="https://twitter.com/dereksgc/status/1516431856383705100/photo/1"&gt;pic.twitter.com/iNFHUhcMGB&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FQtyo2SWUBM4Zfq.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FQtyo2SWUBM4Zfq.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FQtyo2SWUBM4Zfq.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@g7soz @HB9VQQ @m1geo I have original Datong AD370s which were my go to antennas before the Wellgood loop appeared. Datong now used for band II DXing in ES season! A mate built a copy of the AD370 and it works really well!</title>
-		<published>2022-04-19T10:01:00+00:00</published>
-		<updated>2022-04-19T10:01:00+00:00</updated>
-		<id>https://twitter.com/uhf_satcom/status/1516356179886280707</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/uhf_satcom/status/1516356179886280707"/>
-		<author><name>UHF Satcom 🇬🇧 📡 📻 (@uhf_satcom)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/uhf_satcom"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="uhf_satcom"
-	src="https://pbs.twimg.com/profile_images/760595767/uhfsatcom_normal.jpg"
-	title="UHF Satcom 🇬🇧 📡 📻" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@g7soz @HB9VQQ @m1geo I have original Datong AD370s which were my go to antennas before the Wellgood loop appeared. Datong now used for band II DXing in ES season! A mate built a copy of the AD370 and it works really well!&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">A quick jog along the seafront to start Monday! Managed to knock 10 minutes off my previous effort lol. pic.twitter.com/eB4HFu3swL</title>
-		<published>2022-04-18T10:48:59+00:00</published>
-		<updated>2022-04-18T10:48:59+00:00</updated>
-		<id>https://twitter.com/uhf_satcom/status/1516005866201358343</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/uhf_satcom/status/1516005866201358343"/>
-		<author><name>UHF Satcom 🇬🇧 📡 📻 (@uhf_satcom)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/uhf_satcom"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="uhf_satcom"
-	src="https://pbs.twimg.com/profile_images/760595767/uhfsatcom_normal.jpg"
-	title="UHF Satcom 🇬🇧 📡 📻" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;A quick jog along the seafront to start Monday! Managed to knock 10 minutes off my previous effort lol. &lt;a href="https://twitter.com/uhf_satcom/status/1516005866201358343/photo/1"&gt;pic.twitter.com/eB4HFu3swL&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FQnvTAwXMAIQEFI.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FQnvTAwXMAIQEFI.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FQnvTAwXMAIQEFI.jpg?name=orig" type="image/jpeg" />
-
 		
 		
 	</entry>
