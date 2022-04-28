@@ -5,12 +5,39 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-04-27T22:25:44+00:00</updated>
+	<updated>2022-04-28T16:52:13+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/uhf_satcom" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@SpaceX @Space_Station This is great but some of us like to actually 'watch' the telemetry downlinks rather than boring internet video streams, please can you turn off the encryption so we can make s-band reception great again?? It has spoiled our fun somewhat. r00t.cz/Sats/Falcon9</title>
+		<published>2022-04-28T12:57:39+00:00</published>
+		<updated>2022-04-28T12:57:39+00:00</updated>
+		<id>https://twitter.com/uhf_satcom/status/1519662125475667968</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/uhf_satcom/status/1519662125475667968"/>
+		<author><name>UHF Satcom 🇬🇧 📡 📻 (@uhf_satcom)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/uhf_satcom"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="uhf_satcom"
+	src="https://pbs.twimg.com/profile_images/760595767/uhfsatcom_normal.jpg"
+	title="UHF Satcom 🇬🇧 📡 📻" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@SpaceX @Space_Station This is great but some of us like to actually 'watch' the telemetry downlinks rather than boring internet video streams, please can you turn off the encryption so we can make s-band reception great again?? It has spoiled our fun somewhat. &lt;a href="https://www.r00t.cz/Sats/Falcon9"&gt;r00t.cz/Sats/Falcon9&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">In case anybody is interested: I have released my RS-232 loopback on github.
@@ -575,33 +602,6 @@ Transmission end today at 17.00z &lt;a href="https://twitter.com/shortwaveberlin
 &lt;/div&gt;</content>
 		<link rel="enclosure" href="https://pbs.twimg.com/media/FQ91fsdXoAMj9nW.jpg?name=orig" type="image/jpeg" />
 
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@BreakIntoProg @IamXERO It was known as "I've Been Married" amongst other things when I did my stretch there... escaped after 11 odd years (nhbr/hursley)</title>
-		<published>2022-04-21T14:36:15+00:00</published>
-		<updated>2022-04-21T14:36:15+00:00</updated>
-		<id>https://twitter.com/uhf_satcom/status/1517150222685663233</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/uhf_satcom/status/1517150222685663233"/>
-		<author><name>UHF Satcom 🇬🇧 📡 📻 (@uhf_satcom)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/uhf_satcom"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="uhf_satcom"
-	src="https://pbs.twimg.com/profile_images/760595767/uhfsatcom_normal.jpg"
-	title="UHF Satcom 🇬🇧 📡 📻" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@BreakIntoProg @IamXERO It was known as "I've Been Married" amongst other things when I did my stretch there... escaped after 11 odd years (nhbr/hursley)&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
 		
 		
 	</entry>
