@@ -5,12 +5,76 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-04-29T16:14:59+00:00</updated>
+	<updated>2022-05-02T13:51:51+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/uhf_satcom" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@Efis71 My guess, red +15V, green gnd, yellow lock output, purple alarm. Better idea is to take the bottom off and photograph it, we can then confirm pins.</title>
+		<published>2022-05-02T08:55:56+00:00</published>
+		<updated>2022-05-02T08:55:56+00:00</updated>
+		<id>https://twitter.com/uhf_satcom/status/1521050848394153984</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/uhf_satcom/status/1521050848394153984"/>
+		<author><name>UHF Satcom 🇬🇧 📡 📻 (@uhf_satcom)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/uhf_satcom"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="uhf_satcom"
+	src="https://pbs.twimg.com/profile_images/760595767/uhfsatcom_normal.jpg"
+	title="UHF Satcom 🇬🇧 📡 📻" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@Efis71 My guess, red +15V, green gnd, yellow lock output, purple alarm. Better idea is to take the bottom off and photograph it, we can then confirm pins.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">In preparation of the upcoming #artemis1 launch (when ever that will be). I commissioned a second M0EYT 8.4GHz feed for the 2m dish. It arrived today to my glee!
+
+This project is proceeding at the same speed of SLS so I have lots of time. 😉 pic.twitter.com/XwKtC4y7c5</title>
+		<published>2022-04-30T00:47:44+00:00</published>
+		<updated>2022-04-30T00:47:44+00:00</updated>
+		<id>https://twitter.com/coastal8049/status/1520203212334288900</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/coastal8049/status/1520203212334288900"/>
+		<author><name>RT: Scott Tilley 🇺🇦 (@coastal8049)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/coastal8049"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="coastal8049"
+	src="https://pbs.twimg.com/profile_images/543649429949931520/oD2rLksu_normal.jpeg"
+	title="Scott Tilley 🇺🇦" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;In preparation of the upcoming #artemis1 launch (when ever that will be). I commissioned a second M0EYT 8.4GHz feed for the 2m dish. It arrived today to my glee!
+
+This project is proceeding at the same speed of SLS so I have lots of time. 😉 &lt;a href="https://twitter.com/coastal8049/status/1520203212334288900/photo/1"&gt;pic.twitter.com/XwKtC4y7c5&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FRjYR8mVsAEEVUZ.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FRjYR8mVsAEEVUZ.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FRjYR8mVsAEEVUZ.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@sophielouisecc LOL I thought they were new forecourt attendants!! Maybe worth bringing them back until the hand falls off...</title>
@@ -530,72 +594,6 @@ Transmission end today at 17.00z &lt;a href="https://twitter.com/shortwaveberlin
 	&lt;blockquote&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
 		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Now have my SMA SunnyBoy inverter talking to a Raspberry pi via RS232, all parameters are extracted and watts etc send to EmonCMS running on another pi! pic.twitter.com/YABW35kRi0</title>
-		<published>2022-04-24T13:19:00+00:00</published>
-		<updated>2022-04-24T13:19:00+00:00</updated>
-		<id>https://twitter.com/uhf_satcom/status/1518217947059261440</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/uhf_satcom/status/1518217947059261440"/>
-		<author><name>UHF Satcom 🇬🇧 📡 📻 (@uhf_satcom)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/uhf_satcom"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="uhf_satcom"
-	src="https://pbs.twimg.com/profile_images/760595767/uhfsatcom_normal.jpg"
-	title="UHF Satcom 🇬🇧 📡 📻" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Now have my SMA SunnyBoy inverter talking to a Raspberry pi via RS232, all parameters are extracted and watts etc send to EmonCMS running on another pi! &lt;a href="https://twitter.com/uhf_satcom/status/1518217947059261440/photo/1"&gt;pic.twitter.com/YABW35kRi0&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FRHK-XLXEAQ5Ux8.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FRHK-XLXEAQ5Ux8.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FRHK-XLXEAQ5Ux8.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Belated happy Birthday to the Sinclair ZX Spectrum celebrating 40 years yesterday! I couldn't get the entire collection in, so here is just two! pic.twitter.com/nNYhG1H4Vq</title>
-		<published>2022-04-24T12:17:59+00:00</published>
-		<updated>2022-04-24T12:17:59+00:00</updated>
-		<id>https://twitter.com/uhf_satcom/status/1518202593373302784</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/uhf_satcom/status/1518202593373302784"/>
-		<author><name>UHF Satcom 🇬🇧 📡 📻 (@uhf_satcom)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/uhf_satcom"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="uhf_satcom"
-	src="https://pbs.twimg.com/profile_images/760595767/uhfsatcom_normal.jpg"
-	title="UHF Satcom 🇬🇧 📡 📻" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Belated happy Birthday to the Sinclair ZX Spectrum celebrating 40 years yesterday! I couldn't get the entire collection in, so here is just two! &lt;a href="https://twitter.com/uhf_satcom/status/1518202593373302784/photo/1"&gt;pic.twitter.com/nNYhG1H4Vq&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FRG9BxHXEAAJHSY.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FRG9BxHXEAAJHSY.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FRG9BxHXEAAJHSY.jpg?name=orig" type="image/jpeg" />
-
 		
 		
 	</entry>

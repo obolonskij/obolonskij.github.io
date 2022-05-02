@@ -5,12 +5,26 @@
 	<id>http://</id>
 	<icon>https://octopart.com/favicon-32x32.png</icon>
 	<logo>https://octopart.com/favicon-32x32.png</logo>
-	<updated>2022-04-26T09:15:06+00:00</updated>
+	<updated>2022-05-02T13:51:47+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://octopart.com/blog" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">Do You Need an Interleaved DC-DC Converter?</title>
+		<published>2022-04-29T00:00:00+00:00</published>
+		<updated>2022-04-29T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/04/do-you-need-an-interleaved-dc-dc-converter</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/04/do-you-need-an-interleaved-dc-dc-converter"/>
+		
+		<content type="html">Do You Need an Interleaved DC-DC Converter?</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/6WlIT5ecEH5PvNoK4EunR7/a889ffa55cc0526da357f66318ff4334/1080x1080__2_.jpg" type="image/jpeg" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Comparing the Best MOSFETs for Power Electronics</title>
@@ -27,20 +41,6 @@
 	</entry>
 
 	<entry>
-		<title type="html">New Wifi 6 Chipsets Give Wireless an Upgrade</title>
-		<published>2022-04-19T00:00:00+00:00</published>
-		<updated>2022-04-19T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/04/new-wifi-6-chipsets-give-wireless-an-upgrade</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/04/new-wifi-6-chipsets-give-wireless-an-upgrade"/>
-		
-		<content type="html">New Wifi 6 Chipsets Give Wireless an Upgrade</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/52o4t3AgSrHIFh3sS6erYt/6ab885e505b0f89fbc65f30482868bde/Social_1080x1080.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
 		<title type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</title>
 		<published>2022-03-01T00:00:00+00:00</published>
 		<updated>2022-03-01T00:00:00+00:00</updated>
@@ -49,6 +49,20 @@
 		
 		<content type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4J3ZfLMCrl9LcxKe35NvBg/18047fb2a24513d4179f4c785eb499a8/Spectra_Blog_Square_720x720.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">New Wifi 6 Chipsets Give Wireless an Upgrade</title>
+		<published>2022-04-19T00:00:00+00:00</published>
+		<updated>2022-04-19T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/04/new-wifi-6-chipsets-give-wireless-an-upgrade</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/04/new-wifi-6-chipsets-give-wireless-an-upgrade"/>
+		
+		<content type="html">New Wifi 6 Chipsets Give Wireless an Upgrade</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/52o4t3AgSrHIFh3sS6erYt/6ab885e505b0f89fbc65f30482868bde/Social_1080x1080.png" type="image/png" />
 
 		
 		
@@ -105,20 +119,6 @@
 		
 		<content type="html">Japan's Earthquake Shuts Down Semiconductor Plants</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/UihmRWr34wJU7ylNsC3l6/f46d6208e4c6a497b5f75190d240cb1d/1080x1080__6_.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">High Temperature Resistor Selection Guide</title>
-		<published>2022-03-18T00:00:00+00:00</published>
-		<updated>2022-03-18T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/03/high-temperature-resistor-selection-guide</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/high-temperature-resistor-selection-guide"/>
-		
-		<content type="html">High Temperature Resistor Selection Guide</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/6hawbsGHC0L51lNUKifVT/e5c8ac93c15111f309f4e27b34c21bfc/1080x1080__5_.png" type="image/png" />
 
 		
 		
