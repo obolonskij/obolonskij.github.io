@@ -5,12 +5,66 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-05-02T13:51:51+00:00</updated>
+	<updated>2022-05-03T18:59:46+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/uhf_satcom" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@Rasiel_J destevez.net/2019/01/an-str… a great start!</title>
+		<published>2022-05-03T13:52:00+00:00</published>
+		<updated>2022-05-03T13:52:00+00:00</updated>
+		<id>https://twitter.com/uhf_satcom/status/1521487741858500609</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/uhf_satcom/status/1521487741858500609"/>
+		<author><name>UHF Satcom 🇬🇧 📡 📻 (@uhf_satcom)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/uhf_satcom"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="uhf_satcom"
+	src="https://pbs.twimg.com/profile_images/760595767/uhfsatcom_normal.jpg"
+	title="UHF Satcom 🇬🇧 📡 📻" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@Rasiel_J &lt;a href="https://destevez.net/2019/01/an-strf-crash-course/"&gt;destevez.net/2019/01/an-str…&lt;/a&gt; a great start!&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@futurewas8bit Happy to solder all weekend!  I'm in Wimborne and am often at barefaced brewery having a pint or three. Let me know if you need help.</title>
+		<published>2022-05-02T17:26:16+00:00</published>
+		<updated>2022-05-02T17:26:16+00:00</updated>
+		<id>https://twitter.com/uhf_satcom/status/1521179278670548992</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/uhf_satcom/status/1521179278670548992"/>
+		<author><name>UHF Satcom 🇬🇧 📡 📻 (@uhf_satcom)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/uhf_satcom"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="uhf_satcom"
+	src="https://pbs.twimg.com/profile_images/760595767/uhfsatcom_normal.jpg"
+	title="UHF Satcom 🇬🇧 📡 📻" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@futurewas8bit Happy to solder all weekend!  I'm in Wimborne and am often at barefaced brewery having a pint or three. Let me know if you need help.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@Efis71 My guess, red +15V, green gnd, yellow lock output, purple alarm. Better idea is to take the bottom off and photograph it, we can then confirm pins.</title>
@@ -540,60 +594,6 @@ Transmission end today at 17.00z &lt;a href="https://twitter.com/shortwaveberlin
 &lt;/div&gt;</content>
 		<link rel="enclosure" href="https://pbs.twimg.com/media/FRHiz_BXoAALQTp.jpg?name=orig" type="image/jpeg" />
 
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Who can help me identify an IC marked with "Si4080 / NXZH28" - probably a N-channel MOSFET? And a completely unmarked MCU in a 16-pin SOIC package with Vcc on Pin 1, VSS on Pin16 and probably debug pins on 14 and 15</title>
-		<published>2022-04-24T15:02:14+00:00</published>
-		<updated>2022-04-24T15:02:14+00:00</updated>
-		<id>https://twitter.com/DB9MAT/status/1518243928264347650</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/DB9MAT/status/1518243928264347650"/>
-		<author><name>RT: Mathis Schmieder (@DB9MAT)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/DB9MAT"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="DB9MAT"
-	src="https://pbs.twimg.com/profile_images/1516102300028260357/ZYuOhni7_normal.jpg"
-	title="Mathis Schmieder" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Who can help me identify an IC marked with "Si4080 / NXZH28" - probably a N-channel MOSFET? And a completely unmarked MCU in a 16-pin SOIC package with Vcc on Pin 1, VSS on Pin16 and probably debug pins on 14 and 15&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@G7Jtt Bugger! I forgot that one was on! Nice goodies though!</title>
-		<published>2022-04-24T14:56:35+00:00</published>
-		<updated>2022-04-24T14:56:35+00:00</updated>
-		<id>https://twitter.com/uhf_satcom/status/1518242506894422017</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/uhf_satcom/status/1518242506894422017"/>
-		<author><name>UHF Satcom 🇬🇧 📡 📻 (@uhf_satcom)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/uhf_satcom"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="uhf_satcom"
-	src="https://pbs.twimg.com/profile_images/760595767/uhfsatcom_normal.jpg"
-	title="UHF Satcom 🇬🇧 📡 📻" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@G7Jtt Bugger! I forgot that one was on! Nice goodies though!&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
 		
 		
 	</entry>
