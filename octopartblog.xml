@@ -5,12 +5,26 @@
 	<id>http://</id>
 	<icon>https://octopart.com/favicon-32x32.png</icon>
 	<logo>https://octopart.com/favicon-32x32.png</logo>
-	<updated>2022-05-02T13:51:47+00:00</updated>
+	<updated>2022-05-06T06:46:14+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://octopart.com/blog" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">The Complete Low-ESL Capacitor Guide</title>
+		<published>2022-05-05T00:00:00+00:00</published>
+		<updated>2022-05-05T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/05/the-complete-low-esl-capacitor-guide</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/05/the-complete-low-esl-capacitor-guide"/>
+		
+		<content type="html">The Complete Low-ESL Capacitor Guide</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/7CJPBQkQ2F5UMDmnkpyKca/d9054fee2ad6a308c2c9c470bc4c6dc2/2.png" type="image/png" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Do You Need an Interleaved DC-DC Converter?</title>
@@ -27,20 +41,6 @@
 	</entry>
 
 	<entry>
-		<title type="html">Comparing the Best MOSFETs for Power Electronics</title>
-		<published>2022-04-25T00:00:00+00:00</published>
-		<updated>2022-04-25T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/04/comparing-the-best-mosfets-for-power-electronics</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/04/comparing-the-best-mosfets-for-power-electronics"/>
-		
-		<content type="html">Comparing the Best MOSFETs for Power Electronics</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/xMSlfib5dfifsJP2GCQIU/586a2ae422d35695d9146305d2c5bb7d/1080_1.jpg" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
 		<title type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</title>
 		<published>2022-03-01T00:00:00+00:00</published>
 		<updated>2022-03-01T00:00:00+00:00</updated>
@@ -49,6 +49,20 @@
 		
 		<content type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4J3ZfLMCrl9LcxKe35NvBg/18047fb2a24513d4179f4c785eb499a8/Spectra_Blog_Square_720x720.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Comparing the Best MOSFETs for Power Electronics</title>
+		<published>2022-04-25T00:00:00+00:00</published>
+		<updated>2022-04-25T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/04/comparing-the-best-mosfets-for-power-electronics</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/04/comparing-the-best-mosfets-for-power-electronics"/>
+		
+		<content type="html">Comparing the Best MOSFETs for Power Electronics</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/xMSlfib5dfifsJP2GCQIU/586a2ae422d35695d9146305d2c5bb7d/1080_1.jpg" type="image/jpeg" />
 
 		
 		
@@ -105,20 +119,6 @@
 		
 		<content type="html">What Will Quantum Computer Components Look Like?</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/Disv7dDLA3XVBMV914Z89/6730cfbe25a10f70d9b1b308840a21c2/1080x1080__8_.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Japan's Earthquake Shuts Down Semiconductor Plants</title>
-		<published>2022-03-24T00:00:00+00:00</published>
-		<updated>2022-03-24T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/03/japans-earthquake-shuts-down-semiconductor-plants</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/japans-earthquake-shuts-down-semiconductor-plants"/>
-		
-		<content type="html">Japan's Earthquake Shuts Down Semiconductor Plants</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/UihmRWr34wJU7ylNsC3l6/f46d6208e4c6a497b5f75190d240cb1d/1080x1080__6_.png" type="image/png" />
 
 		
 		
