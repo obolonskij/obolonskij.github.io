@@ -5,12 +5,66 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-05-06T06:46:22+00:00</updated>
+	<updated>2022-05-07T16:23:02+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@thingskatedid Scratch that! That should be 16777217*a + 65792*b. I can't believe I've screwed this joke.</title>
+		<published>2022-05-06T18:25:46+00:00</published>
+		<updated>2022-05-06T18:25:46+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1522643800497299457</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1522643800497299457"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@thingskatedid Scratch that! That should be 16777217*a + 65792*b. I can't believe I've screwed this joke.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@thingskatedid Those are the integers of the form 69632*a + 1048832*b + 16777232*c + 268435457*d</title>
+		<published>2022-05-06T18:18:26+00:00</published>
+		<updated>2022-05-06T18:18:26+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1522641956215693313</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1522641956215693313"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@thingskatedid Those are the integers of the form 69632*a + 1048832*b + 16777232*c + 268435457*d&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@ka9q @dEnergy_dTime @xssfox @IanJohnBuckley They're done automatically (as when you apply several patches that cause no rejects), and then you can look at the results (build, run tests, etc) before proceeding further (pushing to a remote the results of the merge).</title>
@@ -555,60 +609,6 @@
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@azonenberg Perhaps (rd_ptr + DEPTH)[N-1:0] == wr_ptr fixes this.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@azonenberg I can believe that. Verilog arithmetic is tricky. The sum is not truncated, just in case you want to assign it to an I-value which is large enough to fit the bit growth. Then I would assume that if you == two expressions of unequal length, the shorter is zero extended on the left</title>
-		<published>2022-04-23T06:39:18+00:00</published>
-		<updated>2022-04-23T06:39:18+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1517754973379080192</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1517754973379080192"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@azonenberg I can believe that. Verilog arithmetic is tricky. The sum is not truncated, just in case you want to assign it to an I-value which is large enough to fit the bit growth. Then I would assume that if you == two expressions of unequal length, the shorter is zero extended on the left&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@azonenberg What are the sizes and types of the terms used here? I have a hunch that it might be related to that.</title>
-		<published>2022-04-23T06:31:45+00:00</published>
-		<updated>2022-04-23T06:31:45+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1517753072478560256</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1517753072478560256"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@azonenberg What are the sizes and types of the terms used here? I have a hunch that it might be related to that.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
