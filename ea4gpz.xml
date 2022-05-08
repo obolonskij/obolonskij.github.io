@@ -5,12 +5,279 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-05-07T16:23:02+00:00</updated>
+	<updated>2022-05-08T16:40:52+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">Read more: destevez.net/2022/05/lte-do… (6/6)</title>
+		<published>2022-05-08T14:00:47+00:00</published>
+		<updated>2022-05-08T14:00:47+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1523301892155387904</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523301892155387904"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Read more: &lt;a href="https://destevez.net/2022/05/lte-downlink-reference-signals-and-transmit-diversity/"&gt;destevez.net/2022/05/lte-do…&lt;/a&gt; (6/6)&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">I describe the downlink channels and how to spot them in the waterfall. For instance, if we know what to look for, here we can see the PSS, SSS, PBCH, CRS, PCFICH, some REGs corresponding to PHICH and PDCCH, and a few PDSCH transmissions (one of them for a BL/CE UE). (5/6) pic.twitter.com/bu6kTs0zSy</title>
+		<published>2022-05-08T14:00:46+00:00</published>
+		<updated>2022-05-08T14:00:46+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1523301889068404736</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523301889068404736"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;I describe the downlink channels and how to spot them in the waterfall. For instance, if we know what to look for, here we can see the PSS, SSS, PBCH, CRS, PCFICH, some REGs corresponding to PHICH and PDCCH, and a few PDSCH transmissions (one of them for a BL/CE UE). (5/6) &lt;a href="https://twitter.com/ea4gpz/status/1523301889068404736/photo/1"&gt;pic.twitter.com/bu6kTs0zSy&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FSPaF_DXIAEgEOW.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FSPaF_DXIAEgEOW.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FSPaF_DXIAEgEOW.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">When we handle the transmit diversity correctly we are able to sum the power from both antenna ports and get a very clean constellation. (4/6) pic.twitter.com/HVEl5YDNAr</title>
+		<published>2022-05-08T14:00:45+00:00</published>
+		<updated>2022-05-08T14:00:45+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1523301885834407937</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523301885834407937"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;When we handle the transmit diversity correctly we are able to sum the power from both antenna ports and get a very clean constellation. (4/6) &lt;a href="https://twitter.com/ea4gpz/status/1523301885834407937/photo/1"&gt;pic.twitter.com/HVEl5YDNAr&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FSPacUGX0AALULN.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FSPacUGX0AALULN.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FSPacUGX0AALULN.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">In several cases, data is sent using transmit diversity. The data is precoded and sent over two antenna ports simultaneously. A receiver with one antenna can aggregate the power of the two ports, even if one of them is faded. I show how this scheme works. (3/6)</title>
+		<published>2022-05-08T14:00:45+00:00</published>
+		<updated>2022-05-08T14:00:45+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1523301883066163200</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523301883066163200"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;In several cases, data is sent using transmit diversity. The data is precoded and sent over two antenna ports simultaneously. A receiver with one antenna can aggregate the power of the two ports, even if one of them is faded. I show how this scheme works. (3/6)&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The cell specific signals (CRS) are used by the receiver for channel estimation. These are transmitted by a number of different "antenna ports", of which 2 are used in this case. I use spline fitting to construct a channel model from measurements of the CRS. (2/6) pic.twitter.com/W160JOzk55</title>
+		<published>2022-05-08T14:00:44+00:00</published>
+		<updated>2022-05-08T14:00:44+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1523301880335527937</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523301880335527937"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The cell specific signals (CRS) are used by the receiver for channel estimation. These are transmitted by a number of different "antenna ports", of which 2 are used in this case. I use spline fitting to construct a channel model from measurements of the CRS. (2/6) &lt;a href="https://twitter.com/ea4gpz/status/1523301880335527937/photo/1"&gt;pic.twitter.com/W160JOzk55&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FSPakBsWQAYnuZ5.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FSPakBsWQAYnuZ5.png" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FSPYYogWQAA6O_b.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FSPYYogWQAA6O_b.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FSPakBsWQAYnuZ5.png?name=orig" type="image/png" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FSPYYogWQAA6O_b.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">New blog post: LTE downlink - reference signals and transmit diversity. I continue exploring my LTE downlink recording. Now I look at cell-specific reference signals, transmit diversity coding, and demodulation of the PDSCH (user data) and other channels. (1/6) twitter.com/ea4gpz/status/…</title>
+		<published>2022-05-08T14:00:42+00:00</published>
+		<updated>2022-05-08T14:00:42+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1523301873373097986</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523301873373097986"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;New blog post: LTE downlink - reference signals and transmit diversity. I continue exploring my LTE downlink recording. Now I look at cell-specific reference signals, transmit diversity coding, and demodulation of the PDSCH (user data) and other channels. (1/6) &lt;a href="https://twitter.com/ea4gpz/status/1517225883957960704"&gt;twitter.com/ea4gpz/status/…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@ka9q Oh, I see. So you take advantage of the fact that filtering is already done by blocks, and do the AGC on the same blocks.</title>
+		<published>2022-05-08T08:19:54+00:00</published>
+		<updated>2022-05-08T08:19:54+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1523216104843321344</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523216104843321344"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ka9q Oh, I see. So you take advantage of the fact that filtering is already done by blocks, and do the AGC on the same blocks.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@ka9q Thanks for sharing. Interesting read. I guess that the 20 ms block AGC (which reminds me of GNU Radio's feedforward AGC) increases the latency by 20ms (which is OK in most applications).</title>
+		<published>2022-05-08T08:15:03+00:00</published>
+		<updated>2022-05-08T08:15:03+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1523214884301058049</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523214884301058049"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ka9q Thanks for sharing. Interesting read. I guess that the 20 ms block AGC (which reminds me of GNU Radio's feedforward AGC) increases the latency by 20ms (which is OK in most applications).&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@whitequark Interesting bimodal distribution coming out of this poll.</title>
+		<published>2022-05-08T08:03:36+00:00</published>
+		<updated>2022-05-08T08:03:36+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1523212003221057536</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523212003221057536"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@whitequark Interesting bimodal distribution coming out of this poll.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@thingskatedid Scratch that! That should be 16777217*a + 65792*b. I can't believe I've screwed this joke.</title>
@@ -312,303 +579,6 @@
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@mikepuchol I've used &lt;a href="http://dhagle.in/LTE"&gt;dhagle.in/LTE&lt;/a&gt;. It says the same: the first k symbols (where CFI = k) are used for control channels, and the rest are used for PDSCH. This is a real off-the air recording of a single cell (there are other cells present, but much weaker).&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">A question for the LTE folks: why do some PDSCH allocations start on the 3rd symbol of a subframe? Here the CFI is 1. The 14 symbols in the subframe are marked with cursors. The allocations around 1-2 MHz are starting on the 3rd symbol, while others start on the 2nd. pic.twitter.com/siliUpdmkm</title>
-		<published>2022-05-02T18:54:40+00:00</published>
-		<updated>2022-05-02T18:54:40+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1521201525493751809</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1521201525493751809"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;A question for the LTE folks: why do some PDSCH allocations start on the 3rd symbol of a subframe? Here the CFI is 1. The 14 symbols in the subframe are marked with cursors. The allocations around 1-2 MHz are starting on the 3rd symbol, while others start on the 2nd. &lt;a href="https://twitter.com/ea4gpz/status/1521201525493751809/photo/1"&gt;pic.twitter.com/siliUpdmkm&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FRxkGJ1XsAEr2mj.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FRxkGJ1XsAEr2mj.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FRxkGJ1XsAEr2mj.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">There are other PDSCH transmissions that don't use antenna diversity on ports 0 and 1. I think these use UE-specific reference signals (which I'm not handling yet). One of them equalizes OK-ish if we consider only the channel for port 1. Another shows a weird constellation. (6/6) pic.twitter.com/2xSBHls6Oy</title>
-		<published>2022-05-01T15:55:17+00:00</published>
-		<updated>2022-05-01T15:55:17+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1520793991847059456</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1520793991847059456"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;There are other PDSCH transmissions that don't use antenna diversity on ports 0 and 1. I think these use UE-specific reference signals (which I'm not handling yet). One of them equalizes OK-ish if we consider only the channel for port 1. Another shows a weird constellation. (6/6) &lt;a href="https://twitter.com/ea4gpz/status/1520793991847059456/photo/1"&gt;pic.twitter.com/2xSBHls6Oy&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FRrxAliXwAAnb-A.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FRrxAliXwAAnb-A.png" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FRru5y8X0AAr2Lc.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FRru5y8X0AAr2Lc.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FRrxAliXwAAnb-A.png?name=orig" type="image/png" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FRru5y8X0AAr2Lc.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">And this is a PDSCH transmission. This is in the high frequency part of the cell, where antenna port 0 is fading, so the R0 symbols are quite noisy. (5/N) pic.twitter.com/thgeB0DKUe</title>
-		<published>2022-05-01T15:55:15+00:00</published>
-		<updated>2022-05-01T15:55:15+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1520793985115168769</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1520793985115168769"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;And this is a PDSCH transmission. This is in the high frequency part of the cell, where antenna port 0 is fading, so the R0 symbols are quite noisy. (5/N) &lt;a href="https://twitter.com/ea4gpz/status/1520793985115168769/photo/1"&gt;pic.twitter.com/thgeB0DKUe&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FRrwhcDXoAIZY4h.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FRrwhcDXoAIZY4h.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FRrwhcDXoAIZY4h.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">The two antenna ports are used for transmit diversity. To equalize a data signal we need to consider the channels for both antenna ports and undo the diversity precoding. Here are the 4 symbols corresponding to a PBCH transmission. (4/N) pic.twitter.com/EpPflYlbdn</title>
-		<published>2022-05-01T15:55:14+00:00</published>
-		<updated>2022-05-01T15:55:14+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1520793981218664449</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1520793981218664449"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;The two antenna ports are used for transmit diversity. To equalize a data signal we need to consider the channels for both antenna ports and undo the diversity precoding. Here are the 4 symbols corresponding to a PBCH transmission. (4/N) &lt;a href="https://twitter.com/ea4gpz/status/1520793981218664449/photo/1"&gt;pic.twitter.com/EpPflYlbdn&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FRrwXmaXEAEOf98.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FRrwXmaXEAEOf98.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FRrwXmaXEAEOf98.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">CRS are QPSK modulated using a sequence drawn from a pseudorandom sequence (a very long Gold code with period 2^31-1). Once we wipe this sequence we can measure amplitude and phase. Here I'm doing a spline fit to the complex amplitude. (3/N) pic.twitter.com/VATwyvdYoP</title>
-		<published>2022-05-01T15:55:13+00:00</published>
-		<updated>2022-05-01T15:55:13+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1520793976890179585</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1520793976890179585"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;CRS are QPSK modulated using a sequence drawn from a pseudorandom sequence (a very long Gold code with period 2^31-1). Once we wipe this sequence we can measure amplitude and phase. Here I'm doing a spline fit to the complex amplitude. (3/N) &lt;a href="https://twitter.com/ea4gpz/status/1520793976890179585/photo/1"&gt;pic.twitter.com/VATwyvdYoP&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FRrwJewXIAQ0UGy.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FRrwJewXIAQ0UGy.png" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FRrtCAFXEAEIAV4.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FRrtCAFXEAEIAV4.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FRrwJewXIAQ0UGy.png?name=orig" type="image/png" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FRrtCAFXEAEIAV4.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">CRS are transmitted following this pattern, which repeats every 6 subcarriers in the frequency domain. Grouping the subcarriers according to their index modulo 6, we can see which reference signals are active. In this case, the cell uses ports 0 and 1. (2/N) pic.twitter.com/fGPkiLz7jP</title>
-		<published>2022-05-01T15:55:12+00:00</published>
-		<updated>2022-05-01T15:55:12+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1520793970246361089</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1520793970246361089"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;CRS are transmitted following this pattern, which repeats every 6 subcarriers in the frequency domain. Grouping the subcarriers according to their index modulo 6, we can see which reference signals are active. In this case, the cell uses ports 0 and 1. (2/N) &lt;a href="https://twitter.com/ea4gpz/status/1520793970246361089/photo/1"&gt;pic.twitter.com/fGPkiLz7jP&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FRrwAeOXsAAihiO.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FRrwAeOXsAAihiO.png" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FRrs1o6WUAAGanQ.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FRrs1o6WUAAGanQ.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FRrwAeOXsAAihiO.png?name=orig" type="image/png" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FRrs1o6WUAAGanQ.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">I've continued playing with the LTE downlink recording. Now I'm looking at cell-specific reference signals (CRS). They are transmitted periodically over all the bandwidth of the cell, and are used by the UE to equalize other downlink signals. (1/N) twitter.com/ea4gpz/status/…</title>
-		<published>2022-05-01T15:55:10+00:00</published>
-		<updated>2022-05-01T15:55:10+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1520793962679840771</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1520793962679840771"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;I've continued playing with the LTE downlink recording. Now I'm looking at cell-specific reference signals (CRS). They are transmitted periodically over all the bandwidth of the cell, and are used by the UE to equalize other downlink signals. (1/N) &lt;a href="https://twitter.com/ea4gpz/status/1517225883957960704"&gt;twitter.com/ea4gpz/status/…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@Ayliean Thanks for being an awesome role model for girls in math!</title>
-		<published>2022-04-28T17:16:25+00:00</published>
-		<updated>2022-04-28T17:16:25+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1519727245132238848</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1519727245132238848"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@Ayliean Thanks for being an awesome role model for girls in math!&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@azonenberg Perhaps (rd_ptr + DEPTH)[N-1:0] == wr_ptr fixes this.</title>
-		<published>2022-04-23T06:40:56+00:00</published>
-		<updated>2022-04-23T06:40:56+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1517755381761593347</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1517755381761593347"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@azonenberg Perhaps (rd_ptr + DEPTH)[N-1:0] == wr_ptr fixes this.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
