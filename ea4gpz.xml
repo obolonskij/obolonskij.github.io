@@ -5,12 +5,93 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-05-08T16:40:52+00:00</updated>
+	<updated>2022-05-09T15:56:49+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@mavazquezCTTC for beamforming and 1x (no net gain) for diversity once you take into account this normalization.</title>
+		<published>2022-05-08T17:12:33+00:00</published>
+		<updated>2022-05-08T17:12:33+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1523350150462119937</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523350150462119937"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@mavazquezCTTC for beamforming and 1x (no net gain) for diversity once you take into account this normalization.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@mavazquezCTTC I think that's equivalent to what I said, as I was talking in terms of power supplied to each antenna. You're talking in terms of total power supplied to all antennas, which for two antennas is 2x the power supplied to each. So my 4x and 2x factors transform into 2x (3dB gain)...</title>
+		<published>2022-05-08T17:10:41+00:00</published>
+		<updated>2022-05-08T17:10:41+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1523349681970896897</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523349681970896897"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@mavazquezCTTC I think that's equivalent to what I said, as I was talking in terms of power supplied to each antenna. You're talking in terms of total power supplied to all antennas, which for two antennas is 2x the power supplied to each. So my 4x and 2x factors transform into 2x (3dB gain)...&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@mavazquezCTTC Good point. My understanding is that beamforming adds the complex amplitudes coherently, so you get 4x the power supplied to each antenna, but only along one direction (the radiation pattern changes) whereas for transmit diversity you get 2x the power in all directions.</title>
+		<published>2022-05-08T16:47:21+00:00</published>
+		<updated>2022-05-08T16:47:21+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1523343810465779717</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523343810465779717"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@mavazquezCTTC Good point. My understanding is that beamforming adds the complex amplitudes coherently, so you get 4x the power supplied to each antenna, but only along one direction (the radiation pattern changes) whereas for transmit diversity you get 2x the power in all directions.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Read more: destevez.net/2022/05/lte-do… (6/6)</title>
@@ -497,93 +578,6 @@
 &lt;/div&gt;</content>
 		<link rel="enclosure" href="https://pbs.twimg.com/media/FRyEJEcXsAEVmKf.jpg?name=orig" type="image/jpeg" />
 
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@mikepuchol USRP B205mini and a small Vivaldi antenna. More details (including the IQ file) here: destevez.net/2022/04/lte-do…</title>
-		<published>2022-05-02T21:02:09+00:00</published>
-		<updated>2022-05-02T21:02:09+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1521233604008984576</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1521233604008984576"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@mikepuchol USRP B205mini and a small Vivaldi antenna. More details (including the IQ file) here: &lt;a href="https://destevez.net/2022/04/lte-downlink-synchronization-signals/"&gt;destevez.net/2022/04/lte-do…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">I've found this in TS 36.213. So maybe these epdcch-StartSymbol-r11 / pdsch-Start-r10 parameters explain things. Are these commonly used? Or maybe it has something to do with a BL/CE UE? All the allocations that I've seen doing this are 6 RB wide. pic.twitter.com/VtW5xiSzZ9</title>
-		<published>2022-05-02T20:36:39+00:00</published>
-		<updated>2022-05-02T20:36:39+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1521227190167384064</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1521227190167384064"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;I've found this in TS 36.213. So maybe these epdcch-StartSymbol-r11 / pdsch-Start-r10 parameters explain things. Are these commonly used? Or maybe it has something to do with a BL/CE UE? All the allocations that I've seen doing this are 6 RB wide. &lt;a href="https://twitter.com/ea4gpz/status/1521227190167384064/photo/1"&gt;pic.twitter.com/VtW5xiSzZ9&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FRx5RHhXsAoASfY.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FRx5RHhXsAoASfY.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FRx5RHhXsAoASfY.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@mikepuchol I've used dhagle.in/LTE. It says the same: the first k symbols (where CFI = k) are used for control channels, and the rest are used for PDSCH. This is a real off-the air recording of a single cell (there are other cells present, but much weaker).</title>
-		<published>2022-05-02T20:20:25+00:00</published>
-		<updated>2022-05-02T20:20:25+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1521223105322094592</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1521223105322094592"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@mikepuchol I've used &lt;a href="http://dhagle.in/LTE"&gt;dhagle.in/LTE&lt;/a&gt;. It says the same: the first k symbols (where CFI = k) are used for control channels, and the rest are used for PDSCH. This is a real off-the air recording of a single cell (there are other cells present, but much weaker).&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
 		
 		
 	</entry>
