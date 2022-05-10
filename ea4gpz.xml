@@ -5,12 +5,45 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-05-09T15:56:49+00:00</updated>
+	<updated>2022-05-10T19:25:48+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">I've released a new version of gr-satellites. This includes new generic CRC blocks (also upstreamed in @gnuradio 3.10), support for a bunch of new satellites, and some bugfixes, as well as a PPA package for Ubuntu 22.04. pic.twitter.com/OsgrCcVZEL</title>
+		<published>2022-05-09T19:32:07+00:00</published>
+		<updated>2022-05-09T19:32:07+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1523747663597895680</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523747663597895680"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;I've released a new version of gr-satellites. This includes new generic CRC blocks (also upstreamed in @gnuradio 3.10), support for a bunch of new satellites, and some bugfixes, as well as a PPA package for Ubuntu 22.04. &lt;a href="https://twitter.com/ea4gpz/status/1523747663597895680/photo/1"&gt;pic.twitter.com/OsgrCcVZEL&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FSVwANyXIAIZfCy.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FSVwANyXIAIZfCy.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FSVwANyXIAIZfCy.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@mavazquezCTTC for beamforming and 1x (no net gain) for diversity once you take into account this normalization.</title>
@@ -545,39 +578,6 @@
 	&lt;blockquote&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
 		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">To add to the mystery, I've seen that most of these PDSCH allocations happen in all the 10 subframes of a frame, exactly every 8 frames, and in two cells in neighbour frequencies (which belong to different companies). They always use the same subcarriers. pic.twitter.com/lk0Fpsoekf</title>
-		<published>2022-05-02T21:16:27+00:00</published>
-		<updated>2022-05-02T21:16:27+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1521237205984989191</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1521237205984989191"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;To add to the mystery, I've seen that most of these PDSCH allocations happen in all the 10 subframes of a frame, exactly every 8 frames, and in two cells in neighbour frequencies (which belong to different companies). They always use the same subcarriers. &lt;a href="https://twitter.com/ea4gpz/status/1521237205984989191/photo/1"&gt;pic.twitter.com/lk0Fpsoekf&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FRyEJEcXsAEVmKf.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FRyEJEcXsAEVmKf.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FRyEJEcXsAEVmKf.jpg?name=orig" type="image/jpeg" />
-
 		
 		
 	</entry>
