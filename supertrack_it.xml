@@ -5,12 +5,45 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-04-27T22:25:46+00:00</updated>
+	<updated>2022-05-11T22:25:28+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">Good signal this morning from Alpha Stations, the Russian VLF navaid system, active on 11.904 12.648 and 14.88 kHz. Thanks Rocco @IK8XLD for heads up. pic.twitter.com/xFaH89HYMh</title>
+		<published>2022-05-11T06:59:42+00:00</published>
+		<updated>2022-05-11T06:59:42+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1524283085591875584</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1524283085591875584"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Good signal this morning from Alpha Stations, the Russian VLF navaid system, active on 11.904 12.648 and 14.88 kHz. Thanks Rocco @IK8XLD for heads up. &lt;a href="https://twitter.com/supertrack_it/status/1524283085591875584/photo/1"&gt;pic.twitter.com/xFaH89HYMh&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FSdXINrXMAAIkc1.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FSdXINrXMAAIkc1.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FSdXINrXMAAIkc1.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@HRPTEgor I don’t think so but Pieter @ibelings can be more helpful</title>
@@ -568,39 +601,6 @@
 &lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
 		<link rel="enclosure" href="https://pbs.twimg.com/media/FLV9GEWWUAMESL3.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Chang'e 5 on 8471.222 MHz. No signal detectable here on the other frequency pic.twitter.com/Usw44pa2k8</title>
-		<published>2022-02-11T20:31:43+00:00</published>
-		<updated>2022-02-11T20:31:43+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1492234917073276933</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1492234917073276933"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Chang'e 5 on 8471.222 MHz. No signal detectable here on the other frequency &lt;a href="https://twitter.com/supertrack_it/status/1492234917073276933/photo/1"&gt;pic.twitter.com/Usw44pa2k8&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FLV7r2CWQBAIkeH.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FLV7r2CWQBAIkeH.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FLV7r2CWQBAIkeH.png?name=orig" type="image/png" />
 
 		
 		
