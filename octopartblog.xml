@@ -5,12 +5,26 @@
 	<id>http://</id>
 	<icon>https://octopart.com/favicon-32x32.png</icon>
 	<logo>https://octopart.com/favicon-32x32.png</logo>
-	<updated>2022-05-06T06:46:14+00:00</updated>
+	<updated>2022-05-12T21:02:39+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://octopart.com/blog" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">Selecting a Varistor for Transient Voltage Suppression</title>
+		<published>2022-05-12T00:00:00+00:00</published>
+		<updated>2022-05-12T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/05/selecting-a-varistor-for-transient-voltage-suppression</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/05/selecting-a-varistor-for-transient-voltage-suppression"/>
+		
+		<content type="html">Selecting a Varistor for Transient Voltage Suppression</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/78Bd4XW7PZAYXvKEVMdzD/ef5e5ad0e1bf2a5065da51e40ed1d205/shutterstock_1443763049__1_.jpg" type="image/jpeg" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">The Complete Low-ESL Capacitor Guide</title>
@@ -27,20 +41,6 @@
 	</entry>
 
 	<entry>
-		<title type="html">Do You Need an Interleaved DC-DC Converter?</title>
-		<published>2022-04-29T00:00:00+00:00</published>
-		<updated>2022-04-29T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/04/do-you-need-an-interleaved-dc-dc-converter</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/04/do-you-need-an-interleaved-dc-dc-converter"/>
-		
-		<content type="html">Do You Need an Interleaved DC-DC Converter?</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/6WlIT5ecEH5PvNoK4EunR7/a889ffa55cc0526da357f66318ff4334/1080x1080__2_.jpg" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
 		<title type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</title>
 		<published>2022-03-01T00:00:00+00:00</published>
 		<updated>2022-03-01T00:00:00+00:00</updated>
@@ -49,6 +49,20 @@
 		
 		<content type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4J3ZfLMCrl9LcxKe35NvBg/18047fb2a24513d4179f4c785eb499a8/Spectra_Blog_Square_720x720.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Do You Need an Interleaved DC-DC Converter?</title>
+		<published>2022-04-29T00:00:00+00:00</published>
+		<updated>2022-04-29T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/04/do-you-need-an-interleaved-dc-dc-converter</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/04/do-you-need-an-interleaved-dc-dc-converter"/>
+		
+		<content type="html">Do You Need an Interleaved DC-DC Converter?</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/6WlIT5ecEH5PvNoK4EunR7/a889ffa55cc0526da357f66318ff4334/1080x1080__2_.jpg" type="image/jpeg" />
 
 		
 		
@@ -105,20 +119,6 @@
 		
 		<content type="html">The Octopart API is now the Nexar Legacy API</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/5BLbKltAf1kZnludU2W4IL/df3b5c0c92311e83bac456a469248048/pluginupdatesquare.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">What Will Quantum Computer Components Look Like?</title>
-		<published>2022-03-29T00:00:00+00:00</published>
-		<updated>2022-03-29T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/03/what-will-quantum-computer-components-look-like</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/what-will-quantum-computer-components-look-like"/>
-		
-		<content type="html">What Will Quantum Computer Components Look Like?</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/Disv7dDLA3XVBMV914Z89/6730cfbe25a10f70d9b1b308840a21c2/1080x1080__8_.png" type="image/png" />
 
 		
 		

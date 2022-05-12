@@ -5,12 +5,39 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-05-11T22:25:28+00:00</updated>
+	<updated>2022-05-12T21:02:49+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@ON4DPX @IK8XLD It’s a PA0RDT Mini Whip active antenna</title>
+		<published>2022-05-12T07:23:45+00:00</published>
+		<updated>2022-05-12T07:23:45+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1524651525548691456</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1524651525548691456"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ON4DPX @IK8XLD It’s a PA0RDT Mini Whip active antenna&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Good signal this morning from Alpha Stations, the Russian VLF navaid system, active on 11.904 12.648 and 14.88 kHz. Thanks Rocco @IK8XLD for heads up. pic.twitter.com/xFaH89HYMh</title>
@@ -569,39 +596,6 @@
 	&lt;blockquote&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
 		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">JWST on 2270.500 MHz pic.twitter.com/f3UFGT7ACD</title>
-		<published>2022-02-11T20:37:39+00:00</published>
-		<updated>2022-02-11T20:37:39+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1492236411935858694</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1492236411935858694"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;JWST on 2270.500 MHz &lt;a href="https://twitter.com/supertrack_it/status/1492236411935858694/photo/1"&gt;pic.twitter.com/f3UFGT7ACD&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FLV9GEWWUAMESL3.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FLV9GEWWUAMESL3.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FLV9GEWWUAMESL3.png?name=orig" type="image/png" />
-
 		
 		
 	</entry>
