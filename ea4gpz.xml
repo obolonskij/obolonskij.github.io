@@ -5,12 +5,490 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-05-10T19:25:48+00:00</updated>
+	<updated>2022-05-16T18:03:15+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@flo_0_ So far I'm able to receive the files as the official software would (not thoroughly tested, so maybe there are some buggy corner cases). There is also a web sockets thingy to update the information on the qo100info.html webpage. I haven't understood yet how this works.</title>
+		<published>2022-05-16T15:00:14+00:00</published>
+		<updated>2022-05-16T15:00:14+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1526215956317495298</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1526215956317495298"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@flo_0_ So far I'm able to receive the files as the official software would (not thoroughly tested, so maybe there are some buggy corner cases). There is also a web sockets thingy to update the information on the qo100info.html webpage. I haven't understood yet how this works.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The documentation for how this works is here: wiki.amsat-dl.org/doku.php?id=en…
+wiki.amsat-dl.org/doku.php?id=en…
+The next thing would be the web sockets for the qo100info.html, but I haven't seen any documentation for this. (2/2)</title>
+		<published>2022-05-16T14:58:11+00:00</published>
+		<updated>2022-05-16T14:58:11+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1526215439193460746</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1526215439193460746"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The documentation for how this works is here: &lt;a href="https://wiki.amsat-dl.org/doku.php?id=en:hsmodem:packer"&gt;wiki.amsat-dl.org/doku.php?id=en…&lt;/a&gt;
+&lt;a href="https://wiki.amsat-dl.org/doku.php?id=en:hsmodem:filetx"&gt;wiki.amsat-dl.org/doku.php?id=en…&lt;/a&gt;
+The next thing would be the web sockets for the qo100info.html, but I haven't seen any documentation for this. (2/2)&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">I have now added a class to the gr-satellites file receiver to receive and store to disk the files transmitted by the QO-100 multimedia beacon. (1/2) twitter.com/ea4gpz/status/… pic.twitter.com/ocXE4nhGJ9</title>
+		<published>2022-05-16T14:58:10+00:00</published>
+		<updated>2022-05-16T14:58:10+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1526215434894290945</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1526215434894290945"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;I have now added a class to the gr-satellites file receiver to receive and store to disk the files transmitted by the QO-100 multimedia beacon. (1/2) &lt;a href="https://twitter.com/ea4gpz/status/1525928707759685632"&gt;twitter.com/ea4gpz/status/…&lt;/a&gt; &lt;a href="https://twitter.com/ea4gpz/status/1526215434894290945/photo/1"&gt;pic.twitter.com/ocXE4nhGJ9&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FS40hwzXsAAL1du.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FS40hwzXsAAL1du.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FS40hwzXsAAL1du.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@rajb245 On the other hand x^7 has a bit less squaring losses than x^8, so I don't know who wins.</title>
+		<published>2022-05-15T21:04:05+00:00</published>
+		<updated>2022-05-15T21:04:05+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1525945135191797761</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525945135191797761"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@rajb245 On the other hand x^7 has a bit less squaring losses than x^8, so I don't know who wins.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@abraxas3d Thanks for sharing these memories.</title>
+		<published>2022-05-15T21:02:41+00:00</published>
+		<updated>2022-05-15T21:02:41+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1525944782454935555</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525944782454935555"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@abraxas3d Thanks for sharing these memories.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@rajb245 And regarding the surprise, indeed. I had assumed this was regular 8PSK, and I was trying to figure out what was wrong with my symbol sync, as the constellation I was getting was a ring and the point in the middle (the Costas loop wasn't working).</title>
+		<published>2022-05-15T20:53:15+00:00</published>
+		<updated>2022-05-15T20:53:15+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1525942409091338240</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525942409091338240"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@rajb245 And regarding the surprise, indeed. I had assumed this was regular 8PSK, and I was trying to figure out what was wrong with my symbol sync, as the constellation I was getting was a ring and the point in the middle (the Costas loop wasn't working).&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@rajb245 I also wonder what are the advantages of this 8APSK versus regular 8PSK (the design choice is not mine). Apparently 8APSK gives lower BER, due to its larger separation between symbols.</title>
+		<published>2022-05-15T20:50:05+00:00</published>
+		<updated>2022-05-15T20:50:05+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1525941609728180224</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525941609728180224"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@rajb245 I also wonder what are the advantages of this 8APSK versus regular 8PSK (the design choice is not mine). Apparently 8APSK gives lower BER, due to its larger separation between symbols.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Everything seems to be working well. Typically there are no errors in the RS decoder, and the CRC check passes. (4/4) pic.twitter.com/jGiqAjzcmt</title>
+		<published>2022-05-15T19:58:48+00:00</published>
+		<updated>2022-05-15T19:58:48+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1525928707759685632</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525928707759685632"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Everything seems to be working well. Typically there are no errors in the RS decoder, and the CRC check passes. (4/4) &lt;a href="https://twitter.com/ea4gpz/status/1525928707759685632/photo/1"&gt;pic.twitter.com/jGiqAjzcmt&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FS0v1odXoAEih0y.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FS0v1odXoAEih0y.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FS0v1odXoAEih0y.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">What I'm doing is to consider all 7 possible constellation rotations, and try to find the syncword in the stream of unpacked bits (a far from optimal, but simple approach!). Then I extract 255 byte Reed-Solomon codewords, which must be de-scrambled first. (3/4) pic.twitter.com/5XyLl4Qi6k</title>
+		<published>2022-05-15T19:58:47+00:00</published>
+		<updated>2022-05-15T19:58:47+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1525928703091523588</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525928703091523588"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;What I'm doing is to consider all 7 possible constellation rotations, and try to find the syncword in the stream of unpacked bits (a far from optimal, but simple approach!). Then I extract 255 byte Reed-Solomon codewords, which must be de-scrambled first. (3/4) &lt;a href="https://twitter.com/ea4gpz/status/1525928703091523588/photo/1"&gt;pic.twitter.com/5XyLl4Qi6k&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FS0vjDXWUAAz7L-.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FS0vjDXWUAAz7L-.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FS0vjDXWUAAz7L-.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The syncword is only 8 symbols long, so the its cross-correlation with non-syncword symbols is quite high and it's not easy to spot the syncword by looking at the correlation. (2/4) pic.twitter.com/u9c3rj5Ujj</title>
+		<published>2022-05-15T19:58:46+00:00</published>
+		<updated>2022-05-15T19:58:46+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1525928698687459330</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525928698687459330"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The syncword is only 8 symbols long, so the its cross-correlation with non-syncword symbols is quite high and it's not easy to spot the syncword by looking at the correlation. (2/4) &lt;a href="https://twitter.com/ea4gpz/status/1525928698687459330/photo/1"&gt;pic.twitter.com/u9c3rj5Ujj&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FS0vU2RXoAA4uDM.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FS0vU2RXoAA4uDM.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FS0vU2RXoAA4uDM.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">I've continued working on the decoder, and now I am detecting the syncword, descrambling, decoding Reed-Solomon and checking the CRC16. (1/N) twitter.com/ea4gpz/status/…</title>
+		<published>2022-05-15T19:58:45+00:00</published>
+		<updated>2022-05-15T19:58:45+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1525928694329507851</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525928694329507851"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;I've continued working on the decoder, and now I am detecting the syncword, descrambling, decoding Reed-Solomon and checking the CRC16. (1/N) &lt;a href="https://twitter.com/ea4gpz/status/1525848174249885700"&gt;twitter.com/ea4gpz/status/…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">This is the demodulator running. For tuning easily, I just adjust the tuning offset manually until the spectrum and its mirror image match. (4/4) pic.twitter.com/TEI0sv3YgL</title>
+		<published>2022-05-15T14:38:48+00:00</published>
+		<updated>2022-05-15T14:38:48+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1525848174249885700</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525848174249885700"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;This is the demodulator running. For tuning easily, I just adjust the tuning offset manually until the spectrum and its mirror image match. (4/4) &lt;a href="https://twitter.com/ea4gpz/status/1525848174249885700/photo/1"&gt;pic.twitter.com/TEI0sv3YgL&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FSzmdRhXsAIKOEp.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FSzmdRhXsAIKOEp.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FSzmdRhXsAIKOEp.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">My GNU Radio demodulator uses Symbol Sync for matched filtering and clock recovery. For carrier recovery I've put together an ad-hoc Costas loop for the 8APSK as a Python block. This uses 7 times the angle of the symbols as the discriminant. (3/4) pic.twitter.com/vIhIuZflnH</title>
+		<published>2022-05-15T14:38:47+00:00</published>
+		<updated>2022-05-15T14:38:47+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1525848170030317569</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525848170030317569"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;My GNU Radio demodulator uses Symbol Sync for matched filtering and clock recovery. For carrier recovery I've put together an ad-hoc Costas loop for the 8APSK as a Python block. This uses 7 times the angle of the symbols as the discriminant. (3/4) &lt;a href="https://twitter.com/ea4gpz/status/1525848170030317569/photo/1"&gt;pic.twitter.com/vIhIuZflnH&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FSzmSzcWYAELa9a.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FSzmSzcWYAELa9a.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FSzmSzcWYAELa9a.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The waveform is 2400 baud RRC with an excess bandwidth of 0.2, using the APSK8 constellation from liquidsdr. This consists of a circle of 7 equispaced points, plus the point at the origin. (2/4) pic.twitter.com/GjDw94oZio</title>
+		<published>2022-05-15T14:38:46+00:00</published>
+		<updated>2022-05-15T14:38:46+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1525848166356205569</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525848166356205569"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The waveform is 2400 baud RRC with an excess bandwidth of 0.2, using the APSK8 constellation from liquidsdr. This consists of a circle of 7 equispaced points, plus the point at the origin. (2/4) &lt;a href="https://twitter.com/ea4gpz/status/1525848166356205569/photo/1"&gt;pic.twitter.com/GjDw94oZio&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FSzmEmOWQAA72TC.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FSzmEmOWQAA72TC.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FSzmEmOWQAA72TC.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">AMSAT-DL is testing the transmission of a high speed multimedia beacon on the QO-100 narrowband transponder. The modem has been designed by Kurt Moraw DJ0ABR. I'm having some fun now receiving this signal with GNU Radio (1/4) twitter.com/amsatdl/status…</title>
+		<published>2022-05-15T14:38:45+00:00</published>
+		<updated>2022-05-15T14:38:45+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1525848161838944256</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525848161838944256"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;AMSAT-DL is testing the transmission of a high speed multimedia beacon on the QO-100 narrowband transponder. The modem has been designed by Kurt Moraw DJ0ABR. I'm having some fun now receiving this signal with GNU Radio (1/4) &lt;a href="https://twitter.com/amsatdl/status/1525563197922676739"&gt;twitter.com/amsatdl/status…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@ka9q Is this supposed to be over the integers or the reals? (sorry to hear the news about Franklin, by the way).</title>
+		<published>2022-05-13T21:31:42+00:00</published>
+		<updated>2022-05-13T21:31:42+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1525227311183822848</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525227311183822848"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ka9q Is this supposed to be over the integers or the reals? (sorry to hear the news about Franklin, by the way).&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">I've released a new version of gr-satellites. This includes new generic CRC blocks (also upstreamed in @gnuradio 3.10), support for a bunch of new satellites, and some bugfixes, as well as a PPA package for Ubuntu 22.04. pic.twitter.com/OsgrCcVZEL</title>
@@ -117,462 +595,6 @@
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@mavazquezCTTC Good point. My understanding is that beamforming adds the complex amplitudes coherently, so you get 4x the power supplied to each antenna, but only along one direction (the radiation pattern changes) whereas for transmit diversity you get 2x the power in all directions.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Read more: destevez.net/2022/05/lte-do… (6/6)</title>
-		<published>2022-05-08T14:00:47+00:00</published>
-		<updated>2022-05-08T14:00:47+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1523301892155387904</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523301892155387904"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Read more: &lt;a href="https://destevez.net/2022/05/lte-downlink-reference-signals-and-transmit-diversity/"&gt;destevez.net/2022/05/lte-do…&lt;/a&gt; (6/6)&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">I describe the downlink channels and how to spot them in the waterfall. For instance, if we know what to look for, here we can see the PSS, SSS, PBCH, CRS, PCFICH, some REGs corresponding to PHICH and PDCCH, and a few PDSCH transmissions (one of them for a BL/CE UE). (5/6) pic.twitter.com/bu6kTs0zSy</title>
-		<published>2022-05-08T14:00:46+00:00</published>
-		<updated>2022-05-08T14:00:46+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1523301889068404736</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523301889068404736"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;I describe the downlink channels and how to spot them in the waterfall. For instance, if we know what to look for, here we can see the PSS, SSS, PBCH, CRS, PCFICH, some REGs corresponding to PHICH and PDCCH, and a few PDSCH transmissions (one of them for a BL/CE UE). (5/6) &lt;a href="https://twitter.com/ea4gpz/status/1523301889068404736/photo/1"&gt;pic.twitter.com/bu6kTs0zSy&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FSPaF_DXIAEgEOW.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FSPaF_DXIAEgEOW.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FSPaF_DXIAEgEOW.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">When we handle the transmit diversity correctly we are able to sum the power from both antenna ports and get a very clean constellation. (4/6) pic.twitter.com/HVEl5YDNAr</title>
-		<published>2022-05-08T14:00:45+00:00</published>
-		<updated>2022-05-08T14:00:45+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1523301885834407937</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523301885834407937"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;When we handle the transmit diversity correctly we are able to sum the power from both antenna ports and get a very clean constellation. (4/6) &lt;a href="https://twitter.com/ea4gpz/status/1523301885834407937/photo/1"&gt;pic.twitter.com/HVEl5YDNAr&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FSPacUGX0AALULN.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FSPacUGX0AALULN.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FSPacUGX0AALULN.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">In several cases, data is sent using transmit diversity. The data is precoded and sent over two antenna ports simultaneously. A receiver with one antenna can aggregate the power of the two ports, even if one of them is faded. I show how this scheme works. (3/6)</title>
-		<published>2022-05-08T14:00:45+00:00</published>
-		<updated>2022-05-08T14:00:45+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1523301883066163200</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523301883066163200"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;In several cases, data is sent using transmit diversity. The data is precoded and sent over two antenna ports simultaneously. A receiver with one antenna can aggregate the power of the two ports, even if one of them is faded. I show how this scheme works. (3/6)&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">The cell specific signals (CRS) are used by the receiver for channel estimation. These are transmitted by a number of different "antenna ports", of which 2 are used in this case. I use spline fitting to construct a channel model from measurements of the CRS. (2/6) pic.twitter.com/W160JOzk55</title>
-		<published>2022-05-08T14:00:44+00:00</published>
-		<updated>2022-05-08T14:00:44+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1523301880335527937</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523301880335527937"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;The cell specific signals (CRS) are used by the receiver for channel estimation. These are transmitted by a number of different "antenna ports", of which 2 are used in this case. I use spline fitting to construct a channel model from measurements of the CRS. (2/6) &lt;a href="https://twitter.com/ea4gpz/status/1523301880335527937/photo/1"&gt;pic.twitter.com/W160JOzk55&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FSPakBsWQAYnuZ5.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FSPakBsWQAYnuZ5.png" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FSPYYogWQAA6O_b.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FSPYYogWQAA6O_b.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FSPakBsWQAYnuZ5.png?name=orig" type="image/png" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FSPYYogWQAA6O_b.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">New blog post: LTE downlink - reference signals and transmit diversity. I continue exploring my LTE downlink recording. Now I look at cell-specific reference signals, transmit diversity coding, and demodulation of the PDSCH (user data) and other channels. (1/6) twitter.com/ea4gpz/status/…</title>
-		<published>2022-05-08T14:00:42+00:00</published>
-		<updated>2022-05-08T14:00:42+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1523301873373097986</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523301873373097986"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;New blog post: LTE downlink - reference signals and transmit diversity. I continue exploring my LTE downlink recording. Now I look at cell-specific reference signals, transmit diversity coding, and demodulation of the PDSCH (user data) and other channels. (1/6) &lt;a href="https://twitter.com/ea4gpz/status/1517225883957960704"&gt;twitter.com/ea4gpz/status/…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ka9q Oh, I see. So you take advantage of the fact that filtering is already done by blocks, and do the AGC on the same blocks.</title>
-		<published>2022-05-08T08:19:54+00:00</published>
-		<updated>2022-05-08T08:19:54+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1523216104843321344</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523216104843321344"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q Oh, I see. So you take advantage of the fact that filtering is already done by blocks, and do the AGC on the same blocks.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ka9q Thanks for sharing. Interesting read. I guess that the 20 ms block AGC (which reminds me of GNU Radio's feedforward AGC) increases the latency by 20ms (which is OK in most applications).</title>
-		<published>2022-05-08T08:15:03+00:00</published>
-		<updated>2022-05-08T08:15:03+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1523214884301058049</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523214884301058049"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q Thanks for sharing. Interesting read. I guess that the 20 ms block AGC (which reminds me of GNU Radio's feedforward AGC) increases the latency by 20ms (which is OK in most applications).&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@whitequark Interesting bimodal distribution coming out of this poll.</title>
-		<published>2022-05-08T08:03:36+00:00</published>
-		<updated>2022-05-08T08:03:36+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1523212003221057536</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523212003221057536"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@whitequark Interesting bimodal distribution coming out of this poll.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@thingskatedid Scratch that! That should be 16777217*a + 65792*b. I can't believe I've screwed this joke.</title>
-		<published>2022-05-06T18:25:46+00:00</published>
-		<updated>2022-05-06T18:25:46+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1522643800497299457</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1522643800497299457"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@thingskatedid Scratch that! That should be 16777217*a + 65792*b. I can't believe I've screwed this joke.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@thingskatedid Those are the integers of the form 69632*a + 1048832*b + 16777232*c + 268435457*d</title>
-		<published>2022-05-06T18:18:26+00:00</published>
-		<updated>2022-05-06T18:18:26+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1522641956215693313</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1522641956215693313"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@thingskatedid Those are the integers of the form 69632*a + 1048832*b + 16777232*c + 268435457*d&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ka9q @dEnergy_dTime @xssfox @IanJohnBuckley They're done automatically (as when you apply several patches that cause no rejects), and then you can look at the results (build, run tests, etc) before proceeding further (pushing to a remote the results of the merge).</title>
-		<published>2022-05-04T20:09:20+00:00</published>
-		<updated>2022-05-04T20:09:20+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1521945091816009729</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1521945091816009729"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q @dEnergy_dTime @xssfox @IanJohnBuckley They're done automatically (as when you apply several patches that cause no rejects), and then you can look at the results (build, run tests, etc) before proceeding further (pushing to a remote the results of the merge).&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@falkenber9 That's what I'm thinking.</title>
-		<published>2022-05-04T05:38:00+00:00</published>
-		<updated>2022-05-04T05:38:00+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1521725811933560834</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1521725811933560834"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@falkenber9 That's what I'm thinking.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Looking at this again (and as the waterfall in the previous twee shows), these transmissions don't start in the 3rd symbol of the subframe, but on the 4th. I'm now more or less convinced that these are allocations for BL/CE UEs (i.e., LTE-M1).</title>
-		<published>2022-05-03T18:58:32+00:00</published>
-		<updated>2022-05-03T18:58:32+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1521564883162222592</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1521564883162222592"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Looking at this again (and as the waterfall in the previous twee shows), these transmissions don't start in the 3rd symbol of the subframe, but on the 4th. I'm now more or less convinced that these are allocations for BL/CE UEs (i.e., LTE-M1).&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@lostsimon I don't think so. I think this band (B20) is not being used for 5G in Spain.</title>
-		<published>2022-05-03T12:49:01+00:00</published>
-		<updated>2022-05-03T12:49:01+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1521471892506525698</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1521471892506525698"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@lostsimon I don't think so. I think this band (B20) is not being used for 5G in Spain.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@smileyjvc No idea. I know this is a Vodafone cell, but I don't know who built the eNB.</title>
-		<published>2022-05-03T05:14:51+00:00</published>
-		<updated>2022-05-03T05:14:51+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1521357596518760448</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1521357596518760448"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@smileyjvc No idea. I know this is a Vodafone cell, but I don't know who built the eNB.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
