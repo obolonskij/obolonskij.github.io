@@ -5,12 +5,26 @@
 	<id>http://</id>
 	<icon>https://octopart.com/favicon-32x32.png</icon>
 	<logo>https://octopart.com/favicon-32x32.png</logo>
-	<updated>2022-05-12T21:02:39+00:00</updated>
+	<updated>2022-05-17T19:05:40+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://octopart.com/blog" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">Access High Speed Peripherals with a USB to PCIe Bridge</title>
+		<published>2022-05-17T00:00:00+00:00</published>
+		<updated>2022-05-17T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/05/access-high-speed-peripherals-with-a-usb-to-pcie-bridge</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/05/access-high-speed-peripherals-with-a-usb-to-pcie-bridge"/>
+		
+		<content type="html">Access High Speed Peripherals with a USB to PCIe Bridge</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4rgo9lvrFjYC1oqnMbHkUm/466190ada428f5a14cfddaa9dfc73aff/Frame_1.png" type="image/png" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Selecting a Varistor for Transient Voltage Suppression</title>
@@ -27,20 +41,6 @@
 	</entry>
 
 	<entry>
-		<title type="html">The Complete Low-ESL Capacitor Guide</title>
-		<published>2022-05-05T00:00:00+00:00</published>
-		<updated>2022-05-05T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/05/the-complete-low-esl-capacitor-guide</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/05/the-complete-low-esl-capacitor-guide"/>
-		
-		<content type="html">The Complete Low-ESL Capacitor Guide</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/7CJPBQkQ2F5UMDmnkpyKca/d9054fee2ad6a308c2c9c470bc4c6dc2/2.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
 		<title type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</title>
 		<published>2022-03-01T00:00:00+00:00</published>
 		<updated>2022-03-01T00:00:00+00:00</updated>
@@ -49,6 +49,20 @@
 		
 		<content type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4J3ZfLMCrl9LcxKe35NvBg/18047fb2a24513d4179f4c785eb499a8/Spectra_Blog_Square_720x720.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The Complete Low-ESL Capacitor Guide</title>
+		<published>2022-05-05T00:00:00+00:00</published>
+		<updated>2022-05-05T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/05/the-complete-low-esl-capacitor-guide</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/05/the-complete-low-esl-capacitor-guide"/>
+		
+		<content type="html">The Complete Low-ESL Capacitor Guide</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/7CJPBQkQ2F5UMDmnkpyKca/d9054fee2ad6a308c2c9c470bc4c6dc2/2.png" type="image/png" />
 
 		
 		
@@ -105,20 +119,6 @@
 		
 		<content type="html">Complete Guide to Selecting Board-to-Board Connectors</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/7jZ1k2vIaK6JKyT1GoRzOe/c8cd881d94cdb67961397e5200538d74/1080x1080__9_.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">The Octopart API is now the Nexar Legacy API</title>
-		<published>2022-03-31T00:00:00+00:00</published>
-		<updated>2022-03-31T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/03/the-octopart-api-is-now-the-nexar-legacy-api</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/the-octopart-api-is-now-the-nexar-legacy-api"/>
-		
-		<content type="html">The Octopart API is now the Nexar Legacy API</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/5BLbKltAf1kZnludU2W4IL/df3b5c0c92311e83bac456a469248048/pluginupdatesquare.png" type="image/png" />
 
 		
 		
