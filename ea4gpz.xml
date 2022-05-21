@@ -5,12 +5,105 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-05-16T18:03:15+00:00</updated>
+	<updated>2022-05-21T14:53:33+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">My decoder can now receive the files transmitted by the beacon, but support for the real time data, which uses websockets and is displayed in a HTML page is currently missing. The flowgraph is included in the post. Read more: destevez.net/2022/05/decodi… (3/3) pic.twitter.com/Pa6gngmxUp</title>
+		<published>2022-05-21T13:46:47+00:00</published>
+		<updated>2022-05-21T13:46:47+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1528009411603664896</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1528009411603664896"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;My decoder can now receive the files transmitted by the beacon, but support for the real time data, which uses websockets and is displayed in a HTML page is currently missing. The flowgraph is included in the post. Read more: &lt;a href="https://destevez.net/2022/05/decoding-the-qo-100-multimedia-beacon-with-gnu-radio/"&gt;destevez.net/2022/05/decodi…&lt;/a&gt; (3/3) &lt;a href="https://twitter.com/ea4gpz/status/1528009411603664896/photo/1"&gt;pic.twitter.com/Pa6gngmxUp&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FTSUF2JWIAAbAtM.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FTSUF2JWIAAbAtM.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FTSUF2JWIAAbAtM.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">I show how to demodulate the 8APSK (not 8PSK !) constellation with some ad-hoc blocks, and give an overview (and some insights) of the technical characteristics of the modem. (2/3) pic.twitter.com/XvuEyMZdNu</title>
+		<published>2022-05-21T13:46:46+00:00</published>
+		<updated>2022-05-21T13:46:46+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1528009408197931008</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1528009408197931008"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;I show how to demodulate the 8APSK (not 8PSK !) constellation with some ad-hoc blocks, and give an overview (and some insights) of the technical characteristics of the modem. (2/3) &lt;a href="https://twitter.com/ea4gpz/status/1528009408197931008/photo/1"&gt;pic.twitter.com/XvuEyMZdNu&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FTST5ZMXoAgBmpN.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FTST5ZMXoAgBmpN.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FTST5ZMXoAgBmpN.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">New blog post: Decoding the QO-100 multimedia beacon with GNU Radio. Here I show my prototype @gnuradio decoder for the 2.4 kbaud 8APSK beacon that @amsatdl is testing on QO-100. This comes from a modem designed by Kurt Moraw DJ0ABR. (1/3)</title>
+		<published>2022-05-21T13:46:45+00:00</published>
+		<updated>2022-05-21T13:46:45+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1528009404758364160</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1528009404758364160"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;New blog post: Decoding the QO-100 multimedia beacon with GNU Radio. Here I show my prototype @gnuradio decoder for the 2.4 kbaud 8APSK beacon that @amsatdl is testing on QO-100. This comes from a modem designed by Kurt Moraw DJ0ABR. (1/3)&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@flo_0_ So far I'm able to receive the files as the official software would (not thoroughly tested, so maybe there are some buggy corner cases). There is also a web sockets thingy to update the information on the qo100info.html webpage. I haven't understood yet how this works.</title>
@@ -519,87 +612,6 @@ The next thing would be the web sockets for the qo100info.html, but I haven't se
 &lt;/div&gt;</content>
 		<link rel="enclosure" href="https://pbs.twimg.com/media/FSVwANyXIAIZfCy.jpg?name=orig" type="image/jpeg" />
 
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@mavazquezCTTC for beamforming and 1x (no net gain) for diversity once you take into account this normalization.</title>
-		<published>2022-05-08T17:12:33+00:00</published>
-		<updated>2022-05-08T17:12:33+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1523350150462119937</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523350150462119937"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@mavazquezCTTC for beamforming and 1x (no net gain) for diversity once you take into account this normalization.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@mavazquezCTTC I think that's equivalent to what I said, as I was talking in terms of power supplied to each antenna. You're talking in terms of total power supplied to all antennas, which for two antennas is 2x the power supplied to each. So my 4x and 2x factors transform into 2x (3dB gain)...</title>
-		<published>2022-05-08T17:10:41+00:00</published>
-		<updated>2022-05-08T17:10:41+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1523349681970896897</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523349681970896897"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@mavazquezCTTC I think that's equivalent to what I said, as I was talking in terms of power supplied to each antenna. You're talking in terms of total power supplied to all antennas, which for two antennas is 2x the power supplied to each. So my 4x and 2x factors transform into 2x (3dB gain)...&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@mavazquezCTTC Good point. My understanding is that beamforming adds the complex amplitudes coherently, so you get 4x the power supplied to each antenna, but only along one direction (the radiation pattern changes) whereas for transmit diversity you get 2x the power in all directions.</title>
-		<published>2022-05-08T16:47:21+00:00</published>
-		<updated>2022-05-08T16:47:21+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1523343810465779717</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1523343810465779717"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@mavazquezCTTC Good point. My understanding is that beamforming adds the complex amplitudes coherently, so you get 4x the power supplied to each antenna, but only along one direction (the radiation pattern changes) whereas for transmit diversity you get 2x the power in all directions.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
 		
 		
 	</entry>
