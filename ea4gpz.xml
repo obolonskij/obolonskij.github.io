@@ -5,12 +5,66 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-05-22T18:34:33+00:00</updated>
+	<updated>2022-05-23T19:45:47+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@ea2aru @gnuradio @amsatdl gist.github.com/daniestevez/d7…</title>
+		<published>2022-05-23T05:36:34+00:00</published>
+		<updated>2022-05-23T05:36:34+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1528610821512781825</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1528610821512781825"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ea2aru @gnuradio @amsatdl &lt;a href="https://gist.github.com/daniestevez/d7a969170c9c8a13070304b728e91f94"&gt;gist.github.com/daniestevez/d7…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@g4dpz @gnuradio @amsatdl Hi Dave! That sounds possible for me. I would be interested in attending.</title>
+		<published>2022-05-22T19:03:41+00:00</published>
+		<updated>2022-05-22T19:03:41+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1528451548283641856</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1528451548283641856"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@g4dpz @gnuradio @amsatdl Hi Dave! That sounds possible for me. I would be interested in attending.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@NoSoyYoDeveras @gnuradio @amsatdl It's about 20 dB over the transponder noise floor.</title>
@@ -552,60 +606,6 @@ The next thing would be the web sockets for the qo100info.html, but I haven't se
 &lt;/div&gt;</content>
 		<link rel="enclosure" href="https://pbs.twimg.com/media/FSzmEmOWQAA72TC.png?name=orig" type="image/png" />
 
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">AMSAT-DL is testing the transmission of a high speed multimedia beacon on the QO-100 narrowband transponder. The modem has been designed by Kurt Moraw DJ0ABR. I'm having some fun now receiving this signal with GNU Radio (1/4) twitter.com/amsatdl/status…</title>
-		<published>2022-05-15T14:38:45+00:00</published>
-		<updated>2022-05-15T14:38:45+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1525848161838944256</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525848161838944256"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;AMSAT-DL is testing the transmission of a high speed multimedia beacon on the QO-100 narrowband transponder. The modem has been designed by Kurt Moraw DJ0ABR. I'm having some fun now receiving this signal with GNU Radio (1/4) &lt;a href="https://twitter.com/amsatdl/status/1525563197922676739"&gt;twitter.com/amsatdl/status…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ka9q Is this supposed to be over the integers or the reals? (sorry to hear the news about Franklin, by the way).</title>
-		<published>2022-05-13T21:31:42+00:00</published>
-		<updated>2022-05-13T21:31:42+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1525227311183822848</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525227311183822848"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q Is this supposed to be over the integers or the reals? (sorry to hear the news about Franklin, by the way).&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
 		
 		
 	</entry>

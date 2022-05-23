@@ -5,12 +5,26 @@
 	<id>http://</id>
 	<icon>https://octopart.com/favicon-32x32.png</icon>
 	<logo>https://octopart.com/favicon-32x32.png</logo>
-	<updated>2022-05-17T19:05:40+00:00</updated>
+	<updated>2022-05-23T19:45:43+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://octopart.com/blog" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">How to Choose a DAC for Waveform Generation</title>
+		<published>2022-05-23T00:00:00+00:00</published>
+		<updated>2022-05-23T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/05/how-to-choose-a-dac-for-waveform-generation</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/05/how-to-choose-a-dac-for-waveform-generation"/>
+		
+		<content type="html">How to Choose a DAC for Waveform Generation</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/3z75ivohiO5ZA8CM3IQOc5/3c99270ec999f381f5ded58f8bd1a55f/Frame_5.png" type="image/png" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Access High Speed Peripherals with a USB to PCIe Bridge</title>
@@ -27,20 +41,6 @@
 	</entry>
 
 	<entry>
-		<title type="html">Selecting a Varistor for Transient Voltage Suppression</title>
-		<published>2022-05-12T00:00:00+00:00</published>
-		<updated>2022-05-12T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/05/selecting-a-varistor-for-transient-voltage-suppression</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/05/selecting-a-varistor-for-transient-voltage-suppression"/>
-		
-		<content type="html">Selecting a Varistor for Transient Voltage Suppression</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/78Bd4XW7PZAYXvKEVMdzD/ef5e5ad0e1bf2a5065da51e40ed1d205/shutterstock_1443763049__1_.jpg" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
 		<title type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</title>
 		<published>2022-03-01T00:00:00+00:00</published>
 		<updated>2022-03-01T00:00:00+00:00</updated>
@@ -49,6 +49,20 @@
 		
 		<content type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4J3ZfLMCrl9LcxKe35NvBg/18047fb2a24513d4179f4c785eb499a8/Spectra_Blog_Square_720x720.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Selecting a Varistor for Transient Voltage Suppression</title>
+		<published>2022-05-12T00:00:00+00:00</published>
+		<updated>2022-05-12T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/05/selecting-a-varistor-for-transient-voltage-suppression</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/05/selecting-a-varistor-for-transient-voltage-suppression"/>
+		
+		<content type="html">Selecting a Varistor for Transient Voltage Suppression</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/78Bd4XW7PZAYXvKEVMdzD/ef5e5ad0e1bf2a5065da51e40ed1d205/shutterstock_1443763049__1_.jpg" type="image/jpeg" />
 
 		
 		
@@ -105,20 +119,6 @@
 		
 		<content type="html">New Wifi 6 Chipsets Give Wireless an Upgrade</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/52o4t3AgSrHIFh3sS6erYt/6ab885e505b0f89fbc65f30482868bde/Social_1080x1080.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Complete Guide to Selecting Board-to-Board Connectors</title>
-		<published>2022-04-07T00:00:00+00:00</published>
-		<updated>2022-04-07T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/04/complete-guide-to-selecting-board-to-board-connectors</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/04/complete-guide-to-selecting-board-to-board-connectors"/>
-		
-		<content type="html">Complete Guide to Selecting Board-to-Board Connectors</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/7jZ1k2vIaK6JKyT1GoRzOe/c8cd881d94cdb67961397e5200538d74/1080x1080__9_.png" type="image/png" />
 
 		
 		
