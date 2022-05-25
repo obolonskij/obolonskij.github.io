@@ -5,12 +5,43 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-05-22T18:34:35+00:00</updated>
+	<updated>2022-05-25T17:02:12+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">For the past several months, we have been following #GASPACS 🛰️ journey to space, contributing to it with more than 11K observations from our network. 📡
+network.satnogs.org/observations/?…
+Thank you @GASPACS_CubeSat for the collaboration, we are excited to have been part of this mission! twitter.com/GASPACS_CubeSa…</title>
+		<published>2022-05-24T18:24:58+00:00</published>
+		<updated>2022-05-24T18:24:58+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1529166584371105793</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1529166584371105793"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;For the past several months, we have been following #GASPACS 🛰️ journey to space, contributing to it with more than 11K observations from our network. 📡
+&lt;a href="https://network.satnogs.org/observations/?norad=51439"&gt;network.satnogs.org/observations/?…&lt;/a&gt;
+Thank you @GASPACS_CubeSat for the collaboration, we are excited to have been part of this mission! &lt;a href="https://twitter.com/GASPACS_CubeSat/status/1528977096902463493"&gt;twitter.com/GASPACS_CubeSa…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Day #2 at the @hamvention!
@@ -713,39 +744,6 @@ TLE set can be found in:
 &lt;/div&gt;</content>
 		<link rel="enclosure" href="https://pbs.twimg.com/media/FO0iwpTXwAkzJBu.png?name=orig" type="image/png" />
 
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@Space_Station @JAXA_Kiboriyo @kyutech
-@AEP_News
-@JAXA_en
-@ANDEOficial</title>
-		<published>2022-03-24T11:41:39+00:00</published>
-		<updated>2022-03-24T11:41:39+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1506959424128233473</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1506959424128233473"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@Space_Station @JAXA_Kiboriyo @kyutech
-@AEP_News
-@JAXA_en
-@ANDEOficial&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
 		
 		
 	</entry>
