@@ -5,12 +5,309 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-05-23T19:45:47+00:00</updated>
+	<updated>2022-05-28T15:45:11+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@dEnergy_dTime @azonenberg ||.|| = &amp;lt;.,.&amp;gt;^1/2 (I guess that was a typo).</title>
+		<published>2022-05-26T05:12:58+00:00</published>
+		<updated>2022-05-26T05:12:58+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1529692044297396224</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529692044297396224"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dEnergy_dTime @azonenberg ||.|| = &amp;lt;.,.&amp;gt;^1/2 (I guess that was a typo).&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dEnergy_dTime @azonenberg Ah, I realized what's wrong. You can't compute the projection as &amp;lt;sin, x&amp;gt;x/&amp;lt;x, x&amp;gt; + &amp;lt;sin, x^3&amp;gt;x^3/&amp;lt;x^3, x^3&amp;gt;, because x and x^3 are not orthogonal. You should find a such that p = x+ax^3 is orthogonal to x, and use p instead of x^3. Such an a will be negative.</title>
+		<published>2022-05-25T21:52:02+00:00</published>
+		<updated>2022-05-25T21:52:02+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1529581082051592192</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529581082051592192"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dEnergy_dTime @azonenberg Ah, I realized what's wrong. You can't compute the projection as &amp;lt;sin, x&amp;gt;x/&amp;lt;x, x&amp;gt; + &amp;lt;sin, x^3&amp;gt;x^3/&amp;lt;x^3, x^3&amp;gt;, because x and x^3 are not orthogonal. You should find a such that p = x+ax^3 is orthogonal to x, and use p instead of x^3. Such an a will be negative.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dEnergy_dTime @azonenberg What surprises me the most is the fact that sin(x) is concave, but ax+bx^3 for positive a, b is convex.</title>
+		<published>2022-05-25T21:43:32+00:00</published>
+		<updated>2022-05-25T21:43:32+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1529578939986890753</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529578939986890753"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dEnergy_dTime @azonenberg What surprises me the most is the fact that sin(x) is concave, but ax+bx^3 for positive a, b is convex.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dEnergy_dTime @azonenberg It also surprises me, but it must be right. Due to symmetry we can just work in [0,pi/2]. There all the functions (sin(x), x, x^3) are positive, so their scalar products must also be positive.</title>
+		<published>2022-05-25T21:41:20+00:00</published>
+		<updated>2022-05-25T21:41:20+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1529578388721213442</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529578388721213442"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dEnergy_dTime @azonenberg It also surprises me, but it must be right. Due to symmetry we can just work in [0,pi/2]. There all the functions (sin(x), x, x^3) are positive, so their scalar products must also be positive.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dEnergy_dTime @azonenberg You still need to divide c0 and c1 by the square of the L2 norm of x and x^3 respectively.</title>
+		<published>2022-05-25T21:37:52+00:00</published>
+		<updated>2022-05-25T21:37:52+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1529577515039313926</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529577515039313926"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dEnergy_dTime @azonenberg You still need to divide c0 and c1 by the square of the L2 norm of x and x^3 respectively.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dEnergy_dTime @azonenberg Yeah, silly mistake. It's obvious that sin(x) is orthogonal to any monomial of even degree (the monomial 1 included), because sin(x) is an odd function. So we only need to consider {x, x^3} as generators of our subspace.</title>
+		<published>2022-05-25T19:38:10+00:00</published>
+		<updated>2022-05-25T19:38:10+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1529547390105141248</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529547390105141248"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dEnergy_dTime @azonenberg Yeah, silly mistake. It's obvious that sin(x) is orthogonal to any monomial of even degree (the monomial 1 included), because sin(x) is an odd function. So we only need to consider {x, x^3} as generators of our subspace.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dEnergy_dTime @azonenberg Indeed I now had a look at your code. If you consider L2 norm instead of Linfty, then the problem is easy: the solution is the orthogonal projection of sin(x) onto the subspace generated by {1, x^3}.</title>
+		<published>2022-05-25T17:43:04+00:00</published>
+		<updated>2022-05-25T17:43:04+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1529518425239855104</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529518425239855104"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dEnergy_dTime @azonenberg Indeed I now had a look at your code. If you consider L2 norm instead of Linfty, then the problem is easy: the solution is the orthogonal projection of sin(x) onto the subspace generated by {1, x^3}.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dEnergy_dTime @azonenberg You can do this until the maximum is attained in two different points.</title>
+		<published>2022-05-25T17:40:27+00:00</published>
+		<updated>2022-05-25T17:40:27+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1529517769028513795</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529517769028513795"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dEnergy_dTime @azonenberg You can do this until the maximum is attained in two different points.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dEnergy_dTime @azonenberg Hmm. The fact that the max error is only attained once (I'm only looking at the right half, due to odd symmetry) makes me think this could be improved. Wiggle the polynomial coeffs to try to make the absolute max smaller, while paying off by making the other local max larger.</title>
+		<published>2022-05-25T17:40:00+00:00</published>
+		<updated>2022-05-25T17:40:00+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1529517655090155520</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529517655090155520"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dEnergy_dTime @azonenberg Hmm. The fact that the max error is only attained once (I'm only looking at the right half, due to odd symmetry) makes me think this could be improved. Wiggle the polynomial coeffs to try to make the absolute max smaller, while paying off by making the other local max larger.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dEnergy_dTime @azonenberg Well, not quite, on second thought. Chebyshev nodes give a way to construct an interpolating polynomial that is a good uniform approximation (but not necessarily optimal). Abandoning the idea of interpolation, the optimal may be something else. But it can be found numerically.</title>
+		<published>2022-05-25T17:34:47+00:00</published>
+		<updated>2022-05-25T17:34:47+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1529516339546804234</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529516339546804234"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dEnergy_dTime @azonenberg Well, not quite, on second thought. Chebyshev nodes give a way to construct an interpolating polynomial that is a good uniform approximation (but not necessarily optimal). Abandoning the idea of interpolation, the optimal may be something else. But it can be found numerically.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dEnergy_dTime @azonenberg There's a general theory about how to approximate a continuous f on an interval by a polynomial p of degree N in such a way that max |f(x)-p(x)| is minimized. Chebysev polynomials play a role in the solution. I would assume this to be a particular case.</title>
+		<published>2022-05-25T17:18:44+00:00</published>
+		<updated>2022-05-25T17:18:44+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1529512301350596611</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529512301350596611"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dEnergy_dTime @azonenberg There's a general theory about how to approximate a continuous f on an interval by a polynomial p of degree N in such a way that max |f(x)-p(x)| is minimized. Chebysev polynomials play a role in the solution. I would assume this to be a particular case.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@ea2aru @gnuradio @amsatdl gist.github.com/daniestevez/d7…</title>
@@ -272,339 +569,6 @@ The next thing would be the web sockets for the qo100info.html, but I haven't se
 &lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
 		<link rel="enclosure" href="https://pbs.twimg.com/media/FS40hwzXsAAL1du.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@rajb245 On the other hand x^7 has a bit less squaring losses than x^8, so I don't know who wins.</title>
-		<published>2022-05-15T21:04:05+00:00</published>
-		<updated>2022-05-15T21:04:05+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1525945135191797761</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525945135191797761"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@rajb245 On the other hand x^7 has a bit less squaring losses than x^8, so I don't know who wins.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@abraxas3d Thanks for sharing these memories.</title>
-		<published>2022-05-15T21:02:41+00:00</published>
-		<updated>2022-05-15T21:02:41+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1525944782454935555</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525944782454935555"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@abraxas3d Thanks for sharing these memories.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@rajb245 And regarding the surprise, indeed. I had assumed this was regular 8PSK, and I was trying to figure out what was wrong with my symbol sync, as the constellation I was getting was a ring and the point in the middle (the Costas loop wasn't working).</title>
-		<published>2022-05-15T20:53:15+00:00</published>
-		<updated>2022-05-15T20:53:15+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1525942409091338240</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525942409091338240"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@rajb245 And regarding the surprise, indeed. I had assumed this was regular 8PSK, and I was trying to figure out what was wrong with my symbol sync, as the constellation I was getting was a ring and the point in the middle (the Costas loop wasn't working).&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@rajb245 I also wonder what are the advantages of this 8APSK versus regular 8PSK (the design choice is not mine). Apparently 8APSK gives lower BER, due to its larger separation between symbols.</title>
-		<published>2022-05-15T20:50:05+00:00</published>
-		<updated>2022-05-15T20:50:05+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1525941609728180224</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525941609728180224"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@rajb245 I also wonder what are the advantages of this 8APSK versus regular 8PSK (the design choice is not mine). Apparently 8APSK gives lower BER, due to its larger separation between symbols.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Everything seems to be working well. Typically there are no errors in the RS decoder, and the CRC check passes. (4/4) pic.twitter.com/jGiqAjzcmt</title>
-		<published>2022-05-15T19:58:48+00:00</published>
-		<updated>2022-05-15T19:58:48+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1525928707759685632</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525928707759685632"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Everything seems to be working well. Typically there are no errors in the RS decoder, and the CRC check passes. (4/4) &lt;a href="https://twitter.com/ea4gpz/status/1525928707759685632/photo/1"&gt;pic.twitter.com/jGiqAjzcmt&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FS0v1odXoAEih0y.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FS0v1odXoAEih0y.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FS0v1odXoAEih0y.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">What I'm doing is to consider all 7 possible constellation rotations, and try to find the syncword in the stream of unpacked bits (a far from optimal, but simple approach!). Then I extract 255 byte Reed-Solomon codewords, which must be de-scrambled first. (3/4) pic.twitter.com/5XyLl4Qi6k</title>
-		<published>2022-05-15T19:58:47+00:00</published>
-		<updated>2022-05-15T19:58:47+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1525928703091523588</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525928703091523588"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;What I'm doing is to consider all 7 possible constellation rotations, and try to find the syncword in the stream of unpacked bits (a far from optimal, but simple approach!). Then I extract 255 byte Reed-Solomon codewords, which must be de-scrambled first. (3/4) &lt;a href="https://twitter.com/ea4gpz/status/1525928703091523588/photo/1"&gt;pic.twitter.com/5XyLl4Qi6k&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FS0vjDXWUAAz7L-.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FS0vjDXWUAAz7L-.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FS0vjDXWUAAz7L-.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">The syncword is only 8 symbols long, so the its cross-correlation with non-syncword symbols is quite high and it's not easy to spot the syncword by looking at the correlation. (2/4) pic.twitter.com/u9c3rj5Ujj</title>
-		<published>2022-05-15T19:58:46+00:00</published>
-		<updated>2022-05-15T19:58:46+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1525928698687459330</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525928698687459330"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;The syncword is only 8 symbols long, so the its cross-correlation with non-syncword symbols is quite high and it's not easy to spot the syncword by looking at the correlation. (2/4) &lt;a href="https://twitter.com/ea4gpz/status/1525928698687459330/photo/1"&gt;pic.twitter.com/u9c3rj5Ujj&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FS0vU2RXoAA4uDM.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FS0vU2RXoAA4uDM.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FS0vU2RXoAA4uDM.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">I've continued working on the decoder, and now I am detecting the syncword, descrambling, decoding Reed-Solomon and checking the CRC16. (1/N) twitter.com/ea4gpz/status/…</title>
-		<published>2022-05-15T19:58:45+00:00</published>
-		<updated>2022-05-15T19:58:45+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1525928694329507851</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525928694329507851"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;I've continued working on the decoder, and now I am detecting the syncword, descrambling, decoding Reed-Solomon and checking the CRC16. (1/N) &lt;a href="https://twitter.com/ea4gpz/status/1525848174249885700"&gt;twitter.com/ea4gpz/status/…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">This is the demodulator running. For tuning easily, I just adjust the tuning offset manually until the spectrum and its mirror image match. (4/4) pic.twitter.com/TEI0sv3YgL</title>
-		<published>2022-05-15T14:38:48+00:00</published>
-		<updated>2022-05-15T14:38:48+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1525848174249885700</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525848174249885700"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;This is the demodulator running. For tuning easily, I just adjust the tuning offset manually until the spectrum and its mirror image match. (4/4) &lt;a href="https://twitter.com/ea4gpz/status/1525848174249885700/photo/1"&gt;pic.twitter.com/TEI0sv3YgL&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FSzmdRhXsAIKOEp.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FSzmdRhXsAIKOEp.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FSzmdRhXsAIKOEp.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">My GNU Radio demodulator uses Symbol Sync for matched filtering and clock recovery. For carrier recovery I've put together an ad-hoc Costas loop for the 8APSK as a Python block. This uses 7 times the angle of the symbols as the discriminant. (3/4) pic.twitter.com/vIhIuZflnH</title>
-		<published>2022-05-15T14:38:47+00:00</published>
-		<updated>2022-05-15T14:38:47+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1525848170030317569</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525848170030317569"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;My GNU Radio demodulator uses Symbol Sync for matched filtering and clock recovery. For carrier recovery I've put together an ad-hoc Costas loop for the 8APSK as a Python block. This uses 7 times the angle of the symbols as the discriminant. (3/4) &lt;a href="https://twitter.com/ea4gpz/status/1525848170030317569/photo/1"&gt;pic.twitter.com/vIhIuZflnH&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FSzmSzcWYAELa9a.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FSzmSzcWYAELa9a.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FSzmSzcWYAELa9a.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">The waveform is 2400 baud RRC with an excess bandwidth of 0.2, using the APSK8 constellation from liquidsdr. This consists of a circle of 7 equispaced points, plus the point at the origin. (2/4) pic.twitter.com/GjDw94oZio</title>
-		<published>2022-05-15T14:38:46+00:00</published>
-		<updated>2022-05-15T14:38:46+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1525848166356205569</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1525848166356205569"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;The waveform is 2400 baud RRC with an excess bandwidth of 0.2, using the APSK8 constellation from liquidsdr. This consists of a circle of 7 equispaced points, plus the point at the origin. (2/4) &lt;a href="https://twitter.com/ea4gpz/status/1525848166356205569/photo/1"&gt;pic.twitter.com/GjDw94oZio&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FSzmEmOWQAA72TC.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FSzmEmOWQAA72TC.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FSzmEmOWQAA72TC.png?name=orig" type="image/png" />
 
 		
 		
