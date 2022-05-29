@@ -5,12 +5,49 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-05-28T15:45:12+00:00</updated>
+	<updated>2022-05-29T06:24:48+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">Using Doppler curves, I made an updated TLE for FORESAIL-1. For details see:
+community.libre.space/t/falcon-9-lau…
+@AaltoUniversity @AaltoSatellites @cleanorbits @JaanPraks @SatNOGS @pe0sat pic.twitter.com/XWr3ZruXAV</title>
+		<published>2022-05-28T19:10:39+00:00</published>
+		<updated>2022-05-28T19:10:39+00:00</updated>
+		<id>https://twitter.com/eelkevisser/status/1530627632743718912</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/eelkevisser/status/1530627632743718912"/>
+		<author><name>RT: Eelke Visser (@eelkevisser)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/eelkevisser"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="eelkevisser"
+	src="https://pbs.twimg.com/profile_images/1354146277924200448/0M0fKr_p_normal.jpg"
+	title="Eelke Visser" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Using Doppler curves, I made an updated TLE for FORESAIL-1. For details see:
+&lt;a href="https://community.libre.space/t/falcon-9-launch-25th-may-2022/9264/36"&gt;community.libre.space/t/falcon-9-lau…&lt;/a&gt;
+@AaltoUniversity @AaltoSatellites @cleanorbits @JaanPraks @SatNOGS @pe0sat &lt;a href="https://twitter.com/eelkevisser/status/1530627632743718912/photo/1"&gt;pic.twitter.com/XWr3ZruXAV&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FT3gwVyWAAA1DLj.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FT3gwVyWAAA1DLj.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FT3gwVyWAAA1DLj.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">📌 The @SatNOGS network 📡 has received #Connecta T1.1🛰️ from @SpaceX's #Falcon9 #Transporter5 ride share.
@@ -682,47 +719,6 @@ You can find the TLE here: &lt;a href="https://community.libre.space/t/ng-14-ela
 &lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
 		<link rel="enclosure" href="https://pbs.twimg.com/media/FP0exetXMAAUmHg.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">📣 Join the dedicated @SatNOGS channel, if you want to be part of the community, follow all the discussions, the real-time updates and the thrill of hunting satellites 📡🛰️
-🌎🌍🌏
-@element_hq
-@matrixdotorg
-Check out all the ways you can connect with us: wiki.satnogs.org/Get_In_Touch#:…. pic.twitter.com/WO02HlxR27</title>
-		<published>2022-04-07T17:19:54+00:00</published>
-		<updated>2022-04-07T17:19:54+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1512117980230045697</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1512117980230045697"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;📣 Join the dedicated @SatNOGS channel, if you want to be part of the community, follow all the discussions, the real-time updates and the thrill of hunting satellites 📡🛰️
-🌎🌍🌏
-@element_hq
-@matrixdotorg
-Check out all the ways you can connect with us: &lt;a href="https://wiki.satnogs.org/Get_In_Touch#:~:text=You%20can%20chat%20with%20the,at%20%23satnogs%20on%20Libera%20Chat"&gt;wiki.satnogs.org/Get_In_Touch#:…&lt;/a&gt;. &lt;a href="https://twitter.com/SatNOGS/status/1512117980230045697/photo/1"&gt;pic.twitter.com/WO02HlxR27&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FPwfDqaWQBE2DXH.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FPwfDqaWQBE2DXH.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FPwfDqaWQBE2DXH.png?name=orig" type="image/png" />
 
 		
 		
