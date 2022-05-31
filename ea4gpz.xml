@@ -5,12 +5,90 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-05-28T15:45:11+00:00</updated>
+	<updated>2022-05-31T15:05:06+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">I got the waterfalls working now (and presumably the CW skimmer, but it's not sending data at the moment). The trick for the waterfalls was to unpack the data from 8 bits/byte to 6 bits/byte. I'm still missing the bulletins at the bottom of the page. pic.twitter.com/Gi4h9dSZt4</title>
+		<published>2022-05-29T17:08:59+00:00</published>
+		<updated>2022-05-29T17:08:59+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1530959400562827268</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1530959400562827268"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;I got the waterfalls working now (and presumably the CW skimmer, but it's not sending data at the moment). The trick for the waterfalls was to unpack the data from 8 bits/byte to 6 bits/byte. I'm still missing the bulletins at the bottom of the page. &lt;a href="https://twitter.com/ea4gpz/status/1530959400562827268/photo/1"&gt;pic.twitter.com/Gi4h9dSZt4&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FT8PSeZWIAEkBDE.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FT8PSeZWIAEkBDE.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FT8PSeZWIAEkBDE.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Mock-up of sending the QO-100 multimedia beacon WebSockets data from GNU Radio. So far I'm only handling the DX cluster. A simple async Python script spawns a WebSockets server and gets data from GNU Radio by TCP. pic.twitter.com/Q16P1Fgni2</title>
+		<published>2022-05-29T16:34:11+00:00</published>
+		<updated>2022-05-29T16:34:11+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1530950641534832640</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1530950641534832640"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Mock-up of sending the QO-100 multimedia beacon WebSockets data from GNU Radio. So far I'm only handling the DX cluster. A simple async Python script spawns a WebSockets server and gets data from GNU Radio by TCP. &lt;a href="https://twitter.com/ea4gpz/status/1530950641534832640/photo/1"&gt;pic.twitter.com/Q16P1Fgni2&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FT8HcZMWIAEdSHC.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FT8HcZMWIAEdSHC.jpg" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FT8GvY1XwAASBlJ.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FT8GvY1XwAASBlJ.png" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FT8GwpZWQAEiDB9.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FT8GwpZWQAEiDB9.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FT8HcZMWIAEdSHC.jpg?name=orig" type="image/jpeg" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FT8GvY1XwAASBlJ.png?name=orig" type="image/png" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FT8GwpZWQAEiDB9.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@dEnergy_dTime @azonenberg ||.|| = &amp;lt;.,.&amp;gt;^1/2 (I guess that was a typo).</title>
@@ -506,70 +584,6 @@
 	&lt;blockquote&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
 		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">The documentation for how this works is here: wiki.amsat-dl.org/doku.php?id=en…
-wiki.amsat-dl.org/doku.php?id=en…
-The next thing would be the web sockets for the qo100info.html, but I haven't seen any documentation for this. (2/2)</title>
-		<published>2022-05-16T14:58:11+00:00</published>
-		<updated>2022-05-16T14:58:11+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1526215439193460746</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1526215439193460746"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;The documentation for how this works is here: &lt;a href="https://wiki.amsat-dl.org/doku.php?id=en:hsmodem:packer"&gt;wiki.amsat-dl.org/doku.php?id=en…&lt;/a&gt;
-&lt;a href="https://wiki.amsat-dl.org/doku.php?id=en:hsmodem:filetx"&gt;wiki.amsat-dl.org/doku.php?id=en…&lt;/a&gt;
-The next thing would be the web sockets for the qo100info.html, but I haven't seen any documentation for this. (2/2)&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">I have now added a class to the gr-satellites file receiver to receive and store to disk the files transmitted by the QO-100 multimedia beacon. (1/2) twitter.com/ea4gpz/status/… pic.twitter.com/ocXE4nhGJ9</title>
-		<published>2022-05-16T14:58:10+00:00</published>
-		<updated>2022-05-16T14:58:10+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1526215434894290945</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1526215434894290945"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;I have now added a class to the gr-satellites file receiver to receive and store to disk the files transmitted by the QO-100 multimedia beacon. (1/2) &lt;a href="https://twitter.com/ea4gpz/status/1525928707759685632"&gt;twitter.com/ea4gpz/status/…&lt;/a&gt; &lt;a href="https://twitter.com/ea4gpz/status/1526215434894290945/photo/1"&gt;pic.twitter.com/ocXE4nhGJ9&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FS40hwzXsAAL1du.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FS40hwzXsAAL1du.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FS40hwzXsAAL1du.png?name=orig" type="image/png" />
-
 		
 		
 	</entry>
