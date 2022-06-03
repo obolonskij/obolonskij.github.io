@@ -5,12 +5,54 @@
 	<id>http://</id>
 	<icon>https://octopart.com/favicon-32x32.png</icon>
 	<logo>https://octopart.com/favicon-32x32.png</logo>
-	<updated>2022-05-23T19:45:43+00:00</updated>
+	<updated>2022-06-03T18:53:08+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://octopart.com/blog" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">Interview with Josh Sharpe, Co-Founder of XScomponents.com</title>
+		<published>2022-06-02T00:00:00+00:00</published>
+		<updated>2022-06-02T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/06/interview-with-josh-sharpe-co-founder-of-xscomponents-com</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/06/interview-with-josh-sharpe-co-founder-of-xscomponents-com"/>
+		
+		<content type="html">Interview with Josh Sharpe, Co-Founder of XScomponents.com</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/6l7lliAPjjbjeGhreQRomU/e4c050dd25aad5fa140b5ed7c865e966/24705030.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Introducing Harry Wykes: Nexar’s new Business Development Manager Of EMEA</title>
+		<published>2022-06-01T00:00:00+00:00</published>
+		<updated>2022-06-01T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/06/introducing-harry-wykes-nexars-new-business-development-manager-of-emea</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/06/introducing-harry-wykes-nexars-new-business-development-manager-of-emea"/>
+		
+		<content type="html">Introducing Harry Wykes: Nexar’s new Business Development Manager Of EMEA</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/1F16ViKn3BXFoSSMwFON2y/4489117f57d30423d39cc70dbde609b2/24705029.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</title>
+		<published>2022-03-01T00:00:00+00:00</published>
+		<updated>2022-03-01T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra"/>
+		
+		<content type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4J3ZfLMCrl9LcxKe35NvBg/18047fb2a24513d4179f4c785eb499a8/Spectra_Blog_Square_720x720.png" type="image/png" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">How to Choose a DAC for Waveform Generation</title>
@@ -35,20 +77,6 @@
 		
 		<content type="html">Access High Speed Peripherals with a USB to PCIe Bridge</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4rgo9lvrFjYC1oqnMbHkUm/466190ada428f5a14cfddaa9dfc73aff/Frame_1.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</title>
-		<published>2022-03-01T00:00:00+00:00</published>
-		<updated>2022-03-01T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra"/>
-		
-		<content type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4J3ZfLMCrl9LcxKe35NvBg/18047fb2a24513d4179f4c785eb499a8/Spectra_Blog_Square_720x720.png" type="image/png" />
 
 		
 		
@@ -91,34 +119,6 @@
 		
 		<content type="html">Do You Need an Interleaved DC-DC Converter?</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/6WlIT5ecEH5PvNoK4EunR7/a889ffa55cc0526da357f66318ff4334/1080x1080__2_.jpg" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Comparing the Best MOSFETs for Power Electronics</title>
-		<published>2022-04-25T00:00:00+00:00</published>
-		<updated>2022-04-25T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/04/comparing-the-best-mosfets-for-power-electronics</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/04/comparing-the-best-mosfets-for-power-electronics"/>
-		
-		<content type="html">Comparing the Best MOSFETs for Power Electronics</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/xMSlfib5dfifsJP2GCQIU/586a2ae422d35695d9146305d2c5bb7d/1080_1.jpg" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">New Wifi 6 Chipsets Give Wireless an Upgrade</title>
-		<published>2022-04-19T00:00:00+00:00</published>
-		<updated>2022-04-19T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/04/new-wifi-6-chipsets-give-wireless-an-upgrade</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/04/new-wifi-6-chipsets-give-wireless-an-upgrade"/>
-		
-		<content type="html">New Wifi 6 Chipsets Give Wireless an Upgrade</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/52o4t3AgSrHIFh3sS6erYt/6ab885e505b0f89fbc65f30482868bde/Social_1080x1080.png" type="image/png" />
 
 		
 		

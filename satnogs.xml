@@ -5,12 +5,117 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-05-31T15:05:08+00:00</updated>
+	<updated>2022-06-03T18:53:18+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">𝟔 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐎𝐛𝐬𝐞𝐫𝐯𝐚𝐭𝐢𝐨𝐧𝐬!🎉🎉
+We achieved a new Milestone! 
+Thank you to all contributors, satellite operators, radio amateurs, space enthusiasts, university&amp;amp;scientific teams.
+Thanks to you @SatNOGS keeps expanding &amp;amp; growing!
+#opensource
+satnogs.org/2022/06/02/600… pic.twitter.com/r20sQruA6H</title>
+		<published>2022-06-02T14:59:50+00:00</published>
+		<updated>2022-06-02T14:59:50+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1532376448148942848</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1532376448148942848"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;𝟔 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐎𝐛𝐬𝐞𝐫𝐯𝐚𝐭𝐢𝐨𝐧𝐬!🎉🎉
+We achieved a new Milestone! 
+Thank you to all contributors, satellite operators, radio amateurs, space enthusiasts, university&amp;amp;scientific teams.
+Thanks to you @SatNOGS keeps expanding &amp;amp; growing!
+#opensource
+&lt;a href="https://satnogs.org/2022/06/02/6000000-observations-an-amazing-new-milestone-for-the-satnogs-network/"&gt;satnogs.org/2022/06/02/600…&lt;/a&gt; &lt;a href="https://twitter.com/SatNOGS/status/1532376448148942848/photo/1"&gt;pic.twitter.com/r20sQruA6H&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FUQXOciXoAMFd-q.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FUQXOciXoAMFd-q.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FUQXOciXoAMFd-q.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@Drsnik @planetum_cz @18thSDS More details and updates are available in:
+
+community.libre.space/t/falcon-9-lau…</title>
+		<published>2022-06-02T14:49:05+00:00</published>
+		<updated>2022-06-02T14:49:05+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1532373744764735491</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1532373744764735491"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@Drsnik @planetum_cz @18thSDS More details and updates are available in:
+
+&lt;a href="https://community.libre.space/t/falcon-9-launch-25th-may-2022/9264/67"&gt;community.libre.space/t/falcon-9-lau…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@Drsnik @planetum_cz Just to be accurate, the temporary NORAD ID remains for the satellite and we just follow the new NORAD ID until it is assigned to an object by @18thSDS and identified.
+
+By the way the object we follow for Planetum-1 has just been changed to 52740, with 52741 being very close.</title>
+		<published>2022-06-02T14:46:23+00:00</published>
+		<updated>2022-06-02T14:46:23+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1532373065392340993</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1532373065392340993"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@Drsnik @planetum_cz Just to be accurate, the temporary NORAD ID remains for the satellite and we just follow the new NORAD ID until it is assigned to an object by @18thSDS and identified.
+
+By the way the object we follow for Planetum-1 has just been changed to 52740, with 52741 being very close.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Check out the #dashboard💻 illustrating the #data received from #Planetum-1🛰️ and collected by the @SatNOGS network. 📡
@@ -606,123 +711,6 @@ According to the data within the GPS beacons, it was in a 105x110km orbit and wa
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@Bobcat1_Cubesat @cgbassa @SpaceTrackOrg @kerel_fs At the bottom diagrams (watch out the scale) is the deviation between the predicted points and the actual ones from the observation.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@Bobcat1_Cubesat @cgbassa @SpaceTrackOrg @kerel_fs At the top diagrams in each image you can see with blue marks the signals of the satellite as observed by the station and with the orange color the prediction of the signals as described by the TLE set.</title>
-		<published>2022-04-08T22:01:00+00:00</published>
-		<updated>2022-04-08T22:01:00+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1512551109285588996</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1512551109285588996"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@Bobcat1_Cubesat @cgbassa @SpaceTrackOrg @kerel_fs At the top diagrams in each image you can see with blue marks the signals of the satellite as observed by the station and with the orange color the prediction of the signals as described by the TLE set.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Here is a comparison of the produced @Bobcat1_Cubesat TLE set by @cgbassa for SatNOGS against the latest one by @SpaceTrackOrg based on the observed signals of Observation 5757965 by "2461 - N1ESK-Loudon" station.
-
-Analysis by @kerel_fs
-
-Observation link:
-
-network.satnogs.org/observations/5… pic.twitter.com/Svmg38lAC9</title>
-		<published>2022-04-08T22:00:35+00:00</published>
-		<updated>2022-04-08T22:00:35+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1512551001420701699</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1512551001420701699"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Here is a comparison of the produced @Bobcat1_Cubesat TLE set by @cgbassa for SatNOGS against the latest one by @SpaceTrackOrg based on the observed signals of Observation 5757965 by "2461 - N1ESK-Loudon" station.
-
-Analysis by @kerel_fs
-
-Observation link:
-
-&lt;a href="https://network.satnogs.org/observations/5757965/"&gt;network.satnogs.org/observations/5…&lt;/a&gt; &lt;a href="https://twitter.com/SatNOGS/status/1512551001420701699/photo/1"&gt;pic.twitter.com/Svmg38lAC9&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FP2ofyFXMAcKnQ1.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FP2ofyFXMAcKnQ1.png" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FP2ofx_XwAkU_7c.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FP2ofx_XwAkU_7c.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FP2ofyFXMAcKnQ1.png?name=orig" type="image/png" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FP2ofx_XwAkU_7c.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">One more TLE set for @Bobcat1_Cubesat.
-
-It is near its re-entry but transmitting GPS data allowing us calculate an accurate orbit.
-
-The TLE set and more updates in:
-
-community.libre.space/t/ng-14-elana-…</title>
-		<published>2022-04-08T21:19:02+00:00</published>
-		<updated>2022-04-08T21:19:02+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1512540544832090112</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1512540544832090112"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;One more TLE set for @Bobcat1_Cubesat.
-
-It is near its re-entry but transmitting GPS data allowing us calculate an accurate orbit.
-
-The TLE set and more updates in:
-
-&lt;a href="https://community.libre.space/t/ng-14-elana-31-launch-and-deployment-information/6529/91"&gt;community.libre.space/t/ng-14-elana-…&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
