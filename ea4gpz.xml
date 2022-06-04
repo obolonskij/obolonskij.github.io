@@ -5,12 +5,66 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-06-03T18:53:15+00:00</updated>
+	<updated>2022-06-04T16:37:31+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@azonenberg A problem of self-synchronizing scramblers is that they multiply the number of bit errors by some constant (typically 3). I don't know if that's a good enough reason not to use them for this.</title>
+		<published>2022-06-04T06:21:07+00:00</published>
+		<updated>2022-06-04T06:21:07+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1532970687756894209</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1532970687756894209"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@azonenberg A problem of self-synchronizing scramblers is that they multiply the number of bit errors by some constant (typically 3). I don't know if that's a good enough reason not to use them for this.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@amirbolous Interesting! I thought about nearly this problem a way back. Can A and B exchange information in such a way that they learn if they are each other crushes if true, and can't learn anything if false? I'm not sure it's even possible, but I don't have a proof.</title>
+		<published>2022-06-03T22:03:12+00:00</published>
+		<updated>2022-06-03T22:03:12+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1532845382908125187</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1532845382908125187"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@amirbolous Interesting! I thought about nearly this problem a way back. Can A and B exchange information in such a way that they learn if they are each other crushes if true, and can't learn anything if false? I'm not sure it's even possible, but I don't have a proof.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@flo_0_ @amsatdl Thanks for pinging me. It works! pic.twitter.com/WbKpSZEu89</title>
@@ -533,60 +587,6 @@ Now almost everything is working and the decoder is ready for other people to us
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@dEnergy_dTime @azonenberg There's a general theory about how to approximate a continuous f on an interval by a polynomial p of degree N in such a way that max |f(x)-p(x)| is minimized. Chebysev polynomials play a role in the solution. I would assume this to be a particular case.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ea2aru @gnuradio @amsatdl gist.github.com/daniestevez/d7…</title>
-		<published>2022-05-23T05:36:34+00:00</published>
-		<updated>2022-05-23T05:36:34+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1528610821512781825</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1528610821512781825"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ea2aru @gnuradio @amsatdl &lt;a href="https://gist.github.com/daniestevez/d7a969170c9c8a13070304b728e91f94"&gt;gist.github.com/daniestevez/d7…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@g4dpz @gnuradio @amsatdl Hi Dave! That sounds possible for me. I would be interested in attending.</title>
-		<published>2022-05-22T19:03:41+00:00</published>
-		<updated>2022-05-22T19:03:41+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1528451548283641856</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1528451548283641856"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@g4dpz @gnuradio @amsatdl Hi Dave! That sounds possible for me. I would be interested in attending.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
