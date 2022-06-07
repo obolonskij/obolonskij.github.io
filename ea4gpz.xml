@@ -5,12 +5,192 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-06-04T16:37:31+00:00</updated>
+	<updated>2022-06-07T14:05:10+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@flo_0_ You should also change the decimation factor (look at the variable decim1). For going from 48ksps to 6ksps you need to decimate by 8.</title>
+		<published>2022-06-06T20:10:48+00:00</published>
+		<updated>2022-06-06T20:10:48+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1533904258868846593</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1533904258868846593"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@flo_0_ You should also change the decimation factor (look at the variable decim1). For going from 48ksps to 6ksps you need to decimate by 8.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">We need to descramble the 12 symbols of the PHICH, and de-Walsh, obtaining 3 copies of the orthogonal projection onto each of the 4 PHICH groups. Only group 0 is used here. The constellation point at -1-1i stands for HI=1, which means ACK. (3/3) pic.twitter.com/Dn1ywNTVit</title>
+		<published>2022-06-06T20:09:51+00:00</published>
+		<updated>2022-06-06T20:09:51+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1533904017918771201</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1533904017918771201"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;We need to descramble the 12 symbols of the PHICH, and de-Walsh, obtaining 3 copies of the orthogonal projection onto each of the 4 PHICH groups. Only group 0 is used here. The constellation point at -1-1i stands for HI=1, which means ACK. (3/3) &lt;a href="https://twitter.com/ea4gpz/status/1533904017918771201/photo/1"&gt;pic.twitter.com/Dn1ywNTVit&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FUmFWELX0AELe8G.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FUmFWELX0AELe8G.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FUmFWELX0AELe8G.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">This is the amplitude per REG. As usual, the PCFICH is in 4 REGs equally spaced along the cell bandwidth. The PHICH is in 3 equally spaced REGs. I still need to figure out why the amplitude of PCFICH is 1 and the amplitude of PHICH is sqrt(2). (2/3) pic.twitter.com/CR40gXZgzp</title>
+		<published>2022-06-06T20:09:50+00:00</published>
+		<updated>2022-06-06T20:09:50+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1533904013862879233</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1533904013862879233"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;This is the amplitude per REG. As usual, the PCFICH is in 4 REGs equally spaced along the cell bandwidth. The PHICH is in 3 equally spaced REGs. I still need to figure out why the amplitude of PCFICH is 1 and the amplitude of PHICH is sqrt(2). (2/3) &lt;a href="https://twitter.com/ea4gpz/status/1533904013862879233/photo/1"&gt;pic.twitter.com/CR40gXZgzp&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FUmFI9CX0AAinzD.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FUmFI9CX0AAinzD.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FUmFI9CX0AAinzD.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Working again with the LTE downlink. Now focusing on the PHICH (Physical Hybrid ARQ Indicator Channel), used to send ACK/NACKs to the UEs. I've found a good symbol in my recording, which only has a single PHICH (marked in red), making things easier. (1/3) pic.twitter.com/oCBvNfEnRK</title>
+		<published>2022-06-06T20:09:49+00:00</published>
+		<updated>2022-06-06T20:09:49+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1533904009270108162</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1533904009270108162"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Working again with the LTE downlink. Now focusing on the PHICH (Physical Hybrid ARQ Indicator Channel), used to send ACK/NACKs to the UEs. I've found a good symbol in my recording, which only has a single PHICH (marked in red), making things easier. (1/3) &lt;a href="https://twitter.com/ea4gpz/status/1533904009270108162/photo/1"&gt;pic.twitter.com/oCBvNfEnRK&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FUmE9l2XEAAACAB.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FUmE9l2XEAAACAB.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FUmE9l2XEAAACAB.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@flo_0_ No. That UDP source is for my system, which sends 600 ksps IQ data. For GQRX you'll need to adapt it. It sends 48 ksps real data (also int16_t).</title>
+		<published>2022-06-06T16:16:23+00:00</published>
+		<updated>2022-06-06T16:16:23+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1533845265832091657</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1533845265832091657"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@flo_0_ No. That UDP source is for my system, which sends 600 ksps IQ data. For GQRX you'll need to adapt it. It sends 48 ksps real data (also int16_t).&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@flo_0_ I don't see the beacon signal in the spectrum. Maybe the signal is not tuned/downconverted correctly?</title>
+		<published>2022-06-06T16:09:28+00:00</published>
+		<updated>2022-06-06T16:09:28+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1533843525304999936</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1533843525304999936"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@flo_0_ I don't see the beacon signal in the spectrum. Maybe the signal is not tuned/downconverted correctly?&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@azonenberg A problem of self-synchronizing scramblers is that they multiply the number of bit errors by some constant (typically 3). I don't know if that's a good enough reason not to use them for this.</title>
@@ -425,168 +605,6 @@ Now almost everything is working and the decoder is ready for other people to us
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@dEnergy_dTime @azonenberg You still need to divide c0 and c1 by the square of the L2 norm of x and x^3 respectively.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dEnergy_dTime @azonenberg Yeah, silly mistake. It's obvious that sin(x) is orthogonal to any monomial of even degree (the monomial 1 included), because sin(x) is an odd function. So we only need to consider {x, x^3} as generators of our subspace.</title>
-		<published>2022-05-25T19:38:10+00:00</published>
-		<updated>2022-05-25T19:38:10+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1529547390105141248</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529547390105141248"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dEnergy_dTime @azonenberg Yeah, silly mistake. It's obvious that sin(x) is orthogonal to any monomial of even degree (the monomial 1 included), because sin(x) is an odd function. So we only need to consider {x, x^3} as generators of our subspace.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dEnergy_dTime @azonenberg Indeed I now had a look at your code. If you consider L2 norm instead of Linfty, then the problem is easy: the solution is the orthogonal projection of sin(x) onto the subspace generated by {1, x^3}.</title>
-		<published>2022-05-25T17:43:04+00:00</published>
-		<updated>2022-05-25T17:43:04+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1529518425239855104</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529518425239855104"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dEnergy_dTime @azonenberg Indeed I now had a look at your code. If you consider L2 norm instead of Linfty, then the problem is easy: the solution is the orthogonal projection of sin(x) onto the subspace generated by {1, x^3}.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dEnergy_dTime @azonenberg You can do this until the maximum is attained in two different points.</title>
-		<published>2022-05-25T17:40:27+00:00</published>
-		<updated>2022-05-25T17:40:27+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1529517769028513795</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529517769028513795"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dEnergy_dTime @azonenberg You can do this until the maximum is attained in two different points.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dEnergy_dTime @azonenberg Hmm. The fact that the max error is only attained once (I'm only looking at the right half, due to odd symmetry) makes me think this could be improved. Wiggle the polynomial coeffs to try to make the absolute max smaller, while paying off by making the other local max larger.</title>
-		<published>2022-05-25T17:40:00+00:00</published>
-		<updated>2022-05-25T17:40:00+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1529517655090155520</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529517655090155520"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dEnergy_dTime @azonenberg Hmm. The fact that the max error is only attained once (I'm only looking at the right half, due to odd symmetry) makes me think this could be improved. Wiggle the polynomial coeffs to try to make the absolute max smaller, while paying off by making the other local max larger.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dEnergy_dTime @azonenberg Well, not quite, on second thought. Chebyshev nodes give a way to construct an interpolating polynomial that is a good uniform approximation (but not necessarily optimal). Abandoning the idea of interpolation, the optimal may be something else. But it can be found numerically.</title>
-		<published>2022-05-25T17:34:47+00:00</published>
-		<updated>2022-05-25T17:34:47+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1529516339546804234</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529516339546804234"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dEnergy_dTime @azonenberg Well, not quite, on second thought. Chebyshev nodes give a way to construct an interpolating polynomial that is a good uniform approximation (but not necessarily optimal). Abandoning the idea of interpolation, the optimal may be something else. But it can be found numerically.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dEnergy_dTime @azonenberg There's a general theory about how to approximate a continuous f on an interval by a polynomial p of degree N in such a way that max |f(x)-p(x)| is minimized. Chebysev polynomials play a role in the solution. I would assume this to be a particular case.</title>
-		<published>2022-05-25T17:18:44+00:00</published>
-		<updated>2022-05-25T17:18:44+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1529512301350596611</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529512301350596611"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dEnergy_dTime @azonenberg There's a general theory about how to approximate a continuous f on an interval by a polynomial p of degree N in such a way that max |f(x)-p(x)| is minimized. Chebysev polynomials play a role in the solution. I would assume this to be a particular case.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
