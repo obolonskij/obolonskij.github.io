@@ -5,12 +5,379 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-06-07T14:05:10+00:00</updated>
+	<updated>2022-06-08T18:45:29+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@dEnergy_dTime @bistromath @FrenchyTerry The integral of exp(...) is what you get for the integral of the x-coordinate of the normal, while the exp(...) outside the integral corresponds to the y-coordinate of the normal. The only thing you need to compute are the coordinates of the point (S, 0) under this rotation.</title>
+		<published>2022-06-08T18:41:58+00:00</published>
+		<updated>2022-06-08T18:41:58+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1534606677168861186</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534606677168861186"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dEnergy_dTime @bistromath @FrenchyTerry The integral of exp(...) is what you get for the integral of the x-coordinate of the normal, while the exp(...) outside the integral corresponds to the y-coordinate of the normal. The only thing you need to compute are the coordinates of the point (S, 0) under this rotation.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dEnergy_dTime @bistromath @FrenchyTerry I'm doing the following. The PDF for an angle t equals the integral of the PDF of N(S, 1) along the ray from the origin at angle t. Use anisotropy to rotate the coordinate axes so that such ray is now horizontal...</title>
+		<published>2022-06-08T18:40:25+00:00</published>
+		<updated>2022-06-08T18:40:25+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1534606288784609280</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534606288784609280"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dEnergy_dTime @bistromath @FrenchyTerry I'm doing the following. The PDF for an angle t equals the integral of the PDF of N(S, 1) along the ray from the origin at angle t. Use anisotropy to rotate the coordinate axes so that such ray is now horizontal...&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dEnergy_dTime @bistromath @FrenchyTerry This. pic.twitter.com/4HV6C1iP3H</title>
+		<published>2022-06-08T18:20:28+00:00</published>
+		<updated>2022-06-08T18:20:28+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1534601267967926272</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534601267967926272"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dEnergy_dTime @bistromath @FrenchyTerry This. &lt;a href="https://twitter.com/ea4gpz/status/1534601267967926272/photo/1"&gt;pic.twitter.com/4HV6C1iP3H&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FUv_oU6XoAQJrNE.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FUv_oU6XoAQJrNE.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FUv_oU6XoAQJrNE.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dEnergy_dTime @bistromath @FrenchyTerry Indeed it's not too hard to compute its PDF. Something like 1/(2\pi) exp(-1/2(S sin t)^2) int_-{S cos t}^+infty exp(-x^2/2) dx, for an input S + N(0, 1), and angle t in [0, 2\pi).</title>
+		<published>2022-06-08T18:17:35+00:00</published>
+		<updated>2022-06-08T18:17:35+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1534600541858418689</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534600541858418689"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dEnergy_dTime @bistromath @FrenchyTerry Indeed it's not too hard to compute its PDF. Something like 1/(2\pi) exp(-1/2(S sin t)^2) int_-{S cos t}^+infty exp(-x^2/2) dx, for an input S + N(0, 1), and angle t in [0, 2\pi).&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dEnergy_dTime @bistromath @FrenchyTerry ... Otherwise, if you let the number of summands go to infinity, the variance of the output will also go to infinity in most cases. But if we divide by the number of summands (average instead of sum) then the variance of the output stays bounded.</title>
+		<published>2022-06-08T18:11:01+00:00</published>
+		<updated>2022-06-08T18:11:01+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1534598889432657920</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534598889432657920"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dEnergy_dTime @bistromath @FrenchyTerry ... Otherwise, if you let the number of summands go to infinity, the variance of the output will also go to infinity in most cases. But if we divide by the number of summands (average instead of sum) then the variance of the output stays bounded.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dEnergy_dTime @bistromath @FrenchyTerry Still I think there can be some technical difficulties if one tries to write this formally, but I think these can be solved with the appropriate setting/notation/normalization. For instance, normalize the gain of the MF...</title>
+		<published>2022-06-08T18:09:29+00:00</published>
+		<updated>2022-06-08T18:09:29+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1534598505452404741</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534598505452404741"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dEnergy_dTime @bistromath @FrenchyTerry Still I think there can be some technical difficulties if one tries to write this formally, but I think these can be solved with the appropriate setting/notation/normalization. For instance, normalize the gain of the MF...&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dEnergy_dTime @bistromath @FrenchyTerry Oh, I see now what I've done differently. You have
+\sum_k |s[k]|² / |s[k]+N[k]|
+while I have
+\sum_k s[k]*(s[k] + N[k]) / |s[k]+N[k]| =
+\sum_k (|s[k]² + N[k]s[k]*) / |s[k] + N[k]|.
+I'm thinking Nick's normalized signal is s[k] + N[k], and we multiply that against s[k]* and sum.</title>
+		<published>2022-06-08T18:06:27+00:00</published>
+		<updated>2022-06-08T18:06:27+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1534597742340849664</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534597742340849664"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dEnergy_dTime @bistromath @FrenchyTerry Oh, I see now what I've done differently. You have
+\sum_k |s[k]|² / |s[k]+N[k]|
+while I have
+\sum_k s[k]*(s[k] + N[k]) / |s[k]+N[k]| =
+\sum_k (|s[k]² + N[k]s[k]*) / |s[k] + N[k]|.
+I'm thinking Nick's normalized signal is s[k] + N[k], and we multiply that against s[k]* and sum.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dEnergy_dTime @bistromath @FrenchyTerry ... so their variance is bounded (indeed it's smaller or equal than 1).</title>
+		<published>2022-06-08T18:03:30+00:00</published>
+		<updated>2022-06-08T18:03:30+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1534596997679915010</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534596997679915010"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dEnergy_dTime @bistromath @FrenchyTerry ... so their variance is bounded (indeed it's smaller or equal than 1).&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dEnergy_dTime @bistromath @FrenchyTerry For simplicity I'm considering the case s[k]=1 for all k (probably applies more generally). Then you have sum_k (1 + N[k])/|1 + N[k]|. Rather than thinking about the denominators, think about A[k] = (1 + N[k])/|1 + N[k]|. These have values in the unit circle...</title>
+		<published>2022-06-08T18:02:01+00:00</published>
+		<updated>2022-06-08T18:02:01+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1534596625766678530</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534596625766678530"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dEnergy_dTime @bistromath @FrenchyTerry For simplicity I'm considering the case s[k]=1 for all k (probably applies more generally). Then you have sum_k (1 + N[k])/|1 + N[k]|. Rather than thinking about the denominators, think about A[k] = (1 + N[k])/|1 + N[k]|. These have values in the unit circle...&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@bistromath @FrenchyTerry Indeed. In b) it's also interesting to look at the input off the filter. For very low SNR, it is almost equidistributed over the unit circle. For very high SNR it is concentrated at a point.</title>
+		<published>2022-06-08T17:17:08+00:00</published>
+		<updated>2022-06-08T17:17:08+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1534585328241082369</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534585328241082369"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@bistromath @FrenchyTerry Indeed. In b) it's also interesting to look at the input off the filter. For very low SNR, it is almost equidistributed over the unit circle. For very high SNR it is concentrated at a point.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dEnergy_dTime @bistromath @FrenchyTerry The input has amplitude exactly equal to 1, so I'm confident it has finite variance. Not 1/normal, but rather normal/|normal|. Or didn't I understand what you said? (Twitter doesn't make it easy notation-wise).</title>
+		<published>2022-06-08T17:14:27+00:00</published>
+		<updated>2022-06-08T17:14:27+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1534584653507616768</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534584653507616768"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dEnergy_dTime @bistromath @FrenchyTerry The input has amplitude exactly equal to 1, so I'm confident it has finite variance. Not 1/normal, but rather normal/|normal|. Or didn't I understand what you said? (Twitter doesn't make it easy notation-wise).&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@bistromath @FrenchyTerry In this simpler case I think the input samples are iid RVs (they are independent non-zero-mean normals divided by their amplitude). We can apply central limit theorem to see that the MF output is approximately a normal (same result as if you don't have magnitude fixed to 1).</title>
+		<published>2022-06-08T06:03:59+00:00</published>
+		<updated>2022-06-08T06:03:59+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1534415925750943745</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534415925750943745"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@bistromath @FrenchyTerry In this simpler case I think the input samples are iid RVs (they are independent non-zero-mean normals divided by their amplitude). We can apply central limit theorem to see that the MF output is approximately a normal (same result as if you don't have magnitude fixed to 1).&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@flo_0_ In my case the decimation is in 2 stages, since a total decimation factor of 100 is needed (done as 25 * 4). A single stage is not a good idea for such a high factor. In you case, since you only need a factor of 8, you can do that in a single stage.</title>
+		<published>2022-06-07T16:02:39+00:00</published>
+		<updated>2022-06-07T16:02:39+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1534204197578604544</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534204197578604544"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@flo_0_ In my case the decimation is in 2 stages, since a total decimation factor of 100 is needed (done as 25 * 4). A single stage is not a good idea for such a high factor. In you case, since you only need a factor of 8, you can do that in a single stage.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@flo_0_ You should also change the decimation factor (look at the variable decim1). For going from 48ksps to 6ksps you need to decimate by 8.</title>
@@ -210,401 +577,6 @@
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@azonenberg A problem of self-synchronizing scramblers is that they multiply the number of bit errors by some constant (typically 3). I don't know if that's a good enough reason not to use them for this.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@amirbolous Interesting! I thought about nearly this problem a way back. Can A and B exchange information in such a way that they learn if they are each other crushes if true, and can't learn anything if false? I'm not sure it's even possible, but I don't have a proof.</title>
-		<published>2022-06-03T22:03:12+00:00</published>
-		<updated>2022-06-03T22:03:12+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1532845382908125187</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1532845382908125187"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@amirbolous Interesting! I thought about nearly this problem a way back. Can A and B exchange information in such a way that they learn if they are each other crushes if true, and can't learn anything if false? I'm not sure it's even possible, but I don't have a proof.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@flo_0_ @amsatdl Thanks for pinging me. It works! pic.twitter.com/WbKpSZEu89</title>
-		<published>2022-06-02T17:50:20+00:00</published>
-		<updated>2022-06-02T17:50:20+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1532419356902187011</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1532419356902187011"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@flo_0_ @amsatdl Thanks for pinging me. It works! &lt;a href="https://twitter.com/ea4gpz/status/1532419356902187011/photo/1"&gt;pic.twitter.com/WbKpSZEu89&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FUQ_RMnWUAEg2Px.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FUQ_RMnWUAEg2Px.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FUQ_RMnWUAEg2Px.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@F5OEOEvariste DJ0ABR's implementation already uses liquid-sdr and can run in a Raspberry Pi. You could also use this GNU Radio implementation in an embedded system, though it needs Python. I don't know which of the two implementations uses less CPU.</title>
-		<published>2022-06-01T21:00:43+00:00</published>
-		<updated>2022-06-01T21:00:43+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1532104881317855232</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1532104881317855232"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@F5OEOEvariste DJ0ABR's implementation already uses liquid-sdr and can run in a Raspberry Pi. You could also use this GNU Radio implementation in an embedded system, though it needs Python. I don't know which of the two implementations uses less CPU.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Read more: destevez.net/2022/06/decodi…</title>
-		<published>2022-06-01T20:45:00+00:00</published>
-		<updated>2022-06-01T20:45:00+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1532100926961483781</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1532100926961483781"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Read more: &lt;a href="https://destevez.net/2022/06/decoding-the-qo-100-multimedia-beacon-with-gnu-radio-part-ii/"&gt;destevez.net/2022/06/decodi…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">In this post I explain some details of this work, including a new block to extract PDUs from a stream of symbols that represents an important performance improvement for gr-satellites.
-Now almost everything is working and the decoder is ready for other people to use it. (2/3)</title>
-		<published>2022-06-01T20:45:00+00:00</published>
-		<updated>2022-06-01T20:45:00+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1532100924130197505</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1532100924130197505"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;In this post I explain some details of this work, including a new block to extract PDUs from a stream of symbols that represents an important performance improvement for gr-satellites.
-Now almost everything is working and the decoder is ready for other people to use it. (2/3)&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">New blog post: Decoding the QO-100 multimedia beacon with @gnuradio - part II. I have added to gr-satellites some C++ blocks to handle the new QO-100 beacon, and added an example flowgraph and websocket server for the real-time data. (1/3) pic.twitter.com/qsUHKRAHtC</title>
-		<published>2022-06-01T20:44:59+00:00</published>
-		<updated>2022-06-01T20:44:59+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1532100920523345921</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1532100920523345921"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;New blog post: Decoding the QO-100 multimedia beacon with @gnuradio - part II. I have added to gr-satellites some C++ blocks to handle the new QO-100 beacon, and added an example flowgraph and websocket server for the real-time data. (1/3) &lt;a href="https://twitter.com/ea4gpz/status/1532100920523345921/photo/1"&gt;pic.twitter.com/qsUHKRAHtC&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FUMdiX-WYAAfOB9.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FUMdiX-WYAAfOB9.jpg" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FUMcrZ8XwAEsXU4.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FUMcrZ8XwAEsXU4.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FUMdiX-WYAAfOB9.jpg?name=orig" type="image/jpeg" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FUMcrZ8XwAEsXU4.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">I got the waterfalls working now (and presumably the CW skimmer, but it's not sending data at the moment). The trick for the waterfalls was to unpack the data from 8 bits/byte to 6 bits/byte. I'm still missing the bulletins at the bottom of the page. pic.twitter.com/Gi4h9dSZt4</title>
-		<published>2022-05-29T17:08:59+00:00</published>
-		<updated>2022-05-29T17:08:59+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1530959400562827268</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1530959400562827268"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;I got the waterfalls working now (and presumably the CW skimmer, but it's not sending data at the moment). The trick for the waterfalls was to unpack the data from 8 bits/byte to 6 bits/byte. I'm still missing the bulletins at the bottom of the page. &lt;a href="https://twitter.com/ea4gpz/status/1530959400562827268/photo/1"&gt;pic.twitter.com/Gi4h9dSZt4&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FT8PSeZWIAEkBDE.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FT8PSeZWIAEkBDE.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FT8PSeZWIAEkBDE.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Mock-up of sending the QO-100 multimedia beacon WebSockets data from GNU Radio. So far I'm only handling the DX cluster. A simple async Python script spawns a WebSockets server and gets data from GNU Radio by TCP. pic.twitter.com/Q16P1Fgni2</title>
-		<published>2022-05-29T16:34:11+00:00</published>
-		<updated>2022-05-29T16:34:11+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1530950641534832640</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1530950641534832640"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Mock-up of sending the QO-100 multimedia beacon WebSockets data from GNU Radio. So far I'm only handling the DX cluster. A simple async Python script spawns a WebSockets server and gets data from GNU Radio by TCP. &lt;a href="https://twitter.com/ea4gpz/status/1530950641534832640/photo/1"&gt;pic.twitter.com/Q16P1Fgni2&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FT8HcZMWIAEdSHC.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FT8HcZMWIAEdSHC.jpg" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FT8GvY1XwAASBlJ.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FT8GvY1XwAASBlJ.png" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FT8GwpZWQAEiDB9.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FT8GwpZWQAEiDB9.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FT8HcZMWIAEdSHC.jpg?name=orig" type="image/jpeg" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FT8GvY1XwAASBlJ.png?name=orig" type="image/png" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FT8GwpZWQAEiDB9.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dEnergy_dTime @azonenberg ||.|| = &amp;lt;.,.&amp;gt;^1/2 (I guess that was a typo).</title>
-		<published>2022-05-26T05:12:58+00:00</published>
-		<updated>2022-05-26T05:12:58+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1529692044297396224</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529692044297396224"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dEnergy_dTime @azonenberg ||.|| = &amp;lt;.,.&amp;gt;^1/2 (I guess that was a typo).&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dEnergy_dTime @azonenberg Ah, I realized what's wrong. You can't compute the projection as &amp;lt;sin, x&amp;gt;x/&amp;lt;x, x&amp;gt; + &amp;lt;sin, x^3&amp;gt;x^3/&amp;lt;x^3, x^3&amp;gt;, because x and x^3 are not orthogonal. You should find a such that p = x+ax^3 is orthogonal to x, and use p instead of x^3. Such an a will be negative.</title>
-		<published>2022-05-25T21:52:02+00:00</published>
-		<updated>2022-05-25T21:52:02+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1529581082051592192</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529581082051592192"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dEnergy_dTime @azonenberg Ah, I realized what's wrong. You can't compute the projection as &amp;lt;sin, x&amp;gt;x/&amp;lt;x, x&amp;gt; + &amp;lt;sin, x^3&amp;gt;x^3/&amp;lt;x^3, x^3&amp;gt;, because x and x^3 are not orthogonal. You should find a such that p = x+ax^3 is orthogonal to x, and use p instead of x^3. Such an a will be negative.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dEnergy_dTime @azonenberg What surprises me the most is the fact that sin(x) is concave, but ax+bx^3 for positive a, b is convex.</title>
-		<published>2022-05-25T21:43:32+00:00</published>
-		<updated>2022-05-25T21:43:32+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1529578939986890753</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529578939986890753"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dEnergy_dTime @azonenberg What surprises me the most is the fact that sin(x) is concave, but ax+bx^3 for positive a, b is convex.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dEnergy_dTime @azonenberg It also surprises me, but it must be right. Due to symmetry we can just work in [0,pi/2]. There all the functions (sin(x), x, x^3) are positive, so their scalar products must also be positive.</title>
-		<published>2022-05-25T21:41:20+00:00</published>
-		<updated>2022-05-25T21:41:20+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1529578388721213442</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529578388721213442"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dEnergy_dTime @azonenberg It also surprises me, but it must be right. Due to symmetry we can just work in [0,pi/2]. There all the functions (sin(x), x, x^3) are positive, so their scalar products must also be positive.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dEnergy_dTime @azonenberg You still need to divide c0 and c1 by the square of the L2 norm of x and x^3 respectively.</title>
-		<published>2022-05-25T21:37:52+00:00</published>
-		<updated>2022-05-25T21:37:52+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1529577515039313926</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1529577515039313926"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dEnergy_dTime @azonenberg You still need to divide c0 and c1 by the square of the L2 norm of x and x^3 respectively.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
