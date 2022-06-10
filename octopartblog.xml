@@ -5,12 +5,54 @@
 	<id>http://</id>
 	<icon>https://octopart.com/favicon-32x32.png</icon>
 	<logo>https://octopart.com/favicon-32x32.png</logo>
-	<updated>2022-06-03T18:53:08+00:00</updated>
+	<updated>2022-06-10T14:26:49+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://octopart.com/blog" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">When to Use a Line Driver for Specialty Logic and Analog PCBs</title>
+		<published>2022-06-09T00:00:00+00:00</published>
+		<updated>2022-06-09T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/06/when-to-use-a-line-driver-for-specialty-logic-and-analog-pcbs</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/06/when-to-use-a-line-driver-for-specialty-logic-and-analog-pcbs"/>
+		
+		<content type="html">When to Use a Line Driver for Specialty Logic and Analog PCBs</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/6SvSnfcCVdN6wto9ebK655/72c9dff36f772e80c4a75dc27c1144e5/Frame_8.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Streamline your workflows with our free CAD Model Marketplace</title>
+		<published>2022-06-09T00:00:00+00:00</published>
+		<updated>2022-06-09T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/06/streamline-your-workflows-with-our-free-cad-model-marketplace</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/06/streamline-your-workflows-with-our-free-cad-model-marketplace"/>
+		
+		<content type="html">Streamline your workflows with our free CAD Model Marketplace</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/24XYDgCePHwreYbReRFJZr/570227a4f371a5f26e5862f8e1b803dc/Octopart_FeatureLaunch_CADMarketplace_sizesBlog_Square.jpg" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</title>
+		<published>2022-03-01T00:00:00+00:00</published>
+		<updated>2022-03-01T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra"/>
+		
+		<content type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4J3ZfLMCrl9LcxKe35NvBg/18047fb2a24513d4179f4c785eb499a8/Spectra_Blog_Square_720x720.png" type="image/png" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Interview with Josh Sharpe, Co-Founder of XScomponents.com</title>
@@ -35,20 +77,6 @@
 		
 		<content type="html">Introducing Harry Wykes: Nexar’s new Business Development Manager Of EMEA</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/1F16ViKn3BXFoSSMwFON2y/4489117f57d30423d39cc70dbde609b2/24705029.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</title>
-		<published>2022-03-01T00:00:00+00:00</published>
-		<updated>2022-03-01T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra"/>
-		
-		<content type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4J3ZfLMCrl9LcxKe35NvBg/18047fb2a24513d4179f4c785eb499a8/Spectra_Blog_Square_720x720.png" type="image/png" />
 
 		
 		
@@ -91,34 +119,6 @@
 		
 		<content type="html">Selecting a Varistor for Transient Voltage Suppression</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/78Bd4XW7PZAYXvKEVMdzD/ef5e5ad0e1bf2a5065da51e40ed1d205/shutterstock_1443763049__1_.jpg" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">The Complete Low-ESL Capacitor Guide</title>
-		<published>2022-05-05T00:00:00+00:00</published>
-		<updated>2022-05-05T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/05/the-complete-low-esl-capacitor-guide</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/05/the-complete-low-esl-capacitor-guide"/>
-		
-		<content type="html">The Complete Low-ESL Capacitor Guide</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/7CJPBQkQ2F5UMDmnkpyKca/d9054fee2ad6a308c2c9c470bc4c6dc2/2.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Do You Need an Interleaved DC-DC Converter?</title>
-		<published>2022-04-29T00:00:00+00:00</published>
-		<updated>2022-04-29T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/04/do-you-need-an-interleaved-dc-dc-converter</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/04/do-you-need-an-interleaved-dc-dc-converter"/>
-		
-		<content type="html">Do You Need an Interleaved DC-DC Converter?</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/6WlIT5ecEH5PvNoK4EunR7/a889ffa55cc0526da357f66318ff4334/1080x1080__2_.jpg" type="image/jpeg" />
 
 		
 		
