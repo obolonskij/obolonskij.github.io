@@ -5,12 +5,54 @@
 	<id>http://</id>
 	<icon>https://octopart.com/favicon-32x32.png</icon>
 	<logo>https://octopart.com/favicon-32x32.png</logo>
-	<updated>2022-06-10T14:26:49+00:00</updated>
+	<updated>2022-06-18T11:25:56+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://octopart.com/blog" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">LTCC Filter and Capacitor Component Selection for RF Designs</title>
+		<published>2022-06-15T00:00:00+00:00</published>
+		<updated>2022-06-15T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/06/ltcc-filter-and-capacitor-component-selection-for-rf-designs</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/06/ltcc-filter-and-capacitor-component-selection-for-rf-designs"/>
+		
+		<content type="html">LTCC Filter and Capacitor Component Selection for RF Designs</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/3jQQdVGo0rllDtbdHm1c8z/0d50e674ea0e7ef097d115797d37b64b/Frame_8.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Supply Chain Disruptions: Octopart is Built for This</title>
+		<published>2022-06-15T00:00:00+00:00</published>
+		<updated>2022-06-15T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/06/supply-chain-disruptions-octopart-is-built-for-this</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/06/supply-chain-disruptions-octopart-is-built-for-this"/>
+		
+		<content type="html">Supply Chain Disruptions: Octopart is Built for This</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/9KXqVgeDdaeRvJkmciD0v/21631b5dd4fa250d101d6dfd471f97e0/Octopart_Blog_720x720.jpg" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</title>
+		<published>2022-03-01T00:00:00+00:00</published>
+		<updated>2022-03-01T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra"/>
+		
+		<content type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4J3ZfLMCrl9LcxKe35NvBg/18047fb2a24513d4179f4c785eb499a8/Spectra_Blog_Square_720x720.png" type="image/png" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">When to Use a Line Driver for Specialty Logic and Analog PCBs</title>
@@ -34,21 +76,7 @@
 		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/06/streamline-your-workflows-with-our-free-cad-model-marketplace"/>
 		
 		<content type="html">Streamline your workflows with our free CAD Model Marketplace</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/24XYDgCePHwreYbReRFJZr/570227a4f371a5f26e5862f8e1b803dc/Octopart_FeatureLaunch_CADMarketplace_sizesBlog_Square.jpg" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</title>
-		<published>2022-03-01T00:00:00+00:00</published>
-		<updated>2022-03-01T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra"/>
-		
-		<content type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4J3ZfLMCrl9LcxKe35NvBg/18047fb2a24513d4179f4c785eb499a8/Spectra_Blog_Square_720x720.png" type="image/png" />
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/24XYDgCePHwreYbReRFJZr/2ec2eddb019cb5d2b81799a6419bf062/Octopart_FeatureLaunch_CADMarketplace_sizesBlog_Square__1_.jpg" type="image/jpeg" />
 
 		
 		
@@ -91,34 +119,6 @@
 		
 		<content type="html">How to Choose a DAC for Waveform Generation</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/3z75ivohiO5ZA8CM3IQOc5/3c99270ec999f381f5ded58f8bd1a55f/Frame_5.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Access High Speed Peripherals with a USB to PCIe Bridge</title>
-		<published>2022-05-17T00:00:00+00:00</published>
-		<updated>2022-05-17T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/05/access-high-speed-peripherals-with-a-usb-to-pcie-bridge</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/05/access-high-speed-peripherals-with-a-usb-to-pcie-bridge"/>
-		
-		<content type="html">Access High Speed Peripherals with a USB to PCIe Bridge</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4rgo9lvrFjYC1oqnMbHkUm/466190ada428f5a14cfddaa9dfc73aff/Frame_1.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Selecting a Varistor for Transient Voltage Suppression</title>
-		<published>2022-05-12T00:00:00+00:00</published>
-		<updated>2022-05-12T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/05/selecting-a-varistor-for-transient-voltage-suppression</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/05/selecting-a-varistor-for-transient-voltage-suppression"/>
-		
-		<content type="html">Selecting a Varistor for Transient Voltage Suppression</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/78Bd4XW7PZAYXvKEVMdzD/ef5e5ad0e1bf2a5065da51e40ed1d205/shutterstock_1443763049__1_.jpg" type="image/jpeg" />
 
 		
 		

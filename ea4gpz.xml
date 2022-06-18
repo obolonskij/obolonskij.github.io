@@ -5,12 +5,123 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-06-12T15:05:49+00:00</updated>
+	<updated>2022-06-18T11:26:01+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@DSP_fact Nice point of view. In mathematics this lends itself to the Pontryagin duality, which gives pairs: continuous time - continuous frequency, periodic time - discrete frequency, discrete time - periodic frequency, and finite discrete time - finite discrete frequency.</title>
+		<published>2022-06-15T20:49:12+00:00</published>
+		<updated>2022-06-15T20:49:12+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1537175412262027268</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1537175412262027268"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@DSP_fact Nice point of view. In mathematics this lends itself to the Pontryagin duality, which gives pairs: continuous time - continuous frequency, periodic time - discrete frequency, discrete time - periodic frequency, and finite discrete time - finite discrete frequency.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Demo of decoding the #QO100 #hsmodem multimedia beacon using #gqrx, #GNUradio and #grsatellites. Input adapted to #RTLSDR stick streaming UDP. Tnx @ea4gpz 
+
+youtube.com/watch?v=LBQewx…
+
+#amsat #hamradio #amateurfunk</title>
+		<published>2022-06-13T08:10:29+00:00</published>
+		<updated>2022-06-13T08:10:29+00:00</updated>
+		<id>https://twitter.com/flo_0_/status/1536259698864816128</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/flo_0_/status/1536259698864816128"/>
+		<author><name>RT: Flo (DF2ET) @ ::1 (@flo_0_)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/flo_0_"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="flo_0_"
+	src="https://pbs.twimg.com/profile_images/447161260178563073/0ydycnbG_normal.png"
+	title="Flo (DF2ET) @ ::1" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Demo of decoding the #QO100 #hsmodem multimedia beacon using #gqrx, #GNUradio and #grsatellites. Input adapted to #RTLSDR stick streaming UDP. Tnx @ea4gpz 
+
+&lt;a href="https://www.youtube.com/watch?v=LBQewxL1kk4"&gt;youtube.com/watch?v=LBQewx…&lt;/a&gt;
+
+#amsat #hamradio #amateurfunk&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">With great help of @ea4gpz I was able to adapt the #grsatellites decoder for #QO100 #MM beacon to receive and decode it using an #RTLSDR stick. 
+Now off to debugging the #python #websocket server. ¡muchas gracias! Dani
+#hamradio #amsat pic.twitter.com/KeGVgPex95</title>
+		<published>2022-06-12T18:06:08+00:00</published>
+		<updated>2022-06-12T18:06:08+00:00</updated>
+		<id>https://twitter.com/flo_0_/status/1536047212622495746</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/flo_0_/status/1536047212622495746"/>
+		<author><name>RT: Flo (DF2ET) @ ::1 (@flo_0_)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/flo_0_"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="flo_0_"
+	src="https://pbs.twimg.com/profile_images/447161260178563073/0ydycnbG_normal.png"
+	title="Flo (DF2ET) @ ::1" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;With great help of @ea4gpz I was able to adapt the #grsatellites decoder for #QO100 #MM beacon to receive and decode it using an #RTLSDR stick. 
+Now off to debugging the #python #websocket server. ¡muchas gracias! Dani
+#hamradio #amsat &lt;a href="https://twitter.com/flo_0_/status/1536047212622495746/photo/1"&gt;pic.twitter.com/KeGVgPex95&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FVEiZITWYAEov2G.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FVEiZITWYAEov2G.jpg" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FVEiZ8qXEAAJKnL.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FVEiZ8qXEAAJKnL.jpg" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FVEiaiwXsAIxbt6.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FVEiaiwXsAIxbt6.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FVEiZITWYAEov2G.jpg?name=orig" type="image/jpeg" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FVEiZ8qXEAAJKnL.jpg?name=orig" type="image/jpeg" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FVEiaiwXsAIxbt6.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Read more: destevez.net/2022/06/lte-do… (4/4)</title>
@@ -495,99 +606,6 @@ I'm thinking Nick's normalized signal is s[k] + N[k], and we multiply that again
 	&lt;blockquote&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
 		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@flo_0_ You should also change the decimation factor (look at the variable decim1). For going from 48ksps to 6ksps you need to decimate by 8.</title>
-		<published>2022-06-06T20:10:48+00:00</published>
-		<updated>2022-06-06T20:10:48+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1533904258868846593</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1533904258868846593"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@flo_0_ You should also change the decimation factor (look at the variable decim1). For going from 48ksps to 6ksps you need to decimate by 8.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">We need to descramble the 12 symbols of the PHICH, and de-Walsh, obtaining 3 copies of the orthogonal projection onto each of the 4 PHICH groups. Only group 0 is used here. The constellation point at -1-1i stands for HI=1, which means ACK. (3/3) pic.twitter.com/Dn1ywNTVit</title>
-		<published>2022-06-06T20:09:51+00:00</published>
-		<updated>2022-06-06T20:09:51+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1533904017918771201</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1533904017918771201"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;We need to descramble the 12 symbols of the PHICH, and de-Walsh, obtaining 3 copies of the orthogonal projection onto each of the 4 PHICH groups. Only group 0 is used here. The constellation point at -1-1i stands for HI=1, which means ACK. (3/3) &lt;a href="https://twitter.com/ea4gpz/status/1533904017918771201/photo/1"&gt;pic.twitter.com/Dn1ywNTVit&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FUmFWELX0AELe8G.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FUmFWELX0AELe8G.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FUmFWELX0AELe8G.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">This is the amplitude per REG. As usual, the PCFICH is in 4 REGs equally spaced along the cell bandwidth. The PHICH is in 3 equally spaced REGs. I still need to figure out why the amplitude of PCFICH is 1 and the amplitude of PHICH is sqrt(2). (2/3) pic.twitter.com/CR40gXZgzp</title>
-		<published>2022-06-06T20:09:50+00:00</published>
-		<updated>2022-06-06T20:09:50+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1533904013862879233</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1533904013862879233"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;This is the amplitude per REG. As usual, the PCFICH is in 4 REGs equally spaced along the cell bandwidth. The PHICH is in 3 equally spaced REGs. I still need to figure out why the amplitude of PCFICH is 1 and the amplitude of PHICH is sqrt(2). (2/3) &lt;a href="https://twitter.com/ea4gpz/status/1533904013862879233/photo/1"&gt;pic.twitter.com/CR40gXZgzp&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FUmFI9CX0AAinzD.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FUmFI9CX0AAinzD.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FUmFI9CX0AAinzD.png?name=orig" type="image/png" />
-
 		
 		
 	</entry>
