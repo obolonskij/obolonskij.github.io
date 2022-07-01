@@ -5,12 +5,39 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-06-09T14:52:06+00:00</updated>
+	<updated>2022-07-01T12:18:39+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@IK8XLD @Valter_Rassega Well done Rocco!</title>
+		<published>2022-06-21T20:50:45+00:00</published>
+		<updated>2022-06-21T20:50:45+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1539350131086086144</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1539350131086086144"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@IK8XLD @Valter_Rassega Well done Rocco!&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Good SSTV signal from ISS on 145.800 over europe pic.twitter.com/AmIGd7vk1o</title>
@@ -587,33 +614,6 @@
 &lt;/div&gt;</content>
 		<link rel="enclosure" href="https://pbs.twimg.com/media/FMBDO5YXEAEyf-D.jpg?name=orig" type="image/jpeg" />
 
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@Dario24105 Bella Dario!</title>
-		<published>2022-02-19T13:16:22+00:00</published>
-		<updated>2022-02-19T13:16:22+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1495024461225078784</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1495024461225078784"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@Dario24105 Bella Dario!&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
 		
 		
 	</entry>

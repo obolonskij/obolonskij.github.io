@@ -5,12 +5,471 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-06-18T11:26:01+00:00</updated>
+	<updated>2022-07-01T12:18:38+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@abraxas3d @tnt Just realized that for the DCI, if the SNR is good, a UE can often use the wrong number of CCEs to try to decode a DCI and still succeed, as long as it uses the correct starting point for the CCE allocation. Probably this reduces the number of decoding attempts needed in practice</title>
+		<published>2022-06-26T16:35:23+00:00</published>
+		<updated>2022-06-26T16:35:23+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1541097804617097217</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1541097804617097217"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@abraxas3d @tnt Just realized that for the DCI, if the SNR is good, a UE can often use the wrong number of CCEs to try to decode a DCI and still succeed, as long as it uses the correct starting point for the CCE allocation. Probably this reduces the number of decoding attempts needed in practice&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@tnt On the other hand signalling bits are saved. The line between clever and crazy is quite thin, and with this I don't know on which side of the line it falls. It's terribly complicated, but the physical layer procedures say exactly what the UE should try and when to bail out.</title>
+		<published>2022-06-26T12:10:39+00:00</published>
+		<updated>2022-06-26T12:10:39+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1541031181529092096</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1541031181529092096"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@tnt On the other hand signalling bits are saved. The line between clever and crazy is quite thin, and with this I don't know on which side of the line it falls. It's terribly complicated, but the physical layer procedures say exactly what the UE should try and when to bail out.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">It uses format 1A: compact scheduling of one PDSCH codeword. As we can see on the decoder webpage, it describes the PDSCH transmission that follows (marked in orange in the waterfall). (4/4)</title>
+		<published>2022-06-26T11:25:25+00:00</published>
+		<updated>2022-06-26T11:25:25+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1541019798162784257</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1541019798162784257"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;It uses format 1A: compact scheduling of one PDSCH codeword. As we can see on the decoder webpage, it describes the PDSCH transmission that follows (marked in orange in the waterfall). (4/4)&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Here a single DCI is transmitted (marked in red in the waterfall). It is FEC encoded in 4 CCEs, meaning that it uses 144 QPSK symbols. The size of the DCI before FEC is 43 bits (including the 16-bit CRC). It is addressed to the Paging RNTI. (3/4)</title>
+		<published>2022-06-26T11:25:24+00:00</published>
+		<updated>2022-06-26T11:25:24+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1541019795637805056</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1541019795637805056"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Here a single DCI is transmitted (marked in red in the waterfall). It is FEC encoded in 4 CCEs, meaning that it uses 144 QPSK symbols. The size of the DCI before FEC is 43 bits (including the 16-bit CRC). It is addressed to the Paging RNTI. (3/4)&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">There are many types of DCIs, different sizes, different FECs, and destinations. None of these are given explicitly, and must be detected by trial and error. Also, zero or more DCIs can be transmitted at the beginning of a subframe, without explicit indications. (2/4)</title>
+		<published>2022-06-26T11:25:24+00:00</published>
+		<updated>2022-06-26T11:25:24+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1541019793142255618</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1541019793142255618"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;There are many types of DCIs, different sizes, different FECs, and destinations. None of these are given explicitly, and must be detected by trial and error. Also, zero or more DCIs can be transmitted at the beginning of a subframe, without explicit indications. (2/4)&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Just managed to decode an LTE DCI from scratch! DCIs are control messages sent by the base station. They are transmitted in the PDCCH (physical downlink control channel). Decoding them involves a lot of guesswork, that a regular phone also needs to perform. (1/N) pic.twitter.com/b419JDEIIf</title>
+		<published>2022-06-26T11:25:23+00:00</published>
+		<updated>2022-06-26T11:25:23+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1541019789673611264</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1541019789673611264"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Just managed to decode an LTE DCI from scratch! DCIs are control messages sent by the base station. They are transmitted in the PDCCH (physical downlink control channel). Decoding them involves a lot of guesswork, that a regular phone also needs to perform. (1/N) &lt;a href="https://twitter.com/ea4gpz/status/1541019789673611264/photo/1"&gt;pic.twitter.com/b419JDEIIf&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FWLNQUKWQAAuubX.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FWLNQUKWQAAuubX.jpg" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FWLMkaAWIAE21GZ.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FWLMkaAWIAE21GZ.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FWLNQUKWQAAuubX.jpg?name=orig" type="image/jpeg" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FWLMkaAWIAE21GZ.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Right about now, @KuehnReinhard is giving his talk "Amateurfunk trifft Astronomie und Raumfahrt" at the German HAM Radio convention in Friedrichshafen. Almost the whole DSLWP-B team contributed with a short video. Hopefully the entire talk will be recorded. pic.twitter.com/VMFGnAJUNj</title>
+		<published>2022-06-25T14:34:23+00:00</published>
+		<updated>2022-06-25T14:34:23+00:00</updated>
+		<id>https://twitter.com/tammojan/status/1540704964816691200</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/tammojan/status/1540704964816691200"/>
+		<author><name>RT: Tammo Jan Dijkema (@tammojan)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/tammojan"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="tammojan"
+	src="https://pbs.twimg.com/profile_images/586573138852446208/-kSyc281_normal.jpg"
+	title="Tammo Jan Dijkema" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Right about now, @KuehnReinhard is giving his talk "Amateurfunk trifft Astronomie und Raumfahrt" at the German HAM Radio convention in Friedrichshafen. Almost the whole DSLWP-B team contributed with a short video. Hopefully the entire talk will be recorded. &lt;a href="https://twitter.com/tammojan/status/1540704964816691200/photo/1"&gt;pic.twitter.com/VMFGnAJUNj&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FWGuYyuUYAElTsC.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FWGuYyuUYAElTsC.jpg" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FWGuZw6WQAAv0su.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FWGuZw6WQAAv0su.jpg" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FWGuacuWAAImCta.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FWGuacuWAAImCta.jpg" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FWGubEUXEAAHEzS.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FWGubEUXEAAHEzS.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FWGuYyuUYAElTsC.jpg?name=orig" type="image/jpeg" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FWGuZw6WQAAv0su.jpg?name=orig" type="image/jpeg" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FWGuacuWAAImCta.jpg?name=orig" type="image/jpeg" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FWGubEUXEAAHEzS.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Great @GNURadioDaysEU tutorials, specially the one on FPGAs using Amaranth. Hopefully this will help more hobbyists get up an running with FPGA dev for SDR. youtube.com/watch?v=0QQvLD…
+
+And now, the SDR Academy livestream is starting: youtube.sdra.io</title>
+		<published>2022-06-25T08:07:41+00:00</published>
+		<updated>2022-06-25T08:07:41+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1540607648168640512</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1540607648168640512"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Great @GNURadioDaysEU tutorials, specially the one on FPGAs using Amaranth. Hopefully this will help more hobbyists get up an running with FPGA dev for SDR. &lt;a href="https://www.youtube.com/watch?v=0QQvLDpwdLU"&gt;youtube.com/watch?v=0QQvLD…&lt;/a&gt;
+
+And now, the SDR Academy livestream is starting: &lt;a href="https://youtube.sdra.io/"&gt;youtube.sdra.io&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Made a small video demonstrating the decoding of #QO100 #hsmodem multimedia beacon using #gqrx and #rtlsdr stick. Shows @amsatdl and @AmsatUK bulletins now.
+
+youtube.com/watch?v=W-aS7-…
+
+#hamradio #amsat twitter.com/ea4gpz/status/…</title>
+		<published>2022-06-24T13:32:04+00:00</published>
+		<updated>2022-06-24T13:32:04+00:00</updated>
+		<id>https://twitter.com/flo_0_/status/1540326897334222855</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/flo_0_/status/1540326897334222855"/>
+		<author><name>RT: Flo (DF2ET) @ ::1 (@flo_0_)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/flo_0_"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="flo_0_"
+	src="https://pbs.twimg.com/profile_images/447161260178563073/0ydycnbG_normal.png"
+	title="Flo (DF2ET) @ ::1" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Made a small video demonstrating the decoding of #QO100 #hsmodem multimedia beacon using #gqrx and #rtlsdr stick. Shows @amsatdl and @AmsatUK bulletins now.
+
+&lt;a href="https://www.youtube.com/watch?v=W-aS7-zbw2Y"&gt;youtube.com/watch?v=W-aS7-…&lt;/a&gt;
+
+#hamradio #amsat &lt;a href="https://twitter.com/ea4gpz/status/1540031914823847937"&gt;twitter.com/ea4gpz/status/…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@Hisuin Great region. Nearby you have Colmar, home of the Isenheim altar, main inspiration for Hindemith's Mathis der Maler symphony.</title>
+		<published>2022-06-23T20:14:00+00:00</published>
+		<updated>2022-06-23T20:14:00+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1540065657814908928</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1540065657814908928"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@Hisuin Great region. Nearby you have Colmar, home of the Isenheim altar, main inspiration for Hindemith's Mathis der Maler symphony.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Support for the AMSAT bulletins now available in the gr-satellites QO-100 multimedia beacon receiver. Thanks to @flo_0_ for figuring out the format in which these must be sent. pic.twitter.com/ORdCLMHS0U</title>
+		<published>2022-06-23T17:59:55+00:00</published>
+		<updated>2022-06-23T17:59:55+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1540031914823847937</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1540031914823847937"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Support for the AMSAT bulletins now available in the gr-satellites QO-100 multimedia beacon receiver. Thanks to @flo_0_ for figuring out the format in which these must be sent. &lt;a href="https://twitter.com/ea4gpz/status/1540031914823847937/photo/1"&gt;pic.twitter.com/ORdCLMHS0U&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FV9K1LdWAAETm9S.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FV9K1LdWAAETm9S.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FV9K1LdWAAETm9S.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Tutorials of the European GNU Radio Days at the introductory day of the Software Defined Radio Academy will be streamed Friday June 24 starting at 1 PM CEST on youtube.sdra.io</title>
+		<published>2022-06-20T20:02:31+00:00</published>
+		<updated>2022-06-20T20:02:31+00:00</updated>
+		<id>https://twitter.com/GNURadioDaysEU/status/1538975603445186560</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/GNURadioDaysEU/status/1538975603445186560"/>
+		<author><name>RT: European GNU Radio Days (@GNURadioDaysEU)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/GNURadioDaysEU"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="GNURadioDaysEU"
+	src="https://pbs.twimg.com/profile_images/1192129716347686912/JrSEPP2b_normal.jpg"
+	title="European GNU Radio Days" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Tutorials of the European GNU Radio Days at the introductory day of the Software Defined Radio Academy will be streamed Friday June 24 starting at 1 PM CEST on &lt;a href="http://youtube.sdra.io"&gt;youtube.sdra.io&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@michaelossmann Good question! Wikipedia has a nice history page that starts with "continuous timekeeping devices", including sand, water, candle and incense burning, (although arguably some use the rotation of Earth) and then introduces "oscillatory timekeeping devices". en.wikipedia.org/wiki/History_o…</title>
+		<published>2022-06-20T19:48:15+00:00</published>
+		<updated>2022-06-20T19:48:15+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1538972013041180675</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1538972013041180675"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@michaelossmann Good question! Wikipedia has a nice history page that starts with "continuous timekeeping devices", including sand, water, candle and incense burning, (although arguably some use the rotation of Earth) and then introduces "oscillatory timekeeping devices". &lt;a href="https://en.wikipedia.org/wiki/History_of_timekeeping_devices"&gt;en.wikipedia.org/wiki/History_o…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@df2mz @BepiColombo I see. The relative positions of all the planets are wrong in the diagram. Venus is shown behind the spacecraft rather than ahead.</title>
+		<published>2022-06-20T18:55:53+00:00</published>
+		<updated>2022-06-20T18:55:53+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1538958834877833218</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1538958834877833218"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@df2mz @BepiColombo I see. The relative positions of all the planets are wrong in the diagram. Venus is shown behind the spacecraft rather than ahead.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@df2mz @BepiColombo What is wrong precisely?</title>
+		<published>2022-06-20T16:57:23+00:00</published>
+		<updated>2022-06-20T16:57:23+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1538929012369760256</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1538929012369760256"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@df2mz @BepiColombo What is wrong precisely?&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@DSP_fact Nice point of view. In mathematics this lends itself to the Pontryagin duality, which gives pairs: continuous time - continuous frequency, periodic time - discrete frequency, discrete time - periodic frequency, and finite discrete time - finite discrete frequency.</title>
@@ -179,433 +638,6 @@ Now off to debugging the #python #websocket server. ¡muchas gracias! Dani
 &lt;/div&gt;</content>
 		<link rel="enclosure" href="https://pbs.twimg.com/media/FU_YsAvX0AAzBFE.png?name=orig" type="image/png" />
 
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">I show how to spot the PHICH transmissions in the waterfall (marked here with red ticks) and how to calculate the resource elements (locations in the time-frequency grid) that they occupy. (2/4) pic.twitter.com/XGj51D9aOx</title>
-		<published>2022-06-11T18:04:01+00:00</published>
-		<updated>2022-06-11T18:04:01+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1535684292159885314</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1535684292159885314"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;I show how to spot the PHICH transmissions in the waterfall (marked here with red ticks) and how to calculate the resource elements (locations in the time-frequency grid) that they occupy. (2/4) &lt;a href="https://twitter.com/ea4gpz/status/1535684292159885314/photo/1"&gt;pic.twitter.com/XGj51D9aOx&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FU_YR-8X0AECcO7.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FU_YR-8X0AECcO7.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FU_YR-8X0AECcO7.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">New blog post: LTE downlink - PHICH. The Physical Hybrid ARQ Indicator Channel is used to send ACK/NACKs to the UEs (phones), informing them of whether the eNB (base station) could to decode their uplinks. Here I show how to process this data, using an IQ recording and Python. 🧵</title>
-		<published>2022-06-11T18:04:00+00:00</published>
-		<updated>2022-06-11T18:04:00+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1535684288204644354</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1535684288204644354"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;New blog post: LTE downlink - PHICH. The Physical Hybrid ARQ Indicator Channel is used to send ACK/NACKs to the UEs (phones), informing them of whether the eNB (base station) could to decode their uplinks. Here I show how to process this data, using an IQ recording and Python. 🧵&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dEnergy_dTime @bistromath @FrenchyTerry The integral of exp(...) is what you get for the integral of the x-coordinate of the normal, while the exp(...) outside the integral corresponds to the y-coordinate of the normal. The only thing you need to compute are the coordinates of the point (S, 0) under this rotation.</title>
-		<published>2022-06-08T18:41:58+00:00</published>
-		<updated>2022-06-08T18:41:58+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1534606677168861186</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534606677168861186"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dEnergy_dTime @bistromath @FrenchyTerry The integral of exp(...) is what you get for the integral of the x-coordinate of the normal, while the exp(...) outside the integral corresponds to the y-coordinate of the normal. The only thing you need to compute are the coordinates of the point (S, 0) under this rotation.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dEnergy_dTime @bistromath @FrenchyTerry I'm doing the following. The PDF for an angle t equals the integral of the PDF of N(S, 1) along the ray from the origin at angle t. Use anisotropy to rotate the coordinate axes so that such ray is now horizontal...</title>
-		<published>2022-06-08T18:40:25+00:00</published>
-		<updated>2022-06-08T18:40:25+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1534606288784609280</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534606288784609280"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dEnergy_dTime @bistromath @FrenchyTerry I'm doing the following. The PDF for an angle t equals the integral of the PDF of N(S, 1) along the ray from the origin at angle t. Use anisotropy to rotate the coordinate axes so that such ray is now horizontal...&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dEnergy_dTime @bistromath @FrenchyTerry This. pic.twitter.com/4HV6C1iP3H</title>
-		<published>2022-06-08T18:20:28+00:00</published>
-		<updated>2022-06-08T18:20:28+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1534601267967926272</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534601267967926272"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dEnergy_dTime @bistromath @FrenchyTerry This. &lt;a href="https://twitter.com/ea4gpz/status/1534601267967926272/photo/1"&gt;pic.twitter.com/4HV6C1iP3H&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FUv_oU6XoAQJrNE.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FUv_oU6XoAQJrNE.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FUv_oU6XoAQJrNE.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dEnergy_dTime @bistromath @FrenchyTerry Indeed it's not too hard to compute its PDF. Something like 1/(2\pi) exp(-1/2(S sin t)^2) int_-{S cos t}^+infty exp(-x^2/2) dx, for an input S + N(0, 1), and angle t in [0, 2\pi).</title>
-		<published>2022-06-08T18:17:35+00:00</published>
-		<updated>2022-06-08T18:17:35+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1534600541858418689</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534600541858418689"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dEnergy_dTime @bistromath @FrenchyTerry Indeed it's not too hard to compute its PDF. Something like 1/(2\pi) exp(-1/2(S sin t)^2) int_-{S cos t}^+infty exp(-x^2/2) dx, for an input S + N(0, 1), and angle t in [0, 2\pi).&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dEnergy_dTime @bistromath @FrenchyTerry ... Otherwise, if you let the number of summands go to infinity, the variance of the output will also go to infinity in most cases. But if we divide by the number of summands (average instead of sum) then the variance of the output stays bounded.</title>
-		<published>2022-06-08T18:11:01+00:00</published>
-		<updated>2022-06-08T18:11:01+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1534598889432657920</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534598889432657920"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dEnergy_dTime @bistromath @FrenchyTerry ... Otherwise, if you let the number of summands go to infinity, the variance of the output will also go to infinity in most cases. But if we divide by the number of summands (average instead of sum) then the variance of the output stays bounded.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dEnergy_dTime @bistromath @FrenchyTerry Still I think there can be some technical difficulties if one tries to write this formally, but I think these can be solved with the appropriate setting/notation/normalization. For instance, normalize the gain of the MF...</title>
-		<published>2022-06-08T18:09:29+00:00</published>
-		<updated>2022-06-08T18:09:29+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1534598505452404741</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534598505452404741"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dEnergy_dTime @bistromath @FrenchyTerry Still I think there can be some technical difficulties if one tries to write this formally, but I think these can be solved with the appropriate setting/notation/normalization. For instance, normalize the gain of the MF...&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dEnergy_dTime @bistromath @FrenchyTerry Oh, I see now what I've done differently. You have
-\sum_k |s[k]|² / |s[k]+N[k]|
-while I have
-\sum_k s[k]*(s[k] + N[k]) / |s[k]+N[k]| =
-\sum_k (|s[k]² + N[k]s[k]*) / |s[k] + N[k]|.
-I'm thinking Nick's normalized signal is s[k] + N[k], and we multiply that against s[k]* and sum.</title>
-		<published>2022-06-08T18:06:27+00:00</published>
-		<updated>2022-06-08T18:06:27+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1534597742340849664</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534597742340849664"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dEnergy_dTime @bistromath @FrenchyTerry Oh, I see now what I've done differently. You have
-\sum_k |s[k]|² / |s[k]+N[k]|
-while I have
-\sum_k s[k]*(s[k] + N[k]) / |s[k]+N[k]| =
-\sum_k (|s[k]² + N[k]s[k]*) / |s[k] + N[k]|.
-I'm thinking Nick's normalized signal is s[k] + N[k], and we multiply that against s[k]* and sum.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dEnergy_dTime @bistromath @FrenchyTerry ... so their variance is bounded (indeed it's smaller or equal than 1).</title>
-		<published>2022-06-08T18:03:30+00:00</published>
-		<updated>2022-06-08T18:03:30+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1534596997679915010</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534596997679915010"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dEnergy_dTime @bistromath @FrenchyTerry ... so their variance is bounded (indeed it's smaller or equal than 1).&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dEnergy_dTime @bistromath @FrenchyTerry For simplicity I'm considering the case s[k]=1 for all k (probably applies more generally). Then you have sum_k (1 + N[k])/|1 + N[k]|. Rather than thinking about the denominators, think about A[k] = (1 + N[k])/|1 + N[k]|. These have values in the unit circle...</title>
-		<published>2022-06-08T18:02:01+00:00</published>
-		<updated>2022-06-08T18:02:01+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1534596625766678530</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534596625766678530"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dEnergy_dTime @bistromath @FrenchyTerry For simplicity I'm considering the case s[k]=1 for all k (probably applies more generally). Then you have sum_k (1 + N[k])/|1 + N[k]|. Rather than thinking about the denominators, think about A[k] = (1 + N[k])/|1 + N[k]|. These have values in the unit circle...&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@bistromath @FrenchyTerry Indeed. In b) it's also interesting to look at the input off the filter. For very low SNR, it is almost equidistributed over the unit circle. For very high SNR it is concentrated at a point.</title>
-		<published>2022-06-08T17:17:08+00:00</published>
-		<updated>2022-06-08T17:17:08+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1534585328241082369</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534585328241082369"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@bistromath @FrenchyTerry Indeed. In b) it's also interesting to look at the input off the filter. For very low SNR, it is almost equidistributed over the unit circle. For very high SNR it is concentrated at a point.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dEnergy_dTime @bistromath @FrenchyTerry The input has amplitude exactly equal to 1, so I'm confident it has finite variance. Not 1/normal, but rather normal/|normal|. Or didn't I understand what you said? (Twitter doesn't make it easy notation-wise).</title>
-		<published>2022-06-08T17:14:27+00:00</published>
-		<updated>2022-06-08T17:14:27+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1534584653507616768</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534584653507616768"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dEnergy_dTime @bistromath @FrenchyTerry The input has amplitude exactly equal to 1, so I'm confident it has finite variance. Not 1/normal, but rather normal/|normal|. Or didn't I understand what you said? (Twitter doesn't make it easy notation-wise).&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@bistromath @FrenchyTerry In this simpler case I think the input samples are iid RVs (they are independent non-zero-mean normals divided by their amplitude). We can apply central limit theorem to see that the MF output is approximately a normal (same result as if you don't have magnitude fixed to 1).</title>
-		<published>2022-06-08T06:03:59+00:00</published>
-		<updated>2022-06-08T06:03:59+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1534415925750943745</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534415925750943745"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@bistromath @FrenchyTerry In this simpler case I think the input samples are iid RVs (they are independent non-zero-mean normals divided by their amplitude). We can apply central limit theorem to see that the MF output is approximately a normal (same result as if you don't have magnitude fixed to 1).&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@flo_0_ In my case the decimation is in 2 stages, since a total decimation factor of 100 is needed (done as 25 * 4). A single stage is not a good idea for such a high factor. In you case, since you only need a factor of 8, you can do that in a single stage.</title>
-		<published>2022-06-07T16:02:39+00:00</published>
-		<updated>2022-06-07T16:02:39+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1534204197578604544</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1534204197578604544"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@flo_0_ In my case the decimation is in 2 stages, since a total decimation factor of 100 is needed (done as 25 * 4). A single stage is not a good idea for such a high factor. In you case, since you only need a factor of 8, you can do that in a single stage.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
 		
 		
 	</entry>

@@ -5,12 +5,78 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-06-09T14:52:07+00:00</updated>
+	<updated>2022-07-01T12:18:40+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">The @SatNOGS network 📡 has received #satellite #STEPCubeLab-II 🛰️ from the #KSLV2 #Nuri launch. 
+🌎🌍🌏
+@chosun_univ
+
+For more updates follow the thread: community.libre.space/t/step-cubelab…</title>
+		<published>2022-06-29T11:22:56+00:00</published>
+		<updated>2022-06-29T11:22:56+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1542106337013891075</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1542106337013891075"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The @SatNOGS network 📡 has received #satellite #STEPCubeLab-II 🛰️ from the #KSLV2 #Nuri launch. 
+🌎🌍🌏
+@chosun_univ
+
+For more updates follow the thread: &lt;a href="https://community.libre.space/t/step-cubelab-ii-kslv-ii-launch/9369/12"&gt;community.libre.space/t/step-cubelab…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@planet4589 @SpaceComms1 These are the current NORAD IDs we use for TEVELs and they are confirmed with the decoded data from several Network observations. 
+
+It remains to change the temporary NORAD IDs in DB and Network. This is going to be done in the next days.</title>
+		<published>2022-06-22T07:50:05+00:00</published>
+		<updated>2022-06-22T07:50:05+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1539516057643323392</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1539516057643323392"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@planet4589 @SpaceComms1 These are the current NORAD IDs we use for TEVELs and they are confirmed with the decoded data from several Network observations. 
+
+It remains to change the temporary NORAD IDs in DB and Network. This is going to be done in the next days.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Check out the #dashboard with the #data received from #Foresail-1🛰️ and collected by the @SatNOGS network. 📡
@@ -664,74 +730,6 @@ You can find out more about it here: &lt;a href="https://community.libre.space/t
 	&lt;blockquote&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
 		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@SatNOGS @GASPACS_CubeSat Last observation of Bobcat-1: network.satnogs.org/observations/5…
-According to the data within the GPS beacons, it was in a 105x110km orbit and was spinning at 64deg/s. It is simply incredible that we were able to track it this long, and is a testament to @SatNOGS and @cgbassa's skills.</title>
-		<published>2022-04-09T03:06:23+00:00</published>
-		<updated>2022-04-09T03:06:23+00:00</updated>
-		<id>https://twitter.com/Bobcat1_Cubesat/status/1512627960750252038</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/Bobcat1_Cubesat/status/1512627960750252038"/>
-		<author><name>RT: Bobcat-1 Team (@Bobcat1_Cubesat)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/Bobcat1_Cubesat"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="Bobcat1_Cubesat"
-	src="https://pbs.twimg.com/profile_images/1302597879719235585/neM50u_5_normal.png"
-	title="Bobcat-1 Team" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@SatNOGS @GASPACS_CubeSat Last observation of Bobcat-1: &lt;a href="https://network.satnogs.org/observations/5757898/"&gt;network.satnogs.org/observations/5…&lt;/a&gt;
-According to the data within the GPS beacons, it was in a 105x110km orbit and was spinning at 64deg/s. It is simply incredible that we were able to track it this long, and is a testament to @SatNOGS and @cgbassa's skills.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Bobcat-1 went out with a bang at approximately 2:02 UTC. Amazingly, @SatNOGS received a beacon 10 minutes prior when Bobcat-1 was at just 109km (!!!) and had begun to violently tumble due to the forces at reentry. (Comic courtesy of @GASPACS_CubeSat team) pic.twitter.com/CMtVXXedSw</title>
-		<published>2022-04-09T03:03:28+00:00</published>
-		<updated>2022-04-09T03:03:28+00:00</updated>
-		<id>https://twitter.com/Bobcat1_Cubesat/status/1512627225174159365</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/Bobcat1_Cubesat/status/1512627225174159365"/>
-		<author><name>RT: Bobcat-1 Team (@Bobcat1_Cubesat)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/Bobcat1_Cubesat"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="Bobcat1_Cubesat"
-	src="https://pbs.twimg.com/profile_images/1302597879719235585/neM50u_5_normal.png"
-	title="Bobcat-1 Team" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Bobcat-1 went out with a bang at approximately 2:02 UTC. Amazingly, @SatNOGS received a beacon 10 minutes prior when Bobcat-1 was at just 109km (!!!) and had begun to violently tumble due to the forces at reentry. (Comic courtesy of @GASPACS_CubeSat team) &lt;a href="https://twitter.com/Bobcat1_Cubesat/status/1512627225174159365/photo/1"&gt;pic.twitter.com/CMtVXXedSw&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FP3uaQXWUAYJm7X.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FP3uaQXWUAYJm7X.jpg" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FP3ubZ5X0Aczfp6.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FP3ubZ5X0Aczfp6.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FP3uaQXWUAYJm7X.jpg?name=orig" type="image/jpeg" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FP3ubZ5X0Aczfp6.png?name=orig" type="image/png" />
-
 		
 		
 	</entry>
