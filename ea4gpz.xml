@@ -5,12 +5,471 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-07-01T12:18:38+00:00</updated>
+	<updated>2022-07-12T08:14:20+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@OpenResearchIns OK. For me the key is that the nonce doesn't transmit information. It's the same as in HMAC, were you're just encrypting a hash, not the actual message.</title>
+		<published>2022-07-12T05:16:33+00:00</published>
+		<updated>2022-07-12T05:16:33+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1546725176615702533</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1546725176615702533"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@OpenResearchIns OK. For me the key is that the nonce doesn't transmit information. It's the same as in HMAC, were you're just encrypting a hash, not the actual message.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@pe0sat Might be just noise being sent over the FM transmitter?</title>
+		<published>2022-07-12T05:13:54+00:00</published>
+		<updated>2022-07-12T05:13:54+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1546724508353961984</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1546724508353961984"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@pe0sat Might be just noise being sent over the FM transmitter?&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@TSKelso @gm8arv Interesting! @SatNOGS is using 9xxxx for new launches before a final ID is assigned by NORAD. Maybe using 7xxxx would be more correct.</title>
+		<published>2022-07-06T09:22:37+00:00</published>
+		<updated>2022-07-06T09:22:37+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1544612772582985729</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1544612772582985729"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@TSKelso @gm8arv Interesting! @SatNOGS is using 9xxxx for new launches before a final ID is assigned by NORAD. Maybe using 7xxxx would be more correct.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@gm8arv @TSKelso Analyst objects start at 70000, I presume.</title>
+		<published>2022-07-06T06:11:04+00:00</published>
+		<updated>2022-07-06T06:11:04+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1544564566784360448</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1544564566784360448"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@gm8arv @TSKelso Analyst objects start at 70000, I presume.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@OK9UWU @sq3dho @Tomek_SP5LOT @SkyFoxLabs @rtlsdrblog @SatNOGS Depending on what you mean by "demodulator output", you can get this either with the --kiss_out parameter, or with the --dump_path parameter.</title>
+		<published>2022-07-05T16:04:22+00:00</published>
+		<updated>2022-07-05T16:04:22+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1544351489103118336</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1544351489103118336"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@OK9UWU @sq3dho @Tomek_SP5LOT @SkyFoxLabs @rtlsdrblog @SatNOGS Depending on what you mean by "demodulator output", you can get this either with the --kiss_out parameter, or with the --dump_path parameter.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Read more: destevez.net/2022/07/lte-do…</title>
+		<published>2022-07-01T19:47:18+00:00</published>
+		<updated>2022-07-01T19:47:18+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1542958043100487681</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1542958043100487681"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Read more: &lt;a href="https://destevez.net/2022/07/lte-downlink-pbch-and-pdcch/"&gt;destevez.net/2022/07/lte-do…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Here is a scheduling announcement for spatial multiplexing using two codewords over two antenna ports. The resource block allocation uses the upper and lower frequency blocks of the cell. This matches what we seen on the waterfall. (9/10) pic.twitter.com/VDBT0xkq89</title>
+		<published>2022-07-01T19:47:18+00:00</published>
+		<updated>2022-07-01T19:47:18+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1542958039698907136</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1542958039698907136"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Here is a scheduling announcement for spatial multiplexing using two codewords over two antenna ports. The resource block allocation uses the upper and lower frequency blocks of the cell. This matches what we seen on the waterfall. (9/10) &lt;a href="https://twitter.com/ea4gpz/status/1542958039698907136/photo/1"&gt;pic.twitter.com/VDBT0xkq89&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FWmvfZ2WIAEhYDm.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FWmvfZ2WIAEhYDm.png" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FWmt5yCWQAYyWRF.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FWmt5yCWQAYyWRF.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FWmvfZ2WIAEhYDm.png?name=orig" type="image/png" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FWmt5yCWQAYyWRF.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Once we decode the FEC, we can check the CRC to find to what UEs the messages are addressed. We can decode the control messages with an online tool, and see how the messages relate to what we see on the waterfall. (8/10)</title>
+		<published>2022-07-01T19:47:16+00:00</published>
+		<updated>2022-07-01T19:47:16+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1542958032702902274</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1542958032702902274"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Once we decode the FEC, we can check the CRC to find to what UEs the messages are addressed. We can decode the control messages with an online tool, and see how the messages relate to what we see on the waterfall. (8/10)&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">To decode the FEC, we need to know the message size. This is often found by trial and error. Here I give a heuristic "score" that dips at the correct message size (and multiples). (7/10) pic.twitter.com/JT8XQpMssr</title>
+		<published>2022-07-01T19:47:15+00:00</published>
+		<updated>2022-07-01T19:47:15+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1542958029515153410</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1542958029515153410"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;To decode the FEC, we need to know the message size. This is often found by trial and error. Here I give a heuristic "score" that dips at the correct message size (and multiples). (7/10) &lt;a href="https://twitter.com/ea4gpz/status/1542958029515153410/photo/1"&gt;pic.twitter.com/JT8XQpMssr&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FWmvKu_WIAIkE3I.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FWmvKu_WIAIkE3I.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FWmvKu_WIAIkE3I.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">We need to undo the permutation to order the data correctly. The codewords are transmitted in blocks of 9 REGs called CCEs (a REG is 4 adjacent resource elements). Here we can see a transmission using only 4 of 8 CCEs and another transmission using only 8 of 25 CCEs. (6/10) pic.twitter.com/P3DVYYcsAz</title>
+		<published>2022-07-01T19:47:14+00:00</published>
+		<updated>2022-07-01T19:47:14+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1542958025513877504</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1542958025513877504"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;We need to undo the permutation to order the data correctly. The codewords are transmitted in blocks of 9 REGs called CCEs (a REG is 4 adjacent resource elements). Here we can see a transmission using only 4 of 8 CCEs and another transmission using only 8 of 25 CCEs. (6/10) &lt;a href="https://twitter.com/ea4gpz/status/1542958025513877504/photo/1"&gt;pic.twitter.com/P3DVYYcsAz&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FWmvDbvWYAAwJOT.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FWmvDbvWYAAwJOT.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FWmvDbvWYAAwJOT.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The PDCCH is spread over the first 1 or 2 symbols of the subframe. A permutation is used to control this spreading.  Below we can see a PDCCH that isn't full (just before 0.011 sec) and one that is full (just before 0.012 sec). (5/10) pic.twitter.com/Cpmzi2Jtca</title>
+		<published>2022-07-01T19:47:13+00:00</published>
+		<updated>2022-07-01T19:47:13+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1542958021453783046</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1542958021453783046"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The PDCCH is spread over the first 1 or 2 symbols of the subframe. A permutation is used to control this spreading.  Below we can see a PDCCH that isn't full (just before 0.011 sec) and one that is full (just before 0.012 sec). (5/10) &lt;a href="https://twitter.com/ea4gpz/status/1542958021453783046/photo/1"&gt;pic.twitter.com/Cpmzi2Jtca&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FWmu5kNXkAMw0vX.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FWmu5kNXkAMw0vX.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FWmu5kNXkAMw0vX.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Once we undo the rate matching and run Viterbi decoding, we obtain the MIB. We can check its CRC and decode it using ASN.1. (4/10) pic.twitter.com/3xWqbY1N2P</title>
+		<published>2022-07-01T19:47:12+00:00</published>
+		<updated>2022-07-01T19:47:12+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1542958017691484161</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1542958017691484161"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Once we undo the rate matching and run Viterbi decoding, we obtain the MIB. We can check its CRC and decode it using ASN.1. (4/10) &lt;a href="https://twitter.com/ea4gpz/status/1542958017691484161/photo/1"&gt;pic.twitter.com/3xWqbY1N2P&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FWmuuU0XoAARza1.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FWmuuU0XoAARza1.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FWmuuU0XoAARza1.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The PBCH transmits a 40-bit MIB as a 1920-bit codeword, so there is a lot of repetition in the rate matching. The MIB occupies 4 PBCH transmissions. We need to align ourselves to the correct 4 subframe windows. Often this is done by trial and error, but I give a heuristic. (3/10) pic.twitter.com/qME1O3K1On</title>
+		<published>2022-07-01T19:47:11+00:00</published>
+		<updated>2022-07-01T19:47:11+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1542958013232947203</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1542958013232947203"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The PBCH transmits a 40-bit MIB as a 1920-bit codeword, so there is a lot of repetition in the rate matching. The MIB occupies 4 PBCH transmissions. We need to align ourselves to the correct 4 subframe windows. Often this is done by trial and error, but I give a heuristic. (3/10) &lt;a href="https://twitter.com/ea4gpz/status/1542958013232947203/photo/1"&gt;pic.twitter.com/qME1O3K1On&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FWmuh-nWYAIU8Pm.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FWmuh-nWYAIU8Pm.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FWmuh-nWYAIU8Pm.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">These channels are encoded with a tail-biting k=7, r=1/3 convolutional encoder and a rate matching block. The rate matching is a neat idea that decouples the message size from the codeword size. (2/10) pic.twitter.com/eStfS0txwn</title>
+		<published>2022-07-01T19:47:10+00:00</published>
+		<updated>2022-07-01T19:47:10+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1542958009588105222</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1542958009588105222"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;These channels are encoded with a tail-biting k=7, r=1/3 convolutional encoder and a rate matching block. The rate matching is a neat idea that decouples the message size from the codeword size. (2/10) &lt;a href="https://twitter.com/ea4gpz/status/1542958009588105222/photo/1"&gt;pic.twitter.com/eStfS0txwn&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FWmuaY5XwAIFVu9.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FWmuaY5XwAIFVu9.png" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FWmrhnGWAAEVeIQ.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FWmrhnGWAAEVeIQ.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FWmuaY5XwAIFVu9.png?name=orig" type="image/png" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FWmrhnGWAAEVeIQ.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">New blog post: LTE downlink - PBCH and PDCCH. I continue my series of LTE posts showing how to decode some of the physical channels in the downlink. The PBCH is used to send the MIB, which contains basic cell information. The PDCCH sends control info. (1/10)</title>
+		<published>2022-07-01T19:47:08+00:00</published>
+		<updated>2022-07-01T19:47:08+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1542957998343163904</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1542957998343163904"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;New blog post: LTE downlink - PBCH and PDCCH. I continue my series of LTE posts showing how to decode some of the physical channels in the downlink. The PBCH is used to send the MIB, which contains basic cell information. The PDCCH sends control info. (1/10)&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@abraxas3d @tnt Just realized that for the DCI, if the SNR is good, a UE can often use the wrong number of CCEs to try to decode a DCI and still succeed, as long as it uses the correct starting point for the CCE allocation. Probably this reduces the number of decoding attempts needed in practice</title>
@@ -143,501 +602,6 @@
 	&lt;blockquote&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
 		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Just managed to decode an LTE DCI from scratch! DCIs are control messages sent by the base station. They are transmitted in the PDCCH (physical downlink control channel). Decoding them involves a lot of guesswork, that a regular phone also needs to perform. (1/N) pic.twitter.com/b419JDEIIf</title>
-		<published>2022-06-26T11:25:23+00:00</published>
-		<updated>2022-06-26T11:25:23+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1541019789673611264</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1541019789673611264"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Just managed to decode an LTE DCI from scratch! DCIs are control messages sent by the base station. They are transmitted in the PDCCH (physical downlink control channel). Decoding them involves a lot of guesswork, that a regular phone also needs to perform. (1/N) &lt;a href="https://twitter.com/ea4gpz/status/1541019789673611264/photo/1"&gt;pic.twitter.com/b419JDEIIf&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FWLNQUKWQAAuubX.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FWLNQUKWQAAuubX.jpg" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FWLMkaAWIAE21GZ.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FWLMkaAWIAE21GZ.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FWLNQUKWQAAuubX.jpg?name=orig" type="image/jpeg" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FWLMkaAWIAE21GZ.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Right about now, @KuehnReinhard is giving his talk "Amateurfunk trifft Astronomie und Raumfahrt" at the German HAM Radio convention in Friedrichshafen. Almost the whole DSLWP-B team contributed with a short video. Hopefully the entire talk will be recorded. pic.twitter.com/VMFGnAJUNj</title>
-		<published>2022-06-25T14:34:23+00:00</published>
-		<updated>2022-06-25T14:34:23+00:00</updated>
-		<id>https://twitter.com/tammojan/status/1540704964816691200</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/tammojan/status/1540704964816691200"/>
-		<author><name>RT: Tammo Jan Dijkema (@tammojan)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/tammojan"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="tammojan"
-	src="https://pbs.twimg.com/profile_images/586573138852446208/-kSyc281_normal.jpg"
-	title="Tammo Jan Dijkema" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Right about now, @KuehnReinhard is giving his talk "Amateurfunk trifft Astronomie und Raumfahrt" at the German HAM Radio convention in Friedrichshafen. Almost the whole DSLWP-B team contributed with a short video. Hopefully the entire talk will be recorded. &lt;a href="https://twitter.com/tammojan/status/1540704964816691200/photo/1"&gt;pic.twitter.com/VMFGnAJUNj&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FWGuYyuUYAElTsC.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FWGuYyuUYAElTsC.jpg" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FWGuZw6WQAAv0su.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FWGuZw6WQAAv0su.jpg" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FWGuacuWAAImCta.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FWGuacuWAAImCta.jpg" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FWGubEUXEAAHEzS.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FWGubEUXEAAHEzS.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FWGuYyuUYAElTsC.jpg?name=orig" type="image/jpeg" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FWGuZw6WQAAv0su.jpg?name=orig" type="image/jpeg" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FWGuacuWAAImCta.jpg?name=orig" type="image/jpeg" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FWGubEUXEAAHEzS.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Great @GNURadioDaysEU tutorials, specially the one on FPGAs using Amaranth. Hopefully this will help more hobbyists get up an running with FPGA dev for SDR. youtube.com/watch?v=0QQvLD…
-
-And now, the SDR Academy livestream is starting: youtube.sdra.io</title>
-		<published>2022-06-25T08:07:41+00:00</published>
-		<updated>2022-06-25T08:07:41+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1540607648168640512</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1540607648168640512"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Great @GNURadioDaysEU tutorials, specially the one on FPGAs using Amaranth. Hopefully this will help more hobbyists get up an running with FPGA dev for SDR. &lt;a href="https://www.youtube.com/watch?v=0QQvLDpwdLU"&gt;youtube.com/watch?v=0QQvLD…&lt;/a&gt;
-
-And now, the SDR Academy livestream is starting: &lt;a href="https://youtube.sdra.io/"&gt;youtube.sdra.io&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Made a small video demonstrating the decoding of #QO100 #hsmodem multimedia beacon using #gqrx and #rtlsdr stick. Shows @amsatdl and @AmsatUK bulletins now.
-
-youtube.com/watch?v=W-aS7-…
-
-#hamradio #amsat twitter.com/ea4gpz/status/…</title>
-		<published>2022-06-24T13:32:04+00:00</published>
-		<updated>2022-06-24T13:32:04+00:00</updated>
-		<id>https://twitter.com/flo_0_/status/1540326897334222855</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/flo_0_/status/1540326897334222855"/>
-		<author><name>RT: Flo (DF2ET) @ ::1 (@flo_0_)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/flo_0_"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="flo_0_"
-	src="https://pbs.twimg.com/profile_images/447161260178563073/0ydycnbG_normal.png"
-	title="Flo (DF2ET) @ ::1" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Made a small video demonstrating the decoding of #QO100 #hsmodem multimedia beacon using #gqrx and #rtlsdr stick. Shows @amsatdl and @AmsatUK bulletins now.
-
-&lt;a href="https://www.youtube.com/watch?v=W-aS7-zbw2Y"&gt;youtube.com/watch?v=W-aS7-…&lt;/a&gt;
-
-#hamradio #amsat &lt;a href="https://twitter.com/ea4gpz/status/1540031914823847937"&gt;twitter.com/ea4gpz/status/…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@Hisuin Great region. Nearby you have Colmar, home of the Isenheim altar, main inspiration for Hindemith's Mathis der Maler symphony.</title>
-		<published>2022-06-23T20:14:00+00:00</published>
-		<updated>2022-06-23T20:14:00+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1540065657814908928</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1540065657814908928"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@Hisuin Great region. Nearby you have Colmar, home of the Isenheim altar, main inspiration for Hindemith's Mathis der Maler symphony.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Support for the AMSAT bulletins now available in the gr-satellites QO-100 multimedia beacon receiver. Thanks to @flo_0_ for figuring out the format in which these must be sent. pic.twitter.com/ORdCLMHS0U</title>
-		<published>2022-06-23T17:59:55+00:00</published>
-		<updated>2022-06-23T17:59:55+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1540031914823847937</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1540031914823847937"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Support for the AMSAT bulletins now available in the gr-satellites QO-100 multimedia beacon receiver. Thanks to @flo_0_ for figuring out the format in which these must be sent. &lt;a href="https://twitter.com/ea4gpz/status/1540031914823847937/photo/1"&gt;pic.twitter.com/ORdCLMHS0U&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FV9K1LdWAAETm9S.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FV9K1LdWAAETm9S.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FV9K1LdWAAETm9S.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Tutorials of the European GNU Radio Days at the introductory day of the Software Defined Radio Academy will be streamed Friday June 24 starting at 1 PM CEST on youtube.sdra.io</title>
-		<published>2022-06-20T20:02:31+00:00</published>
-		<updated>2022-06-20T20:02:31+00:00</updated>
-		<id>https://twitter.com/GNURadioDaysEU/status/1538975603445186560</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/GNURadioDaysEU/status/1538975603445186560"/>
-		<author><name>RT: European GNU Radio Days (@GNURadioDaysEU)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/GNURadioDaysEU"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="GNURadioDaysEU"
-	src="https://pbs.twimg.com/profile_images/1192129716347686912/JrSEPP2b_normal.jpg"
-	title="European GNU Radio Days" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Tutorials of the European GNU Radio Days at the introductory day of the Software Defined Radio Academy will be streamed Friday June 24 starting at 1 PM CEST on &lt;a href="http://youtube.sdra.io"&gt;youtube.sdra.io&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@michaelossmann Good question! Wikipedia has a nice history page that starts with "continuous timekeeping devices", including sand, water, candle and incense burning, (although arguably some use the rotation of Earth) and then introduces "oscillatory timekeeping devices". en.wikipedia.org/wiki/History_o…</title>
-		<published>2022-06-20T19:48:15+00:00</published>
-		<updated>2022-06-20T19:48:15+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1538972013041180675</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1538972013041180675"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@michaelossmann Good question! Wikipedia has a nice history page that starts with "continuous timekeeping devices", including sand, water, candle and incense burning, (although arguably some use the rotation of Earth) and then introduces "oscillatory timekeeping devices". &lt;a href="https://en.wikipedia.org/wiki/History_of_timekeeping_devices"&gt;en.wikipedia.org/wiki/History_o…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@df2mz @BepiColombo I see. The relative positions of all the planets are wrong in the diagram. Venus is shown behind the spacecraft rather than ahead.</title>
-		<published>2022-06-20T18:55:53+00:00</published>
-		<updated>2022-06-20T18:55:53+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1538958834877833218</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1538958834877833218"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@df2mz @BepiColombo I see. The relative positions of all the planets are wrong in the diagram. Venus is shown behind the spacecraft rather than ahead.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@df2mz @BepiColombo What is wrong precisely?</title>
-		<published>2022-06-20T16:57:23+00:00</published>
-		<updated>2022-06-20T16:57:23+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1538929012369760256</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1538929012369760256"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@df2mz @BepiColombo What is wrong precisely?&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@DSP_fact Nice point of view. In mathematics this lends itself to the Pontryagin duality, which gives pairs: continuous time - continuous frequency, periodic time - discrete frequency, discrete time - periodic frequency, and finite discrete time - finite discrete frequency.</title>
-		<published>2022-06-15T20:49:12+00:00</published>
-		<updated>2022-06-15T20:49:12+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1537175412262027268</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1537175412262027268"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@DSP_fact Nice point of view. In mathematics this lends itself to the Pontryagin duality, which gives pairs: continuous time - continuous frequency, periodic time - discrete frequency, discrete time - periodic frequency, and finite discrete time - finite discrete frequency.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Demo of decoding the #QO100 #hsmodem multimedia beacon using #gqrx, #GNUradio and #grsatellites. Input adapted to #RTLSDR stick streaming UDP. Tnx @ea4gpz 
-
-youtube.com/watch?v=LBQewx…
-
-#amsat #hamradio #amateurfunk</title>
-		<published>2022-06-13T08:10:29+00:00</published>
-		<updated>2022-06-13T08:10:29+00:00</updated>
-		<id>https://twitter.com/flo_0_/status/1536259698864816128</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/flo_0_/status/1536259698864816128"/>
-		<author><name>RT: Flo (DF2ET) @ ::1 (@flo_0_)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/flo_0_"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="flo_0_"
-	src="https://pbs.twimg.com/profile_images/447161260178563073/0ydycnbG_normal.png"
-	title="Flo (DF2ET) @ ::1" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Demo of decoding the #QO100 #hsmodem multimedia beacon using #gqrx, #GNUradio and #grsatellites. Input adapted to #RTLSDR stick streaming UDP. Tnx @ea4gpz 
-
-&lt;a href="https://www.youtube.com/watch?v=LBQewxL1kk4"&gt;youtube.com/watch?v=LBQewx…&lt;/a&gt;
-
-#amsat #hamradio #amateurfunk&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">With great help of @ea4gpz I was able to adapt the #grsatellites decoder for #QO100 #MM beacon to receive and decode it using an #RTLSDR stick. 
-Now off to debugging the #python #websocket server. ¡muchas gracias! Dani
-#hamradio #amsat pic.twitter.com/KeGVgPex95</title>
-		<published>2022-06-12T18:06:08+00:00</published>
-		<updated>2022-06-12T18:06:08+00:00</updated>
-		<id>https://twitter.com/flo_0_/status/1536047212622495746</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/flo_0_/status/1536047212622495746"/>
-		<author><name>RT: Flo (DF2ET) @ ::1 (@flo_0_)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/flo_0_"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="flo_0_"
-	src="https://pbs.twimg.com/profile_images/447161260178563073/0ydycnbG_normal.png"
-	title="Flo (DF2ET) @ ::1" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;With great help of @ea4gpz I was able to adapt the #grsatellites decoder for #QO100 #MM beacon to receive and decode it using an #RTLSDR stick. 
-Now off to debugging the #python #websocket server. ¡muchas gracias! Dani
-#hamradio #amsat &lt;a href="https://twitter.com/flo_0_/status/1536047212622495746/photo/1"&gt;pic.twitter.com/KeGVgPex95&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FVEiZITWYAEov2G.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FVEiZITWYAEov2G.jpg" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FVEiZ8qXEAAJKnL.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FVEiZ8qXEAAJKnL.jpg" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FVEiaiwXsAIxbt6.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FVEiaiwXsAIxbt6.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FVEiZITWYAEov2G.jpg?name=orig" type="image/jpeg" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FVEiZ8qXEAAJKnL.jpg?name=orig" type="image/jpeg" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FVEiaiwXsAIxbt6.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Read more: destevez.net/2022/06/lte-do… (4/4)</title>
-		<published>2022-06-11T18:04:03+00:00</published>
-		<updated>2022-06-11T18:04:03+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1535684300313608192</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1535684300313608192"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Read more: &lt;a href="https://destevez.net/2022/06/lte-downlink-phich/"&gt;destevez.net/2022/06/lte-do…&lt;/a&gt; (4/4)&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">In this case there are 7 PHICH groups that use different frequencies, and each group uses 8 orthogonal sequences, so up to 56 simultaneous transmissions can be supported. These are the bits sent in each group/sequence. A negative value (most of them) means ACK. (3/4) pic.twitter.com/PeKW4YfBEU</title>
-		<published>2022-06-11T18:04:02+00:00</published>
-		<updated>2022-06-11T18:04:02+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1535684297696370689</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1535684297696370689"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;In this case there are 7 PHICH groups that use different frequencies, and each group uses 8 orthogonal sequences, so up to 56 simultaneous transmissions can be supported. These are the bits sent in each group/sequence. A negative value (most of them) means ACK. (3/4) &lt;a href="https://twitter.com/ea4gpz/status/1535684297696370689/photo/1"&gt;pic.twitter.com/PeKW4YfBEU&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FU_YsAvX0AAzBFE.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FU_YsAvX0AAzBFE.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FU_YsAvX0AAzBFE.png?name=orig" type="image/png" />
-
 		
 		
 	</entry>

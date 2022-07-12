@@ -5,12 +5,78 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-07-01T12:18:40+00:00</updated>
+	<updated>2022-07-12T08:14:21+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">I cannot wait to use @SatNOGS for @SunCETcubesat. The dashboards are SO COOL. This one is for another mission I'm helping out with and this is the default place I go to see how it's doing even though I've got access to our internal software. 
+#PI_Daily
+
+dashboard.satnogs.org/d/xSIFnkB7k/in… pic.twitter.com/ggIRvapTx6</title>
+		<published>2022-07-11T13:58:55+00:00</published>
+		<updated>2022-07-11T13:58:55+00:00</updated>
+		<id>https://twitter.com/starfleetjames/status/1546494247007883264</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/starfleetjames/status/1546494247007883264"/>
+		<author><name>RT: James Paul Mason (@starfleetjames)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/starfleetjames"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="starfleetjames"
+	src="https://pbs.twimg.com/profile_images/971138026939314179/9RVe4mLm_normal.jpg"
+	title="James Paul Mason" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;I cannot wait to use @SatNOGS for @SunCETcubesat. The dashboards are SO COOL. This one is for another mission I'm helping out with and this is the default place I go to see how it's doing even though I've got access to our internal software. 
+#PI_Daily
+
+&lt;a href="https://dashboard.satnogs.org/d/xSIFnkB7k/inspiresat-1?orgId=1"&gt;dashboard.satnogs.org/d/xSIFnkB7k/in…&lt;/a&gt; &lt;a href="https://twitter.com/starfleetjames/status/1546494247007883264/photo/1"&gt;pic.twitter.com/ggIRvapTx6&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FXZAMz6XgAcQr_6.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FXZAMz6XgAcQr_6.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FXZAMz6XgAcQr_6.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">This will be very interesting community.libre.space/t/vega-c-maide… #amsat #cubesat #satnogs</title>
+		<published>2022-07-06T13:34:30+00:00</published>
+		<updated>2022-07-06T13:34:30+00:00</updated>
+		<id>https://twitter.com/pe0sat/status/1544676164224126979</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/pe0sat/status/1544676164224126979"/>
+		<author><name>RT: Jan - PE0SAT (@pe0sat)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/pe0sat"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="pe0sat"
+	src="https://pbs.twimg.com/profile_images/1382059559238434819/7hX8TT53_normal.jpg"
+	title="Jan - PE0SAT" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;This will be very interesting &lt;a href="https://community.libre.space/t/vega-c-maiden-flight-july-13th-meo-orbit/9389"&gt;community.libre.space/t/vega-c-maide…&lt;/a&gt; #amsat #cubesat #satnogs&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">The @SatNOGS network 📡 has received #satellite #STEPCubeLab-II 🛰️ from the #KSLV2 #Nuri launch. 
@@ -653,78 +719,6 @@ Excited to be part of the world's largest amateur radio gathering!
 #radioamateur
 #Hamvention2022 
 &lt;a href="https://hamvention.org/"&gt;hamvention.org&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Have a look at these breathtaking images of the Earth🌎🌍🌏 as captured by the #RamSat #CubeSat 🛰️. 
-You can follow RamSat's mission, its progress and all the updates at:
-community.libre.space/t/ramsat-missi… pic.twitter.com/fg9V7pwu8V</title>
-		<published>2022-04-27T18:26:19+00:00</published>
-		<updated>2022-04-27T18:26:19+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1519382448773255179</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1519382448773255179"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Have a look at these breathtaking images of the Earth🌎🌍🌏 as captured by the #RamSat #CubeSat 🛰️. 
-You can follow RamSat's mission, its progress and all the updates at:
-&lt;a href="https://community.libre.space/t/ramsat-mission-progress/8219/41"&gt;community.libre.space/t/ramsat-missi…&lt;/a&gt; &lt;a href="https://twitter.com/SatNOGS/status/1519382448773255179/photo/1"&gt;pic.twitter.com/fg9V7pwu8V&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FRXuE-TWUAAlMMQ.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FRXuE-TWUAAlMMQ.jpg" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FRXuE-WXMAEtq1u.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FRXuE-WXMAEtq1u.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FRXuE-TWUAAlMMQ.jpg?name=orig" type="image/jpeg" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FRXuE-WXMAEtq1u.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">📌As satellite #STARSEC 🛰️ is nearing re-entry, a new TLE set has been generated by @cgbassa.
-You can find out more about it here: community.libre.space/t/iss-cubesat-…</title>
-		<published>2022-04-09T18:29:57+00:00</published>
-		<updated>2022-04-09T18:29:57+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1512860381097734151</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1512860381097734151"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;📌As satellite #STARSEC 🛰️ is nearing re-entry, a new TLE set has been generated by @cgbassa.
-You can find out more about it here: &lt;a href="https://community.libre.space/t/iss-cubesat-deploment-2021-03-14-tausat-1-opusat-ii-guaranisat-1-birds-4-maya-2-birds-4-tsuru-birds-4-rsp-01-warp-01-stars-ec/7497/71"&gt;community.libre.space/t/iss-cubesat-…&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
