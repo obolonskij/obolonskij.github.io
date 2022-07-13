@@ -5,12 +5,26 @@
 	<id>http://</id>
 	<icon>https://octopart.com/favicon-32x32.png</icon>
 	<logo>https://octopart.com/favicon-32x32.png</logo>
-	<updated>2022-06-18T11:25:56+00:00</updated>
+	<updated>2022-07-13T06:24:02+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://octopart.com/blog" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">mmWave Sensors for ADAS, Robotics, and Security</title>
+		<published>2022-07-12T00:00:00+00:00</published>
+		<updated>2022-07-12T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/07/mmwave-sensors-for-adas-robotics-and-security</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/07/mmwave-sensors-for-adas-robotics-and-security"/>
+		
+		<content type="html">mmWave Sensors for ADAS, Robotics, and Security</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4X1cjK6BKuNxjXHSg5Y4Pu/60b69f40e21a1bd3557812a6212cbfa8/Frame_13.png" type="image/png" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">LTCC Filter and Capacitor Component Selection for RF Designs</title>
@@ -27,20 +41,6 @@
 	</entry>
 
 	<entry>
-		<title type="html">Supply Chain Disruptions: Octopart is Built for This</title>
-		<published>2022-06-15T00:00:00+00:00</published>
-		<updated>2022-06-15T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/06/supply-chain-disruptions-octopart-is-built-for-this</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/06/supply-chain-disruptions-octopart-is-built-for-this"/>
-		
-		<content type="html">Supply Chain Disruptions: Octopart is Built for This</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/9KXqVgeDdaeRvJkmciD0v/21631b5dd4fa250d101d6dfd471f97e0/Octopart_Blog_720x720.jpg" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
 		<title type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</title>
 		<published>2022-03-01T00:00:00+00:00</published>
 		<updated>2022-03-01T00:00:00+00:00</updated>
@@ -49,6 +49,20 @@
 		
 		<content type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4J3ZfLMCrl9LcxKe35NvBg/18047fb2a24513d4179f4c785eb499a8/Spectra_Blog_Square_720x720.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Supply Chain Disruptions: Octopart is Built for This</title>
+		<published>2022-06-15T00:00:00+00:00</published>
+		<updated>2022-06-15T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/06/supply-chain-disruptions-octopart-is-built-for-this</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/06/supply-chain-disruptions-octopart-is-built-for-this"/>
+		
+		<content type="html">Supply Chain Disruptions: Octopart is Built for This</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/9KXqVgeDdaeRvJkmciD0v/21631b5dd4fa250d101d6dfd471f97e0/Octopart_Blog_720x720.jpg" type="image/jpeg" />
 
 		
 		
@@ -105,20 +119,6 @@
 		
 		<content type="html">Introducing Harry Wykes: Nexar’s new Business Development Manager Of EMEA</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/1F16ViKn3BXFoSSMwFON2y/4489117f57d30423d39cc70dbde609b2/24705029.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">How to Choose a DAC for Waveform Generation</title>
-		<published>2022-05-23T00:00:00+00:00</published>
-		<updated>2022-05-23T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/05/how-to-choose-a-dac-for-waveform-generation</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/05/how-to-choose-a-dac-for-waveform-generation"/>
-		
-		<content type="html">How to Choose a DAC for Waveform Generation</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/3z75ivohiO5ZA8CM3IQOc5/3c99270ec999f381f5ded58f8bd1a55f/Frame_5.png" type="image/png" />
 
 		
 		
