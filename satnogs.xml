@@ -5,12 +5,575 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-07-12T08:14:21+00:00</updated>
+	<updated>2022-07-14T10:46:06+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">The Dwingeloo @radiotelescoop just observed the satellite CELESTA as a @SatNOGS ground station (while tracking the satellite). View the results at network.satnogs.org/observations/6…. pic.twitter.com/C3wEWYotgb</title>
+		<published>2022-07-14T08:24:06+00:00</published>
+		<updated>2022-07-14T08:24:06+00:00</updated>
+		<id>https://twitter.com/PI9CAM/status/1547497152447913984</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/PI9CAM/status/1547497152447913984"/>
+		<author><name>RT: pi9cam (@PI9CAM)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/PI9CAM"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="PI9CAM"
+	src="https://pbs.twimg.com/profile_images/1054028499617570817/X7YKhrww_normal.jpg"
+	title="pi9cam" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The Dwingeloo @radiotelescoop just observed the satellite CELESTA as a @SatNOGS ground station (while tracking the satellite). View the results at &lt;a href="https://network.satnogs.org/observations/6215698"&gt;network.satnogs.org/observations/6…&lt;/a&gt;. &lt;a href="https://twitter.com/PI9CAM/status/1547497152447913984/photo/1"&gt;pic.twitter.com/C3wEWYotgb&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FXnQdUDXgAABZzm.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FXnQdUDXgAABZzm.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FXnQdUDXgAABZzm.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The Dwingeloo @radiotelescoop just observed the satellite MTCube 2 as a @SatNOGS ground station (while tracking the satellite). View the results at network.satnogs.org/observations/6…. pic.twitter.com/DUlnwYbIcz</title>
+		<published>2022-07-14T08:11:36+00:00</published>
+		<updated>2022-07-14T08:11:36+00:00</updated>
+		<id>https://twitter.com/PI9CAM/status/1547494005872726016</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/PI9CAM/status/1547494005872726016"/>
+		<author><name>RT: pi9cam (@PI9CAM)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/PI9CAM"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="PI9CAM"
+	src="https://pbs.twimg.com/profile_images/1054028499617570817/X7YKhrww_normal.jpg"
+	title="pi9cam" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The Dwingeloo @radiotelescoop just observed the satellite MTCube 2 as a @SatNOGS ground station (while tracking the satellite). View the results at &lt;a href="https://network.satnogs.org/observations/6215697"&gt;network.satnogs.org/observations/6…&lt;/a&gt;. &lt;a href="https://twitter.com/PI9CAM/status/1547494005872726016/photo/1"&gt;pic.twitter.com/DUlnwYbIcz&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FXnNmK4WIAA0Dhn.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FXnNmK4WIAA0Dhn.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FXnNmK4WIAA0Dhn.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The Dwingeloo @radiotelescoop just observed the satellite ASTROBIO as a @SatNOGS ground station (while tracking the satellite). View the results at network.satnogs.org/observations/6…. pic.twitter.com/INKMiOrgzD</title>
+		<published>2022-07-14T07:59:07+00:00</published>
+		<updated>2022-07-14T07:59:07+00:00</updated>
+		<id>https://twitter.com/PI9CAM/status/1547490862237720576</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/PI9CAM/status/1547490862237720576"/>
+		<author><name>RT: pi9cam (@PI9CAM)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/PI9CAM"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="PI9CAM"
+	src="https://pbs.twimg.com/profile_images/1054028499617570817/X7YKhrww_normal.jpg"
+	title="pi9cam" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The Dwingeloo @radiotelescoop just observed the satellite ASTROBIO as a @SatNOGS ground station (while tracking the satellite). View the results at &lt;a href="https://network.satnogs.org/observations/6215696"&gt;network.satnogs.org/observations/6…&lt;/a&gt;. &lt;a href="https://twitter.com/PI9CAM/status/1547490862237720576/photo/1"&gt;pic.twitter.com/INKMiOrgzD&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FXnKvKFXEAEfVLD.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FXnKvKFXEAEfVLD.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FXnKvKFXEAEfVLD.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The Dwingeloo @radiotelescoop just observed the satellite GREENCUBE as a @SatNOGS ground station (while tracking the satellite). View the results at network.satnogs.org/observations/6…. pic.twitter.com/3cLoKovEbD</title>
+		<published>2022-07-14T07:33:36+00:00</published>
+		<updated>2022-07-14T07:33:36+00:00</updated>
+		<id>https://twitter.com/PI9CAM/status/1547484444004581379</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/PI9CAM/status/1547484444004581379"/>
+		<author><name>RT: pi9cam (@PI9CAM)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/PI9CAM"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="PI9CAM"
+	src="https://pbs.twimg.com/profile_images/1054028499617570817/X7YKhrww_normal.jpg"
+	title="pi9cam" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The Dwingeloo @radiotelescoop just observed the satellite GREENCUBE as a @SatNOGS ground station (while tracking the satellite). View the results at &lt;a href="https://network.satnogs.org/observations/6215607"&gt;network.satnogs.org/observations/6…&lt;/a&gt;. &lt;a href="https://twitter.com/PI9CAM/status/1547484444004581379/photo/1"&gt;pic.twitter.com/3cLoKovEbD&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FXnE5kcWIAET__P.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FXnE5kcWIAET__P.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FXnE5kcWIAET__P.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@S5Lab 
+@ENEAOfficial
+@UninaIT twitter.com/eelkevisser/st…</title>
+		<published>2022-07-13T19:58:27+00:00</published>
+		<updated>2022-07-13T19:58:27+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1547309499811250177</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1547309499811250177"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@S5Lab 
+@ENEAOfficial
+@UninaIT &lt;a href="https://twitter.com/eelkevisser/status/1547303979884896256"&gt;twitter.com/eelkevisser/st…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">#MTCube2
+@umontpellier
+@CERN 
+@csumontpellier
+@FVA_um twitter.com/eelkevisser/st…</title>
+		<published>2022-07-13T19:30:58+00:00</published>
+		<updated>2022-07-13T19:30:58+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1547302586423906304</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1547302586423906304"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;#MTCube2
+@umontpellier
+@CERN 
+@csumontpellier
+@FVA_um &lt;a href="https://twitter.com/eelkevisser/status/1547298969021300737"&gt;twitter.com/eelkevisser/st…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@csumontpellier @FVA_um @CERN
+@@umontpellier
+#VegaC twitter.com/eelkevisser/st…</title>
+		<published>2022-07-13T19:25:35+00:00</published>
+		<updated>2022-07-13T19:25:35+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1547301232674578433</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1547301232674578433"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@csumontpellier @FVA_um @CERN
+@@umontpellier
+#VegaC &lt;a href="https://twitter.com/eelkevisser/status/1547297445129949184"&gt;twitter.com/eelkevisser/st…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@enzobecamel @FVA_um @csumontpellier @pe0sat @cgbassa Could you confirm that signal is GMSK 2k4 for both of them?</title>
+		<published>2022-07-13T19:03:26+00:00</published>
+		<updated>2022-07-13T19:03:26+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1547295654703206402</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1547295654703206402"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@enzobecamel @FVA_um @csumontpellier @pe0sat @cgbassa Could you confirm that signal is GMSK 2k4 for both of them?&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@esa @Arianespace @vega_sts @EuropeSpacePort Observations for: 
+🛰️ #MTCUBE2: network.satnogs.org/observations/?… 
+
+And Observations for:
+🛰️ #CELESTA: network.satnogs.org/observations/?…
+
+@umontpellier @csumontpellier @CERN</title>
+		<published>2022-07-13T17:28:47+00:00</published>
+		<updated>2022-07-13T17:28:47+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1547271837259894785</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1547271837259894785"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@esa @Arianespace @vega_sts @EuropeSpacePort Observations for: 
+🛰️ #MTCUBE2: &lt;a href="https://network.satnogs.org/observations/?future=0&amp;good=1&amp;bad=0&amp;unknown=0&amp;failed=0&amp;norad=99384"&gt;network.satnogs.org/observations/?…&lt;/a&gt; 
+
+And Observations for:
+🛰️ #CELESTA: &lt;a href="https://network.satnogs.org/observations/?future=0&amp;good=1&amp;bad=0&amp;unknown=0&amp;failed=0&amp;norad=99383"&gt;network.satnogs.org/observations/?…&lt;/a&gt;
+
+@umontpellier @csumontpellier @CERN&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@esa @Arianespace @vega_sts @EuropeSpacePort Here are the observations for: 
+🛰️ #ASTROBIO: network.satnogs.org/observations/?…
+
+And 
+
+🛰️ #GreenCube: network.satnogs.org/observations/?…
+
+@SapienzaRoma @ENEAOfficial @S5Lab @ASI_spazio @Avio_Group</title>
+		<published>2022-07-13T17:23:59+00:00</published>
+		<updated>2022-07-13T17:23:59+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1547270627878440967</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1547270627878440967"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@esa @Arianespace @vega_sts @EuropeSpacePort Here are the observations for: 
+🛰️ #ASTROBIO: &lt;a href="https://network.satnogs.org/observations/?future=0&amp;good=1&amp;bad=0&amp;unknown=0&amp;failed=0&amp;norad=99385"&gt;network.satnogs.org/observations/?…&lt;/a&gt;
+
+And 
+
+🛰️ #GreenCube: &lt;a href="https://network.satnogs.org/observations/?future=0&amp;good=1&amp;bad=0&amp;unknown=0&amp;failed=0&amp;norad=99382"&gt;network.satnogs.org/observations/?…&lt;/a&gt;
+
+@SapienzaRoma @ENEAOfficial @S5Lab @ASI_spazio @Avio_Group&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">We have received several good observations from the satellites of #Lares2 #VegaC.
+#VV21 #RocketsInTheJungle 
+@esa @Arianespace @vega_sts
+@EuropeSpacePort</title>
+		<published>2022-07-13T17:18:13+00:00</published>
+		<updated>2022-07-13T17:18:13+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1547269177051959297</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1547269177051959297"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;We have received several good observations from the satellites of #Lares2 #VegaC.
+#VV21 #RocketsInTheJungle 
+@esa @Arianespace @vega_sts
+@EuropeSpacePort&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">#Lares2 #VegaC 
+
+@esa @Arianespace @vega_sts @EuropeSpacePort @S5Lab
+ @ENEAOfficial @SapienzaRoma
+ @Avio_Group @ASI_spazio @csumontpellier @umontpellier
+@CERN</title>
+		<published>2022-07-13T16:19:38+00:00</published>
+		<updated>2022-07-13T16:19:38+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1547254433905627136</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1547254433905627136"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;#Lares2 #VegaC 
+
+@esa @Arianespace @vega_sts @EuropeSpacePort @S5Lab
+ @ENEAOfficial @SapienzaRoma
+ @Avio_Group @ASI_spazio @csumontpellier @umontpellier
+@CERN&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">📌 With more than 600 observations scheduled for the first 12 hours, @SatNOGS 📡 is ready to track #satellites #ASTROBIO #MTCube #CELESTA #GREENCUBE 🛰️🛰️.
+#Lares2 #VegaC ##VV21 #RocketsInTheJungle
+🌎🌍🌏 
+#OpenSource
+
+Follow all the updates at: community.libre.space/t/vega-c-inaug…</title>
+		<published>2022-07-13T16:16:01+00:00</published>
+		<updated>2022-07-13T16:16:01+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1547253524316262402</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1547253524316262402"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;📌 With more than 600 observations scheduled for the first 12 hours, @SatNOGS 📡 is ready to track #satellites #ASTROBIO #MTCube #CELESTA #GREENCUBE 🛰️🛰️.
+#Lares2 #VegaC ##VV21 #RocketsInTheJungle
+🌎🌍🌏 
+#OpenSource
+
+Follow all the updates at: &lt;a href="https://community.libre.space/t/vega-c-inaugural-launch-flight-vv21-meo-orbit-2022-07-13-11-13-utc/9389/17?u=fredy"&gt;community.libre.space/t/vega-c-inaug…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@esa 🛰️🛰️
+ @Arianespace  @vega_sts @EuropeSpacePort
+@S5Lab @ENEAOfficial @SapienzaRoma @Avio_Group @ASI_spazio @csumontpellier
+ @umontpellier
+ #VV21 #RocketsInTheJungle</title>
+		<published>2022-07-13T14:30:07+00:00</published>
+		<updated>2022-07-13T14:30:07+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1547226873041752065</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1547226873041752065"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@esa 🛰️🛰️
+ @Arianespace  @vega_sts @EuropeSpacePort
+@S5Lab @ENEAOfficial @SapienzaRoma @Avio_Group @ASI_spazio @csumontpellier
+ @umontpellier
+ #VV21 #RocketsInTheJungle&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">📌 The @SatNOGS network📡 is ready to track 🛰️ #ASTROBIO #CELESTE #GreenCube #MTCUBE flying in MEO orbit, on the maiden flight of @esa's  #Lares2  #VegaC launch vehicle.
+
+For the updated TLEs and all the latest about the mission follow: community.libre.space/t/vega-c-inaug…</title>
+		<published>2022-07-13T14:24:45+00:00</published>
+		<updated>2022-07-13T14:24:45+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1547225521557233664</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1547225521557233664"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;📌 The @SatNOGS network📡 is ready to track 🛰️ #ASTROBIO #CELESTE #GreenCube #MTCUBE flying in MEO orbit, on the maiden flight of @esa's  #Lares2  #VegaC launch vehicle.
+
+For the updated TLEs and all the latest about the mission follow: &lt;a href="https://community.libre.space/t/vega-c-inaugural-launch-flight-vv21-meo-orbit-2022-07-13-11-13-utc/9389/15"&gt;community.libre.space/t/vega-c-inaug…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@n6rfm @auo1971 @cgbassa @pe0sat However keep in mind that this TLE set is for 11:13 UTC launch, which has been postponed, so you will need new TLE set.</title>
+		<published>2022-07-13T12:25:00+00:00</published>
+		<updated>2022-07-13T12:25:00+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1547195387328462849</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1547195387328462849"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@n6rfm @auo1971 @cgbassa @pe0sat However keep in mind that this TLE set is for 11:13 UTC launch, which has been postponed, so you will need new TLE set.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@n6rfm @auo1971 @cgbassa @pe0sat In both lines the checksum is wrong, replace the last digit of each line with 8 and it should work.</title>
+		<published>2022-07-13T12:23:38+00:00</published>
+		<updated>2022-07-13T12:23:38+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1547195041558536193</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1547195041558536193"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@n6rfm @auo1971 @cgbassa @pe0sat In both lines the checksum is wrong, replace the last digit of each line with 8 and it should work.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">I cannot wait to use @SatNOGS for @SunCETcubesat. The dashboards are SO COOL. This one is for another mission I'm helping out with and this is the default place I go to see how it's doing even though I've got access to our internal software. 
@@ -104,621 +667,6 @@ For more updates follow the thread: community.libre.space/t/step-cubelab…</tit
 @chosun_univ
 
 For more updates follow the thread: &lt;a href="https://community.libre.space/t/step-cubelab-ii-kslv-ii-launch/9369/12"&gt;community.libre.space/t/step-cubelab…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@planet4589 @SpaceComms1 These are the current NORAD IDs we use for TEVELs and they are confirmed with the decoded data from several Network observations. 
-
-It remains to change the temporary NORAD IDs in DB and Network. This is going to be done in the next days.</title>
-		<published>2022-06-22T07:50:05+00:00</published>
-		<updated>2022-06-22T07:50:05+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1539516057643323392</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1539516057643323392"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@planet4589 @SpaceComms1 These are the current NORAD IDs we use for TEVELs and they are confirmed with the decoded data from several Network observations. 
-
-It remains to change the temporary NORAD IDs in DB and Network. This is going to be done in the next days.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Check out the #dashboard with the #data received from #Foresail-1🛰️ and collected by the @SatNOGS network. 📡
-#Transporter5 #Falcon9 
-@SpaceX @AaltoSatellites @utucomp @PhysUtu @UniTurku 
-#opensource
-
-You can find the @grafana @kaitai_io dashboard💻 at: dashboard.satnogs.org/d/emjpQVj7k/fo… pic.twitter.com/bb7Oj2MeXS</title>
-		<published>2022-06-09T12:42:55+00:00</published>
-		<updated>2022-06-09T12:42:55+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1534878710809206790</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1534878710809206790"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Check out the #dashboard with the #data received from #Foresail-1🛰️ and collected by the @SatNOGS network. 📡
-#Transporter5 #Falcon9 
-@SpaceX @AaltoSatellites @utucomp @PhysUtu @UniTurku 
-#opensource
-
-You can find the @grafana @kaitai_io dashboard💻 at: &lt;a href="https://dashboard.satnogs.org/d/emjpQVj7k/foresail-1?orgId=1&amp;refresh=1m"&gt;dashboard.satnogs.org/d/emjpQVj7k/fo…&lt;/a&gt; &lt;a href="https://twitter.com/SatNOGS/status/1534878710809206790/photo/1"&gt;pic.twitter.com/bb7Oj2MeXS&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FUz6yfAWAAA6mLd.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FUz6yfAWAAA6mLd.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FUz6yfAWAAA6mLd.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">𝟔 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐎𝐛𝐬𝐞𝐫𝐯𝐚𝐭𝐢𝐨𝐧𝐬!🎉🎉
-We achieved a new Milestone! 
-Thank you to all contributors, satellite operators, radio amateurs, space enthusiasts, university&amp;amp;scientific teams.
-Thanks to you @SatNOGS keeps expanding &amp;amp; growing!
-#opensource
-satnogs.org/2022/06/02/600… pic.twitter.com/r20sQruA6H</title>
-		<published>2022-06-02T14:59:50+00:00</published>
-		<updated>2022-06-02T14:59:50+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1532376448148942848</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1532376448148942848"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;𝟔 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐎𝐛𝐬𝐞𝐫𝐯𝐚𝐭𝐢𝐨𝐧𝐬!🎉🎉
-We achieved a new Milestone! 
-Thank you to all contributors, satellite operators, radio amateurs, space enthusiasts, university&amp;amp;scientific teams.
-Thanks to you @SatNOGS keeps expanding &amp;amp; growing!
-#opensource
-&lt;a href="https://satnogs.org/2022/06/02/6000000-observations-an-amazing-new-milestone-for-the-satnogs-network/"&gt;satnogs.org/2022/06/02/600…&lt;/a&gt; &lt;a href="https://twitter.com/SatNOGS/status/1532376448148942848/photo/1"&gt;pic.twitter.com/r20sQruA6H&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FUQXOciXoAMFd-q.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FUQXOciXoAMFd-q.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FUQXOciXoAMFd-q.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@Drsnik @planetum_cz @18thSDS More details and updates are available in:
-
-community.libre.space/t/falcon-9-lau…</title>
-		<published>2022-06-02T14:49:05+00:00</published>
-		<updated>2022-06-02T14:49:05+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1532373744764735491</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1532373744764735491"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@Drsnik @planetum_cz @18thSDS More details and updates are available in:
-
-&lt;a href="https://community.libre.space/t/falcon-9-launch-25th-may-2022/9264/67"&gt;community.libre.space/t/falcon-9-lau…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@Drsnik @planetum_cz Just to be accurate, the temporary NORAD ID remains for the satellite and we just follow the new NORAD ID until it is assigned to an object by @18thSDS and identified.
-
-By the way the object we follow for Planetum-1 has just been changed to 52740, with 52741 being very close.</title>
-		<published>2022-06-02T14:46:23+00:00</published>
-		<updated>2022-06-02T14:46:23+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1532373065392340993</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1532373065392340993"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@Drsnik @planetum_cz Just to be accurate, the temporary NORAD ID remains for the satellite and we just follow the new NORAD ID until it is assigned to an object by @18thSDS and identified.
-
-By the way the object we follow for Planetum-1 has just been changed to 52740, with 52741 being very close.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Check out the #dashboard💻 illustrating the #data received from #Planetum-1🛰️ and collected by the @SatNOGS network. 📡
-#Transporter5 #Falcon9
-@SpaceX
-@spacemanictech
-@planetum_cz
-You can find the @grafana @kaitai_io dashboard at: dashboard.satnogs.org/d/FsnRecrnk/pl… pic.twitter.com/uGrQFLp75U</title>
-		<published>2022-05-30T11:48:28+00:00</published>
-		<updated>2022-05-30T11:48:28+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1531241126371508225</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1531241126371508225"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Check out the #dashboard💻 illustrating the #data received from #Planetum-1🛰️ and collected by the @SatNOGS network. 📡
-#Transporter5 #Falcon9
-@SpaceX
-@spacemanictech
-@planetum_cz
-You can find the @grafana @kaitai_io dashboard at: &lt;a href="https://dashboard.satnogs.org/d/FsnRecrnk/planetum-1?orgId=1&amp;refresh=10s"&gt;dashboard.satnogs.org/d/FsnRecrnk/pl…&lt;/a&gt; &lt;a href="https://twitter.com/SatNOGS/status/1531241126371508225/photo/1"&gt;pic.twitter.com/uGrQFLp75U&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FUAPVFBWYAcnNRy.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FUAPVFBWYAcnNRy.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FUAPVFBWYAcnNRy.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Using Doppler curves, I made an updated TLE for FORESAIL-1. For details see:
-community.libre.space/t/falcon-9-lau…
-@AaltoUniversity @AaltoSatellites @cleanorbits @JaanPraks @SatNOGS @pe0sat pic.twitter.com/XWr3ZruXAV</title>
-		<published>2022-05-28T19:10:39+00:00</published>
-		<updated>2022-05-28T19:10:39+00:00</updated>
-		<id>https://twitter.com/eelkevisser/status/1530627632743718912</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/eelkevisser/status/1530627632743718912"/>
-		<author><name>RT: Eelke Visser (@eelkevisser)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/eelkevisser"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="eelkevisser"
-	src="https://pbs.twimg.com/profile_images/1354146277924200448/0M0fKr_p_normal.jpg"
-	title="Eelke Visser" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Using Doppler curves, I made an updated TLE for FORESAIL-1. For details see:
-&lt;a href="https://community.libre.space/t/falcon-9-launch-25th-may-2022/9264/36"&gt;community.libre.space/t/falcon-9-lau…&lt;/a&gt;
-@AaltoUniversity @AaltoSatellites @cleanorbits @JaanPraks @SatNOGS @pe0sat &lt;a href="https://twitter.com/eelkevisser/status/1530627632743718912/photo/1"&gt;pic.twitter.com/XWr3ZruXAV&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FT3gwVyWAAA1DLj.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FT3gwVyWAAA1DLj.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FT3gwVyWAAA1DLj.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">📌 The @SatNOGS network 📡 has received #Connecta T1.1🛰️ from @SpaceX's #Falcon9 #Transporter5 ride share.
-@WeArePlanS
-🌎🌍🌏
-Follow the thread for all the latest updates: community.libre.space/t/falcon-9-lau… pic.twitter.com/Dx1ZQIp4e7</title>
-		<published>2022-05-28T08:58:47+00:00</published>
-		<updated>2022-05-28T08:58:47+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1530473647621689345</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1530473647621689345"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;📌 The @SatNOGS network 📡 has received #Connecta T1.1🛰️ from @SpaceX's #Falcon9 #Transporter5 ride share.
-@WeArePlanS
-🌎🌍🌏
-Follow the thread for all the latest updates: &lt;a href="https://community.libre.space/t/falcon-9-launch-25th-may-2022/9264/30"&gt;community.libre.space/t/falcon-9-lau…&lt;/a&gt; &lt;a href="https://twitter.com/SatNOGS/status/1530473647621689345/photo/1"&gt;pic.twitter.com/Dx1ZQIp4e7&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FT1VGzIWIAE9FRl.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FT1VGzIWIAE9FRl.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FT1VGzIWIAE9FRl.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Measured the Doppler on PLANETUM-1 @planetum_cz and updated the post launch TLE. See the @SatNOGS forum:
-community.libre.space/t/falcon-9-lau… pic.twitter.com/FHHvIvTKFV</title>
-		<published>2022-05-27T18:20:27+00:00</published>
-		<updated>2022-05-27T18:20:27+00:00</updated>
-		<id>https://twitter.com/eelkevisser/status/1530252610451685376</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/eelkevisser/status/1530252610451685376"/>
-		<author><name>RT: Eelke Visser (@eelkevisser)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/eelkevisser"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="eelkevisser"
-	src="https://pbs.twimg.com/profile_images/1354146277924200448/0M0fKr_p_normal.jpg"
-	title="Eelke Visser" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Measured the Doppler on PLANETUM-1 @planetum_cz and updated the post launch TLE. See the @SatNOGS forum:
-&lt;a href="https://community.libre.space/t/falcon-9-launch-25th-may-2022/9264/33"&gt;community.libre.space/t/falcon-9-lau…&lt;/a&gt; &lt;a href="https://twitter.com/eelkevisser/status/1530252610451685376/photo/1"&gt;pic.twitter.com/FHHvIvTKFV&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FTyMAZeXEAMbg0R.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FTyMAZeXEAMbg0R.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FTyMAZeXEAMbg0R.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">📌Our network📡 has received 🛰️ #Foresail-1!
-Observation #5989434 from station 2380 - Piszkesteto UHF was the first to be received: network.satnogs.org/observations/5…
-🌎🌍🌏
-Follow all the details about Foresail-1 at:  community.libre.space/t/falcon-9-lau… twitter.com/JaanPraks/stat…</title>
-		<published>2022-05-26T09:46:44+00:00</published>
-		<updated>2022-05-26T09:46:44+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1529760942241742853</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1529760942241742853"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;📌Our network📡 has received 🛰️ #Foresail-1!
-Observation #5989434 from station 2380 - Piszkesteto UHF was the first to be received: &lt;a href="https://network.satnogs.org/observations/5989434/"&gt;network.satnogs.org/observations/5…&lt;/a&gt;
-🌎🌍🌏
-Follow all the details about Foresail-1 at:  &lt;a href="https://community.libre.space/t/falcon-9-launch-25th-may-2022/9264/26"&gt;community.libre.space/t/falcon-9-lau…&lt;/a&gt; &lt;a href="https://twitter.com/JaanPraks/status/1529579464501387271"&gt;twitter.com/JaanPraks/stat…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">📌 The @SatNOGS network 📡 has received #Planetum1🛰️ of @SpaceX 's #Falcon9 #Transporter5. 
-It's observation #5989367 received by station 1650 - station-01 network.satnogs.org/observations/5…
-🌎🌍🌏
-@spacemanictech 
-@planetum_cz 
-For all the updates follow the thread: community.libre.space/t/falcon-9-lau… pic.twitter.com/0l9WkL99r4</title>
-		<published>2022-05-25T21:26:15+00:00</published>
-		<updated>2022-05-25T21:26:15+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1529574590778859520</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1529574590778859520"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;📌 The @SatNOGS network 📡 has received #Planetum1🛰️ of @SpaceX 's #Falcon9 #Transporter5. 
-It's observation #5989367 received by station 1650 - station-01 &lt;a href="https://network.satnogs.org/observations/5989367/"&gt;network.satnogs.org/observations/5…&lt;/a&gt;
-🌎🌍🌏
-@spacemanictech 
-@planetum_cz 
-For all the updates follow the thread: &lt;a href="https://community.libre.space/t/falcon-9-launch-25th-may-2022/9264/18"&gt;community.libre.space/t/falcon-9-lau…&lt;/a&gt; &lt;a href="https://twitter.com/SatNOGS/status/1529574590778859520/photo/1"&gt;pic.twitter.com/0l9WkL99r4&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FToj3V7XwAMT3CJ.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FToj3V7XwAMT3CJ.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FToj3V7XwAMT3CJ.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">First #CubeSat signal once again captured by @SatNOGS  network. This time of #Planetum1 satellite made by @planetum_cz &amp;amp; @spacemanictech and with great help and cooperation with @VZLUcz :) 
-
-42 minutes of uptime, 1 boot, 16-17°C on board 🚀🛰️
-
-network.satnogs.org/observations/5…</title>
-		<published>2022-05-25T21:06:18+00:00</published>
-		<updated>2022-05-25T21:06:18+00:00</updated>
-		<id>https://twitter.com/Karnivol232/status/1529569570842988545</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/Karnivol232/status/1529569570842988545"/>
-		<author><name>RT: Marcel Frajt (@Karnivol232)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/Karnivol232"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="Karnivol232"
-	src="https://pbs.twimg.com/profile_images/975852003615281153/u6roFWwk_normal.jpg"
-	title="Marcel Frajt" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;First #CubeSat signal once again captured by @SatNOGS  network. This time of #Planetum1 satellite made by @planetum_cz &amp;amp; @spacemanictech and with great help and cooperation with @VZLUcz :) 
-
-42 minutes of uptime, 1 boot, 16-17°C on board 🚀🛰️
-
-&lt;a href="https://network.satnogs.org/observations/5989367/"&gt;network.satnogs.org/observations/5…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">For the past several months, we have been following #GASPACS 🛰️ journey to space, contributing to it with more than 11K observations from our network. 📡
-network.satnogs.org/observations/?…
-Thank you @GASPACS_CubeSat for the collaboration, we are excited to have been part of this mission! twitter.com/GASPACS_CubeSa…</title>
-		<published>2022-05-24T18:24:58+00:00</published>
-		<updated>2022-05-24T18:24:58+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1529166584371105793</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1529166584371105793"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;For the past several months, we have been following #GASPACS 🛰️ journey to space, contributing to it with more than 11K observations from our network. 📡
-&lt;a href="https://network.satnogs.org/observations/?norad=51439"&gt;network.satnogs.org/observations/?…&lt;/a&gt;
-Thank you @GASPACS_CubeSat for the collaboration, we are excited to have been part of this mission! &lt;a href="https://twitter.com/GASPACS_CubeSat/status/1528977096902463493"&gt;twitter.com/GASPACS_CubeSa…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Day #2 at the @hamvention!
-Find @SatNOGS at Booth 3104, and learn more about @LibreSpace_Fnd and its #OpenSource projects.
-(get some stickers too)
-#hamvention2022 
-libre.space</title>
-		<published>2022-05-21T15:20:48+00:00</published>
-		<updated>2022-05-21T15:20:48+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1528033071378878465</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1528033071378878465"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Day #2 at the @hamvention!
-Find @SatNOGS at Booth 3104, and learn more about @LibreSpace_Fnd and its #OpenSource projects.
-(get some stickers too)
-#hamvention2022 
-&lt;a href="https://libre.space/"&gt;libre.space&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@hamvention @etihwnad @LibreSpace_Fnd pic.twitter.com/Weryj48wmB</title>
-		<published>2022-05-20T14:54:51+00:00</published>
-		<updated>2022-05-20T14:54:51+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1527664153451810816</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1527664153451810816"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@hamvention @etihwnad @LibreSpace_Fnd &lt;a href="https://twitter.com/SatNOGS/status/1527664153451810816/photo/1"&gt;pic.twitter.com/Weryj48wmB&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FTNaa2xXwAEE8Zp.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FTNaa2xXwAEE8Zp.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FTNaa2xXwAEE8Zp.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Stop by the @SatNOGS Booth 📡🛰️ at the @hamvention, and meet Kevin and @etihwnad, two of @LibreSpace_Fnd 's Core Contributors!
-#Hamvention2022
-#opensource pic.twitter.com/ecDT4Pyedq</title>
-		<published>2022-05-20T14:31:18+00:00</published>
-		<updated>2022-05-20T14:31:18+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1527658226912792579</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1527658226912792579"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Stop by the @SatNOGS Booth 📡🛰️ at the @hamvention, and meet Kevin and @etihwnad, two of @LibreSpace_Fnd 's Core Contributors!
-#Hamvention2022
-#opensource &lt;a href="https://twitter.com/SatNOGS/status/1527658226912792579/photo/1"&gt;pic.twitter.com/ecDT4Pyedq&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FTNUh3sXsAAtyBB.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FTNUh3sXsAAtyBB.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FTNUh3sXsAAtyBB.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">📌We are back at the @hamvention!
-Excited to be part of the world's largest amateur radio gathering!
-#radioamateur
-#Hamvention2022 
-hamvention.org</title>
-		<published>2022-05-20T09:58:02+00:00</published>
-		<updated>2022-05-20T09:58:02+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1527589455808413696</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1527589455808413696"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;📌We are back at the @hamvention!
-Excited to be part of the world's largest amateur radio gathering!
-#radioamateur
-#Hamvention2022 
-&lt;a href="https://hamvention.org/"&gt;hamvention.org&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;

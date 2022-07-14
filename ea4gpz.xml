@@ -5,12 +5,66 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-07-12T08:14:20+00:00</updated>
+	<updated>2022-07-14T10:46:04+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">Jan has managed to decode all three MEO cubesats in the Vega-C launch using gr-satellites. twitter.com/pe0sat/status/…</title>
+		<published>2022-07-14T04:29:38+00:00</published>
+		<updated>2022-07-14T04:29:38+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1547438146266116096</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1547438146266116096"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Jan has managed to decode all three MEO cubesats in the Vega-C launch using gr-satellites. &lt;a href="https://twitter.com/pe0sat/status/1547338461476261888"&gt;twitter.com/pe0sat/status/…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@pe0sat @enzobecamel Sorry for the delay. I've been traveling all day. I'll merge these ASAP. Thanks for everything!</title>
+		<published>2022-07-14T04:26:42+00:00</published>
+		<updated>2022-07-14T04:26:42+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1547437406210572290</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1547437406210572290"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@pe0sat @enzobecamel Sorry for the delay. I've been traveling all day. I'll merge these ASAP. Thanks for everything!&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@OpenResearchIns OK. For me the key is that the nonce doesn't transmit information. It's the same as in HMAC, were you're just encrypting a hash, not the actual message.</title>
@@ -543,60 +597,6 @@
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;It uses format 1A: compact scheduling of one PDSCH codeword. As we can see on the decoder webpage, it describes the PDSCH transmission that follows (marked in orange in the waterfall). (4/4)&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Here a single DCI is transmitted (marked in red in the waterfall). It is FEC encoded in 4 CCEs, meaning that it uses 144 QPSK symbols. The size of the DCI before FEC is 43 bits (including the 16-bit CRC). It is addressed to the Paging RNTI. (3/4)</title>
-		<published>2022-06-26T11:25:24+00:00</published>
-		<updated>2022-06-26T11:25:24+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1541019795637805056</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1541019795637805056"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Here a single DCI is transmitted (marked in red in the waterfall). It is FEC encoded in 4 CCEs, meaning that it uses 144 QPSK symbols. The size of the DCI before FEC is 43 bits (including the 16-bit CRC). It is addressed to the Paging RNTI. (3/4)&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">There are many types of DCIs, different sizes, different FECs, and destinations. None of these are given explicitly, and must be detected by trial and error. Also, zero or more DCIs can be transmitted at the beginning of a subframe, without explicit indications. (2/4)</title>
-		<published>2022-06-26T11:25:24+00:00</published>
-		<updated>2022-06-26T11:25:24+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1541019793142255618</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1541019793142255618"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;There are many types of DCIs, different sizes, different FECs, and destinations. None of these are given explicitly, and must be detected by trial and error. Also, zero or more DCIs can be transmitted at the beginning of a subframe, without explicit indications. (2/4)&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
