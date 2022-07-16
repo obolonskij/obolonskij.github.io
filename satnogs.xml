@@ -5,12 +5,179 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-07-14T10:46:06+00:00</updated>
+	<updated>2022-07-16T07:15:25+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">GREENCUBE
+1 99382U          22196.10639840  .00000000  00000-0  00000-0 0    05
+2 99382  70.1732  77.0216 0006127 290.9617 116.8621  6.42613335    04
+# 20220713.72-20220715.32, 366 measurements, 0.016 kHz rms</title>
+		<published>2022-07-15T08:36:13+00:00</published>
+		<updated>2022-07-15T08:36:13+00:00</updated>
+		<id>https://twitter.com/coastal8049/status/1547862587953451008</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/coastal8049/status/1547862587953451008"/>
+		<author><name>RT: Scott Tilley 🇺🇦 (@coastal8049)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/coastal8049"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="coastal8049"
+	src="https://pbs.twimg.com/profile_images/543649429949931520/oD2rLksu_normal.jpeg"
+	title="Scott Tilley 🇺🇦" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;GREENCUBE
+1 99382U          22196.10639840  .00000000  00000-0  00000-0 0    05
+2 99382  70.1732  77.0216 0006127 290.9617 116.8621  6.42613335    04
+# 20220713.72-20220715.32, 366 measurements, 0.016 kHz rms&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Measured the Doppler curve on 4 passes of #CELESTA and #MTCUBE2 cube satellites. Generated new TLEs from scratch. See the @SatNOGS forum:
+community.libre.space/t/vega-c-inaug…
+@ASI_spazio @Avio_Group @ENEAOfficial @S5Lab @UninaIT @umontpellier @CERN @csumontpellier @FVA_um @auo1971 @cgbassa pic.twitter.com/zE23ptwc7q</title>
+		<published>2022-07-14T19:24:02+00:00</published>
+		<updated>2022-07-14T19:24:02+00:00</updated>
+		<id>https://twitter.com/eelkevisser/status/1547663230306177024</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/eelkevisser/status/1547663230306177024"/>
+		<author><name>RT: Eelke Visser (@eelkevisser)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/eelkevisser"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="eelkevisser"
+	src="https://pbs.twimg.com/profile_images/1354146277924200448/0M0fKr_p_normal.jpg"
+	title="Eelke Visser" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Measured the Doppler curve on 4 passes of #CELESTA and #MTCUBE2 cube satellites. Generated new TLEs from scratch. See the @SatNOGS forum:
+&lt;a href="https://community.libre.space/t/vega-c-inaugural-launch-flight-vv21-meo-orbit-2022-07-13-13-13-utc/9389/24"&gt;community.libre.space/t/vega-c-inaug…&lt;/a&gt;
+@ASI_spazio @Avio_Group @ENEAOfficial @S5Lab @UninaIT @umontpellier @CERN @csumontpellier @FVA_um @auo1971 @cgbassa &lt;a href="https://twitter.com/eelkevisser/status/1547663230306177024/photo/1"&gt;pic.twitter.com/zE23ptwc7q&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FXpl8eVUsAYFGX9.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FXpl8eVUsAYFGX9.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FXpl8eVUsAYFGX9.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">🛰️🛰️
+#VegaC 
+@ASI_spazio @Avio_Group @ENEAOfficial @S5Lab @UninaIT 
+@umontpellier @CERN @csumontpellier @FVA_um</title>
+		<published>2022-07-14T18:48:57+00:00</published>
+		<updated>2022-07-14T18:48:57+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1547654398393798658</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1547654398393798658"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;🛰️🛰️
+#VegaC 
+@ASI_spazio @Avio_Group @ENEAOfficial @S5Lab @UninaIT 
+@umontpellier @CERN @csumontpellier @FVA_um&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The generated new TLEs were provided by @LibreSpace_Fnd 's Core Contributor @cgbassa.</title>
+		<published>2022-07-14T18:42:05+00:00</published>
+		<updated>2022-07-14T18:42:05+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1547652671460454403</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1547652671460454403"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The generated new TLEs were provided by @LibreSpace_Fnd 's Core Contributor @cgbassa.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">In the first 24 hours of #GREENCUBE's journey in space, Doppler curves were measured from 5 passes over the Netherlands. The new TLEs generated should also be valid for satellites #ASTROBIO, #MTCUBE2 and #CELESTA. 
+
+For more details: community.libre.space/t/vega-c-inaug… pic.twitter.com/EusfuPZjUh</title>
+		<published>2022-07-14T18:38:12+00:00</published>
+		<updated>2022-07-14T18:38:12+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1547651695919804416</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1547651695919804416"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;In the first 24 hours of #GREENCUBE's journey in space, Doppler curves were measured from 5 passes over the Netherlands. The new TLEs generated should also be valid for satellites #ASTROBIO, #MTCUBE2 and #CELESTA. 
+
+For more details: &lt;a href="https://community.libre.space/t/vega-c-inaugural-launch-flight-vv21-meo-orbit-2022-07-13-13-13-utc/9389/21"&gt;community.libre.space/t/vega-c-inaug…&lt;/a&gt; &lt;a href="https://twitter.com/SatNOGS/status/1547651695919804416/photo/1"&gt;pic.twitter.com/EusfuPZjUh&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FXpczqYUUAAuEry.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FXpczqYUUAAuEry.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FXpczqYUUAAuEry.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">The Dwingeloo @radiotelescoop just observed the satellite CELESTA as a @SatNOGS ground station (while tracking the satellite). View the results at network.satnogs.org/observations/6…. pic.twitter.com/C3wEWYotgb</title>
@@ -512,161 +679,6 @@ For the updated TLEs and all the latest about the mission follow: community.libr
 	&lt;blockquote&gt;📌 The @SatNOGS network📡 is ready to track 🛰️ #ASTROBIO #CELESTE #GreenCube #MTCUBE flying in MEO orbit, on the maiden flight of @esa's  #Lares2  #VegaC launch vehicle.
 
 For the updated TLEs and all the latest about the mission follow: &lt;a href="https://community.libre.space/t/vega-c-inaugural-launch-flight-vv21-meo-orbit-2022-07-13-11-13-utc/9389/15"&gt;community.libre.space/t/vega-c-inaug…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@n6rfm @auo1971 @cgbassa @pe0sat However keep in mind that this TLE set is for 11:13 UTC launch, which has been postponed, so you will need new TLE set.</title>
-		<published>2022-07-13T12:25:00+00:00</published>
-		<updated>2022-07-13T12:25:00+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1547195387328462849</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1547195387328462849"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@n6rfm @auo1971 @cgbassa @pe0sat However keep in mind that this TLE set is for 11:13 UTC launch, which has been postponed, so you will need new TLE set.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@n6rfm @auo1971 @cgbassa @pe0sat In both lines the checksum is wrong, replace the last digit of each line with 8 and it should work.</title>
-		<published>2022-07-13T12:23:38+00:00</published>
-		<updated>2022-07-13T12:23:38+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1547195041558536193</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1547195041558536193"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@n6rfm @auo1971 @cgbassa @pe0sat In both lines the checksum is wrong, replace the last digit of each line with 8 and it should work.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">I cannot wait to use @SatNOGS for @SunCETcubesat. The dashboards are SO COOL. This one is for another mission I'm helping out with and this is the default place I go to see how it's doing even though I've got access to our internal software. 
-#PI_Daily
-
-dashboard.satnogs.org/d/xSIFnkB7k/in… pic.twitter.com/ggIRvapTx6</title>
-		<published>2022-07-11T13:58:55+00:00</published>
-		<updated>2022-07-11T13:58:55+00:00</updated>
-		<id>https://twitter.com/starfleetjames/status/1546494247007883264</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/starfleetjames/status/1546494247007883264"/>
-		<author><name>RT: James Paul Mason (@starfleetjames)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/starfleetjames"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="starfleetjames"
-	src="https://pbs.twimg.com/profile_images/971138026939314179/9RVe4mLm_normal.jpg"
-	title="James Paul Mason" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;I cannot wait to use @SatNOGS for @SunCETcubesat. The dashboards are SO COOL. This one is for another mission I'm helping out with and this is the default place I go to see how it's doing even though I've got access to our internal software. 
-#PI_Daily
-
-&lt;a href="https://dashboard.satnogs.org/d/xSIFnkB7k/inspiresat-1?orgId=1"&gt;dashboard.satnogs.org/d/xSIFnkB7k/in…&lt;/a&gt; &lt;a href="https://twitter.com/starfleetjames/status/1546494247007883264/photo/1"&gt;pic.twitter.com/ggIRvapTx6&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FXZAMz6XgAcQr_6.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FXZAMz6XgAcQr_6.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FXZAMz6XgAcQr_6.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">This will be very interesting community.libre.space/t/vega-c-maide… #amsat #cubesat #satnogs</title>
-		<published>2022-07-06T13:34:30+00:00</published>
-		<updated>2022-07-06T13:34:30+00:00</updated>
-		<id>https://twitter.com/pe0sat/status/1544676164224126979</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/pe0sat/status/1544676164224126979"/>
-		<author><name>RT: Jan - PE0SAT (@pe0sat)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/pe0sat"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="pe0sat"
-	src="https://pbs.twimg.com/profile_images/1382059559238434819/7hX8TT53_normal.jpg"
-	title="Jan - PE0SAT" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;This will be very interesting &lt;a href="https://community.libre.space/t/vega-c-maiden-flight-july-13th-meo-orbit/9389"&gt;community.libre.space/t/vega-c-maide…&lt;/a&gt; #amsat #cubesat #satnogs&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">The @SatNOGS network 📡 has received #satellite #STEPCubeLab-II 🛰️ from the #KSLV2 #Nuri launch. 
-🌎🌍🌏
-@chosun_univ
-
-For more updates follow the thread: community.libre.space/t/step-cubelab…</title>
-		<published>2022-06-29T11:22:56+00:00</published>
-		<updated>2022-06-29T11:22:56+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1542106337013891075</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1542106337013891075"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;The @SatNOGS network 📡 has received #satellite #STEPCubeLab-II 🛰️ from the #KSLV2 #Nuri launch. 
-🌎🌍🌏
-@chosun_univ
-
-For more updates follow the thread: &lt;a href="https://community.libre.space/t/step-cubelab-ii-kslv-ii-launch/9369/12"&gt;community.libre.space/t/step-cubelab…&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
