@@ -5,12 +5,196 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-07-14T10:46:04+00:00</updated>
+	<updated>2022-07-24T06:37:30+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">A new stable release of gr-satellites has been released. There are different versions for @gnuradio 3.10, 3.9 and 3.8. These add a bunch of new satellites, a QO-100 multimedia beacon receiver, a Doppler correction block and other improvements. There are Conda and Ubuntu packages. pic.twitter.com/5rLI0JAng7</title>
+		<published>2022-07-23T21:26:42+00:00</published>
+		<updated>2022-07-23T21:26:42+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1550955589483765766</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1550955589483765766"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;A new stable release of gr-satellites has been released. There are different versions for @gnuradio 3.10, 3.9 and 3.8. These add a bunch of new satellites, a QO-100 multimedia beacon receiver, a Doppler correction block and other improvements. There are Conda and Ubuntu packages. &lt;a href="https://twitter.com/ea4gpz/status/1550955589483765766/photo/1"&gt;pic.twitter.com/5rLI0JAng7&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FYYZwL8XgAEn_9n.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FYYZwL8XgAEn_9n.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FYYZwL8XgAEn_9n.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@cgbassa @gnuradio ... and don't mind much having several files in the rare cases where I use several frequencies for the same object.</title>
+		<published>2022-07-22T18:28:01+00:00</published>
+		<updated>2022-07-22T18:28:01+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1550548235210604545</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1550548235210604545"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@cgbassa @gnuradio ... and don't mind much having several files in the rare cases where I use several frequencies for the same object.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@cgbassa @gnuradio That would be easy to do (maybe implemented both input in Hz / m/s with an option to select). Personally I find dealing with Hz simpler in cases where you correct part of the Doppler with offset tuning (see the example in the post)...</title>
+		<published>2022-07-22T18:27:24+00:00</published>
+		<updated>2022-07-22T18:27:24+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1550548077034995715</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1550548077034995715"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@cgbassa @gnuradio That would be easy to do (maybe implemented both input in Hz / m/s with an option to select). Personally I find dealing with Hz simpler in cases where you correct part of the Doppler with offset tuning (see the example in the post)...&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">You can also use it to generate a CW carrier that follows an arbitrary, predefined, frequency curve.
+
+Read more: destevez.net/2022/07/real-t… (3/3) pic.twitter.com/4C3rDmyzQD</title>
+		<published>2022-07-22T18:01:00+00:00</published>
+		<updated>2022-07-22T18:01:00+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1550541435732049920</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1550541435732049920"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;You can also use it to generate a CW carrier that follows an arbitrary, predefined, frequency curve.
+
+Read more: &lt;a href="https://destevez.net/2022/07/real-time-doppler-correction-with-gnu-radio/"&gt;destevez.net/2022/07/real-t…&lt;/a&gt; (3/3) &lt;a href="https://twitter.com/ea4gpz/status/1550541435732049920/photo/1"&gt;pic.twitter.com/4C3rDmyzQD&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FYSg1hNWQAAlIT9.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FYSg1hNWQAAlIT9.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FYSg1hNWQAAlIT9.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The file can be generated with data fetched from NASA HORIZONS, so this block is specially useful for non Earth orbiting satellites (Python code for this is included). The block has been tested by doing real-time Doppler correction of Voyager-1 in the Allen Telescope Array. (2/3)</title>
+		<published>2022-07-22T18:00:59+00:00</published>
+		<updated>2022-07-22T18:00:59+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1550541431822958592</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1550541431822958592"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The file can be generated with data fetched from NASA HORIZONS, so this block is specially useful for non Earth orbiting satellites (Python code for this is included). The block has been tested by doing real-time Doppler correction of Voyager-1 in the Allen Telescope Array. (2/3)&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">New blog post: Real time Doppler correction with @gnuradio. I have added a C++ block to gr-satellites that performs Doppler correction using a Doppler curve described by a file. (1/3) pic.twitter.com/P1PqqLdul0</title>
+		<published>2022-07-22T18:00:58+00:00</published>
+		<updated>2022-07-22T18:00:58+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1550541428438306818</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1550541428438306818"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;New blog post: Real time Doppler correction with @gnuradio. I have added a C++ block to gr-satellites that performs Doppler correction using a Doppler curve described by a file. (1/3) &lt;a href="https://twitter.com/ea4gpz/status/1550541428438306818/photo/1"&gt;pic.twitter.com/P1PqqLdul0&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FYSgvIaXwAELURu.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FYSgvIaXwAELURu.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FYSgvIaXwAELURu.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Jan has managed to decode all three MEO cubesats in the Vega-C launch using gr-satellites. twitter.com/pe0sat/status/…</title>
@@ -422,186 +606,6 @@
 &lt;/div&gt;</content>
 		<link rel="enclosure" href="https://pbs.twimg.com/media/FWmuuU0XoAARza1.png?name=orig" type="image/png" />
 
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">The PBCH transmits a 40-bit MIB as a 1920-bit codeword, so there is a lot of repetition in the rate matching. The MIB occupies 4 PBCH transmissions. We need to align ourselves to the correct 4 subframe windows. Often this is done by trial and error, but I give a heuristic. (3/10) pic.twitter.com/qME1O3K1On</title>
-		<published>2022-07-01T19:47:11+00:00</published>
-		<updated>2022-07-01T19:47:11+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1542958013232947203</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1542958013232947203"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;The PBCH transmits a 40-bit MIB as a 1920-bit codeword, so there is a lot of repetition in the rate matching. The MIB occupies 4 PBCH transmissions. We need to align ourselves to the correct 4 subframe windows. Often this is done by trial and error, but I give a heuristic. (3/10) &lt;a href="https://twitter.com/ea4gpz/status/1542958013232947203/photo/1"&gt;pic.twitter.com/qME1O3K1On&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FWmuh-nWYAIU8Pm.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FWmuh-nWYAIU8Pm.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FWmuh-nWYAIU8Pm.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">These channels are encoded with a tail-biting k=7, r=1/3 convolutional encoder and a rate matching block. The rate matching is a neat idea that decouples the message size from the codeword size. (2/10) pic.twitter.com/eStfS0txwn</title>
-		<published>2022-07-01T19:47:10+00:00</published>
-		<updated>2022-07-01T19:47:10+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1542958009588105222</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1542958009588105222"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;These channels are encoded with a tail-biting k=7, r=1/3 convolutional encoder and a rate matching block. The rate matching is a neat idea that decouples the message size from the codeword size. (2/10) &lt;a href="https://twitter.com/ea4gpz/status/1542958009588105222/photo/1"&gt;pic.twitter.com/eStfS0txwn&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FWmuaY5XwAIFVu9.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FWmuaY5XwAIFVu9.png" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FWmrhnGWAAEVeIQ.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FWmrhnGWAAEVeIQ.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FWmuaY5XwAIFVu9.png?name=orig" type="image/png" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FWmrhnGWAAEVeIQ.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">New blog post: LTE downlink - PBCH and PDCCH. I continue my series of LTE posts showing how to decode some of the physical channels in the downlink. The PBCH is used to send the MIB, which contains basic cell information. The PDCCH sends control info. (1/10)</title>
-		<published>2022-07-01T19:47:08+00:00</published>
-		<updated>2022-07-01T19:47:08+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1542957998343163904</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1542957998343163904"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;New blog post: LTE downlink - PBCH and PDCCH. I continue my series of LTE posts showing how to decode some of the physical channels in the downlink. The PBCH is used to send the MIB, which contains basic cell information. The PDCCH sends control info. (1/10)&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@abraxas3d @tnt Just realized that for the DCI, if the SNR is good, a UE can often use the wrong number of CCEs to try to decode a DCI and still succeed, as long as it uses the correct starting point for the CCE allocation. Probably this reduces the number of decoding attempts needed in practice</title>
-		<published>2022-06-26T16:35:23+00:00</published>
-		<updated>2022-06-26T16:35:23+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1541097804617097217</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1541097804617097217"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@abraxas3d @tnt Just realized that for the DCI, if the SNR is good, a UE can often use the wrong number of CCEs to try to decode a DCI and still succeed, as long as it uses the correct starting point for the CCE allocation. Probably this reduces the number of decoding attempts needed in practice&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@tnt On the other hand signalling bits are saved. The line between clever and crazy is quite thin, and with this I don't know on which side of the line it falls. It's terribly complicated, but the physical layer procedures say exactly what the UE should try and when to bail out.</title>
-		<published>2022-06-26T12:10:39+00:00</published>
-		<updated>2022-06-26T12:10:39+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1541031181529092096</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1541031181529092096"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@tnt On the other hand signalling bits are saved. The line between clever and crazy is quite thin, and with this I don't know on which side of the line it falls. It's terribly complicated, but the physical layer procedures say exactly what the UE should try and when to bail out.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">It uses format 1A: compact scheduling of one PDSCH codeword. As we can see on the decoder webpage, it describes the PDSCH transmission that follows (marked in orange in the waterfall). (4/4)</title>
-		<published>2022-06-26T11:25:25+00:00</published>
-		<updated>2022-06-26T11:25:25+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1541019798162784257</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1541019798162784257"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;It uses format 1A: compact scheduling of one PDSCH codeword. As we can see on the decoder webpage, it describes the PDSCH transmission that follows (marked in orange in the waterfall). (4/4)&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
 		
 		
 	</entry>
