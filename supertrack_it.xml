@@ -5,12 +5,456 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-07-24T06:37:31+00:00</updated>
+	<updated>2022-08-14T20:29:43+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">Latest Version of SpectraVue 3.44 is out. Now with no hardware check so you can pipe IQ via ethernet from any hardware. rfspace.com/RFSPACE/Spectr… pic.twitter.com/akAjVRFIpc</title>
+		<published>2022-08-12T19:00:09+00:00</published>
+		<updated>2022-08-12T19:00:09+00:00</updated>
+		<id>https://twitter.com/rfspace/status/1558166465781665795</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/rfspace/status/1558166465781665795"/>
+		<author><name>RT: RFSPΔCΞ (@rfspace)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/rfspace"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="rfspace"
+	src="https://pbs.twimg.com/profile_images/582350980546707456/7cfOFF91_normal.jpg"
+	title="RFSPΔCΞ" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Latest Version of SpectraVue 3.44 is out. Now with no hardware check so you can pipe IQ via ethernet from any hardware. &lt;a href="http://www.rfspace.com/RFSPACE/SpectraVue.html"&gt;rfspace.com/RFSPACE/Spectr…&lt;/a&gt; &lt;a href="https://twitter.com/rfspace/status/1558166465781665795/photo/1"&gt;pic.twitter.com/akAjVRFIpc&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FZ-4I5dXgAgEv8v.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FZ-4I5dXgAgEv8v.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FZ-4I5dXgAgEv8v.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">KPLO today on 2260.79 MHz received with 120cm PF plain dish, first in LHCP mode then, after quick change of feed, in RHCP. Carrier signal difference is about 12 dB against the theoretical 18 dB. KPLO is now definitely in RHCP mode, at least in S band. Never seen on x-band pic.twitter.com/a40Zdkbcqi</title>
+		<published>2022-08-11T15:39:13+00:00</published>
+		<updated>2022-08-11T15:39:13+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1557753509910659072</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1557753509910659072"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;KPLO today on 2260.79 MHz received with 120cm PF plain dish, first in LHCP mode then, after quick change of feed, in RHCP. Carrier signal difference is about 12 dB against the theoretical 18 dB. KPLO is now definitely in RHCP mode, at least in S band. Never seen on x-band &lt;a href="https://twitter.com/supertrack_it/status/1557753509910659072/photo/1"&gt;pic.twitter.com/a40Zdkbcqi&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FZ4_175XwAU9X4j.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FZ4_175XwAU9X4j.jpg" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FZ4_3uJWAAAYn5N.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FZ4_3uJWAAAYn5N.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FZ4_175XwAU9X4j.jpg?name=orig" type="image/jpeg" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FZ4_3uJWAAAYn5N.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@Dario24105 AR 5000 per me il top, e poi un bel sdr a 10.7 e ci fai quasi tutto</title>
+		<published>2022-08-10T17:26:00+00:00</published>
+		<updated>2022-08-10T17:26:00+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1557417997907771398</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1557417997907771398"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@Dario24105 AR 5000 per me il top, e poi un bel sdr a 10.7 e ci fai quasi tutto&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">KPLO  on 2260,793 MHz received with AOR AR5000 and plotted with Airspy HF+/SDRsharp as panadapter at 10.7 MHz pic.twitter.com/jKipibkmfw</title>
+		<published>2022-08-10T14:55:25+00:00</published>
+		<updated>2022-08-10T14:55:25+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1557380099841851395</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1557380099841851395"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;KPLO  on 2260,793 MHz received with AOR AR5000 and plotted with Airspy HF+/SDRsharp as panadapter at 10.7 MHz &lt;a href="https://twitter.com/supertrack_it/status/1557380099841851395/photo/1"&gt;pic.twitter.com/jKipibkmfw&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FZzsq6kXgAA7d6F.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FZzsq6kXgAA7d6F.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FZzsq6kXgAA7d6F.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@Dario24105 Ciao Dario, direi di sì ma per darti una risposta sensata dovrei poter cambiare velocemente polarizzazione per dirti in quale modo, in quel momento, ricevo con il miglior segnale. Ma….fa caldo</title>
+		<published>2022-08-09T10:37:37+00:00</published>
+		<updated>2022-08-09T10:37:37+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1556952834721062912</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1556952834721062912"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@Dario24105 Ciao Dario, direi di sì ma per darti una risposta sensata dovrei poter cambiare velocemente polarizzazione per dirti in quale modo, in quel momento, ricevo con il miglior segnale. Ma….fa caldo&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Danuri KPLO on 2260.791 MHz, received in LHCP mode pic.twitter.com/fTaodR6FjJ</title>
+		<published>2022-08-08T15:13:24+00:00</published>
+		<updated>2022-08-08T15:13:24+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1556659849869524993</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1556659849869524993"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Danuri KPLO on 2260.791 MHz, received in LHCP mode &lt;a href="https://twitter.com/supertrack_it/status/1556659849869524993/photo/1"&gt;pic.twitter.com/fTaodR6FjJ&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FZpd0QTXEAIng9n.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FZpd0QTXEAIng9n.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FZpd0QTXEAIng9n.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Danuri KPLO in bound to the Moon on 2260.79 MHz, received in LHCP mode. Much better signal with sidebands than yesterday, when I was receiving  RHCP.  Thanks Scott @coastal8049 and Dario @Dario24105 for heads up :-) pic.twitter.com/JS0E8xU3FO</title>
+		<published>2022-08-06T11:27:00+00:00</published>
+		<updated>2022-08-06T11:27:00+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1555878100663246850</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1555878100663246850"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Danuri KPLO in bound to the Moon on 2260.79 MHz, received in LHCP mode. Much better signal with sidebands than yesterday, when I was receiving  RHCP.  Thanks Scott @coastal8049 and Dario @Dario24105 for heads up :-) &lt;a href="https://twitter.com/supertrack_it/status/1555878100663246850/photo/1"&gt;pic.twitter.com/JS0E8xU3FO&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FZeWvdTXEAYRcVl.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FZeWvdTXEAYRcVl.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FZeWvdTXEAYRcVl.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@Dario24105 @coastal8049 Intanto sto cambiando dischi e pastiglie dei freni alla Panda di mia moglie che è sul ferro HI!!  …  e ovviamente tutti i meccanici ad agosto sono chiusi</title>
+		<published>2022-08-05T19:19:09+00:00</published>
+		<updated>2022-08-05T19:19:09+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1555634532581269511</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1555634532581269511"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@Dario24105 @coastal8049 Intanto sto cambiando dischi e pastiglie dei freni alla Panda di mia moglie che è sul ferro HI!!  …  e ovviamente tutti i meccanici ad agosto sono chiusi&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@Dario24105 Ciao Dario! Feed LHCP,  ma come gentilmente mi ha fatto notare Scott @coastal8049 il segnale è LHCP così domani devo avvolgere un 3.5 spire destrorse per un nuovo feed</title>
+		<published>2022-08-05T19:16:01+00:00</published>
+		<updated>2022-08-05T19:16:01+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1555633743964037121</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1555633743964037121"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@Dario24105 Ciao Dario! Feed LHCP,  ma come gentilmente mi ha fatto notare Scott @coastal8049 il segnale è LHCP così domani devo avvolgere un 3.5 spire destrorse per un nuovo feed&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@coastal8049 Thanks Scott! So I need a 3.5 turns RHCP helix for my 120cm S band dish</title>
+		<published>2022-08-05T17:36:12+00:00</published>
+		<updated>2022-08-05T17:36:12+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1555608624759816194</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1555608624759816194"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@coastal8049 Thanks Scott! So I need a 3.5 turns RHCP helix for my 120cm S band dish&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Danuri KPLO in bound to the Moon on 2260.783 MHz. Quite weak signal and needed a small integration to see on the waterfall pic.twitter.com/RgOI74Kn22</title>
+		<published>2022-08-05T17:02:35+00:00</published>
+		<updated>2022-08-05T17:02:35+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1555600163896434688</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1555600163896434688"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Danuri KPLO in bound to the Moon on 2260.783 MHz. Quite weak signal and needed a small integration to see on the waterfall &lt;a href="https://twitter.com/supertrack_it/status/1555600163896434688/photo/1"&gt;pic.twitter.com/RgOI74Kn22&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FZaaBB1XEAEqbVc.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FZaaBB1XEAEqbVc.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FZaaBB1XEAEqbVc.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">STEREO-A downlink on X-Band. pic.twitter.com/CX4TMs97iW</title>
+		<published>2022-08-05T15:06:41+00:00</published>
+		<updated>2022-08-05T15:06:41+00:00</updated>
+		<id>https://twitter.com/uhf_satcom/status/1555570995808845824</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/uhf_satcom/status/1555570995808845824"/>
+		<author><name>RT: UHF Satcom 🇬🇧 📡 📻 (@uhf_satcom)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/uhf_satcom"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="uhf_satcom"
+	src="https://pbs.twimg.com/profile_images/760595767/uhfsatcom_normal.jpg"
+	title="UHF Satcom 🇬🇧 📡 📻" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;STEREO-A downlink on X-Band. &lt;a href="https://twitter.com/uhf_satcom/status/1555570995808845824/photo/1"&gt;pic.twitter.com/CX4TMs97iW&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FZZ_gFGXwAEZmTM.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FZZ_gFGXwAEZmTM.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FZZ_gFGXwAEZmTM.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Sandwich Bay, Namibia, where huge dunes reach the ocean pic.twitter.com/jyR2CM81q7</title>
+		<published>2022-07-26T05:48:51+00:00</published>
+		<updated>2022-07-26T05:48:51+00:00</updated>
+		<id>https://twitter.com/gavinjones10/status/1551806734729199617</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/gavinjones10/status/1551806734729199617"/>
+		<author><name>RT: gavin jones (@gavinjones10)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/gavinjones10"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="gavinjones10"
+	src="https://pbs.twimg.com/profile_images/918123870695182336/azwAphe1_normal.jpg"
+	title="gavin jones" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Sandwich Bay, Namibia, where huge dunes reach the ocean &lt;a href="https://twitter.com/gavinjones10/status/1551806734729199617/photo/1"&gt;pic.twitter.com/jyR2CM81q7&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FYkf9-2WIAA0y8W.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FYkf9-2WIAA0y8W.jpg" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FYkf9--WAAUgT09.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FYkf9--WAAUgT09.jpg" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FYkf9-2XEAEho0L.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FYkf9-2XEAEho0L.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FYkf9-2WIAA0y8W.jpg?name=orig" type="image/jpeg" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FYkf9--WAAUgT09.jpg?name=orig" type="image/jpeg" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FYkf9-2XEAEho0L.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@DF3LZ Sorry to hear that Roland. Nice pictures of Tigris, look so sweet</title>
+		<published>2022-07-24T11:16:41+00:00</published>
+		<updated>2022-07-24T11:16:41+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1551164462744408064</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1551164462744408064"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@DF3LZ Sorry to hear that Roland. Nice pictures of Tigris, look so sweet&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Many different signals, voice and SSTV, from SWSU-55 cubesats series just release from ISS around 437.00 and 437.120 MHz pic.twitter.com/4eKliWP8bG</title>
@@ -252,444 +696,6 @@ will post some ✂️✂️ later on... &lt;a href="https://twitter.com/petermet
 	&lt;blockquote&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
 		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@uhf_satcom Hi mate, nice signal indeed. Here my plot awaiting for burn pic.twitter.com/qdvhV1OcEW</title>
-		<published>2022-07-09T15:30:05+00:00</published>
-		<updated>2022-07-09T15:30:05+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1545792414748708865</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1545792414748708865"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@uhf_satcom Hi mate, nice signal indeed. Here my plot awaiting for burn &lt;a href="https://twitter.com/supertrack_it/status/1545792414748708865/photo/1"&gt;pic.twitter.com/qdvhV1OcEW&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FXPB3qXWIAA0WSg.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FXPB3qXWIAA0WSg.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FXPB3qXWIAA0WSg.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Capstone X-Band downlink, nice signal!! pic.twitter.com/KS3Y8mHnO8</title>
-		<published>2022-07-09T14:45:06+00:00</published>
-		<updated>2022-07-09T14:45:06+00:00</updated>
-		<id>https://twitter.com/uhf_satcom/status/1545781095194583041</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/uhf_satcom/status/1545781095194583041"/>
-		<author><name>RT: UHF Satcom 🇬🇧 📡 📻 (@uhf_satcom)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/uhf_satcom"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="uhf_satcom"
-	src="https://pbs.twimg.com/profile_images/760595767/uhfsatcom_normal.jpg"
-	title="UHF Satcom 🇬🇧 📡 📻" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Capstone X-Band downlink, nice signal!! &lt;a href="https://twitter.com/uhf_satcom/status/1545781095194583041/photo/1"&gt;pic.twitter.com/KS3Y8mHnO8&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FXO3qcNWIAAmWiZ.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FXO3qcNWIAAmWiZ.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FXO3qcNWIAAmWiZ.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Capstone is back on 8464.96 MHz at 15:57:47 UTC pic.twitter.com/cNAdXhflwc</title>
-		<published>2022-07-07T16:02:33+00:00</published>
-		<updated>2022-07-07T16:02:33+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1545075808426942465</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1545075808426942465"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Capstone is back on 8464.96 MHz at 15:57:47 UTC &lt;a href="https://twitter.com/supertrack_it/status/1545075808426942465/photo/1"&gt;pic.twitter.com/cNAdXhflwc&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FXE2ITwXwAI93Wj.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FXE2ITwXwAI93Wj.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FXE2ITwXwAI93Wj.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Capstone on 8464.97 MHz.  LOS at 15:14:23 UTC maybe in preparation for trajectory correction burn. pic.twitter.com/DACxAAZrbd</title>
-		<published>2022-07-07T15:23:07+00:00</published>
-		<updated>2022-07-07T15:23:07+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1545065883923611652</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1545065883923611652"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Capstone on 8464.97 MHz.  LOS at 15:14:23 UTC maybe in preparation for trajectory correction burn. &lt;a href="https://twitter.com/supertrack_it/status/1545065883923611652/photo/1"&gt;pic.twitter.com/DACxAAZrbd&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FXEs9KyWQAMfFZ4.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FXEs9KyWQAMfFZ4.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FXEs9KyWQAMfFZ4.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Capstone is back on 8464.9 MHz pic.twitter.com/z8l8EQ2yJY</title>
-		<published>2022-07-06T16:30:44+00:00</published>
-		<updated>2022-07-06T16:30:44+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1544720515004354561</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1544720515004354561"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Capstone is back on 8464.9 MHz &lt;a href="https://twitter.com/supertrack_it/status/1544720515004354561/photo/1"&gt;pic.twitter.com/z8l8EQ2yJY&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FW_zD31WYAAFTnC.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FW_zD31WYAAFTnC.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FW_zD31WYAAFTnC.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@petermeteor Yes, we need water indeed but not associated to tornado and big hail as yesterday evening ... just water please :-)</title>
-		<published>2022-07-04T16:04:26+00:00</published>
-		<updated>2022-07-04T16:04:26+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1543989116852965376</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1543989116852965376"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@petermeteor Yes, we need water indeed but not associated to tornado and big hail as yesterday evening ... just water please :-)&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@petermeteor A bit scared about those big cells heading home :-(</title>
-		<published>2022-07-04T15:59:50+00:00</published>
-		<updated>2022-07-04T15:59:50+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1543987959707406337</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1543987959707406337"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@petermeteor A bit scared about those big cells heading home :-(&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@petermeteor Nice picture indeed Peter!</title>
-		<published>2022-07-04T15:57:18+00:00</published>
-		<updated>2022-07-04T15:57:18+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1543987324333293568</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1543987324333293568"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@petermeteor Nice picture indeed Peter!&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Capstone on 8464.9 MHz. Thanks to Rocco @IK8XLD for heads-up pic.twitter.com/OH4lDl8EGm</title>
-		<published>2022-07-04T14:22:24+00:00</published>
-		<updated>2022-07-04T14:22:24+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1543963443061030915</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1543963443061030915"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Capstone on 8464.9 MHz. Thanks to Rocco @IK8XLD for heads-up &lt;a href="https://twitter.com/supertrack_it/status/1543963443061030915/photo/1"&gt;pic.twitter.com/OH4lDl8EGm&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FW1CdqLXEAAGGfi.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FW1CdqLXEAAGGfi.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FW1CdqLXEAAGGfi.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@IK8XLD @Valter_Rassega Well done Rocco!</title>
-		<published>2022-06-21T20:50:45+00:00</published>
-		<updated>2022-06-21T20:50:45+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1539350131086086144</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1539350131086086144"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@IK8XLD @Valter_Rassega Well done Rocco!&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Good SSTV signal from ISS on 145.800 over europe pic.twitter.com/AmIGd7vk1o</title>
-		<published>2022-06-09T14:21:51+00:00</published>
-		<updated>2022-06-09T14:21:51+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1534903605987352576</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1534903605987352576"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Good SSTV signal from ISS on 145.800 over europe &lt;a href="https://twitter.com/supertrack_it/status/1534903605987352576/photo/1"&gt;pic.twitter.com/AmIGd7vk1o&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FU0SloDWIAUrQL_.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FU0SloDWIAUrQL_.jpg" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FU0SmdrXwAA5IW6.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FU0SmdrXwAA5IW6.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FU0SloDWIAUrQL_.jpg?name=orig" type="image/jpeg" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FU0SmdrXwAA5IW6.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@Dario24105 @iw0ehe Ciao Dario, da me az 198 el 37 e siamo vicini. pic.twitter.com/eQs1SgEGiQ</title>
-		<published>2022-05-22T19:56:27+00:00</published>
-		<updated>2022-05-22T19:56:27+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1528464830188896263</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1528464830188896263"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@Dario24105 @iw0ehe Ciao Dario, da me az 198 el 37 e siamo vicini. &lt;a href="https://twitter.com/supertrack_it/status/1528464830188896263/photo/1"&gt;pic.twitter.com/eQs1SgEGiQ&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FTYyk5MWQAYNfpF.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FTYyk5MWQAYNfpF.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FTYyk5MWQAYNfpF.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ON4DPX @IK8XLD It’s a PA0RDT Mini Whip active antenna</title>
-		<published>2022-05-12T07:23:45+00:00</published>
-		<updated>2022-05-12T07:23:45+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1524651525548691456</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1524651525548691456"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ON4DPX @IK8XLD It’s a PA0RDT Mini Whip active antenna&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Good signal this morning from Alpha Stations, the Russian VLF navaid system, active on 11.904 12.648 and 14.88 kHz. Thanks Rocco @IK8XLD for heads up. pic.twitter.com/xFaH89HYMh</title>
-		<published>2022-05-11T06:59:42+00:00</published>
-		<updated>2022-05-11T06:59:42+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1524283085591875584</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1524283085591875584"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Good signal this morning from Alpha Stations, the Russian VLF navaid system, active on 11.904 12.648 and 14.88 kHz. Thanks Rocco @IK8XLD for heads up. &lt;a href="https://twitter.com/supertrack_it/status/1524283085591875584/photo/1"&gt;pic.twitter.com/xFaH89HYMh&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FSdXINrXMAAIkc1.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FSdXINrXMAAIkc1.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FSdXINrXMAAIkc1.jpg?name=orig" type="image/jpeg" />
-
 		
 		
 	</entry>

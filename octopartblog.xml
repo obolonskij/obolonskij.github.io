@@ -5,12 +5,54 @@
 	<id>http://</id>
 	<icon>https://octopart.com/favicon-32x32.png</icon>
 	<logo>https://octopart.com/favicon-32x32.png</logo>
-	<updated>2022-07-24T06:37:28+00:00</updated>
+	<updated>2022-08-14T20:29:38+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://octopart.com/blog" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">RISC-V Processors and SoCs for Embedded Systems</title>
+		<published>2022-08-04T00:00:00+00:00</published>
+		<updated>2022-08-04T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/08/risc-v-processors-and-socs-for-embedded-systems</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/08/risc-v-processors-and-socs-for-embedded-systems"/>
+		
+		<content type="html">RISC-V Processors and SoCs for Embedded Systems</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/7zWJaOTP85nJsqpFgJOlLD/b61d8d29d96139a051f07f1ec0937bef/Frame_30.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Best SMD Wifi Module Options with Integrated Antenna</title>
+		<published>2022-07-27T00:00:00+00:00</published>
+		<updated>2022-07-27T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/07/best-smd-wifi-module-options-with-integrated-antenna</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/07/best-smd-wifi-module-options-with-integrated-antenna"/>
+		
+		<content type="html">Best SMD Wifi Module Options with Integrated Antenna</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/7FDtYBji2xGnGXXnhw9qyc/19c537e67c952560ddfe60b16dce5679/shutterstock_1288210645.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</title>
+		<published>2022-03-01T00:00:00+00:00</published>
+		<updated>2022-03-01T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra"/>
+		
+		<content type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4J3ZfLMCrl9LcxKe35NvBg/18047fb2a24513d4179f4c785eb499a8/Spectra_Blog_Square_720x720.png" type="image/png" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Interview With Ben Gao, PCB Engineer at PCBWay</title>
@@ -35,20 +77,6 @@
 		
 		<content type="html">mmWave Sensors for ADAS, Robotics, and Security</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4X1cjK6BKuNxjXHSg5Y4Pu/60b69f40e21a1bd3557812a6212cbfa8/Frame_13.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</title>
-		<published>2022-03-01T00:00:00+00:00</published>
-		<updated>2022-03-01T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra"/>
-		
-		<content type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4J3ZfLMCrl9LcxKe35NvBg/18047fb2a24513d4179f4c785eb499a8/Spectra_Blog_Square_720x720.png" type="image/png" />
 
 		
 		
@@ -91,34 +119,6 @@
 		
 		<content type="html">When to Use a Line Driver for Specialty Logic and Analog PCBs</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/6SvSnfcCVdN6wto9ebK655/72c9dff36f772e80c4a75dc27c1144e5/Frame_8.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Streamline your workflows with our free CAD Model Marketplace</title>
-		<published>2022-06-09T00:00:00+00:00</published>
-		<updated>2022-06-09T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/06/streamline-your-workflows-with-our-free-cad-model-marketplace</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/06/streamline-your-workflows-with-our-free-cad-model-marketplace"/>
-		
-		<content type="html">Streamline your workflows with our free CAD Model Marketplace</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/24XYDgCePHwreYbReRFJZr/2ec2eddb019cb5d2b81799a6419bf062/Octopart_FeatureLaunch_CADMarketplace_sizesBlog_Square__1_.jpg" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Interview with Josh Sharpe, Co-Founder of XScomponents.com</title>
-		<published>2022-06-02T00:00:00+00:00</published>
-		<updated>2022-06-02T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/06/interview-with-josh-sharpe-co-founder-of-xscomponents-com</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/06/interview-with-josh-sharpe-co-founder-of-xscomponents-com"/>
-		
-		<content type="html">Interview with Josh Sharpe, Co-Founder of XScomponents.com</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/6l7lliAPjjbjeGhreQRomU/e4c050dd25aad5fa140b5ed7c865e966/24705030.png" type="image/png" />
 
 		
 		
