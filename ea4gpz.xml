@@ -5,7 +5,7 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-08-14T20:29:42+00:00</updated>
+	<updated>2022-09-12T06:38:12+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
@@ -13,11 +13,11 @@
 	<link rel="self" type="application/atom+xml" href="http://" />
 
 	<entry>
-		<title type="html">@LEO_GSaaS I guess it depends on details in the regulations of each country and bandplans. My personal take is that it is legal in many cases, but not a good idea for ham radio because of patents and closed implementations.</title>
-		<published>2022-08-14T17:38:04+00:00</published>
-		<updated>2022-08-14T17:38:04+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1558870585509281792</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1558870585509281792"/>
+		<title type="html">@pe0sat This recording can be decoded with gr-satellites by shifting the signal down to baseband (not possible with the command line tool) and using the --disable_dc_block option for the satellite decoder (needed because there are long strings of zeros). pic.twitter.com/S6t9uK9E23</title>
+		<published>2022-09-10T15:11:45+00:00</published>
+		<updated>2022-09-10T15:11:45+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1568618237465886721</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1568618237465886721"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -29,160 +29,28 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@LEO_GSaaS I guess it depends on details in the regulations of each country and bandplans. My personal take is that it is legal in many cases, but not a good idea for ham radio because of patents and closed implementations.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@pe0sat This recording can be decoded with gr-satellites by shifting the signal down to baseband (not possible with the command line tool) and using the --disable_dc_block option for the satellite decoder (needed because there are long strings of zeros). &lt;a href="https://twitter.com/ea4gpz/status/1568618237465886721/photo/1"&gt;pic.twitter.com/S6t9uK9E23&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Iban @eb3frn spotted in the wild! Awesome effort and progress with 47 GHz moonbounce, including wirebonded LNAs made at home. twitter.com/ronald55629190…</title>
-		<published>2022-08-14T08:39:45+00:00</published>
-		<updated>2022-08-14T08:39:45+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1558735111721570304</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1558735111721570304"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Iban @eb3frn spotted in the wild! Awesome effort and progress with 47 GHz moonbounce, including wirebonded LNAs made at home. &lt;a href="https://twitter.com/ronald55629190/status/1558472559376613376"&gt;twitter.com/ronald55629190…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Apparently they are using LoRa. twitter.com/scott23192/sta…</title>
-		<published>2022-08-12T20:03:29+00:00</published>
-		<updated>2022-08-12T20:03:29+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1558182403574734851</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1558182403574734851"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Apparently they are using LoRa. &lt;a href="https://twitter.com/scott23192/status/1558122338775973888?t=QfHOqPDUvCOhsgssy5xj2w&amp;s=19"&gt;twitter.com/scott23192/sta…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Interesting. We don't have support in gr-satellites for these. I wonder what protocols they use. twitter.com/HAMSATNL/statu…</title>
-		<published>2022-08-11T20:00:33+00:00</published>
-		<updated>2022-08-11T20:00:33+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1557819278275100673</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1557819278275100673"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Interesting. We don't have support in gr-satellites for these. I wonder what protocols they use. &lt;a href="https://twitter.com/HAMSATNL/status/1557818136635887616"&gt;twitter.com/HAMSATNL/statu…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">I just published a new low-level blog post:
-
-"From Oscilloscope to Wireshark - A UDP Story"
-
-It starts with voltage data measured directly on a PCB, and decodes it all the way to UDP packets that can be processed in Wireshark!
-
-mattkeeter.com/blog/2022-08-1… pic.twitter.com/2QFj5rrri0</title>
-		<published>2022-08-11T16:20:53+00:00</published>
-		<updated>2022-08-11T16:20:53+00:00</updated>
-		<id>https://twitter.com/impraxical/status/1557763996949925890</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/impraxical/status/1557763996949925890"/>
-		<author><name>RT: Matt Keeter (@impraxical)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/impraxical"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="impraxical"
-	src="https://pbs.twimg.com/profile_images/1097223383190827008/YeCv75hK_normal.png"
-	title="Matt Keeter" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;I just published a new low-level blog post:
-
-"From Oscilloscope to Wireshark - A UDP Story"
-
-It starts with voltage data measured directly on a PCB, and decodes it all the way to UDP packets that can be processed in Wireshark!
-
-&lt;a href="https://www.mattkeeter.com/blog/2022-08-11-udp/"&gt;mattkeeter.com/blog/2022-08-1…&lt;/a&gt; &lt;a href="https://twitter.com/impraxical/status/1557763996949925890/photo/1"&gt;pic.twitter.com/2QFj5rrri0&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FZ5JdOeXEAAq8xK.jpg?name=orig"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FcTZuixXkAA8qr4.png?name=orig"&gt;
 &lt;img
 	style="align:top; max-width:558px; border:1px solid black;"
 	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FZ5JdOeXEAAq8xK.jpg" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FZ5Jke2WQAQgbeR.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FZ5Jke2WQAQgbeR.jpg" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FZ5JxqcXkAEGiv8.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FZ5JxqcXkAEGiv8.png" /&gt;
+	src="https://pbs.twimg.com/media/FcTZuixXkAA8qr4.png" /&gt;
 &lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FZ5JdOeXEAAq8xK.jpg?name=orig" type="image/jpeg" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FZ5Jke2WQAQgbeR.jpg?name=orig" type="image/jpeg" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FZ5JxqcXkAEGiv8.png?name=orig" type="image/png" />
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FcTZuixXkAA8qr4.png?name=orig" type="image/png" />
 
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">@PI9CAM @radiotelescoop Interesting. This only has slightly more SNR than @coastal8049 recording from 2 days ago with a 2m dish. So something in Dwingeloo seems to be underperfoming. Perhaps still a polarization mismatch? The signal should be RHCP now.</title>
-		<published>2022-08-11T16:05:51+00:00</published>
-		<updated>2022-08-11T16:05:51+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1557760215134658563</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1557760215134658563"/>
+		<title type="html">New blog post: Connecting the Pluto SDR to an Android phone. Here I explain the steps that I've had to follow to make Ethernet over USB work (basically switch from RNDIS to ECM), and how the Linux USB gadget support is configured and can be debugged.  destevez.net/2022/09/connec… pic.twitter.com/ZGqIAylt6D</title>
+		<published>2022-09-09T17:38:49+00:00</published>
+		<updated>2022-09-09T17:38:49+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1568292857621921797</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1568292857621921797"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -194,190 +62,28 @@ It starts with voltage data measured directly on a PCB, and decodes it all the w
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@PI9CAM @radiotelescoop Interesting. This only has slightly more SNR than @coastal8049 recording from 2 days ago with a 2m dish. So something in Dwingeloo seems to be underperfoming. Perhaps still a polarization mismatch? The signal should be RHCP now.&lt;/blockquote&gt;
+	&lt;blockquote&gt;New blog post: Connecting the Pluto SDR to an Android phone. Here I explain the steps that I've had to follow to make Ethernet over USB work (basically switch from RNDIS to ECM), and how the Linux USB gadget support is configured and can be debugged.  &lt;a href="https://destevez.net/2022/09/connecting-the-pluto-sdr-to-an-android-phone/"&gt;destevez.net/2022/09/connec…&lt;/a&gt; &lt;a href="https://twitter.com/ea4gpz/status/1568292857621921797/photo/1"&gt;pic.twitter.com/ZGqIAylt6D&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@nascom1 @coastal8049 @PI9CAM @tammojan Thanks, Richard. What was the polarization on the S-band medium/low gain antenna? Was that LCP?</title>
-		<published>2022-08-09T21:49:51+00:00</published>
-		<updated>2022-08-09T21:49:51+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1557122010202968065</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1557122010202968065"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@nascom1 @coastal8049 @PI9CAM @tammojan Thanks, Richard. What was the polarization on the S-band medium/low gain antenna? Was that LCP?&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@F4DAV @bert_hu_bert @tj_astro Maybe it's a matter of the accuracy needed. For GNSS it is ~10 cm. For ICBM's, I guess that much coarse accuracy is needed if the goal is to launch an interceptor that is actively guided or to predict the rough location of the impact.</title>
-		<published>2022-08-09T13:34:35+00:00</published>
-		<updated>2022-08-09T13:34:35+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1556997370478477312</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1556997370478477312"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@F4DAV @bert_hu_bert @tj_astro Maybe it's a matter of the accuracy needed. For GNSS it is ~10 cm. For ICBM's, I guess that much coarse accuracy is needed if the goal is to launch an interceptor that is actively guided or to predict the rough location of the impact.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@tj_astro @bert_hu_bert Sounds easy in theory: just dump your filter state to a file periodically. Are there technical challenges that make this more difficult in practice?</title>
-		<published>2022-08-09T05:09:53+00:00</published>
-		<updated>2022-08-09T05:09:53+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1556870358137016320</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1556870358137016320"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@tj_astro @bert_hu_bert Sounds easy in theory: just dump your filter state to a file periodically. Are there technical challenges that make this more difficult in practice?&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@bert_hu_bert I guess you could do something (by no means accurate to &amp;lt;1m) from the Doppler measurements from a receiver running from an accurate 10 MHz.</title>
-		<published>2022-08-08T21:04:47+00:00</published>
-		<updated>2022-08-08T21:04:47+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1556748279295184897</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1556748279295184897"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@bert_hu_bert I guess you could do something (by no means accurate to &amp;lt;1m) from the Doppler measurements from a receiver running from an accurate 10 MHz.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Read more: destevez.net/2022/08/qo-100…</title>
-		<published>2022-08-08T20:52:34+00:00</published>
-		<updated>2022-08-08T20:52:34+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1556745204580995081</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1556745204580995081"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Read more: &lt;a href="https://destevez.net/2022/08/qo-100-orbit-determination/"&gt;destevez.net/2022/08/qo-100…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Orbit determination with only the three-way range from 2 stations is quite ill determined, but I'm getting good results. These are the range-rate residuals. The noise is ~1 cm/s, and there is an unmodeled effect of ~3 cm/s. (3/4) pic.twitter.com/jrv8HoIZ6x</title>
-		<published>2022-08-08T20:52:33+00:00</published>
-		<updated>2022-08-08T20:52:33+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1556745201607114752</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1556745201607114752"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Orbit determination with only the three-way range from 2 stations is quite ill determined, but I'm getting good results. These are the range-rate residuals. The noise is ~1 cm/s, and there is an unmodeled effect of ~3 cm/s. (3/4) &lt;a href="https://twitter.com/ea4gpz/status/1556745201607114752/photo/1"&gt;pic.twitter.com/jrv8HoIZ6x&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FZqrQoEWIAYyV-M.png?name=orig"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FcOxga5XkAExjyU.jpg?name=orig"&gt;
 &lt;img
 	style="align:top; max-width:558px; border:1px solid black;"
 	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FZqrQoEWIAYyV-M.png" /&gt;
+	src="https://pbs.twimg.com/media/FcOxga5XkAExjyU.jpg" /&gt;
 &lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FZqrQoEWIAYyV-M.png?name=orig" type="image/png" />
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FcOxga5XkAExjyU.jpg?name=orig" type="image/jpeg" />
 
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">I also discuss the station keeping burn that happened this morning, which can be seen here as a jump and later change in the shape of the range-rate curve. (2/4) pic.twitter.com/Rt1ywcx0j3</title>
-		<published>2022-08-08T20:52:32+00:00</published>
-		<updated>2022-08-08T20:52:32+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1556745198146838529</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1556745198146838529"/>
+		<title type="html">@KM6GUA @pe0sat Yes</title>
+		<published>2022-09-08T13:18:07+00:00</published>
+		<updated>2022-09-08T13:18:07+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1567864860838400000</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1567864860838400000"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -389,40 +95,7 @@ It starts with voltage data measured directly on a PCB, and decodes it all the w
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;I also discuss the station keeping burn that happened this morning, which can be seen here as a jump and later change in the shape of the range-rate curve. (2/4) &lt;a href="https://twitter.com/ea4gpz/status/1556745198146838529/photo/1"&gt;pic.twitter.com/Rt1ywcx0j3&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FZqrIM5XkAELOzg.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FZqrIM5XkAELOzg.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FZqrIM5XkAELOzg.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">New blog post: QO-100 orbit determination. Here I show how to use GMAT with the phase difference measurements I'm doing of the QO-100 beacons. I give an update about the status of the experiment, and show the tricks for GEO orbit estimation with only this data. (1/4)</title>
-		<published>2022-08-08T20:52:32+00:00</published>
-		<updated>2022-08-08T20:52:32+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1556745194732752896</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1556745194732752896"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;New blog post: QO-100 orbit determination. Here I show how to use GMAT with the phase difference measurements I'm doing of the QO-100 beacons. I give an update about the status of the experiment, and show the tricks for GEO orbit estimation with only this data. (1/4)&lt;/blockquote&gt;
+	&lt;blockquote&gt;@KM6GUA @pe0sat Yes&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -433,23 +106,25 @@ It starts with voltage data measured directly on a PCB, and decodes it all the w
 	</entry>
 
 	<entry>
-		<title type="html">@tammojan @PI9CAM It might be that your polarization is RHCP (opposite from the spacecraft) but on Friday the antenna wasn't pointing directly to Earth, so the polarization was elliptical and you could see a relatively large fraction of the total power.</title>
-		<published>2022-08-08T13:13:21+00:00</published>
-		<updated>2022-08-08T13:13:21+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1556629637496725504</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1556629637496725504"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<title type="html">My SDRA'22 talk on @FutureSDR  is online :-)
+youtube.com/watch?v=E5cFj5…</title>
+		<published>2022-09-07T11:56:26+00:00</published>
+		<updated>2022-09-07T11:56:26+00:00</updated>
+		<id>https://twitter.com/bastibl/status/1567481920719622144</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/bastibl/status/1567481920719622144"/>
+		<author><name>RT: Bastian Bloessl (@bastibl)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
+	&lt;a href="https://twitter.com/bastibl"&gt;
 &lt;img
 	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
+	alt="bastibl"
+	src="https://pbs.twimg.com/profile_images/921298109321408512/W-xEnBEn_normal.jpg"
+	title="Bastian Bloessl" /&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@tammojan @PI9CAM It might be that your polarization is RHCP (opposite from the spacecraft) but on Friday the antenna wasn't pointing directly to Earth, so the polarization was elliptical and you could see a relatively large fraction of the total power.&lt;/blockquote&gt;
+	&lt;blockquote&gt;My SDRA'22 talk on @FutureSDR  is online :-)
+&lt;a href="https://www.youtube.com/watch?v=E5cFj5qrJnE"&gt;youtube.com/watch?v=E5cFj5…&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -460,11 +135,11 @@ It starts with voltage data measured directly on a PCB, and decodes it all the w
 	</entry>
 
 	<entry>
-		<title type="html">Looking at Danuri's recordings by @PI9CAM from yesterday. Only a weak carrier is visible at ~-40 kHz. Not sure what's the issue. In Aug 05 the signal was strong. The distance has only doubled, so only 6 dB more losses. What was the polarization used @tammojan? twitter.com/PI9CAM/status/… pic.twitter.com/5ZimaWeikX</title>
-		<published>2022-08-08T13:05:57+00:00</published>
-		<updated>2022-08-08T13:05:57+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1556627775322263552</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1556627775322263552"/>
+		<title type="html">@GalileoSats @tj_astro @CillianGNSS That was a suspicion, but for regular ephemerides clock and orbital radius are not "equivalent", as they act differently for users seeing the satellite at different elevations. Hence the clock should model the clock and the orbit the orbit, but it's not trivial to do accurately.</title>
+		<published>2022-09-06T17:23:55+00:00</published>
+		<updated>2022-09-06T17:23:55+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1567201944195809287</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1567201944195809287"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -476,73 +151,7 @@ It starts with voltage data measured directly on a PCB, and decodes it all the w
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Looking at Danuri's recordings by @PI9CAM from yesterday. Only a weak carrier is visible at ~-40 kHz. Not sure what's the issue. In Aug 05 the signal was strong. The distance has only doubled, so only 6 dB more losses. What was the polarization used @tammojan? &lt;a href="https://twitter.com/PI9CAM/status/1556361765365096448"&gt;twitter.com/PI9CAM/status/…&lt;/a&gt; &lt;a href="https://twitter.com/ea4gpz/status/1556627775322263552/photo/1"&gt;pic.twitter.com/5ZimaWeikX&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FZo_s0LX0AEF2cz.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FZo_s0LX0AEF2cz.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FZo_s0LX0AEF2cz.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">We have a relatively large station-keeping burn of Es'hail 2 at 07:27 UTC this morning. A delta of 0.5 m/s was measured in the range-rate between Bochum and Madrid. pic.twitter.com/2eGQ5AUwRv</title>
-		<published>2022-08-08T12:18:10+00:00</published>
-		<updated>2022-08-08T12:18:10+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1556615750953029632</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1556615750953029632"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;We have a relatively large station-keeping burn of Es'hail 2 at 07:27 UTC this morning. A delta of 0.5 m/s was measured in the range-rate between Bochum and Madrid. &lt;a href="https://twitter.com/ea4gpz/status/1556615750953029632/photo/1"&gt;pic.twitter.com/2eGQ5AUwRv&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FZo1t26X0AMdDkq.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FZo1t26X0AMdDkq.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FZo1t26X0AMdDkq.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@whitequark Please make this a product and let's launch a cubesat that transmits commands randomly with high enough power.</title>
-		<published>2022-08-07T19:52:31+00:00</published>
-		<updated>2022-08-07T19:52:31+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1556367703534886912</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1556367703534886912"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@whitequark Please make this a product and let's launch a cubesat that transmits commands randomly with high enough power.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@GalileoSats @tj_astro @CillianGNSS That was a suspicion, but for regular ephemerides clock and orbital radius are not "equivalent", as they act differently for users seeing the satellite at different elevations. Hence the clock should model the clock and the orbit the orbit, but it's not trivial to do accurately.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -553,11 +162,11 @@ It starts with voltage data measured directly on a PCB, and decodes it all the w
 	</entry>
 
 	<entry>
-		<title type="html">@f4cib Maybe. The set up is simple. 1PPS from GPSDO and ADF4001 go to the scope. Trigger on 1PPS edge. Check that the 27MHz doesn't drift with time.</title>
-		<published>2022-08-07T19:48:47+00:00</published>
-		<updated>2022-08-07T19:48:47+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1556366764317065224</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1556366764317065224"/>
+		<title type="html">@GalileoSats That's really weird!</title>
+		<published>2022-09-06T07:37:19+00:00</published>
+		<updated>2022-09-06T07:37:19+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1567054324114624513</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1567054324114624513"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -569,7 +178,7 @@ It starts with voltage data measured directly on a PCB, and decodes it all the w
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@f4cib Maybe. The set up is simple. 1PPS from GPSDO and ADF4001 go to the scope. Trigger on 1PPS edge. Check that the 27MHz doesn't drift with time.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@GalileoSats That's really weird!&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -580,23 +189,374 @@ It starts with voltage data measured directly on a PCB, and decodes it all the w
 	</entry>
 
 	<entry>
-		<title type="html">Some more observations of Danuri / #KPLO today in charon.camras.nl/public/satelli… @ea4gpz</title>
-		<published>2022-08-07T19:28:55+00:00</published>
-		<updated>2022-08-07T19:28:55+00:00</updated>
-		<id>https://twitter.com/PI9CAM/status/1556361765365096448</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/PI9CAM/status/1556361765365096448"/>
-		<author><name>RT: pi9cam (@PI9CAM)</name></author>
+		<title type="html">@GalileoSats Are these with a single redCED set or do you keep changing the set as a new one comes in? If so, can you mark in the plot the instants where the redCED is changed?</title>
+		<published>2022-09-06T05:35:26+00:00</published>
+		<updated>2022-09-06T05:35:26+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1567023647453323265</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1567023647453323265"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/PI9CAM"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
 &lt;img
 	style="align:top; width:75px; border:1px solid black;"
-	alt="PI9CAM"
-	src="https://pbs.twimg.com/profile_images/1054028499617570817/X7YKhrww_normal.jpg"
-	title="pi9cam" /&gt;
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Some more observations of Danuri / #KPLO today in &lt;a href="https://charon.camras.nl/public/satellites/raw"&gt;charon.camras.nl/public/satelli…&lt;/a&gt; @ea4gpz&lt;/blockquote&gt;
+	&lt;blockquote&gt;@GalileoSats Are these with a single redCED set or do you keep changing the set as a new one comes in? If so, can you mark in the plot the instants where the redCED is changed?&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@hennichodernich @dEnergy_dTime Was going to say that this reminds me a lot to convolving the brickwall filter in the frequency domain with a smoothing kernel, so in the time domain we get the sinc multiplied by the IFT of the smoothing kernel. I think it might be equivalent, with a suitable choice of kernel.</title>
+		<published>2022-09-05T19:16:50+00:00</published>
+		<updated>2022-09-05T19:16:50+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1566867971724771332</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566867971724771332"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@hennichodernich @dEnergy_dTime Was going to say that this reminds me a lot to convolving the brickwall filter in the frequency domain with a smoothing kernel, so in the time domain we get the sinc multiplied by the IFT of the smoothing kernel. I think it might be equivalent, with a suitable choice of kernel.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@ka9q @GalileoSats @CillianGNSS The information bytes are reversed, and the parity check bytes are reversed. Padding is handled as usual. See this: twitter.com/ea4gpz/status/…</title>
+		<published>2022-09-05T05:34:49+00:00</published>
+		<updated>2022-09-05T05:34:49+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1566661106638225409</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566661106638225409"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ka9q @GalileoSats @CillianGNSS The information bytes are reversed, and the parity check bytes are reversed. Padding is handled as usual. See this: &lt;a href="https://twitter.com/ea4gpz/status/1566047658636185602?t=sK4OTU5JyIS7J4fFad22jw&amp;s=19"&gt;twitter.com/ea4gpz/status/…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@pe0sat @st2nh @JA0CAW @dk3wn @scott23192 Might be good to mention that gr-satellites is also available for Windows as a conda package. The easiest way to install it is as part of radioconda github.com/ryanvolz/radio…</title>
+		<published>2022-09-04T18:46:21+00:00</published>
+		<updated>2022-09-04T18:46:21+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1566497914091970561</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566497914091970561"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@pe0sat @st2nh @JA0CAW @dk3wn @scott23192 Might be good to mention that gr-satellites is also available for Windows as a conda package. The easiest way to install it is as part of radioconda &lt;a href="https://github.com/ryanvolz/radioconda"&gt;github.com/ryanvolz/radio…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@GalileoSats @CillianGNSS They appear when the signal quality is not good enough. Then the Viterbi decoder doesn't manage to correct all the bit errors, and some remain, so the CRC check fails.</title>
+		<published>2022-09-04T16:58:45+00:00</published>
+		<updated>2022-09-04T16:58:45+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1566470835883458561</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566470835883458561"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@GalileoSats @CillianGNSS They appear when the signal quality is not good enough. Then the Viterbi decoder doesn't manage to correct all the bit errors, and some remain, so the CRC check fails.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@CillianGNSS @GalileoSats Hm, or maybe this doesn't make sense. I'm thinking that if we know some bytes are errorless, this is very similar to shortening the code (where you know that some bytes are 0). A shortened code doesn't give better error correction capability.</title>
+		<published>2022-09-04T16:07:17+00:00</published>
+		<updated>2022-09-04T16:07:17+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1566457882622795785</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566457882622795785"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@CillianGNSS @GalileoSats Hm, or maybe this doesn't make sense. I'm thinking that if we know some bytes are errorless, this is very similar to shortening the code (where you know that some bytes are 0). A shortened code doesn't give better error correction capability.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@CillianGNSS @GalileoSats Error correction is interesting: since we have CRC24's, there are potentially some words that we're sure have no errors. There's no way to feed that information to a conventional RS decoder, but perhaps it's possible to modify the error locator polynomial to reflect this.</title>
+		<published>2022-09-04T16:03:00+00:00</published>
+		<updated>2022-09-04T16:03:00+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1566456806318264322</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566456806318264322"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@CillianGNSS @GalileoSats Error correction is interesting: since we have CRC24's, there are potentially some words that we're sure have no errors. There's no way to feed that information to a conventional RS decoder, but perhaps it's possible to modify the error locator polynomial to reflect this.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@CillianGNSS @GalileoSats I also thought that the main design driver of FEC2 was to allow error correction. If erasure correction was the only goal, they would have used a bunch of Reed-Solomon (8,4) instead, greatly simplifying the decoding process.</title>
+		<published>2022-09-04T15:59:34+00:00</published>
+		<updated>2022-09-04T15:59:34+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1566455939947180032</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566455939947180032"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@CillianGNSS @GalileoSats I also thought that the main design driver of FEC2 was to allow error correction. If erasure correction was the only goal, they would have used a bunch of Reed-Solomon (8,4) instead, greatly simplifying the decoding process.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@CillianGNSS @GalileoSats That is indeed the best I've come up with. My hope was to reduce the combinatorics, because 8 choose 4 = 70 is quite large. For GF(2^8) we can SIMD 4 + or 3 * in an int32 operation, so I can't imagine a use case that can afford that storage but needs extra fast arithmetic.</title>
+		<published>2022-09-04T15:58:22+00:00</published>
+		<updated>2022-09-04T15:58:22+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1566455640083628033</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566455640083628033"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@CillianGNSS @GalileoSats That is indeed the best I've come up with. My hope was to reduce the combinatorics, because 8 choose 4 = 70 is quite large. For GF(2^8) we can SIMD 4 + or 3 * in an int32 operation, so I can't imagine a use case that can afford that storage but needs extra fast arithmetic.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@GalileoSats @CillianGNSS @ka9q About the post screenshot: this is for the usual I/NAV CED (words 1-4), right? It doesn't have anything to do with redCED (word 16).</title>
+		<published>2022-09-04T10:00:54+00:00</published>
+		<updated>2022-09-04T10:00:54+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1566365682094178304</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566365682094178304"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@GalileoSats @CillianGNSS @ka9q About the post screenshot: this is for the usual I/NAV CED (words 1-4), right? It doesn't have anything to do with redCED (word 16).&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@CillianGNSS @GalileoSats Unfortunately I found a problem with my idea. I'll keep it in the back of my mind in case I find how to fix it. The main driver was: take advantage of the fact that the combinatorics of possible erasures are small to try to precompute things rather than doing Gauss elimination.</title>
+		<published>2022-09-04T09:22:13+00:00</published>
+		<updated>2022-09-04T09:22:13+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1566355945780908033</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566355945780908033"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@CillianGNSS @GalileoSats Unfortunately I found a problem with my idea. I'll keep it in the back of my mind in case I find how to fix it. The main driver was: take advantage of the fact that the combinatorics of possible erasures are small to try to precompute things rather than doing Gauss elimination.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@GalileoSats @CillianGNSS Ooops. Messed up one of the calculations. It's actually 31.3 KB of constants rather than 15.6 KB.</title>
+		<published>2022-09-03T17:33:09+00:00</published>
+		<updated>2022-09-03T17:33:09+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1566117105149386752</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566117105149386752"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@GalileoSats @CillianGNSS Ooops. Messed up one of the calculations. It's actually 31.3 KB of constants rather than 15.6 KB.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@GalileoSats @CillianGNSS On another topic: I have an idea for a rather fast erasure decoding algorithm (only for this FEC2 use case). It needs 15.6 KB of pre-stored constants, but only does 250-300 operations per erasure. With Gauss elimination you do 350-2400 operations per erasure if I'm not mistaken.</title>
+		<published>2022-09-03T17:26:51+00:00</published>
+		<updated>2022-09-03T17:26:51+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1566115520784601095</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566115520784601095"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@GalileoSats @CillianGNSS On another topic: I have an idea for a rather fast erasure decoding algorithm (only for this FEC2 use case). It needs 15.6 KB of pre-stored constants, but only does 250-300 operations per erasure. With Gauss elimination you do 350-2400 operations per erasure if I'm not mistaken.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@GalileoSats @CillianGNSS ... Otherwise you have 61 erased bytes, while the RS decoder can only recover up to 60 erasures (included).</title>
+		<published>2022-09-03T17:01:20+00:00</published>
+		<updated>2022-09-03T17:01:20+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1566109096683651073</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566109096683651073"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@GalileoSats @CillianGNSS ... Otherwise you have 61 erased bytes, while the RS decoder can only recover up to 60 erasures (included).&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;

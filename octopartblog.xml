@@ -5,12 +5,68 @@
 	<id>http://</id>
 	<icon>https://octopart.com/favicon-32x32.png</icon>
 	<logo>https://octopart.com/favicon-32x32.png</logo>
-	<updated>2022-08-14T20:29:38+00:00</updated>
+	<updated>2022-09-12T06:38:10+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://octopart.com/blog" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">What Are Chiplets and How Are They Used in Packaging?</title>
+		<published>2022-08-31T00:00:00+00:00</published>
+		<updated>2022-08-31T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/08/what-are-chiplets-and-how-are-they-used-in-packaging</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/08/what-are-chiplets-and-how-are-they-used-in-packaging"/>
+		
+		<content type="html">What Are Chiplets and How Are They Used in Packaging?</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/7ruwx7Yt9yVJH2EyNvXEfb/b6d6a4a583815cdf9702f17754d25a9d/chiplet_1448944313_2.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Modules, Dev Kits, and Custom PCBs: Which Should You Use?</title>
+		<published>2022-08-24T00:00:00+00:00</published>
+		<updated>2022-08-24T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/08/modules-dev-kits-and-custom-pcbs-which-should-you-use</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/08/modules-dev-kits-and-custom-pcbs-which-should-you-use"/>
+		
+		<content type="html">Modules, Dev Kits, and Custom PCBs: Which Should You Use?</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/70LDZIUCCOrPXkwbgQ26ss/a1cbd605712c6b29197da6c2f128ef0f/shutterstock_1625894587_square.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</title>
+		<published>2022-03-01T00:00:00+00:00</published>
+		<updated>2022-03-01T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra"/>
+		
+		<content type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4J3ZfLMCrl9LcxKe35NvBg/18047fb2a24513d4179f4c785eb499a8/Spectra_Blog_Square_720x720.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The Electronics Supply Chain and Inflation: Octopart is Also Built for This</title>
+		<published>2022-08-17T00:00:00+00:00</published>
+		<updated>2022-08-17T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/08/the-electronics-supply-chain-and-inflation-octopart-is-also-built-for-this</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/08/the-electronics-supply-chain-and-inflation-octopart-is-also-built-for-this"/>
+		
+		<content type="html">The Electronics Supply Chain and Inflation: Octopart is Also Built for This</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/edhvj6OxhXIjKANgNCyfQ/9e6a6c99388c8e0b906e405b9009a071/Frame_36.png" type="image/png" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">RISC-V Processors and SoCs for Embedded Systems</title>
@@ -41,20 +97,6 @@
 	</entry>
 
 	<entry>
-		<title type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</title>
-		<published>2022-03-01T00:00:00+00:00</published>
-		<updated>2022-03-01T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/03/octopart-introduces-industry-leading-data-and-insights-from-spectra"/>
-		
-		<content type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4J3ZfLMCrl9LcxKe35NvBg/18047fb2a24513d4179f4c785eb499a8/Spectra_Blog_Square_720x720.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
 		<title type="html">Interview With Ben Gao, PCB Engineer at PCBWay</title>
 		<published>2022-07-19T00:00:00+00:00</published>
 		<updated>2022-07-19T00:00:00+00:00</updated>
@@ -77,48 +119,6 @@
 		
 		<content type="html">mmWave Sensors for ADAS, Robotics, and Security</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4X1cjK6BKuNxjXHSg5Y4Pu/60b69f40e21a1bd3557812a6212cbfa8/Frame_13.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">LTCC Filter and Capacitor Component Selection for RF Designs</title>
-		<published>2022-06-15T00:00:00+00:00</published>
-		<updated>2022-06-15T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/06/ltcc-filter-and-capacitor-component-selection-for-rf-designs</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/06/ltcc-filter-and-capacitor-component-selection-for-rf-designs"/>
-		
-		<content type="html">LTCC Filter and Capacitor Component Selection for RF Designs</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/3jQQdVGo0rllDtbdHm1c8z/0d50e674ea0e7ef097d115797d37b64b/Frame_8.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Supply Chain Disruptions: Octopart is Built for This</title>
-		<published>2022-06-15T00:00:00+00:00</published>
-		<updated>2022-06-15T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/06/supply-chain-disruptions-octopart-is-built-for-this</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/06/supply-chain-disruptions-octopart-is-built-for-this"/>
-		
-		<content type="html">Supply Chain Disruptions: Octopart is Built for This</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/9KXqVgeDdaeRvJkmciD0v/21631b5dd4fa250d101d6dfd471f97e0/Octopart_Blog_720x720.jpg" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">When to Use a Line Driver for Specialty Logic and Analog PCBs</title>
-		<published>2022-06-09T00:00:00+00:00</published>
-		<updated>2022-06-09T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/06/when-to-use-a-line-driver-for-specialty-logic-and-analog-pcbs</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/06/when-to-use-a-line-driver-for-specialty-logic-and-analog-pcbs"/>
-		
-		<content type="html">When to Use a Line Driver for Specialty Logic and Analog PCBs</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/6SvSnfcCVdN6wto9ebK655/72c9dff36f772e80c4a75dc27c1144e5/Frame_8.png" type="image/png" />
 
 		
 		
