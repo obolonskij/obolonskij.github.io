@@ -5,7 +5,7 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-09-12T06:38:12+00:00</updated>
+	<updated>2022-11-26T06:54:01+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
@@ -13,89 +13,371 @@
 	<link rel="self" type="application/atom+xml" href="http://" />
 
 	<entry>
-		<title type="html">@pe0sat This recording can be decoded with gr-satellites by shifting the signal down to baseband (not possible with the command line tool) and using the --disable_dc_block option for the satellite decoder (needed because there are long strings of zeros). pic.twitter.com/S6t9uK9E23</title>
-		<published>2022-09-10T15:11:45+00:00</published>
-		<updated>2022-09-10T15:11:45+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1568618237465886721</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1568618237465886721"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<title type="html">Awesome tool to learn how ASIC works under the hood! Draw silicon layers in your browser and see what happens. I'm eager to try this out. twitter.com/matthewvenn/st…</title>
+		<published>2022-11-25T23:08:35+00:00</published>
+		<updated>2022-11-25T23:08:35+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1596279710857715714</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1596279710857715714"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
 &lt;img
 	style="align:top; width:75px; border:1px solid black;"
 	alt="ea4gpz"
 	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@pe0sat This recording can be decoded with gr-satellites by shifting the signal down to baseband (not possible with the command line tool) and using the --disable_dc_block option for the satellite decoder (needed because there are long strings of zeros). &lt;a href="https://twitter.com/ea4gpz/status/1568618237465886721/photo/1"&gt;pic.twitter.com/S6t9uK9E23&lt;/a&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;Awesome tool to learn how ASIC works under the hood! Draw silicon layers in your browser and see what happens. I'm eager to try this out. &lt;a href="https://twitter.com/matthewvenn/status/1596088895573204994"&gt;twitter.com/matthewvenn/st…&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FcTZuixXkAA8qr4.png?name=orig"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@F5OEOEvariste @Electrolab_Fr Nice! I wasn't aware that wireshark had a GSE dissector.</title>
+		<published>2022-11-24T12:27:24+00:00</published>
+		<updated>2022-11-24T12:27:24+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1595755964812099586</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1595755964812099586"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@F5OEOEvariste @Electrolab_Fr Nice! I wasn't aware that wireshark had a GSE dissector.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@brycly2 @ure_n8 @CO2ESP_Raydel @FCC Can you give a reference for this?</title>
+		<published>2022-11-23T06:26:56+00:00</published>
+		<updated>2022-11-23T06:26:56+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1595302862489280512</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1595302862489280512"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@brycly2 @ure_n8 @CO2ESP_Raydel @FCC Can you give a reference for this?&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@DJCinSB @coastal8049 Thanks! That quickly got me going. I noticed there's a also a DynamicDataDisplay which also looks new to me. pic.twitter.com/0QbTyAacJd</title>
+		<published>2022-11-22T21:50:41+00:00</published>
+		<updated>2022-11-22T21:50:41+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1595172942429753379</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1595172942429753379"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@DJCinSB @coastal8049 Thanks! That quickly got me going. I noticed there's a also a DynamicDataDisplay which also looks new to me. &lt;a href="https://twitter.com/ea4gpz/status/1595172942429753379/photo/1"&gt;pic.twitter.com/0QbTyAacJd&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FiMw5p0XwAAj7c8.png?name=orig"&gt;
 &lt;img
 	style="align:top; max-width:558px; border:1px solid black;"
 	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FcTZuixXkAA8qr4.png" /&gt;
+	src="https://pbs.twimg.com/media/FiMw5p0XwAAj7c8.png" /&gt;
 &lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FcTZuixXkAA8qr4.png?name=orig" type="image/png" />
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FiMw5p0XwAAj7c8.png?name=orig" type="image/png" />
 
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">New blog post: Connecting the Pluto SDR to an Android phone. Here I explain the steps that I've had to follow to make Ethernet over USB work (basically switch from RNDIS to ECM), and how the Linux USB gadget support is configured and can be debugged.  destevez.net/2022/09/connec… pic.twitter.com/ZGqIAylt6D</title>
-		<published>2022-09-09T17:38:49+00:00</published>
-		<updated>2022-09-09T17:38:49+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1568292857621921797</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1568292857621921797"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<title type="html">@coastal8049 @DJCinSB First time I hear about it. Any pointers to where it's located or how it's used?</title>
+		<published>2022-11-22T21:39:43+00:00</published>
+		<updated>2022-11-22T21:39:43+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1595170184230277127</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1595170184230277127"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
 &lt;img
 	style="align:top; width:75px; border:1px solid black;"
 	alt="ea4gpz"
 	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;New blog post: Connecting the Pluto SDR to an Android phone. Here I explain the steps that I've had to follow to make Ethernet over USB work (basically switch from RNDIS to ECM), and how the Linux USB gadget support is configured and can be debugged.  &lt;a href="https://destevez.net/2022/09/connecting-the-pluto-sdr-to-an-android-phone/"&gt;destevez.net/2022/09/connec…&lt;/a&gt; &lt;a href="https://twitter.com/ea4gpz/status/1568292857621921797/photo/1"&gt;pic.twitter.com/ZGqIAylt6D&lt;/a&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;@coastal8049 @DJCinSB First time I hear about it. Any pointers to where it's located or how it's used?&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FcOxga5XkAExjyU.jpg?name=orig"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@CO2ESP_Raydel @brycly2 @FCC I suggest to look at old versions of the Radio Regulations. This morning I saw it in a version from 2012, so it was already in place then. I haven't done an exhaustive search, and I don't know how many historical versions of the RR can be easily found online.</title>
+		<published>2022-11-22T18:39:21+00:00</published>
+		<updated>2022-11-22T18:39:21+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1595124794705727488</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1595124794705727488"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@CO2ESP_Raydel @brycly2 @FCC I suggest to look at old versions of the Radio Regulations. This morning I saw it in a version from 2012, so it was already in place then. I haven't done an exhaustive search, and I don't know how many historical versions of the RR can be easily found online.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@CO2ESP_Raydel @brycly2 @FCC The fun thing is that Cuba is surely listed in this footnote because at some point Cuba requested it. But I can imagine how these things work with governments.</title>
+		<published>2022-11-22T16:52:48+00:00</published>
+		<updated>2022-11-22T16:52:48+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1595097978238545921</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1595097978238545921"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@CO2ESP_Raydel @brycly2 @FCC The fun thing is that Cuba is surely listed in this footnote because at some point Cuba requested it. But I can imagine how these things work with governments.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@tammojan @gnuradio I think it is. The main lobe of the modulation is about 4 MHz wide, so at least 4 Msps would be needed.</title>
+		<published>2022-11-22T16:50:48+00:00</published>
+		<updated>2022-11-22T16:50:48+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1595097477576888320</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1595097477576888320"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@tammojan @gnuradio I think it is. The main lobe of the modulation is about 4 MHz wide, so at least 4 Msps would be needed.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@brycly2 @CO2ESP_Raydel @FCC I correct myself. 5.278 doesn't date from WRC-19, but much earlier. I have no idea why the ITU RRs and the Cuban reglament seemingly contradict each other.</title>
+		<published>2022-11-22T06:30:07+00:00</published>
+		<updated>2022-11-22T06:30:07+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1594941278076260352</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594941278076260352"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@brycly2 @CO2ESP_Raydel @FCC I correct myself. 5.278 doesn't date from WRC-19, but much earlier. I have no idea why the ITU RRs and the Cuban reglament seemingly contradict each other.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@brycly2 @CO2ESP_Raydel @FCC ITU footnote 5.278 is from WRC-19, while the Cuban regulations you linked are from 2017. So it may be simply that new regulations reflecting the changes at ITU level haven't been published yet. I don't know enough about the rules to tell what takes precedence in this case.</title>
+		<published>2022-11-22T06:24:19+00:00</published>
+		<updated>2022-11-22T06:24:19+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1594939817967890432</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594939817967890432"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@brycly2 @CO2ESP_Raydel @FCC ITU footnote 5.278 is from WRC-19, while the Cuban regulations you linked are from 2017. So it may be simply that new regulations reflecting the changes at ITU level haven't been published yet. I don't know enough about the rules to tell what takes precedence in this case.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Read more: destevez.net/2022/11/decodi…</title>
+		<published>2022-11-21T23:00:48+00:00</published>
+		<updated>2022-11-21T23:00:48+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1594828202735804439</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594828202735804439"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Read more: &lt;a href="https://destevez.net/2022/11/decoding-the-artemis-i-orion-vehicle/"&gt;destevez.net/2022/11/decodi…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Then I look at the contents of the frames. The useful data is encrypted, but still is interesting to look at headers and measure what fraction of the link is occupied with useful data (3/n) pic.twitter.com/pvX5ofnAwl</title>
+		<published>2022-11-21T23:00:47+00:00</published>
+		<updated>2022-11-21T23:00:47+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1594828199871090688</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594828199871090688"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Then I look at the contents of the frames. The useful data is encrypted, but still is interesting to look at headers and measure what fraction of the link is occupied with useful data (3/n) &lt;a href="https://twitter.com/ea4gpz/status/1594828199871090688/photo/1"&gt;pic.twitter.com/pvX5ofnAwl&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FiH3wyPXoAoZQJT.png?name=orig"&gt;
 &lt;img
 	style="align:top; max-width:558px; border:1px solid black;"
 	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FcOxga5XkAExjyU.jpg" /&gt;
+	src="https://pbs.twimg.com/media/FiH3wyPXoAoZQJT.png" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FiH3AKyXoAk5_ii.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FiH3AKyXoAk5_ii.png" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FiH3BqTXoBIxyZx.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FiH3BqTXoBIxyZx.png" /&gt;
 &lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FcOxga5XkAExjyU.jpg?name=orig" type="image/jpeg" />
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FiH3wyPXoAoZQJT.png?name=orig" type="image/png" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FiH3AKyXoAk5_ii.png?name=orig" type="image/png" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FiH3BqTXoBIxyZx.png?name=orig" type="image/png" />
 
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">@KM6GUA @pe0sat Yes</title>
-		<published>2022-09-08T13:18:07+00:00</published>
-		<updated>2022-09-08T13:18:07+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1567864860838400000</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1567864860838400000"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<title type="html">I present a tool to decode CCSDS LDPC frames using the AFF3CT FEC library. I also give some figures about the CPU performance of this decoder. (2/n)</title>
+		<published>2022-11-21T23:00:46+00:00</published>
+		<updated>2022-11-21T23:00:46+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1594828193952923648</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594828193952923648"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
 &lt;img
 	style="align:top; width:75px; border:1px solid black;"
 	alt="ea4gpz"
 	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@KM6GUA @pe0sat Yes&lt;/blockquote&gt;
+	&lt;blockquote&gt;I present a tool to decode CCSDS LDPC frames using the AFF3CT FEC library. I also give some figures about the CPU performance of this decoder. (2/n)&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -106,25 +388,60 @@
 	</entry>
 
 	<entry>
-		<title type="html">My SDRA'22 talk on @FutureSDR  is online :-)
-youtube.com/watch?v=E5cFj5…</title>
-		<published>2022-09-07T11:56:26+00:00</published>
-		<updated>2022-09-07T11:56:26+00:00</updated>
-		<id>https://twitter.com/bastibl/status/1567481920719622144</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/bastibl/status/1567481920719622144"/>
-		<author><name>RT: Bastian Bloessl (@bastibl)</name></author>
+		<title type="html">New blog post: Decoding the Artemis I Orion vehicle. An analysis of the S-band 2 MBaud OQPSK telemetry signal using some recordings done with the Allen Telescope Array. I show how to demodulate OQPSK with @gnuradio. (1/n) pic.twitter.com/RUl0QVbPwK</title>
+		<published>2022-11-21T23:00:45+00:00</published>
+		<updated>2022-11-21T23:00:45+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1594828190639431680</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594828190639431680"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/bastibl"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
 &lt;img
 	style="align:top; width:75px; border:1px solid black;"
-	alt="bastibl"
-	src="https://pbs.twimg.com/profile_images/921298109321408512/W-xEnBEn_normal.jpg"
-	title="Bastian Bloessl" /&gt;
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;My SDRA'22 talk on @FutureSDR  is online :-)
-&lt;a href="https://www.youtube.com/watch?v=E5cFj5qrJnE"&gt;youtube.com/watch?v=E5cFj5…&lt;/a&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;New blog post: Decoding the Artemis I Orion vehicle. An analysis of the S-band 2 MBaud OQPSK telemetry signal using some recordings done with the Allen Telescope Array. I show how to demodulate OQPSK with @gnuradio. (1/n) &lt;a href="https://twitter.com/ea4gpz/status/1594828190639431680/photo/1"&gt;pic.twitter.com/RUl0QVbPwK&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FiH3UnAXoCMIUFH.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FiH3UnAXoCMIUFH.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FiH3UnAXoCMIUFH.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">12 objects made lunar flybys this morning, and we haven't heard detailed information on most of their fates.
+
+Allow me to enumerate:</title>
+		<published>2022-11-21T21:24:49+00:00</published>
+		<updated>2022-11-21T21:24:49+00:00</updated>
+		<id>https://twitter.com/planet4589/status/1594804046246051840</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/planet4589/status/1594804046246051840"/>
+		<author><name>RT: Jonathan McDowell (@planet4589)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/planet4589"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="planet4589"
+	src="https://pbs.twimg.com/profile_images/1418798871355002886/K6uHjp90_normal.jpg"
+	title="Jonathan McDowell" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;12 objects made lunar flybys this morning, and we haven't heard detailed information on most of their fates.
+
+Allow me to enumerate:&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -135,23 +452,23 @@ youtube.com/watch?v=E5cFj5…</title>
 	</entry>
 
 	<entry>
-		<title type="html">@GalileoSats @tj_astro @CillianGNSS That was a suspicion, but for regular ephemerides clock and orbital radius are not "equivalent", as they act differently for users seeing the satellite at different elevations. Hence the clock should model the clock and the orbit the orbit, but it's not trivial to do accurately.</title>
-		<published>2022-09-06T17:23:55+00:00</published>
-		<updated>2022-09-06T17:23:55+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1567201944195809287</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1567201944195809287"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<title type="html">@CO2ESP_Raydel @brycly2 @FCC They haven't even bothered to read thoroughly the stuff they're referencing. 5.278 says that the Amateur service is primary in 70cm in Cuba.</title>
+		<published>2022-11-21T06:50:02+00:00</published>
+		<updated>2022-11-21T06:50:02+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1594583899153522688</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594583899153522688"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
 &lt;img
 	style="align:top; width:75px; border:1px solid black;"
 	alt="ea4gpz"
 	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@GalileoSats @tj_astro @CillianGNSS That was a suspicion, but for regular ephemerides clock and orbital radius are not "equivalent", as they act differently for users seeing the satellite at different elevations. Hence the clock should model the clock and the orbit the orbit, but it's not trivial to do accurately.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@CO2ESP_Raydel @brycly2 @FCC They haven't even bothered to read thoroughly the stuff they're referencing. 5.278 says that the Amateur service is primary in 70cm in Cuba.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -162,23 +479,23 @@ youtube.com/watch?v=E5cFj5…</title>
 	</entry>
 
 	<entry>
-		<title type="html">@GalileoSats That's really weird!</title>
-		<published>2022-09-06T07:37:19+00:00</published>
-		<updated>2022-09-06T07:37:19+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1567054324114624513</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1567054324114624513"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<title type="html">@brycly2 @CO2ESP_Raydel @FCC You were wrong. "Amateurs have secondary rights" is not the same as "Amateurs have secondary rights on regions 2 &amp;amp; 3 minus 11 countries". You do understand that BlueWalker 3 is also transmitting on 70 cm when operating over region 1, right?</title>
+		<published>2022-11-21T06:35:24+00:00</published>
+		<updated>2022-11-21T06:35:24+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1594580217460391936</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594580217460391936"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
 &lt;img
 	style="align:top; width:75px; border:1px solid black;"
 	alt="ea4gpz"
 	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@GalileoSats That's really weird!&lt;/blockquote&gt;
+	&lt;blockquote&gt;@brycly2 @CO2ESP_Raydel @FCC You were wrong. "Amateurs have secondary rights" is not the same as "Amateurs have secondary rights on regions 2 &amp;amp; 3 minus 11 countries". You do understand that BlueWalker 3 is also transmitting on 70 cm when operating over region 1, right?&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -189,23 +506,23 @@ youtube.com/watch?v=E5cFj5…</title>
 	</entry>
 
 	<entry>
-		<title type="html">@GalileoSats Are these with a single redCED set or do you keep changing the set as a new one comes in? If so, can you mark in the plot the instants where the redCED is changed?</title>
-		<published>2022-09-06T05:35:26+00:00</published>
-		<updated>2022-09-06T05:35:26+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1567023647453323265</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1567023647453323265"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<title type="html">@tammojan @DrzalMichal @coastal8049 ...This is more of a small criticism on how NASA seems to have set up this activity, perhaps with too little guidance about the nature of the data to be provided. I see that stations participating in the activity are doing their absolute best to get good and useful data.</title>
+		<published>2022-11-20T22:13:53+00:00</published>
+		<updated>2022-11-20T22:13:53+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1594454005324840963</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594454005324840963"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
 &lt;img
 	style="align:top; width:75px; border:1px solid black;"
 	alt="ea4gpz"
 	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@GalileoSats Are these with a single redCED set or do you keep changing the set as a new one comes in? If so, can you mark in the plot the instants where the redCED is changed?&lt;/blockquote&gt;
+	&lt;blockquote&gt;@tammojan @DrzalMichal @coastal8049 ...This is more of a small criticism on how NASA seems to have set up this activity, perhaps with too little guidance about the nature of the data to be provided. I see that stations participating in the activity are doing their absolute best to get good and useful data.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -216,23 +533,23 @@ youtube.com/watch?v=E5cFj5…</title>
 	</entry>
 
 	<entry>
-		<title type="html">@hennichodernich @dEnergy_dTime Was going to say that this reminds me a lot to convolving the brickwall filter in the frequency domain with a smoothing kernel, so in the time domain we get the sinc multiplied by the IFT of the smoothing kernel. I think it might be equivalent, with a suitable choice of kernel.</title>
-		<published>2022-09-05T19:16:50+00:00</published>
-		<updated>2022-09-05T19:16:50+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1566867971724771332</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566867971724771332"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<title type="html">@tammojan @DrzalMichal @coastal8049 I wonder how NASA is going to make good use of these for navigation, without a knowledge of the integration start and end times used by each station. Also, I'm used to mHz accuracy (mm/s) for deep space stuff. Maybe not so important for near-Earth...</title>
+		<published>2022-11-20T22:12:49+00:00</published>
+		<updated>2022-11-20T22:12:49+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1594453739364024320</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594453739364024320"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
 &lt;img
 	style="align:top; width:75px; border:1px solid black;"
 	alt="ea4gpz"
 	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@hennichodernich @dEnergy_dTime Was going to say that this reminds me a lot to convolving the brickwall filter in the frequency domain with a smoothing kernel, so in the time domain we get the sinc multiplied by the IFT of the smoothing kernel. I think it might be equivalent, with a suitable choice of kernel.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@tammojan @DrzalMichal @coastal8049 I wonder how NASA is going to make good use of these for navigation, without a knowledge of the integration start and end times used by each station. Also, I'm used to mHz accuracy (mm/s) for deep space stuff. Maybe not so important for near-Earth...&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -243,320 +560,23 @@ youtube.com/watch?v=E5cFj5…</title>
 	</entry>
 
 	<entry>
-		<title type="html">@ka9q @GalileoSats @CillianGNSS The information bytes are reversed, and the parity check bytes are reversed. Padding is handled as usual. See this: twitter.com/ea4gpz/status/…</title>
-		<published>2022-09-05T05:34:49+00:00</published>
-		<updated>2022-09-05T05:34:49+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1566661106638225409</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566661106638225409"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<title type="html">@ea4hgz @scott23192 Yeah, who knows. Gmail doesn't like my server including a correct DKIM signature, for some reason.</title>
+		<published>2022-11-20T19:03:03+00:00</published>
+		<updated>2022-11-20T19:03:03+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1594405984306401280</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594405984306401280"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
 &lt;img
 	style="align:top; width:75px; border:1px solid black;"
 	alt="ea4gpz"
 	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q @GalileoSats @CillianGNSS The information bytes are reversed, and the parity check bytes are reversed. Padding is handled as usual. See this: &lt;a href="https://twitter.com/ea4gpz/status/1566047658636185602?t=sK4OTU5JyIS7J4fFad22jw&amp;s=19"&gt;twitter.com/ea4gpz/status/…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@pe0sat @st2nh @JA0CAW @dk3wn @scott23192 Might be good to mention that gr-satellites is also available for Windows as a conda package. The easiest way to install it is as part of radioconda github.com/ryanvolz/radio…</title>
-		<published>2022-09-04T18:46:21+00:00</published>
-		<updated>2022-09-04T18:46:21+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1566497914091970561</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566497914091970561"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@pe0sat @st2nh @JA0CAW @dk3wn @scott23192 Might be good to mention that gr-satellites is also available for Windows as a conda package. The easiest way to install it is as part of radioconda &lt;a href="https://github.com/ryanvolz/radioconda"&gt;github.com/ryanvolz/radio…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@GalileoSats @CillianGNSS They appear when the signal quality is not good enough. Then the Viterbi decoder doesn't manage to correct all the bit errors, and some remain, so the CRC check fails.</title>
-		<published>2022-09-04T16:58:45+00:00</published>
-		<updated>2022-09-04T16:58:45+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1566470835883458561</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566470835883458561"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@GalileoSats @CillianGNSS They appear when the signal quality is not good enough. Then the Viterbi decoder doesn't manage to correct all the bit errors, and some remain, so the CRC check fails.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@CillianGNSS @GalileoSats Hm, or maybe this doesn't make sense. I'm thinking that if we know some bytes are errorless, this is very similar to shortening the code (where you know that some bytes are 0). A shortened code doesn't give better error correction capability.</title>
-		<published>2022-09-04T16:07:17+00:00</published>
-		<updated>2022-09-04T16:07:17+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1566457882622795785</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566457882622795785"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@CillianGNSS @GalileoSats Hm, or maybe this doesn't make sense. I'm thinking that if we know some bytes are errorless, this is very similar to shortening the code (where you know that some bytes are 0). A shortened code doesn't give better error correction capability.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@CillianGNSS @GalileoSats Error correction is interesting: since we have CRC24's, there are potentially some words that we're sure have no errors. There's no way to feed that information to a conventional RS decoder, but perhaps it's possible to modify the error locator polynomial to reflect this.</title>
-		<published>2022-09-04T16:03:00+00:00</published>
-		<updated>2022-09-04T16:03:00+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1566456806318264322</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566456806318264322"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@CillianGNSS @GalileoSats Error correction is interesting: since we have CRC24's, there are potentially some words that we're sure have no errors. There's no way to feed that information to a conventional RS decoder, but perhaps it's possible to modify the error locator polynomial to reflect this.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@CillianGNSS @GalileoSats I also thought that the main design driver of FEC2 was to allow error correction. If erasure correction was the only goal, they would have used a bunch of Reed-Solomon (8,4) instead, greatly simplifying the decoding process.</title>
-		<published>2022-09-04T15:59:34+00:00</published>
-		<updated>2022-09-04T15:59:34+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1566455939947180032</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566455939947180032"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@CillianGNSS @GalileoSats I also thought that the main design driver of FEC2 was to allow error correction. If erasure correction was the only goal, they would have used a bunch of Reed-Solomon (8,4) instead, greatly simplifying the decoding process.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@CillianGNSS @GalileoSats That is indeed the best I've come up with. My hope was to reduce the combinatorics, because 8 choose 4 = 70 is quite large. For GF(2^8) we can SIMD 4 + or 3 * in an int32 operation, so I can't imagine a use case that can afford that storage but needs extra fast arithmetic.</title>
-		<published>2022-09-04T15:58:22+00:00</published>
-		<updated>2022-09-04T15:58:22+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1566455640083628033</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566455640083628033"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@CillianGNSS @GalileoSats That is indeed the best I've come up with. My hope was to reduce the combinatorics, because 8 choose 4 = 70 is quite large. For GF(2^8) we can SIMD 4 + or 3 * in an int32 operation, so I can't imagine a use case that can afford that storage but needs extra fast arithmetic.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@GalileoSats @CillianGNSS @ka9q About the post screenshot: this is for the usual I/NAV CED (words 1-4), right? It doesn't have anything to do with redCED (word 16).</title>
-		<published>2022-09-04T10:00:54+00:00</published>
-		<updated>2022-09-04T10:00:54+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1566365682094178304</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566365682094178304"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@GalileoSats @CillianGNSS @ka9q About the post screenshot: this is for the usual I/NAV CED (words 1-4), right? It doesn't have anything to do with redCED (word 16).&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@CillianGNSS @GalileoSats Unfortunately I found a problem with my idea. I'll keep it in the back of my mind in case I find how to fix it. The main driver was: take advantage of the fact that the combinatorics of possible erasures are small to try to precompute things rather than doing Gauss elimination.</title>
-		<published>2022-09-04T09:22:13+00:00</published>
-		<updated>2022-09-04T09:22:13+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1566355945780908033</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566355945780908033"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@CillianGNSS @GalileoSats Unfortunately I found a problem with my idea. I'll keep it in the back of my mind in case I find how to fix it. The main driver was: take advantage of the fact that the combinatorics of possible erasures are small to try to precompute things rather than doing Gauss elimination.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@GalileoSats @CillianGNSS Ooops. Messed up one of the calculations. It's actually 31.3 KB of constants rather than 15.6 KB.</title>
-		<published>2022-09-03T17:33:09+00:00</published>
-		<updated>2022-09-03T17:33:09+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1566117105149386752</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566117105149386752"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@GalileoSats @CillianGNSS Ooops. Messed up one of the calculations. It's actually 31.3 KB of constants rather than 15.6 KB.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@GalileoSats @CillianGNSS On another topic: I have an idea for a rather fast erasure decoding algorithm (only for this FEC2 use case). It needs 15.6 KB of pre-stored constants, but only does 250-300 operations per erasure. With Gauss elimination you do 350-2400 operations per erasure if I'm not mistaken.</title>
-		<published>2022-09-03T17:26:51+00:00</published>
-		<updated>2022-09-03T17:26:51+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1566115520784601095</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566115520784601095"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@GalileoSats @CillianGNSS On another topic: I have an idea for a rather fast erasure decoding algorithm (only for this FEC2 use case). It needs 15.6 KB of pre-stored constants, but only does 250-300 operations per erasure. With Gauss elimination you do 350-2400 operations per erasure if I'm not mistaken.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@GalileoSats @CillianGNSS ... Otherwise you have 61 erased bytes, while the RS decoder can only recover up to 60 erasures (included).</title>
-		<published>2022-09-03T17:01:20+00:00</published>
-		<updated>2022-09-03T17:01:20+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1566109096683651073</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1566109096683651073"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@GalileoSats @CillianGNSS ... Otherwise you have 61 erased bytes, while the RS decoder can only recover up to 60 erasures (included).&lt;/blockquote&gt;
+	&lt;blockquote&gt;@ea4hgz @scott23192 Yeah, who knows. Gmail doesn't like my server including a correct DKIM signature, for some reason.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;

@@ -5,7 +5,7 @@
 	<id>http://</id>
 	<icon>https://octopart.com/favicon-32x32.png</icon>
 	<logo>https://octopart.com/favicon-32x32.png</logo>
-	<updated>2022-09-12T06:38:10+00:00</updated>
+	<updated>2022-11-26T06:53:59+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
@@ -13,28 +13,28 @@
 	<link rel="self" type="application/atom+xml" href="http://" />
 
 	<entry>
-		<title type="html">What Are Chiplets and How Are They Used in Packaging?</title>
-		<published>2022-08-31T00:00:00+00:00</published>
-		<updated>2022-08-31T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/08/what-are-chiplets-and-how-are-they-used-in-packaging</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/08/what-are-chiplets-and-how-are-they-used-in-packaging"/>
+		<title type="html">What is the PCB Supply Chain?</title>
+		<published>2022-11-23T00:00:00+00:00</published>
+		<updated>2022-11-23T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/11/what-is-the-pcb-supply-chain</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/11/what-is-the-pcb-supply-chain"/>
 		
-		<content type="html">What Are Chiplets and How Are They Used in Packaging?</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/7ruwx7Yt9yVJH2EyNvXEfb/b6d6a4a583815cdf9702f17754d25a9d/chiplet_1448944313_2.png" type="image/png" />
+		<content type="html">What is the PCB Supply Chain?</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/2CH7ys5jEF7t6TW4yFjhZq/dc94abd52805bf601ee8ee4e9eb53faa/What_is_the_PCB_Supply_Chain_-77895__1__1.png" type="image/png" />
 
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">Modules, Dev Kits, and Custom PCBs: Which Should You Use?</title>
-		<published>2022-08-24T00:00:00+00:00</published>
-		<updated>2022-08-24T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/08/modules-dev-kits-and-custom-pcbs-which-should-you-use</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/08/modules-dev-kits-and-custom-pcbs-which-should-you-use"/>
+		<title type="html">How to Use an Isolated ADC</title>
+		<published>2022-11-16T00:00:00+00:00</published>
+		<updated>2022-11-16T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/11/how-to-use-an-isolated-adc</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/11/how-to-use-an-isolated-adc"/>
 		
-		<content type="html">Modules, Dev Kits, and Custom PCBs: Which Should You Use?</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/70LDZIUCCOrPXkwbgQ26ss/a1cbd605712c6b29197da6c2f128ef0f/shutterstock_1625894587_square.png" type="image/png" />
+		<content type="html">How to Use an Isolated ADC</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/5ySso0sQrxFeqJ6L3OPdVR/a46b89637d135aba2afd5db7ffec7472/Frame_41.png" type="image/png" />
 
 		
 		
@@ -55,70 +55,70 @@
 	</entry>
 
 	<entry>
-		<title type="html">The Electronics Supply Chain and Inflation: Octopart is Also Built for This</title>
-		<published>2022-08-17T00:00:00+00:00</published>
-		<updated>2022-08-17T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/08/the-electronics-supply-chain-and-inflation-octopart-is-also-built-for-this</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/08/the-electronics-supply-chain-and-inflation-octopart-is-also-built-for-this"/>
+		<title type="html">Which Power Amplifier Class Should You Use?</title>
+		<published>2022-11-11T00:00:00+00:00</published>
+		<updated>2022-11-11T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/11/which-power-amplifier-class-should-you-use</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/11/which-power-amplifier-class-should-you-use"/>
 		
-		<content type="html">The Electronics Supply Chain and Inflation: Octopart is Also Built for This</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/edhvj6OxhXIjKANgNCyfQ/9e6a6c99388c8e0b906e405b9009a071/Frame_36.png" type="image/png" />
+		<content type="html">Which Power Amplifier Class Should You Use?</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/3zRDX6JlHmJQYDQNbiJeQc/2ee664e54bac13e191ebcc1a6b487d12/Frame_43.png" type="image/png" />
 
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">RISC-V Processors and SoCs for Embedded Systems</title>
-		<published>2022-08-04T00:00:00+00:00</published>
-		<updated>2022-08-04T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/08/risc-v-processors-and-socs-for-embedded-systems</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/08/risc-v-processors-and-socs-for-embedded-systems"/>
+		<title type="html">Supply Chain Solutions for Electronic Assemblies</title>
+		<published>2022-11-08T00:00:00+00:00</published>
+		<updated>2022-11-08T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/11/supply-chain-solutions-for-electronic-assemblies</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/11/supply-chain-solutions-for-electronic-assemblies"/>
 		
-		<content type="html">RISC-V Processors and SoCs for Embedded Systems</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/7zWJaOTP85nJsqpFgJOlLD/b61d8d29d96139a051f07f1ec0937bef/Frame_30.png" type="image/png" />
+		<content type="html">Supply Chain Solutions for Electronic Assemblies</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/5y7N7F42ubjzMyuYeeik34/ddeac306bc231528707947b6d3942189/24705044.png" type="image/png" />
 
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">Best SMD Wifi Module Options with Integrated Antenna</title>
-		<published>2022-07-27T00:00:00+00:00</published>
-		<updated>2022-07-27T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/07/best-smd-wifi-module-options-with-integrated-antenna</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/07/best-smd-wifi-module-options-with-integrated-antenna"/>
+		<title type="html">The Just-in-Time Supply Chain Shifted to Just-in-Case</title>
+		<published>2022-11-02T00:00:00+00:00</published>
+		<updated>2022-11-02T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/11/the-just-in-time-supply-chain-shifted-to-just-in-case</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/11/the-just-in-time-supply-chain-shifted-to-just-in-case"/>
 		
-		<content type="html">Best SMD Wifi Module Options with Integrated Antenna</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/7FDtYBji2xGnGXXnhw9qyc/19c537e67c952560ddfe60b16dce5679/shutterstock_1288210645.png" type="image/png" />
+		<content type="html">The Just-in-Time Supply Chain Shifted to Just-in-Case</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4VBnDR50qFayuK34hGTshS/fe14c35921b9e9d9f52274a7e17d5ad2/jic-supply_1.png" type="image/png" />
 
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">Interview With Ben Gao, PCB Engineer at PCBWay</title>
-		<published>2022-07-19T00:00:00+00:00</published>
-		<updated>2022-07-19T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/07/interview-with-ben-gao-pcb-engineer-at-pcbway</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/07/interview-with-ben-gao-pcb-engineer-at-pcbway"/>
+		<title type="html">Ease the Pain of Your PCB Supply Chain Management with Intuitive Design Tools</title>
+		<published>2022-10-27T00:00:00+00:00</published>
+		<updated>2022-10-27T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/10/ease-the-pain-of-your-pcb-supply-chain-management-with-intuitive-design</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/10/ease-the-pain-of-your-pcb-supply-chain-management-with-intuitive-design"/>
 		
-		<content type="html">Interview With Ben Gao, PCB Engineer at PCBWay</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4BhaulcmEqdvFZGn7b4nFm/40bffb44aee47b8df251440d3b5a8e7c/24705030.png" type="image/png" />
+		<content type="html">Ease the Pain of Your PCB Supply Chain Management with Intuitive Design Tools</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4AguQYU6xdocaJf4eubEt5/406b1d5f4a3bd279a163a8f3f9a19d40/2.png" type="image/png" />
 
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">mmWave Sensors for ADAS, Robotics, and Security</title>
-		<published>2022-07-12T00:00:00+00:00</published>
-		<updated>2022-07-12T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/07/mmwave-sensors-for-adas-robotics-and-security</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/07/mmwave-sensors-for-adas-robotics-and-security"/>
+		<title type="html">Octopart is excited to announce our newest partnership with LevaData</title>
+		<published>2022-10-25T00:00:00+00:00</published>
+		<updated>2022-10-25T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/10/octopart-is-excited-to-announce-our-newest-partnership-with-levadata</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/10/octopart-is-excited-to-announce-our-newest-partnership-with-levadata"/>
 		
-		<content type="html">mmWave Sensors for ADAS, Robotics, and Security</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4X1cjK6BKuNxjXHSg5Y4Pu/60b69f40e21a1bd3557812a6212cbfa8/Frame_13.png" type="image/png" />
+		<content type="html">Octopart is excited to announce our newest partnership with LevaData</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/42BxWLZZqHaAIV1uaDKGAU/045b1d1b74319399bc35e6e64522e212/Leva_Data_asset_square.png" type="image/png" />
 
 		
 		
