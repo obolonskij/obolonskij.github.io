@@ -5,12 +5,26 @@
 	<id>http://</id>
 	<icon>https://octopart.com/favicon-32x32.png</icon>
 	<logo>https://octopart.com/favicon-32x32.png</logo>
-	<updated>2022-11-26T06:53:59+00:00</updated>
+	<updated>2022-11-30T04:49:10+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://octopart.com/blog" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">The Nexar Story</title>
+		<published>2022-11-28T00:00:00+00:00</published>
+		<updated>2022-11-28T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/11/the-nexar-story</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/11/the-nexar-story"/>
+		
+		<content type="html">The Nexar Story</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/1ocviAbY4D7PnLJ6Xgq479/761ea817d123aecbd34aae802c78c443/Blog_Square.png" type="image/png" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">What is the PCB Supply Chain?</title>
@@ -27,20 +41,6 @@
 	</entry>
 
 	<entry>
-		<title type="html">How to Use an Isolated ADC</title>
-		<published>2022-11-16T00:00:00+00:00</published>
-		<updated>2022-11-16T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/11/how-to-use-an-isolated-adc</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/11/how-to-use-an-isolated-adc"/>
-		
-		<content type="html">How to Use an Isolated ADC</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/5ySso0sQrxFeqJ6L3OPdVR/a46b89637d135aba2afd5db7ffec7472/Frame_41.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
 		<title type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</title>
 		<published>2022-03-01T00:00:00+00:00</published>
 		<updated>2022-03-01T00:00:00+00:00</updated>
@@ -49,6 +49,20 @@
 		
 		<content type="html">Octopart Introduces Industry-Leading Data and Insights from Spectra</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4J3ZfLMCrl9LcxKe35NvBg/18047fb2a24513d4179f4c785eb499a8/Spectra_Blog_Square_720x720.png" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">How to Use an Isolated ADC</title>
+		<published>2022-11-16T00:00:00+00:00</published>
+		<updated>2022-11-16T00:00:00+00:00</updated>
+		<id>https://octopart.com/blog/archives/2022/11/how-to-use-an-isolated-adc</id>
+		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/11/how-to-use-an-isolated-adc"/>
+		
+		<content type="html">How to Use an Isolated ADC</content>
+		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/5ySso0sQrxFeqJ6L3OPdVR/a46b89637d135aba2afd5db7ffec7472/Frame_41.png" type="image/png" />
 
 		
 		
@@ -105,20 +119,6 @@
 		
 		<content type="html">Ease the Pain of Your PCB Supply Chain Management with Intuitive Design Tools</content>
 		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/4AguQYU6xdocaJf4eubEt5/406b1d5f4a3bd279a163a8f3f9a19d40/2.png" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Octopart is excited to announce our newest partnership with LevaData</title>
-		<published>2022-10-25T00:00:00+00:00</published>
-		<updated>2022-10-25T00:00:00+00:00</updated>
-		<id>https://octopart.com/blog/archives/2022/10/octopart-is-excited-to-announce-our-newest-partnership-with-levadata</id>
-		<link rel="alternate" type="text/html" href="https://octopart.com/blog/archives/2022/10/octopart-is-excited-to-announce-our-newest-partnership-with-levadata"/>
-		
-		<content type="html">Octopart is excited to announce our newest partnership with LevaData</content>
-		<link rel="enclosure" href="https://images.ctfassets.net/vne94x762vsn/42BxWLZZqHaAIV1uaDKGAU/045b1d1b74319399bc35e6e64522e212/Leva_Data_asset_square.png" type="image/png" />
 
 		
 		

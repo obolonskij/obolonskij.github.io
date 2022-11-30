@@ -5,12 +5,512 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-11-26T06:54:01+00:00</updated>
+	<updated>2022-11-30T04:49:12+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@devnulling @gnuradio @GhostOP14 @Ghostop141 Yes, he did. But here I wanted to put something together quickly to postprocess some files. Mike's correlator runs in real time from network data.</title>
+		<published>2022-11-28T23:09:04+00:00</published>
+		<updated>2022-11-28T23:09:04+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1597366997373059072</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1597366997373059072"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@devnulling @gnuradio @GhostOP14 @Ghostop141 Yes, he did. But here I wanted to put something together quickly to postprocess some files. Mike's correlator runs in real time from network data.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@ka9q 8192 point. It's GNU Radio's FFT block, which uses fftw under the hood.</title>
+		<published>2022-11-28T22:12:43+00:00</published>
+		<updated>2022-11-28T22:12:43+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1597352815650779136</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1597352815650779136"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ka9q 8192 point. It's GNU Radio's FFT block, which uses fftw under the hood.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Input throughput is ~124 MiB/s on a dual socket Xeon 4216, so I guess there's large room for improvement. I love the fact that we can put together an FX correlator flowgraph having 40 FFT blocks and 820 integrator blocks in just a couple dozen lines of code. (2/2)</title>
+		<published>2022-11-28T21:56:09+00:00</published>
+		<updated>2022-11-28T21:56:09+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1597348648311918592</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1597348648311918592"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Input throughput is ~124 MiB/s on a dual socket Xeon 4216, so I guess there's large room for improvement. I love the fact that we can put together an FX correlator flowgraph having 40 FFT blocks and 820 integrator blocks in just a couple dozen lines of code. (2/2)&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Testing a @gnuradio software FX correlator for the ATA 20 antenna set up (40 inputs = 20 antennas x 2 polarizations). The deinterleave block that distributes the input turns out to be a huge bottleneck, but fortunately this doesn't need to run in real time. (1/2) pic.twitter.com/taNpQwVODs</title>
+		<published>2022-11-28T21:56:08+00:00</published>
+		<updated>2022-11-28T21:56:08+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1597348644801609729</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1597348644801609729"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Testing a @gnuradio software FX correlator for the ATA 20 antenna set up (40 inputs = 20 antennas x 2 polarizations). The deinterleave block that distributes the input turns out to be a huge bottleneck, but fortunately this doesn't need to run in real time. (1/2) &lt;a href="https://twitter.com/ea4gpz/status/1597348644801609729/photo/1"&gt;pic.twitter.com/taNpQwVODs&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FirpDfQWYAY3T1G.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FirpDfQWYAY3T1G.png" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FiroqlqXEAMGWZB.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FiroqlqXEAMGWZB.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FirpDfQWYAY3T1G.png?name=orig" type="image/png" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FiroqlqXEAMGWZB.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@F4DAV @TM_Eubanks Shortly after launch was 7 hours this time, due to launch azimuth. By then it was pretty far. If we had it in view just as it launched, the problem would have been antenna pointing.</title>
+		<published>2022-11-28T18:22:08+00:00</published>
+		<updated>2022-11-28T18:22:08+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1597294790240243712</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1597294790240243712"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@F4DAV @TM_Eubanks Shortly after launch was 7 hours this time, due to launch azimuth. By then it was pretty far. If we had it in view just as it launched, the problem would have been antenna pointing.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dh2va @nascom1 @ka9q @IanJohnBuckley @coastal8049 @NASA_Orion @NASA @NASA_Gateway That's a great idea. I'm confident that requesting a very particular and isolated part of the system be transmitted unencrypted for outreach is more likely to be acknowledged than saying that in general they shouldn't use encryption.</title>
+		<published>2022-11-28T18:19:10+00:00</published>
+		<updated>2022-11-28T18:19:10+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1597294040479043584</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1597294040479043584"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dh2va @nascom1 @ka9q @IanJohnBuckley @coastal8049 @NASA_Orion @NASA @NASA_Gateway That's a great idea. I'm confident that requesting a very particular and isolated part of the system be transmitted unencrypted for outreach is more likely to be acknowledged than saying that in general they shouldn't use encryption.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The @IAU_CPS has released a statement on the worries of the astronomy community regarding the brightness &amp;amp; radio frequency usage of the @AST_SpaceMobile #BlueWalker3 satellite which deployed its 64 square meter antenna. It can outshine all but the 15th brightest stars in the sky.</title>
+		<published>2022-11-28T18:11:47+00:00</published>
+		<updated>2022-11-28T18:11:47+00:00</updated>
+		<id>https://twitter.com/cgbassa/status/1597292184143024128</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/cgbassa/status/1597292184143024128"/>
+		<author><name>RT: Cees Bassa (@cgbassa)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/cgbassa"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="cgbassa"
+	src="https://pbs.twimg.com/profile_images/1759350576/avatar_normal.png"
+	title="Cees Bassa" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The @IAU_CPS has released a statement on the worries of the astronomy community regarding the brightness &amp;amp; radio frequency usage of the @AST_SpaceMobile #BlueWalker3 satellite which deployed its 64 square meter antenna. It can outshine all but the 15th brightest stars in the sky.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@ka9q @IanJohnBuckley @nascom1 @coastal8049 The 2 million km definition is CCSDS Category A, which includes the Lagrange points on purpose.</title>
+		<published>2022-11-28T06:37:46+00:00</published>
+		<updated>2022-11-28T06:37:46+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1597117530333941760</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1597117530333941760"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ka9q @IanJohnBuckley @nascom1 @coastal8049 The 2 million km definition is CCSDS Category A, which includes the Lagrange points on purpose.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@ka9q @IanJohnBuckley @nascom1 @coastal8049 That's my impression as well, and it's the way that the CCSDS Green Book explains it. But I think there are also exceptions to that rule.</title>
+		<published>2022-11-27T23:04:27+00:00</published>
+		<updated>2022-11-27T23:04:27+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1597003447022538752</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1597003447022538752"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ka9q @IanJohnBuckley @nascom1 @coastal8049 That's my impression as well, and it's the way that the CCSDS Green Book explains it. But I think there are also exceptions to that rule.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@ka9q @IanJohnBuckley @nascom1 @coastal8049 For Orion it's r=1/2 k=1024. I wouldn't say LDPC has displaced Turbo in deep space. Turbo k=1/6 is still the preferred coding. But LDPC is more common for near Earth, in which Orion fits better (near Earth is up to 2 million km).</title>
+		<published>2022-11-27T23:01:26+00:00</published>
+		<updated>2022-11-27T23:01:26+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1597002690370101248</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1597002690370101248"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ka9q @IanJohnBuckley @nascom1 @coastal8049 For Orion it's r=1/2 k=1024. I wouldn't say LDPC has displaced Turbo in deep space. Turbo k=1/6 is still the preferred coding. But LDPC is more common for near Earth, in which Orion fits better (near Earth is up to 2 million km).&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@ibelings @eb3frn That's very interesting. Keep us updated on your findings. I've never understood properly how all the ordinary vs extraordinary ionosphere polarization thing works. I was impressed by a talk in RSGB convention this year where they looked at polarization in 6m Es.</title>
+		<published>2022-11-27T21:30:47+00:00</published>
+		<updated>2022-11-27T21:30:47+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1596979877806166016</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1596979877806166016"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ibelings @eb3frn That's very interesting. Keep us updated on your findings. I've never understood properly how all the ordinary vs extraordinary ionosphere polarization thing works. I was impressed by a talk in RSGB convention this year where they looked at polarization in 6m Es.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">This. I imagine Luigi might have some particular case in mind with this criticism. I don't know the particular case, but I'm retweeting because this is broadly applicable and very well expressed. twitter.com/luigifcruz/sta…</title>
+		<published>2022-11-27T21:27:01+00:00</published>
+		<updated>2022-11-27T21:27:01+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1596978925804322817</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1596978925804322817"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;This. I imagine Luigi might have some particular case in mind with this criticism. I don't know the particular case, but I'm retweeting because this is broadly applicable and very well expressed. &lt;a href="https://twitter.com/luigifcruz/status/1596974943920496640"&gt;twitter.com/luigifcruz/sta…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@IanJohnBuckley @nascom1 @coastal8049 For DSN the go to reference is deepspace.jpl.nasa.gov/dsndocs/810-00… but it's a bit outdated. I noticed they list LDPC decoding as future capability, but they're using it currently for the Orion downlink.</title>
+		<published>2022-11-27T18:51:08+00:00</published>
+		<updated>2022-11-27T18:51:08+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1596939699867725824</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1596939699867725824"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@IanJohnBuckley @nascom1 @coastal8049 For DSN the go to reference is &lt;a href="https://deepspace.jpl.nasa.gov/dsndocs/810-005/"&gt;deepspace.jpl.nasa.gov/dsndocs/810-00…&lt;/a&gt; but it's a bit outdated. I noticed they list LDPC decoding as future capability, but they're using it currently for the Orion downlink.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@IanJohnBuckley @nascom1 @coastal8049 I'm not so familiar with those protocols, but I think they are for use with TDRS. I don't think the DSN can receive those on ground. This seems a good reference public.ccsds.org/Pubs/415x1b1.p…</title>
+		<published>2022-11-27T18:33:48+00:00</published>
+		<updated>2022-11-27T18:33:48+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1596935337829609472</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1596935337829609472"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@IanJohnBuckley @nascom1 @coastal8049 I'm not so familiar with those protocols, but I think they are for use with TDRS. I don't think the DSN can receive those on ground. This seems a good reference &lt;a href="https://public.ccsds.org/Pubs/415x1b1.pdf"&gt;public.ccsds.org/Pubs/415x1b1.p…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@IanJohnBuckley @nascom1 @coastal8049 This brings the question: does the DSN have the capability to drive the PN ranging correlators using the carrier frequency estimate coming from an OQPSK demodulator, or does it need a residual carrier that a simple PLL can track?</title>
+		<published>2022-11-27T08:13:32+00:00</published>
+		<updated>2022-11-27T08:13:32+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1596779239441059840</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1596779239441059840"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@IanJohnBuckley @nascom1 @coastal8049 This brings the question: does the DSN have the capability to drive the PN ranging correlators using the carrier frequency estimate coming from an OQPSK demodulator, or does it need a residual carrier that a simple PLL can track?&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@IanJohnBuckley @nascom1 @coastal8049 For simultaneous GMSK and PN ranging there is this CCSDS Green Book public.ccsds.org/Pubs/413x1g2.p…
+I haven't seen a document describing PN ranging on the Q component, while the I component is left for data.</title>
+		<published>2022-11-27T08:08:00+00:00</published>
+		<updated>2022-11-27T08:08:00+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1596777849973002240</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1596777849973002240"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@IanJohnBuckley @nascom1 @coastal8049 For simultaneous GMSK and PN ranging there is this CCSDS Green Book &lt;a href="https://public.ccsds.org/Pubs/413x1g2.pdf"&gt;public.ccsds.org/Pubs/413x1g2.p…&lt;/a&gt;
+I haven't seen a document describing PN ranging on the Q component, while the I component is left for data.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@IanJohnBuckley @nascom1 @coastal8049 The switch is from 2 Msyms OQPSK for no ranging to residual carrier PM/PCM/NRZ 2 Msyms for ranging. I haven't looked into how they do ranging, but using a residual carrier mode would let them multiplex the data and ranging PN simply by addition.</title>
+		<published>2022-11-27T08:00:32+00:00</published>
+		<updated>2022-11-27T08:00:32+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1596775969989484545</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1596775969989484545"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@IanJohnBuckley @nascom1 @coastal8049 The switch is from 2 Msyms OQPSK for no ranging to residual carrier PM/PCM/NRZ 2 Msyms for ranging. I haven't looked into how they do ranging, but using a residual carrier mode would let them multiplex the data and ranging PN simply by addition.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@MaximusJackus @gnuradio Fair enough. You'll have to believe me, look at the flowgraph in the post and see that it's an OQPSK demodulator (but still believe that the flowgraph corresponds to this screenshot), or download the IQ recording and check by yourself (and believe that the recording is not fake).</title>
+		<published>2022-11-26T17:50:36+00:00</published>
+		<updated>2022-11-26T17:50:36+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1596562075094028291</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1596562075094028291"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@MaximusJackus @gnuradio Fair enough. You'll have to believe me, look at the flowgraph in the post and see that it's an OQPSK demodulator (but still believe that the flowgraph corresponds to this screenshot), or download the IQ recording and check by yourself (and believe that the recording is not fake).&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Awesome tool to learn how ASIC works under the hood! Draw silicon layers in your browser and see what happens. I'm eager to try this out. twitter.com/matthewvenn/st…</title>
@@ -57,526 +557,6 @@
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@F5OEOEvariste @Electrolab_Fr Nice! I wasn't aware that wireshark had a GSE dissector.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@brycly2 @ure_n8 @CO2ESP_Raydel @FCC Can you give a reference for this?</title>
-		<published>2022-11-23T06:26:56+00:00</published>
-		<updated>2022-11-23T06:26:56+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1595302862489280512</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1595302862489280512"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@brycly2 @ure_n8 @CO2ESP_Raydel @FCC Can you give a reference for this?&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@DJCinSB @coastal8049 Thanks! That quickly got me going. I noticed there's a also a DynamicDataDisplay which also looks new to me. pic.twitter.com/0QbTyAacJd</title>
-		<published>2022-11-22T21:50:41+00:00</published>
-		<updated>2022-11-22T21:50:41+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1595172942429753379</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1595172942429753379"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@DJCinSB @coastal8049 Thanks! That quickly got me going. I noticed there's a also a DynamicDataDisplay which also looks new to me. &lt;a href="https://twitter.com/ea4gpz/status/1595172942429753379/photo/1"&gt;pic.twitter.com/0QbTyAacJd&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FiMw5p0XwAAj7c8.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FiMw5p0XwAAj7c8.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FiMw5p0XwAAj7c8.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@coastal8049 @DJCinSB First time I hear about it. Any pointers to where it's located or how it's used?</title>
-		<published>2022-11-22T21:39:43+00:00</published>
-		<updated>2022-11-22T21:39:43+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1595170184230277127</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1595170184230277127"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@coastal8049 @DJCinSB First time I hear about it. Any pointers to where it's located or how it's used?&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@CO2ESP_Raydel @brycly2 @FCC I suggest to look at old versions of the Radio Regulations. This morning I saw it in a version from 2012, so it was already in place then. I haven't done an exhaustive search, and I don't know how many historical versions of the RR can be easily found online.</title>
-		<published>2022-11-22T18:39:21+00:00</published>
-		<updated>2022-11-22T18:39:21+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1595124794705727488</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1595124794705727488"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@CO2ESP_Raydel @brycly2 @FCC I suggest to look at old versions of the Radio Regulations. This morning I saw it in a version from 2012, so it was already in place then. I haven't done an exhaustive search, and I don't know how many historical versions of the RR can be easily found online.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@CO2ESP_Raydel @brycly2 @FCC The fun thing is that Cuba is surely listed in this footnote because at some point Cuba requested it. But I can imagine how these things work with governments.</title>
-		<published>2022-11-22T16:52:48+00:00</published>
-		<updated>2022-11-22T16:52:48+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1595097978238545921</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1595097978238545921"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@CO2ESP_Raydel @brycly2 @FCC The fun thing is that Cuba is surely listed in this footnote because at some point Cuba requested it. But I can imagine how these things work with governments.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@tammojan @gnuradio I think it is. The main lobe of the modulation is about 4 MHz wide, so at least 4 Msps would be needed.</title>
-		<published>2022-11-22T16:50:48+00:00</published>
-		<updated>2022-11-22T16:50:48+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1595097477576888320</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1595097477576888320"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@tammojan @gnuradio I think it is. The main lobe of the modulation is about 4 MHz wide, so at least 4 Msps would be needed.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@brycly2 @CO2ESP_Raydel @FCC I correct myself. 5.278 doesn't date from WRC-19, but much earlier. I have no idea why the ITU RRs and the Cuban reglament seemingly contradict each other.</title>
-		<published>2022-11-22T06:30:07+00:00</published>
-		<updated>2022-11-22T06:30:07+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1594941278076260352</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594941278076260352"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@brycly2 @CO2ESP_Raydel @FCC I correct myself. 5.278 doesn't date from WRC-19, but much earlier. I have no idea why the ITU RRs and the Cuban reglament seemingly contradict each other.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@brycly2 @CO2ESP_Raydel @FCC ITU footnote 5.278 is from WRC-19, while the Cuban regulations you linked are from 2017. So it may be simply that new regulations reflecting the changes at ITU level haven't been published yet. I don't know enough about the rules to tell what takes precedence in this case.</title>
-		<published>2022-11-22T06:24:19+00:00</published>
-		<updated>2022-11-22T06:24:19+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1594939817967890432</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594939817967890432"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@brycly2 @CO2ESP_Raydel @FCC ITU footnote 5.278 is from WRC-19, while the Cuban regulations you linked are from 2017. So it may be simply that new regulations reflecting the changes at ITU level haven't been published yet. I don't know enough about the rules to tell what takes precedence in this case.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Read more: destevez.net/2022/11/decodi…</title>
-		<published>2022-11-21T23:00:48+00:00</published>
-		<updated>2022-11-21T23:00:48+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1594828202735804439</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594828202735804439"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Read more: &lt;a href="https://destevez.net/2022/11/decoding-the-artemis-i-orion-vehicle/"&gt;destevez.net/2022/11/decodi…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Then I look at the contents of the frames. The useful data is encrypted, but still is interesting to look at headers and measure what fraction of the link is occupied with useful data (3/n) pic.twitter.com/pvX5ofnAwl</title>
-		<published>2022-11-21T23:00:47+00:00</published>
-		<updated>2022-11-21T23:00:47+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1594828199871090688</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594828199871090688"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Then I look at the contents of the frames. The useful data is encrypted, but still is interesting to look at headers and measure what fraction of the link is occupied with useful data (3/n) &lt;a href="https://twitter.com/ea4gpz/status/1594828199871090688/photo/1"&gt;pic.twitter.com/pvX5ofnAwl&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FiH3wyPXoAoZQJT.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FiH3wyPXoAoZQJT.png" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FiH3AKyXoAk5_ii.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FiH3AKyXoAk5_ii.png" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FiH3BqTXoBIxyZx.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FiH3BqTXoBIxyZx.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FiH3wyPXoAoZQJT.png?name=orig" type="image/png" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FiH3AKyXoAk5_ii.png?name=orig" type="image/png" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FiH3BqTXoBIxyZx.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">I present a tool to decode CCSDS LDPC frames using the AFF3CT FEC library. I also give some figures about the CPU performance of this decoder. (2/n)</title>
-		<published>2022-11-21T23:00:46+00:00</published>
-		<updated>2022-11-21T23:00:46+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1594828193952923648</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594828193952923648"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;I present a tool to decode CCSDS LDPC frames using the AFF3CT FEC library. I also give some figures about the CPU performance of this decoder. (2/n)&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">New blog post: Decoding the Artemis I Orion vehicle. An analysis of the S-band 2 MBaud OQPSK telemetry signal using some recordings done with the Allen Telescope Array. I show how to demodulate OQPSK with @gnuradio. (1/n) pic.twitter.com/RUl0QVbPwK</title>
-		<published>2022-11-21T23:00:45+00:00</published>
-		<updated>2022-11-21T23:00:45+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1594828190639431680</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594828190639431680"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;New blog post: Decoding the Artemis I Orion vehicle. An analysis of the S-band 2 MBaud OQPSK telemetry signal using some recordings done with the Allen Telescope Array. I show how to demodulate OQPSK with @gnuradio. (1/n) &lt;a href="https://twitter.com/ea4gpz/status/1594828190639431680/photo/1"&gt;pic.twitter.com/RUl0QVbPwK&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FiH3UnAXoCMIUFH.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FiH3UnAXoCMIUFH.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FiH3UnAXoCMIUFH.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">12 objects made lunar flybys this morning, and we haven't heard detailed information on most of their fates.
-
-Allow me to enumerate:</title>
-		<published>2022-11-21T21:24:49+00:00</published>
-		<updated>2022-11-21T21:24:49+00:00</updated>
-		<id>https://twitter.com/planet4589/status/1594804046246051840</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/planet4589/status/1594804046246051840"/>
-		<author><name>RT: Jonathan McDowell (@planet4589)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/planet4589"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="planet4589"
-	src="https://pbs.twimg.com/profile_images/1418798871355002886/K6uHjp90_normal.jpg"
-	title="Jonathan McDowell" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;12 objects made lunar flybys this morning, and we haven't heard detailed information on most of their fates.
-
-Allow me to enumerate:&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@CO2ESP_Raydel @brycly2 @FCC They haven't even bothered to read thoroughly the stuff they're referencing. 5.278 says that the Amateur service is primary in 70cm in Cuba.</title>
-		<published>2022-11-21T06:50:02+00:00</published>
-		<updated>2022-11-21T06:50:02+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1594583899153522688</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594583899153522688"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@CO2ESP_Raydel @brycly2 @FCC They haven't even bothered to read thoroughly the stuff they're referencing. 5.278 says that the Amateur service is primary in 70cm in Cuba.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@brycly2 @CO2ESP_Raydel @FCC You were wrong. "Amateurs have secondary rights" is not the same as "Amateurs have secondary rights on regions 2 &amp;amp; 3 minus 11 countries". You do understand that BlueWalker 3 is also transmitting on 70 cm when operating over region 1, right?</title>
-		<published>2022-11-21T06:35:24+00:00</published>
-		<updated>2022-11-21T06:35:24+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1594580217460391936</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594580217460391936"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@brycly2 @CO2ESP_Raydel @FCC You were wrong. "Amateurs have secondary rights" is not the same as "Amateurs have secondary rights on regions 2 &amp;amp; 3 minus 11 countries". You do understand that BlueWalker 3 is also transmitting on 70 cm when operating over region 1, right?&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@tammojan @DrzalMichal @coastal8049 ...This is more of a small criticism on how NASA seems to have set up this activity, perhaps with too little guidance about the nature of the data to be provided. I see that stations participating in the activity are doing their absolute best to get good and useful data.</title>
-		<published>2022-11-20T22:13:53+00:00</published>
-		<updated>2022-11-20T22:13:53+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1594454005324840963</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594454005324840963"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@tammojan @DrzalMichal @coastal8049 ...This is more of a small criticism on how NASA seems to have set up this activity, perhaps with too little guidance about the nature of the data to be provided. I see that stations participating in the activity are doing their absolute best to get good and useful data.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@tammojan @DrzalMichal @coastal8049 I wonder how NASA is going to make good use of these for navigation, without a knowledge of the integration start and end times used by each station. Also, I'm used to mHz accuracy (mm/s) for deep space stuff. Maybe not so important for near-Earth...</title>
-		<published>2022-11-20T22:12:49+00:00</published>
-		<updated>2022-11-20T22:12:49+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1594453739364024320</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594453739364024320"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@tammojan @DrzalMichal @coastal8049 I wonder how NASA is going to make good use of these for navigation, without a knowledge of the integration start and end times used by each station. Also, I'm used to mHz accuracy (mm/s) for deep space stuff. Maybe not so important for near-Earth...&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ea4hgz @scott23192 Yeah, who knows. Gmail doesn't like my server including a correct DKIM signature, for some reason.</title>
-		<published>2022-11-20T19:03:03+00:00</published>
-		<updated>2022-11-20T19:03:03+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1594405984306401280</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1594405984306401280"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ea4hgz @scott23192 Yeah, who knows. Gmail doesn't like my server including a correct DKIM signature, for some reason.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;

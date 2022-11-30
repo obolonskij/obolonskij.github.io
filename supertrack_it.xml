@@ -5,12 +5,437 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-11-26T06:54:02+00:00</updated>
+	<updated>2022-11-30T04:49:13+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">Another decant signal from Mars Odyssey orbiter, X-Band downlink and its copyable in the speaker! pic.twitter.com/4C2fTHs5Zr</title>
+		<published>2022-11-29T22:22:29+00:00</published>
+		<updated>2022-11-29T22:22:29+00:00</updated>
+		<id>https://twitter.com/uhf_satcom/status/1597717661546332163</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/uhf_satcom/status/1597717661546332163"/>
+		<author><name>RT: UHF Satcom 🇬🇧 📡 📻 (@uhf_satcom)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/uhf_satcom"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="uhf_satcom"
+	src="https://pbs.twimg.com/profile_images/760595767/uhfsatcom_normal.jpg"
+	title="UHF Satcom 🇬🇧 📡 📻" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Another decant signal from Mars Odyssey orbiter, X-Band downlink and its copyable in the speaker! &lt;a href="https://twitter.com/uhf_satcom/status/1597717661546332163/photo/1"&gt;pic.twitter.com/4C2fTHs5Zr&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fiw7qZ6XoAAlK94.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Fiw7qZ6XoAAlK94.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/Fiw7qZ6XoAAlK94.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Sota :-) twitter.com/VE3WZW/status/…</title>
+		<published>2022-11-29T06:12:56+00:00</published>
+		<updated>2022-11-29T06:12:56+00:00</updated>
+		<id>https://twitter.com/aborgnino/status/1597473667927400449</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/aborgnino/status/1597473667927400449"/>
+		<author><name>RT: Andrea Borgnino IW0HK (@aborgnino)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/aborgnino"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="aborgnino"
+	src="https://pbs.twimg.com/profile_images/648459834648592384/XYkMIPm9_normal.jpg"
+	title="Andrea Borgnino IW0HK" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Sota :-) &lt;a href="https://twitter.com/VE3WZW/status/1597389821588410369"&gt;twitter.com/VE3WZW/status/…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Releasing SatDump 1.0.2.
+It's mainly bugfixes, but it also includes some AVHRR improvements by @ZSztanga and (initial) USRP support thanks to @sylvain_azarian lending me the hardware.
+
+github.com/altillimity/Sa…</title>
+		<published>2022-11-27T18:14:18+00:00</published>
+		<updated>2022-11-27T18:14:18+00:00</updated>
+		<id>https://twitter.com/aang254/status/1596930427947692032</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/aang254/status/1596930427947692032"/>
+		<author><name>RT: Aang254 (@aang254)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/aang254"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="aang254"
+	src="https://pbs.twimg.com/profile_images/1285331976405352448/nGEXZNuC_normal.png"
+	title="Aang254" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Releasing SatDump 1.0.2.
+It's mainly bugfixes, but it also includes some AVHRR improvements by @ZSztanga and (initial) USRP support thanks to @sylvain_azarian lending me the hardware.
+
+&lt;a href="https://github.com/altillimity/SatDump/releases/tag/1.0.2"&gt;github.com/altillimity/Sa…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">#ArgoMoon of the #Artemis1 #CubeSats is well placed for X-band observation this night.
+2022-11-27T04:08:00, R:02h33m58s, D:+18°01'58" pic.twitter.com/WDEbTmMSuW</title>
+		<published>2022-11-27T04:21:41+00:00</published>
+		<updated>2022-11-27T04:21:41+00:00</updated>
+		<id>https://twitter.com/coastal8049/status/1596720895728717826</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/coastal8049/status/1596720895728717826"/>
+		<author><name>RT: Scott Tilley (@coastal8049@mastodon.social) 🇺🇦 (@coastal8049)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/coastal8049"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="coastal8049"
+	src="https://pbs.twimg.com/profile_images/1571958771060215808/LYThoGMk_normal.jpg"
+	title="Scott Tilley (@coastal8049@mastodon.social) 🇺🇦" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;#ArgoMoon of the #Artemis1 #CubeSats is well placed for X-band observation this night.
+2022-11-27T04:08:00, R:02h33m58s, D:+18°01'58" &lt;a href="https://twitter.com/coastal8049/status/1596720895728717826/video/1"&gt;pic.twitter.com/WDEbTmMSuW&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://twitter.com/coastal8049/status/1596720895728717826/video/1"&gt;Video&lt;/a&gt;
+&lt;video
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://video.twimg.com/ext_tw_video/1596720553968414720/pu/vid/1342x720/5XWEeYj65TGLd3xe.mp4?tag=12" poster="https://pbs.twimg.com/ext_tw_video_thumb/1596720553968414720/pu/img/9EZGGeK7XoqpfEON.jpg" /&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://video.twimg.com/ext_tw_video/1596720553968414720/pu/vid/1342x720/5XWEeYj65TGLd3xe.mp4?tag=12" type="video/mp4" />
+<link rel="enclosure" href="https://pbs.twimg.com/ext_tw_video_thumb/1596720553968414720/pu/img/9EZGGeK7XoqpfEON.jpg" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@ve7wnk @uhf_satcom You are right</title>
+		<published>2022-11-26T17:59:18+00:00</published>
+		<updated>2022-11-26T17:59:18+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1596564264873230336</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1596564264873230336"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ve7wnk @uhf_satcom You are right&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@RedLiberty4 240cm prime focus dish</title>
+		<published>2022-11-26T17:20:30+00:00</published>
+		<updated>2022-11-26T17:20:30+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1596554501183442945</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1596554501183442945"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@RedLiberty4 240cm prime focus dish&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dh2va @uhf_satcom probably 1024 bits</title>
+		<published>2022-11-26T16:08:10+00:00</published>
+		<updated>2022-11-26T16:08:10+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1596536298310975488</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1596536298310975488"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dh2va @uhf_satcom probably 1024 bits&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">#Artemis1 on 2216.497 MHz passing south from my location, elevation 17° pic.twitter.com/4BztFLIyLy</title>
+		<published>2022-11-26T14:40:30+00:00</published>
+		<updated>2022-11-26T14:40:30+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1596514236045279232</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1596514236045279232"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;#Artemis1 on 2216.497 MHz passing south from my location, elevation 17° &lt;a href="https://twitter.com/supertrack_it/status/1596514236045279232/photo/1"&gt;pic.twitter.com/4BztFLIyLy&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fif1FO_XgAIWiO7.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Fif1FO_XgAIWiO7.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/Fif1FO_XgAIWiO7.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@uhf_satcom Thanks and it should be working as well as the Apple IIe</title>
+		<published>2022-11-26T14:17:31+00:00</published>
+		<updated>2022-11-26T14:17:31+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1596508452481810433</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1596508452481810433"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@uhf_satcom Thanks and it should be working as well as the Apple IIe&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@uhf_satcom My first notebook, Olivetti M211V pic.twitter.com/RcHr9Er4FO</title>
+		<published>2022-11-26T13:59:35+00:00</published>
+		<updated>2022-11-26T13:59:35+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1596503940249575424</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1596503940249575424"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@uhf_satcom My first notebook, Olivetti M211V &lt;a href="https://twitter.com/supertrack_it/status/1596503940249575424/photo/1"&gt;pic.twitter.com/RcHr9Er4FO&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fifr3dVXwAUumzP.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Fifr3dVXwAUumzP.jpg" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/Fifr3daXoAIAK7c.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Fifr3daXoAIAK7c.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/Fifr3dVXwAUumzP.jpg?name=orig" type="image/jpeg" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/Fifr3daXoAIAK7c.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@uhf_satcom and here the oldest, a supposed 1024kb magnetic core memory pic.twitter.com/AR8kEWusuD</title>
+		<published>2022-11-26T13:47:59+00:00</published>
+		<updated>2022-11-26T13:47:59+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1596501021869879297</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1596501021869879297"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@uhf_satcom and here the oldest, a supposed 1024kb magnetic core memory &lt;a href="https://twitter.com/supertrack_it/status/1596501021869879297/photo/1"&gt;pic.twitter.com/AR8kEWusuD&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FifpNi9XoAA7PK3.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FifpNi9XoAA7PK3.jpg" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FifpNirWAAAIvxj.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FifpNirWAAAIvxj.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FifpNi9XoAA7PK3.jpg?name=orig" type="image/jpeg" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FifpNirWAAAIvxj.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@uhf_satcom 8” floppy disk from Olivetti DE700 data entry work station pic.twitter.com/Q51KVxfOiV</title>
+		<published>2022-11-26T13:45:13+00:00</published>
+		<updated>2022-11-26T13:45:13+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1596500325996830721</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1596500325996830721"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@uhf_satcom 8” floppy disk from Olivetti DE700 data entry work station &lt;a href="https://twitter.com/supertrack_it/status/1596500325996830721/photo/1"&gt;pic.twitter.com/Q51KVxfOiV&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FifolQ2WYAQ-J60.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FifolQ2WYAQ-J60.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FifolQ2WYAQ-J60.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@uhf_satcom Here some of my computer museum (!) most of them coming from Apple IIe pic.twitter.com/prydI6fR9A</title>
+		<published>2022-11-26T13:43:48+00:00</published>
+		<updated>2022-11-26T13:43:48+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1596499965920280577</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1596499965920280577"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@uhf_satcom Here some of my computer museum (!) most of them coming from Apple IIe &lt;a href="https://twitter.com/supertrack_it/status/1596499965920280577/photo/1"&gt;pic.twitter.com/prydI6fR9A&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FifoQADXkAM7tFP.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FifoQADXkAM7tFP.jpg" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FifoQACWAAA_6zI.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FifoQACWAAA_6zI.jpg" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FifoQAEXEAI5kr1.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FifoQAEXEAI5kr1.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FifoQADXkAM7tFP.jpg?name=orig" type="image/jpeg" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FifoQACWAAA_6zI.jpg?name=orig" type="image/jpeg" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FifoQAEXEAI5kr1.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Drama during this morning's Artemis-1/Orion observation period - but NO IDEA if planned activity or anomaly.   Normal ~10 min transition between DSN sites took almost an hour; see images for timeline.  Also-&amp;gt;  twitter.com/NASAArtemis/st… pic.twitter.com/4GJlZaFfjN</title>
@@ -261,429 +686,6 @@ Nice
 &lt;/div&gt;</content>
 		<link rel="enclosure" href="https://pbs.twimg.com/media/FiE14TLWQAAI1-D.jpg?name=orig" type="image/jpeg" />
 
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@Rebecca21951651 Checked many times but no joy</title>
-		<published>2022-11-20T16:10:39+00:00</published>
-		<updated>2022-11-20T16:10:39+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1594362596530044928</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1594362596530044928"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@Rebecca21951651 Checked many times but no joy&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">#Artemis1 cubesat LunarH-Map on 8451.692 MHz pic.twitter.com/10vbdVNEga</title>
-		<published>2022-11-20T09:53:35+00:00</published>
-		<updated>2022-11-20T09:53:35+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1594267703010893824</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1594267703010893824"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;#Artemis1 cubesat LunarH-Map on 8451.692 MHz &lt;a href="https://twitter.com/supertrack_it/status/1594267703010893824/photo/1"&gt;pic.twitter.com/10vbdVNEga&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fh_5_pCXwAMqKm6.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fh_5_pCXwAMqKm6.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/Fh_5_pCXwAMqKm6.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@on4aol Hi Luc, as you can see from the fresh plot I still have doppler with main carrier of Argomoon. The probe is in coherent mode with the ground station. More info here solarsystem.nasa.gov/basics/chapter… and here solarsystem.nasa.gov/basics/chapter… pic.twitter.com/VunxmSZGpp</title>
-		<published>2022-11-20T09:16:36+00:00</published>
-		<updated>2022-11-20T09:16:36+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1594258397133950976</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1594258397133950976"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@on4aol Hi Luc, as you can see from the fresh plot I still have doppler with main carrier of Argomoon. The probe is in coherent mode with the ground station. More info here &lt;a href="https://solarsystem.nasa.gov/basics/chapter10-1/#pll"&gt;solarsystem.nasa.gov/basics/chapter…&lt;/a&gt; and here &lt;a href="https://solarsystem.nasa.gov/basics/chapter10-1/#coherence"&gt;solarsystem.nasa.gov/basics/chapter…&lt;/a&gt; &lt;a href="https://twitter.com/supertrack_it/status/1594258397133950976/photo/1"&gt;pic.twitter.com/VunxmSZGpp&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fh_xa-VX0AACohq.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fh_xa-VX0AACohq.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/Fh_xa-VX0AACohq.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Excellent signal from #Artemis1 cubesat #ArgoMoon   on 8474.995 MHz chatting with Madrid DSN pic.twitter.com/rwAHS369YB</title>
-		<published>2022-11-20T08:42:24+00:00</published>
-		<updated>2022-11-20T08:42:24+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1594249791491702786</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1594249791491702786"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Excellent signal from #Artemis1 cubesat #ArgoMoon   on 8474.995 MHz chatting with Madrid DSN &lt;a href="https://twitter.com/supertrack_it/status/1594249791491702786/photo/1"&gt;pic.twitter.com/rwAHS369YB&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fh_pPZEXkAYjeo3.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fh_pPZEXkAYjeo3.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/Fh_pPZEXkAYjeo3.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">#Artemis1 cubesat BioSentinel  on 8409.568 MHz while locking to Madrid DSN. Good signal with nice sidebands at +/-48 kHz pic.twitter.com/jhKJDHxgPJ</title>
-		<published>2022-11-20T08:38:14+00:00</published>
-		<updated>2022-11-20T08:38:14+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1594248743750074370</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1594248743750074370"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;#Artemis1 cubesat BioSentinel  on 8409.568 MHz while locking to Madrid DSN. Good signal with nice sidebands at +/-48 kHz &lt;a href="https://twitter.com/supertrack_it/status/1594248743750074370/photo/1"&gt;pic.twitter.com/jhKJDHxgPJ&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fh_oUNWXEAA7JcA.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fh_oUNWXEAA7JcA.jpg" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/Fh_otdrWYAAidC8.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fh_otdrWYAAidC8.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/Fh_oUNWXEAA7JcA.jpg?name=orig" type="image/jpeg" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/Fh_otdrWYAAidC8.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">#Artemis1 cubesat #EQUULEUS  on 8443.516 MHz pic.twitter.com/qEUSvin7wg</title>
-		<published>2022-11-20T08:32:19+00:00</published>
-		<updated>2022-11-20T08:32:19+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1594247254101008385</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1594247254101008385"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;#Artemis1 cubesat #EQUULEUS  on 8443.516 MHz &lt;a href="https://twitter.com/supertrack_it/status/1594247254101008385/photo/1"&gt;pic.twitter.com/qEUSvin7wg&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fh_nWkkXgAAJDuU.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fh_nWkkXgAAJDuU.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/Fh_nWkkXgAAJDuU.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">We are alive and well and, among other things, we take pictures of the Earth and the Moon 😎
-Do you like them? #ArgoMoon 
-argotecgroup.com/artemis-1-argo…
-#Artemis #Artemis1 #NASA pic.twitter.com/ABg7KD435J</title>
-		<published>2022-11-19T12:00:16+00:00</published>
-		<updated>2022-11-19T12:00:16+00:00</updated>
-		<id>https://twitter.com/Argotec_Space/status/1593937195592818688</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/Argotec_Space/status/1593937195592818688"/>
-		<author><name>RT: Argotec (@Argotec_Space)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/Argotec_Space"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="Argotec_Space"
-	src="https://pbs.twimg.com/profile_images/1499394870737203204/6_4OuRqY_normal.jpg"
-	title="Argotec" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;We are alive and well and, among other things, we take pictures of the Earth and the Moon 😎
-Do you like them? #ArgoMoon 
-&lt;a href="https://www.argotecgroup.com/artemis-1-argomoon-captured-photos-of-the-earth-and-moon/"&gt;argotecgroup.com/artemis-1-argo…&lt;/a&gt;
-#Artemis #Artemis1 #NASA &lt;a href="https://twitter.com/Argotec_Space/status/1593937195592818688/photo/1"&gt;pic.twitter.com/ABg7KD435J&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fh7NbgVWYAEhVxk.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fh7NbgVWYAEhVxk.jpg" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/Fh7Nbr7XEAI_1Ck.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fh7Nbr7XEAI_1Ck.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/Fh7NbgVWYAEhVxk.jpg?name=orig" type="image/jpeg" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/Fh7Nbr7XEAI_1Ck.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@coastal8049 Thanks Scott :-)</title>
-		<published>2022-11-19T09:30:41+00:00</published>
-		<updated>2022-11-19T09:30:41+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1593899553492799488</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1593899553492799488"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@coastal8049 Thanks Scott :-)&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@coastal8049 never saw NEA Scout and sorry Scott but no S band at present. I'll check all cubesat in x-band</title>
-		<published>2022-11-19T09:17:00+00:00</published>
-		<updated>2022-11-19T09:17:00+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1593896108366839808</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1593896108366839808"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@coastal8049 never saw NEA Scout and sorry Scott but no S band at present. I'll check all cubesat in x-band&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Equuleus on 8443.506 MHz pic.twitter.com/nxy6QerV22</title>
-		<published>2022-11-19T08:33:21+00:00</published>
-		<updated>2022-11-19T08:33:21+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1593885126794043394</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1593885126794043394"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Equuleus on 8443.506 MHz &lt;a href="https://twitter.com/supertrack_it/status/1593885126794043394/photo/1"&gt;pic.twitter.com/nxy6QerV22&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fh6eDaqXwAAvyJ8.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fh6eDaqXwAAvyJ8.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/Fh6eDaqXwAAvyJ8.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">ArgoMoon on 8475.012 MHz just unlocked from Madrid DSN @Argotec_Space pic.twitter.com/kv9obvIucA</title>
-		<published>2022-11-19T07:39:54+00:00</published>
-		<updated>2022-11-19T07:39:54+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1593871674386128902</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1593871674386128902"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;ArgoMoon on 8475.012 MHz just unlocked from Madrid DSN @Argotec_Space &lt;a href="https://twitter.com/supertrack_it/status/1593871674386128902/photo/1"&gt;pic.twitter.com/kv9obvIucA&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fh6RzJ1XkAAOC2F.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fh6RzJ1XkAAOC2F.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/Fh6RzJ1XkAAOC2F.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Great signal from #ArgoMoon on 8474.992 MHz now at more than 341000 km from Earth  while chatting with Madrid DSN.  Congratulations @Argotec_Space pic.twitter.com/oFyd2tff6d</title>
-		<published>2022-11-19T07:21:50+00:00</published>
-		<updated>2022-11-19T07:21:50+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1593867125772410883</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1593867125772410883"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Great signal from #ArgoMoon on 8474.992 MHz now at more than 341000 km from Earth  while chatting with Madrid DSN.  Congratulations @Argotec_Space &lt;a href="https://twitter.com/supertrack_it/status/1593867125772410883/photo/1"&gt;pic.twitter.com/oFyd2tff6d&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fh6NhV0WIAIifOl.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fh6NhV0WIAIifOl.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/Fh6NhV0WIAIifOl.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@Jonatha74268164 Just a screenshot</title>
-		<published>2022-11-18T12:15:04+00:00</published>
-		<updated>2022-11-18T12:15:04+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1593578535914016771</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1593578535914016771"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@Jonatha74268164 Just a screenshot&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
 		
 		
 	</entry>
