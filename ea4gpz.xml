@@ -5,12 +5,255 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-11-30T04:49:12+00:00</updated>
+	<updated>2022-12-02T19:20:14+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">Great question. I'm not following the development of HAS closely, so I don't know to which extent it is currently operational. twitter.com/GalileoSats/st…</title>
+		<published>2022-12-02T17:44:12+00:00</published>
+		<updated>2022-12-02T17:44:12+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1598734794598232065</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1598734794598232065"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Great question. I'm not following the development of HAS closely, so I don't know to which extent it is currently operational. &lt;a href="https://twitter.com/GalileoSats/status/1598630687007031298"&gt;twitter.com/GalileoSats/st…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@wtgowers Reminds me of the stuff that students sometimes write in exams when they have no idea of how to prove something. But in an over the top fashion.</title>
+		<published>2022-12-02T17:40:05+00:00</published>
+		<updated>2022-12-02T17:40:05+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1598733757279719424</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1598733757279719424"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@wtgowers Reminds me of the stuff that students sometimes write in exams when they have no idea of how to prove something. But in an over the top fashion.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@nascom1 Interesting! What inputs do you have from or give to the project for navigation regarding the smooth curve? I'm used to the ramp tables for piecewise linear frequency.</title>
+		<published>2022-12-02T13:16:36+00:00</published>
+		<updated>2022-12-02T13:16:36+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1598667451188891648</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1598667451188891648"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@nascom1 Interesting! What inputs do you have from or give to the project for navigation regarding the smooth curve? I'm used to the ramp tables for piecewise linear frequency.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@nascom1 Is this a smooth curve, or just a large number of straight segments as usual?</title>
+		<published>2022-12-02T06:48:50+00:00</published>
+		<updated>2022-12-02T06:48:50+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1598569865643786240</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1598569865643786240"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@nascom1 Is this a smooth curve, or just a large number of straight segments as usual?&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@nascom1 @coastal8049 Hi Richard, can you share the ranging clock frequency that they use for PN ranging? Is it with the T2B code? I haven't seen the typical tones created by the ranging clock, but I haven't tried very hard to look for them.</title>
+		<published>2022-12-02T06:45:17+00:00</published>
+		<updated>2022-12-02T06:45:17+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1598568970218528769</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1598568970218528769"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@nascom1 @coastal8049 Hi Richard, can you share the ranging clock frequency that they use for PN ranging? Is it with the T2B code? I haven't seen the typical tones created by the ranging clock, but I haven't tried very hard to look for them.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@cristi_vicas What is SOTA?</title>
+		<published>2022-12-01T07:49:25+00:00</published>
+		<updated>2022-12-01T07:49:25+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1598222721766555649</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1598222721766555649"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@cristi_vicas What is SOTA?&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Very interesting to read people takes on this. It makes me wonder to what extent the incentive models in academia are broken. But they make very valid points, since the models aren't going to change immediately. twitter.com/stephtdouglas/…</title>
+		<published>2022-12-01T06:55:04+00:00</published>
+		<updated>2022-12-01T06:55:04+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1598209043952472065</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1598209043952472065"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Very interesting to read people takes on this. It makes me wonder to what extent the incentive models in academia are broken. But they make very valid points, since the models aren't going to change immediately. &lt;a href="https://twitter.com/stephtdouglas/status/1598043676818608128"&gt;twitter.com/stephtdouglas/…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@k9eq @ka9q @nascom1 @IanJohnBuckley @coastal8049 For this to work you would need scientists to publish all their code so that anyone can reproduce the results starting from level 1 data. The spacecraft adding authentication doesn't bring value. We could fetch the data again from NASA or whatever, which is trusted in this model.</title>
+		<published>2022-12-01T06:27:13+00:00</published>
+		<updated>2022-12-01T06:27:13+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1598202036159320064</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1598202036159320064"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@k9eq @ka9q @nascom1 @IanJohnBuckley @coastal8049 For this to work you would need scientists to publish all their code so that anyone can reproduce the results starting from level 1 data. The spacecraft adding authentication doesn't bring value. We could fetch the data again from NASA or whatever, which is trusted in this model.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@k9eq @ka9q @nascom1 @IanJohnBuckley @coastal8049 Playing devil's advocate here: how would authentication prove that the data isn't fake? Who creates fake data in your threat model?</title>
+		<published>2022-11-30T06:47:59+00:00</published>
+		<updated>2022-11-30T06:47:59+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1597844875755413505</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1597844875755413505"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@k9eq @ka9q @nascom1 @IanJohnBuckley @coastal8049 Playing devil's advocate here: how would authentication prove that the data isn't fake? Who creates fake data in your threat model?&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@devnulling @gnuradio @GhostOP14 @Ghostop141 Yes, he did. But here I wanted to put something together quickly to postprocess some files. Mike's correlator runs in real time from network data.</title>
@@ -312,251 +555,6 @@
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@ibelings @eb3frn That's very interesting. Keep us updated on your findings. I've never understood properly how all the ordinary vs extraordinary ionosphere polarization thing works. I was impressed by a talk in RSGB convention this year where they looked at polarization in 6m Es.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">This. I imagine Luigi might have some particular case in mind with this criticism. I don't know the particular case, but I'm retweeting because this is broadly applicable and very well expressed. twitter.com/luigifcruz/sta…</title>
-		<published>2022-11-27T21:27:01+00:00</published>
-		<updated>2022-11-27T21:27:01+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1596978925804322817</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1596978925804322817"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;This. I imagine Luigi might have some particular case in mind with this criticism. I don't know the particular case, but I'm retweeting because this is broadly applicable and very well expressed. &lt;a href="https://twitter.com/luigifcruz/status/1596974943920496640"&gt;twitter.com/luigifcruz/sta…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@IanJohnBuckley @nascom1 @coastal8049 For DSN the go to reference is deepspace.jpl.nasa.gov/dsndocs/810-00… but it's a bit outdated. I noticed they list LDPC decoding as future capability, but they're using it currently for the Orion downlink.</title>
-		<published>2022-11-27T18:51:08+00:00</published>
-		<updated>2022-11-27T18:51:08+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1596939699867725824</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1596939699867725824"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@IanJohnBuckley @nascom1 @coastal8049 For DSN the go to reference is &lt;a href="https://deepspace.jpl.nasa.gov/dsndocs/810-005/"&gt;deepspace.jpl.nasa.gov/dsndocs/810-00…&lt;/a&gt; but it's a bit outdated. I noticed they list LDPC decoding as future capability, but they're using it currently for the Orion downlink.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@IanJohnBuckley @nascom1 @coastal8049 I'm not so familiar with those protocols, but I think they are for use with TDRS. I don't think the DSN can receive those on ground. This seems a good reference public.ccsds.org/Pubs/415x1b1.p…</title>
-		<published>2022-11-27T18:33:48+00:00</published>
-		<updated>2022-11-27T18:33:48+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1596935337829609472</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1596935337829609472"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@IanJohnBuckley @nascom1 @coastal8049 I'm not so familiar with those protocols, but I think they are for use with TDRS. I don't think the DSN can receive those on ground. This seems a good reference &lt;a href="https://public.ccsds.org/Pubs/415x1b1.pdf"&gt;public.ccsds.org/Pubs/415x1b1.p…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@IanJohnBuckley @nascom1 @coastal8049 This brings the question: does the DSN have the capability to drive the PN ranging correlators using the carrier frequency estimate coming from an OQPSK demodulator, or does it need a residual carrier that a simple PLL can track?</title>
-		<published>2022-11-27T08:13:32+00:00</published>
-		<updated>2022-11-27T08:13:32+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1596779239441059840</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1596779239441059840"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@IanJohnBuckley @nascom1 @coastal8049 This brings the question: does the DSN have the capability to drive the PN ranging correlators using the carrier frequency estimate coming from an OQPSK demodulator, or does it need a residual carrier that a simple PLL can track?&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@IanJohnBuckley @nascom1 @coastal8049 For simultaneous GMSK and PN ranging there is this CCSDS Green Book public.ccsds.org/Pubs/413x1g2.p…
-I haven't seen a document describing PN ranging on the Q component, while the I component is left for data.</title>
-		<published>2022-11-27T08:08:00+00:00</published>
-		<updated>2022-11-27T08:08:00+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1596777849973002240</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1596777849973002240"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@IanJohnBuckley @nascom1 @coastal8049 For simultaneous GMSK and PN ranging there is this CCSDS Green Book &lt;a href="https://public.ccsds.org/Pubs/413x1g2.pdf"&gt;public.ccsds.org/Pubs/413x1g2.p…&lt;/a&gt;
-I haven't seen a document describing PN ranging on the Q component, while the I component is left for data.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@IanJohnBuckley @nascom1 @coastal8049 The switch is from 2 Msyms OQPSK for no ranging to residual carrier PM/PCM/NRZ 2 Msyms for ranging. I haven't looked into how they do ranging, but using a residual carrier mode would let them multiplex the data and ranging PN simply by addition.</title>
-		<published>2022-11-27T08:00:32+00:00</published>
-		<updated>2022-11-27T08:00:32+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1596775969989484545</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1596775969989484545"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@IanJohnBuckley @nascom1 @coastal8049 The switch is from 2 Msyms OQPSK for no ranging to residual carrier PM/PCM/NRZ 2 Msyms for ranging. I haven't looked into how they do ranging, but using a residual carrier mode would let them multiplex the data and ranging PN simply by addition.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@MaximusJackus @gnuradio Fair enough. You'll have to believe me, look at the flowgraph in the post and see that it's an OQPSK demodulator (but still believe that the flowgraph corresponds to this screenshot), or download the IQ recording and check by yourself (and believe that the recording is not fake).</title>
-		<published>2022-11-26T17:50:36+00:00</published>
-		<updated>2022-11-26T17:50:36+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1596562075094028291</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1596562075094028291"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@MaximusJackus @gnuradio Fair enough. You'll have to believe me, look at the flowgraph in the post and see that it's an OQPSK demodulator (but still believe that the flowgraph corresponds to this screenshot), or download the IQ recording and check by yourself (and believe that the recording is not fake).&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Awesome tool to learn how ASIC works under the hood! Draw silicon layers in your browser and see what happens. I'm eager to try this out. twitter.com/matthewvenn/st…</title>
-		<published>2022-11-25T23:08:35+00:00</published>
-		<updated>2022-11-25T23:08:35+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1596279710857715714</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1596279710857715714"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Awesome tool to learn how ASIC works under the hood! Draw silicon layers in your browser and see what happens. I'm eager to try this out. &lt;a href="https://twitter.com/matthewvenn/status/1596088895573204994"&gt;twitter.com/matthewvenn/st…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@F5OEOEvariste @Electrolab_Fr Nice! I wasn't aware that wireshark had a GSE dissector.</title>
-		<published>2022-11-24T12:27:24+00:00</published>
-		<updated>2022-11-24T12:27:24+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1595755964812099586</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1595755964812099586"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@F5OEOEvariste @Electrolab_Fr Nice! I wasn't aware that wireshark had a GSE dissector.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
