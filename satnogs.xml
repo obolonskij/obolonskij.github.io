@@ -5,12 +5,76 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-12-02T19:20:15+00:00</updated>
+	<updated>2022-12-05T06:39:08+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">The latest @SpaceTrackOrg orbital elements of BEESAT-6 have a B* drag term of 15.1 instead of the typical values of 0.0001! This is nonphysically high and likely a typo or caused by a bug. It threw of scheduling on the @SatNOGS network. Elements for the other BEESATs are okay. pic.twitter.com/WM2e3IqtdG</title>
+		<published>2022-12-03T15:22:20+00:00</published>
+		<updated>2022-12-03T15:22:20+00:00</updated>
+		<id>https://twitter.com/cgbassa/status/1599061478249619456</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/cgbassa/status/1599061478249619456"/>
+		<author><name>RT: Cees Bassa (@cgbassa)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/cgbassa"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="cgbassa"
+	src="https://pbs.twimg.com/profile_images/1759350576/avatar_normal.png"
+	title="Cees Bassa" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The latest @SpaceTrackOrg orbital elements of BEESAT-6 have a B* drag term of 15.1 instead of the typical values of 0.0001! This is nonphysically high and likely a typo or caused by a bug. It threw of scheduling on the @SatNOGS network. Elements for the other BEESATs are okay. &lt;a href="https://twitter.com/cgbassa/status/1599061478249619456/photo/1"&gt;pic.twitter.com/WM2e3IqtdG&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FjEBuOCXwAA4h1x.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FjEBuOCXwAA4h1x.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FjEBuOCXwAA4h1x.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">We have been informed that the satellites are transmitting at 437.375 MHz.
+
+We have updated both SatNOGS DB and Network to follow this frequency. twitter.com/SatNOGS/status…</title>
+		<published>2022-12-03T10:45:44+00:00</published>
+		<updated>2022-12-03T10:45:44+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1598991869270261762</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1598991869270261762"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;We have been informed that the satellites are transmitting at 437.375 MHz.
+
+We have updated both SatNOGS DB and Network to follow this frequency. &lt;a href="https://twitter.com/SatNOGS/status/1598706483973193728"&gt;twitter.com/SatNOGS/status…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">📌With over 400 observations scheduled for the first 48 hours, @SatNOGS 📡 is ready to track #PearlAfricaSat1 #TAKA #ZIMSAT1🛰️ deployed from the @Space_Station.
@@ -611,78 +675,6 @@ Observation:
 &lt;a href="https://network.satnogs.org/observations/6553795/"&gt;network.satnogs.org/observations/6…&lt;/a&gt;
 
 Ground Station livestream: &lt;a href="https://www.youtube.com/watch?v=CQ62TD_Q4Mc"&gt;youtube.com/watch?v=CQ62TD…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">QUBIK 4 and QUBIK 3 are alive!
-
-Received by "2623 - vk2pet western Aust" station.
-
-More details and updates as well as TLE sets for @Firefly_Space mission satellites can be found in:
-
- community.libre.space/t/firefly-alph… pic.twitter.com/UfIY4M4a3N</title>
-		<published>2022-10-01T09:31:20+00:00</published>
-		<updated>2022-10-01T09:31:20+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1576142711207362560</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1576142711207362560"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;QUBIK 4 and QUBIK 3 are alive!
-
-Received by "2623 - vk2pet western Aust" station.
-
-More details and updates as well as TLE sets for @Firefly_Space mission satellites can be found in:
-
- &lt;a href="https://community.libre.space/t/firefly-alpha-launch-to-the-black-2022-10-01-07-01-utc/9596/"&gt;community.libre.space/t/firefly-alph…&lt;/a&gt; &lt;a href="https://twitter.com/SatNOGS/status/1576142711207362560/photo/1"&gt;pic.twitter.com/UfIY4M4a3N&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fd-VBtMXoAE0y5y.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fd-VBtMXoAE0y5y.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/Fd-VBtMXoAE0y5y.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@Nextlaunch @Firefly_Space Preliminary TLE sets can be found in community.libre.space/t/firefly-alph…</title>
-		<published>2022-10-01T08:57:32+00:00</published>
-		<updated>2022-10-01T08:57:32+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1576134206878531584</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1576134206878531584"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@Nextlaunch @Firefly_Space Preliminary TLE sets can be found in &lt;a href="https://community.libre.space/t/firefly-alpha-launch-to-the-black-2022-10-01-07-01-utc/9596/39"&gt;community.libre.space/t/firefly-alph…&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;

@@ -5,12 +5,192 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-12-02T19:20:14+00:00</updated>
+	<updated>2022-12-05T06:39:07+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">Read more: destevez.net/2022/12/artemi… (3/3)</title>
+		<published>2022-12-04T21:39:44+00:00</published>
+		<updated>2022-12-04T21:39:44+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1599518841725366273</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1599518841725366273"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Read more: &lt;a href="https://destevez.net/2022/12/artemis-i-orion-recordings-published/"&gt;destevez.net/2022/12/artemi…&lt;/a&gt; (3/3)&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">I also show some waterfalls to assess the quality of the recordings. By using constant coefficients instead of my auto-polarization @gnuradio block, I have significantly reduced the number of lost frames. All the decoded frames (876 MB of data in total) are also in Zenodo. (2/3) pic.twitter.com/0Eggeiv40B</title>
+		<published>2022-12-04T21:39:43+00:00</published>
+		<updated>2022-12-04T21:39:43+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1599518838865170433</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1599518838865170433"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;I also show some waterfalls to assess the quality of the recordings. By using constant coefficients instead of my auto-polarization @gnuradio block, I have significantly reduced the number of lost frames. All the decoded frames (876 MB of data in total) are also in Zenodo. (2/3) &lt;a href="https://twitter.com/ea4gpz/status/1599518838865170433/photo/1"&gt;pic.twitter.com/0Eggeiv40B&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FjKhUeHWQAEMEzM.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FjKhUeHWQAEMEzM.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FjKhUeHWQAEMEzM.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">New blog post: Artemis I Orion recordings published. I have published in @ZENODO_ORG some Allen Telescope Array recordings of the Orion S-band signal done on the launch day. I show how to measure and synthesize the signal polarization (1/3). pic.twitter.com/n3occMjWME</title>
+		<published>2022-12-04T21:39:42+00:00</published>
+		<updated>2022-12-04T21:39:42+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1599518835492544512</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1599518835492544512"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;New blog post: Artemis I Orion recordings published. I have published in @ZENODO_ORG some Allen Telescope Array recordings of the Orion S-band signal done on the launch day. I show how to measure and synthesize the signal polarization (1/3). &lt;a href="https://twitter.com/ea4gpz/status/1599518835492544512/photo/1"&gt;pic.twitter.com/n3occMjWME&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FjKhLAMWYAMekHR.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FjKhLAMWYAMekHR.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FjKhLAMWYAMekHR.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@df2mz @nascom1 My understanding is that piecewise linear ramps simplify the navigation calculations. Sections 13.3.2.2.2 and 13.3.2.2.3 in Moyer are a good read: descanso.jpl.nasa.gov/monograph/seri…</title>
+		<published>2022-12-03T17:11:31+00:00</published>
+		<updated>2022-12-03T17:11:31+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1599088954644447232</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1599088954644447232"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@df2mz @nascom1 My understanding is that piecewise linear ramps simplify the navigation calculations. Sections 13.3.2.2.2 and 13.3.2.2.3 in Moyer are a good read: &lt;a href="https://descanso.jpl.nasa.gov/monograph/series2/Descanso2_S13.pdf"&gt;descanso.jpl.nasa.gov/monograph/seri…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@ka9q @nascom1 @coastal8049 I'm glad you asked. I know the perfect reference that has all the plots and formulas you want to know. Take a look at Section 2.5.2 in deepspace.jpl.nasa.gov/dsndocs/810-00… It has goodies like this plot. The CCSDS Green book is also excellent because it has more details public.ccsds.org/Pubs/414x0g2.p… pic.twitter.com/HnUshe8tB5</title>
+		<published>2022-12-02T20:59:18+00:00</published>
+		<updated>2022-12-02T20:59:18+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1598783891795456002</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1598783891795456002"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ka9q @nascom1 @coastal8049 I'm glad you asked. I know the perfect reference that has all the plots and formulas you want to know. Take a look at Section 2.5.2 in &lt;a href="https://deepspace.jpl.nasa.gov/dsndocs/810-005/214/214B.pdf"&gt;deepspace.jpl.nasa.gov/dsndocs/810-00…&lt;/a&gt; It has goodies like this plot. The CCSDS Green book is also excellent because it has more details &lt;a href="https://public.ccsds.org/Pubs/414x0g2.pdf"&gt;public.ccsds.org/Pubs/414x0g2.p…&lt;/a&gt; &lt;a href="https://twitter.com/ea4gpz/status/1598783891795456002/photo/1"&gt;pic.twitter.com/HnUshe8tB5&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FjAFQAPX0AA7ZHM.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FjAFQAPX0AA7ZHM.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FjAFQAPX0AA7ZHM.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@sylvain_azarian @FRG2M @Leard44 lol had to look attentively to get the joke</title>
+		<published>2022-12-02T19:48:43+00:00</published>
+		<updated>2022-12-02T19:48:43+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1598766130226638848</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1598766130226638848"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@sylvain_azarian @FRG2M @Leard44 lol had to look attentively to get the joke&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Great question. I'm not following the development of HAS closely, so I don't know to which extent it is currently operational. twitter.com/GalileoSats/st…</title>
@@ -376,60 +556,6 @@
 	</entry>
 
 	<entry>
-		<title type="html">@F4DAV @TM_Eubanks Shortly after launch was 7 hours this time, due to launch azimuth. By then it was pretty far. If we had it in view just as it launched, the problem would have been antenna pointing.</title>
-		<published>2022-11-28T18:22:08+00:00</published>
-		<updated>2022-11-28T18:22:08+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1597294790240243712</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1597294790240243712"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@F4DAV @TM_Eubanks Shortly after launch was 7 hours this time, due to launch azimuth. By then it was pretty far. If we had it in view just as it launched, the problem would have been antenna pointing.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dh2va @nascom1 @ka9q @IanJohnBuckley @coastal8049 @NASA_Orion @NASA @NASA_Gateway That's a great idea. I'm confident that requesting a very particular and isolated part of the system be transmitted unencrypted for outreach is more likely to be acknowledged than saying that in general they shouldn't use encryption.</title>
-		<published>2022-11-28T18:19:10+00:00</published>
-		<updated>2022-11-28T18:19:10+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1597294040479043584</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1597294040479043584"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dh2va @nascom1 @ka9q @IanJohnBuckley @coastal8049 @NASA_Orion @NASA @NASA_Gateway That's a great idea. I'm confident that requesting a very particular and isolated part of the system be transmitted unencrypted for outreach is more likely to be acknowledged than saying that in general they shouldn't use encryption.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
 		<title type="html">The @IAU_CPS has released a statement on the worries of the astronomy community regarding the brightness &amp;amp; radio frequency usage of the @AST_SpaceMobile #BlueWalker3 satellite which deployed its 64 square meter antenna. It can outshine all but the 15th brightest stars in the sky.</title>
 		<published>2022-11-28T18:11:47+00:00</published>
 		<updated>2022-11-28T18:11:47+00:00</updated>
@@ -447,114 +573,6 @@
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;The @IAU_CPS has released a statement on the worries of the astronomy community regarding the brightness &amp;amp; radio frequency usage of the @AST_SpaceMobile #BlueWalker3 satellite which deployed its 64 square meter antenna. It can outshine all but the 15th brightest stars in the sky.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ka9q @IanJohnBuckley @nascom1 @coastal8049 The 2 million km definition is CCSDS Category A, which includes the Lagrange points on purpose.</title>
-		<published>2022-11-28T06:37:46+00:00</published>
-		<updated>2022-11-28T06:37:46+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1597117530333941760</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1597117530333941760"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q @IanJohnBuckley @nascom1 @coastal8049 The 2 million km definition is CCSDS Category A, which includes the Lagrange points on purpose.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ka9q @IanJohnBuckley @nascom1 @coastal8049 That's my impression as well, and it's the way that the CCSDS Green Book explains it. But I think there are also exceptions to that rule.</title>
-		<published>2022-11-27T23:04:27+00:00</published>
-		<updated>2022-11-27T23:04:27+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1597003447022538752</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1597003447022538752"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q @IanJohnBuckley @nascom1 @coastal8049 That's my impression as well, and it's the way that the CCSDS Green Book explains it. But I think there are also exceptions to that rule.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ka9q @IanJohnBuckley @nascom1 @coastal8049 For Orion it's r=1/2 k=1024. I wouldn't say LDPC has displaced Turbo in deep space. Turbo k=1/6 is still the preferred coding. But LDPC is more common for near Earth, in which Orion fits better (near Earth is up to 2 million km).</title>
-		<published>2022-11-27T23:01:26+00:00</published>
-		<updated>2022-11-27T23:01:26+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1597002690370101248</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1597002690370101248"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q @IanJohnBuckley @nascom1 @coastal8049 For Orion it's r=1/2 k=1024. I wouldn't say LDPC has displaced Turbo in deep space. Turbo k=1/6 is still the preferred coding. But LDPC is more common for near Earth, in which Orion fits better (near Earth is up to 2 million km).&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ibelings @eb3frn That's very interesting. Keep us updated on your findings. I've never understood properly how all the ordinary vs extraordinary ionosphere polarization thing works. I was impressed by a talk in RSGB convention this year where they looked at polarization in 6m Es.</title>
-		<published>2022-11-27T21:30:47+00:00</published>
-		<updated>2022-11-27T21:30:47+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1596979877806166016</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1596979877806166016"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ibelings @eb3frn That's very interesting. Keep us updated on your findings. I've never understood properly how all the ordinary vs extraordinary ionosphere polarization thing works. I was impressed by a talk in RSGB convention this year where they looked at polarization in 6m Es.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
