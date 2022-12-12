@@ -5,7 +5,7 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-12-07T05:43:26+00:00</updated>
+	<updated>2022-12-12T06:06:44+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
@@ -13,11 +13,11 @@
 	<link rel="self" type="application/atom+xml" href="http://" />
 
 	<entry>
-		<title type="html">@ka9q @nascom1 @coastal8049 Once the day of the launch, at 80000km I got around 74dB CN0 with one ATA antenna on the 2Mbaud OQPSK signal. I haven't observed since then, but we could extrapolate 14dB more of path loss at 400000km.</title>
-		<published>2022-12-06T19:49:10+00:00</published>
-		<updated>2022-12-06T19:49:10+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1600215795568545793</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1600215795568545793"/>
+		<title type="html">@ibelings Nice! I never understood properly the ordinary and extraordinary waves. I never saw how to pass from the Appleton-Hartree equation to something simple as LHCP vs. RHCP. I read some of Bittencourt's Plasma Physics book, but never got to this point. Do you know a better reference?</title>
+		<published>2022-12-11T19:52:17+00:00</published>
+		<updated>2022-12-11T19:52:17+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1602028516115103744</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1602028516115103744"/>
 		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -29,7 +29,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q @nascom1 @coastal8049 Once the day of the launch, at 80000km I got around 74dB CN0 with one ATA antenna on the 2Mbaud OQPSK signal. I haven't observed since then, but we could extrapolate 14dB more of path loss at 400000km.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@ibelings Nice! I never understood properly the ordinary and extraordinary waves. I never saw how to pass from the Appleton-Hartree equation to something simple as LHCP vs. RHCP. I read some of Bittencourt's Plasma Physics book, but never got to this point. Do you know a better reference?&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -40,11 +40,11 @@
 	</entry>
 
 	<entry>
-		<title type="html">@cgbassa Did you check how well was the a priori fit to the oscillation rate using the ephemeris?</title>
-		<published>2022-12-05T18:12:29+00:00</published>
-		<updated>2022-12-05T18:12:29+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1599829073466826752</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1599829073466826752"/>
+		<title type="html">@ibelings I wonder why. Unless it's mostly elliptically polarized in the opposite direction, I'd guess you'd attenuate it by something between 3dB if it's mostly linear to nothing if it's mostly unpolarized.</title>
+		<published>2022-12-11T19:13:23+00:00</published>
+		<updated>2022-12-11T19:13:23+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1602018729050935296</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1602018729050935296"/>
 		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -56,7 +56,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@cgbassa Did you check how well was the a priori fit to the oscillation rate using the ephemeris?&lt;/blockquote&gt;
+	&lt;blockquote&gt;@ibelings I wonder why. Unless it's mostly elliptically polarized in the opposite direction, I'd guess you'd attenuate it by something between 3dB if it's mostly linear to nothing if it's mostly unpolarized.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -67,11 +67,11 @@
 	</entry>
 
 	<entry>
-		<title type="html">The signal strength of #Artemis1 Orion as it disappeared behind the Moon and reappeared half an hour later. The oscillations oscillations are diffraction of the radio signal by the limb of the Moon. Kudos to the team for operating the dish and reducing the data this quickly! pic.twitter.com/Ol0qoBfqs1</title>
-		<published>2022-12-05T17:32:14+00:00</published>
-		<updated>2022-12-05T17:32:14+00:00</updated>
-		<id>https://twitter.com/radiotelescoop/status/1599818945787092992</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/radiotelescoop/status/1599818945787092992"/>
+		<title type="html">@esaspaceflight @NASA_Orion We measured the burn loud and clear with our 25m dish! pic.twitter.com/Kghwc0LsuM</title>
+		<published>2022-12-10T20:54:43+00:00</published>
+		<updated>2022-12-10T20:54:43+00:00</updated>
+		<id>https://twitter.com/radiotelescoop/status/1601681842855256064</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/radiotelescoop/status/1601681842855256064"/>
 		<author><name>RT: Dwingeloo Telescoop (@radiotelescoop)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/radiotelescoop"&gt;
@@ -83,28 +83,28 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;The signal strength of #Artemis1 Orion as it disappeared behind the Moon and reappeared half an hour later. The oscillations oscillations are diffraction of the radio signal by the limb of the Moon. Kudos to the team for operating the dish and reducing the data this quickly! &lt;a href="https://twitter.com/radiotelescoop/status/1599818945787092992/photo/1"&gt;pic.twitter.com/Ol0qoBfqs1&lt;/a&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;@esaspaceflight @NASA_Orion We measured the burn loud and clear with our 25m dish! &lt;a href="https://twitter.com/radiotelescoop/status/1601681842855256064/photo/1"&gt;pic.twitter.com/Kghwc0LsuM&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FjOyavtXwA8rQeJ.jpg?name=orig"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FjpQzQhaMAA59oR.jpg?name=orig"&gt;
 &lt;img
 	style="align:top; max-width:558px; border:1px solid black;"
 	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FjOyavtXwA8rQeJ.jpg" /&gt;
+	src="https://pbs.twimg.com/media/FjpQzQhaMAA59oR.jpg" /&gt;
 &lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FjOyavtXwA8rQeJ.jpg?name=orig" type="image/jpeg" />
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FjpQzQhaMAA59oR.jpg?name=orig" type="image/jpeg" />
 
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">Read more: destevez.net/2022/12/artemi… (3/3)</title>
-		<published>2022-12-04T21:39:44+00:00</published>
-		<updated>2022-12-04T21:39:44+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1599518841725366273</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1599518841725366273"/>
+		<title type="html">@ka9q @nascom1 The fun thing is that projects weren't aware or didn't notify. It seems that many people didn't know about this astronomical event.</title>
+		<published>2022-12-10T08:53:52+00:00</published>
+		<updated>2022-12-10T08:53:52+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1601500434346422272</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601500434346422272"/>
 		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -116,7 +116,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Read more: &lt;a href="https://destevez.net/2022/12/artemis-i-orion-recordings-published/"&gt;destevez.net/2022/12/artemi…&lt;/a&gt; (3/3)&lt;/blockquote&gt;
+	&lt;blockquote&gt;@ka9q @nascom1 The fun thing is that projects weren't aware or didn't notify. It seems that many people didn't know about this astronomical event.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -127,11 +127,11 @@
 	</entry>
 
 	<entry>
-		<title type="html">I also show some waterfalls to assess the quality of the recordings. By using constant coefficients instead of my auto-polarization @gnuradio block, I have significantly reduced the number of lost frames. All the decoded frames (876 MB of data in total) are also in Zenodo. (2/3) pic.twitter.com/0Eggeiv40B</title>
-		<published>2022-12-04T21:39:43+00:00</published>
-		<updated>2022-12-04T21:39:43+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1599518838865170433</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1599518838865170433"/>
+		<title type="html">@ka9q @nascom1 You would have had the Mars occultation at Madrid a few hours before LOS, unless you had already handed over to Goldstone. One of the complexes would have seen the occultation anyway, and it happened during Canberra's shift. My bet is this was the occultation rather than rain.</title>
+		<published>2022-12-10T08:52:25+00:00</published>
+		<updated>2022-12-10T08:52:25+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1601500067361587200</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601500067361587200"/>
 		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -143,28 +143,82 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;I also show some waterfalls to assess the quality of the recordings. By using constant coefficients instead of my auto-polarization @gnuradio block, I have significantly reduced the number of lost frames. All the decoded frames (876 MB of data in total) are also in Zenodo. (2/3) &lt;a href="https://twitter.com/ea4gpz/status/1599518838865170433/photo/1"&gt;pic.twitter.com/0Eggeiv40B&lt;/a&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;@ka9q @nascom1 You would have had the Mars occultation at Madrid a few hours before LOS, unless you had already handed over to Goldstone. One of the complexes would have seen the occultation anyway, and it happened during Canberra's shift. My bet is this was the occultation rather than rain.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FjKhUeHWQAEMEzM.png?name=orig"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@DrChrisBridges @gnuradio The 1 is the first quaternion component by the order in which they appear on the packet, but I'm not sure if it's scalar first or scalar last order. I'm picking scalar first order for the analysis, but could well be wrong.</title>
+		<published>2022-12-09T23:14:21+00:00</published>
+		<updated>2022-12-09T23:14:21+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1601354595200299008</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601354595200299008"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@DrChrisBridges @gnuradio The 1 is the first quaternion component by the order in which they appear on the packet, but I'm not sure if it's scalar first or scalar last order. I'm picking scalar first order for the analysis, but could well be wrong.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@DrChrisBridges @gnuradio These quaternions do have unit norm. I have already applied the appropriate scale factor (2e9) to the raw telemetry values to get this plot. pic.twitter.com/FuHUbBvRAQ</title>
+		<published>2022-12-09T23:06:55+00:00</published>
+		<updated>2022-12-09T23:06:55+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1601352724167110657</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601352724167110657"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@DrChrisBridges @gnuradio These quaternions do have unit norm. I have already applied the appropriate scale factor (2e9) to the raw telemetry values to get this plot. &lt;a href="https://twitter.com/ea4gpz/status/1601352724167110657/photo/1"&gt;pic.twitter.com/FuHUbBvRAQ&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fjkl0PZXEAEkQQo.png?name=orig"&gt;
 &lt;img
 	style="align:top; max-width:558px; border:1px solid black;"
 	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FjKhUeHWQAEMEzM.png" /&gt;
+	src="https://pbs.twimg.com/media/Fjkl0PZXEAEkQQo.png" /&gt;
 &lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FjKhUeHWQAEMEzM.png?name=orig" type="image/png" />
+		<link rel="enclosure" href="https://pbs.twimg.com/media/Fjkl0PZXEAEkQQo.png?name=orig" type="image/png" />
 
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">New blog post: Artemis I Orion recordings published. I have published in @ZENODO_ORG some Allen Telescope Array recordings of the Orion S-band signal done on the launch day. I show how to measure and synthesize the signal polarization (1/3). pic.twitter.com/n3occMjWME</title>
-		<published>2022-12-04T21:39:42+00:00</published>
-		<updated>2022-12-04T21:39:42+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1599518835492544512</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1599518835492544512"/>
+		<title type="html">@DrChrisBridges @gnuradio I hadn't thought of state derivatives, so I'll give this thought a go and maybe it matches some of what I see. How are the derivatives usually represented?</title>
+		<published>2022-12-09T22:49:41+00:00</published>
+		<updated>2022-12-09T22:49:41+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1601348386715684864</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601348386715684864"/>
 		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -176,88 +230,142 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;New blog post: Artemis I Orion recordings published. I have published in @ZENODO_ORG some Allen Telescope Array recordings of the Orion S-band signal done on the launch day. I show how to measure and synthesize the signal polarization (1/3). &lt;a href="https://twitter.com/ea4gpz/status/1599518835492544512/photo/1"&gt;pic.twitter.com/n3occMjWME&lt;/a&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;@DrChrisBridges @gnuradio I hadn't thought of state derivatives, so I'll give this thought a go and maybe it matches some of what I see. How are the derivatives usually represented?&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FjKhLAMWYAMekHR.png?name=orig"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@DrChrisBridges @gnuradio The fact that in this image something appears to converge is just because I'm ploting the rotation axis of the relative rotation between intial time and the rest of the times. Near the initial time the rotation is very small and the problem is ill-conditioned.</title>
+		<published>2022-12-09T22:48:25+00:00</published>
+		<updated>2022-12-09T22:48:25+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1601348068800344067</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601348068800344067"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@DrChrisBridges @gnuradio The fact that in this image something appears to converge is just because I'm ploting the rotation axis of the relative rotation between intial time and the rest of the times. Near the initial time the rotation is very small and the problem is ill-conditioned.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@Tomas_Stellar I've counted 1.56 rpm.</title>
+		<published>2022-12-09T22:42:01+00:00</published>
+		<updated>2022-12-09T22:42:01+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1601346456958697474</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601346456958697474"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@Tomas_Stellar I've counted 1.56 rpm.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Still, as usual, there are many mysteries in trying to interpret all this telemetry data. IQ recordings, @gnuradio flowgraphs and Jupyter notebooks are given. Read more in the detailed post: destevez.net/2022/12/decodi… (3/3)</title>
+		<published>2022-12-09T22:17:58+00:00</published>
+		<updated>2022-12-09T22:17:58+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1601340402820591616</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601340402820591616"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Still, as usual, there are many mysteries in trying to interpret all this telemetry data. IQ recordings, @gnuradio flowgraphs and Jupyter notebooks are given. Read more in the detailed post: &lt;a href="https://destevez.net/2022/12/decoding-lunah-map/"&gt;destevez.net/2022/12/decodi…&lt;/a&gt; (3/3)&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The spacecraft uses Turbo coding and AOS frames. I reverse-engineer some of the telemetry, seeing that it's quaternion data. I relate this with the fading we see in the waterfall, showing that the quaternions are real-time attitude data and the spacecraft is rotating. (2/3) pic.twitter.com/VYX5asUUgW</title>
+		<published>2022-12-09T22:17:57+00:00</published>
+		<updated>2022-12-09T22:17:57+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1601340399947112448</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601340399947112448"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The spacecraft uses Turbo coding and AOS frames. I reverse-engineer some of the telemetry, seeing that it's quaternion data. I relate this with the fading we see in the waterfall, showing that the quaternions are real-time attitude data and the spacecraft is rotating. (2/3) &lt;a href="https://twitter.com/ea4gpz/status/1601340399947112448/photo/1"&gt;pic.twitter.com/VYX5asUUgW&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FjkabhXWAAEXXG0.png?name=orig"&gt;
 &lt;img
 	style="align:top; max-width:558px; border:1px solid black;"
 	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FjKhLAMWYAMekHR.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FjKhLAMWYAMekHR.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@df2mz @nascom1 My understanding is that piecewise linear ramps simplify the navigation calculations. Sections 13.3.2.2.2 and 13.3.2.2.3 in Moyer are a good read: descanso.jpl.nasa.gov/monograph/seri…</title>
-		<published>2022-12-03T17:11:31+00:00</published>
-		<updated>2022-12-03T17:11:31+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1599088954644447232</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1599088954644447232"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@df2mz @nascom1 My understanding is that piecewise linear ramps simplify the navigation calculations. Sections 13.3.2.2.2 and 13.3.2.2.3 in Moyer are a good read: &lt;a href="https://descanso.jpl.nasa.gov/monograph/series2/Descanso2_S13.pdf"&gt;descanso.jpl.nasa.gov/monograph/seri…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ka9q @nascom1 @coastal8049 I'm glad you asked. I know the perfect reference that has all the plots and formulas you want to know. Take a look at Section 2.5.2 in deepspace.jpl.nasa.gov/dsndocs/810-00… It has goodies like this plot. The CCSDS Green book is also excellent because it has more details public.ccsds.org/Pubs/414x0g2.p… pic.twitter.com/HnUshe8tB5</title>
-		<published>2022-12-02T20:59:18+00:00</published>
-		<updated>2022-12-02T20:59:18+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1598783891795456002</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1598783891795456002"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q @nascom1 @coastal8049 I'm glad you asked. I know the perfect reference that has all the plots and formulas you want to know. Take a look at Section 2.5.2 in &lt;a href="https://deepspace.jpl.nasa.gov/dsndocs/810-005/214/214B.pdf"&gt;deepspace.jpl.nasa.gov/dsndocs/810-00…&lt;/a&gt; It has goodies like this plot. The CCSDS Green book is also excellent because it has more details &lt;a href="https://public.ccsds.org/Pubs/414x0g2.pdf"&gt;public.ccsds.org/Pubs/414x0g2.p…&lt;/a&gt; &lt;a href="https://twitter.com/ea4gpz/status/1598783891795456002/photo/1"&gt;pic.twitter.com/HnUshe8tB5&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FjAFQAPX0AA7ZHM.png?name=orig"&gt;
+	src="https://pbs.twimg.com/media/FjkabhXWAAEXXG0.png" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FjkYx2zXgAEOq3d.png?name=orig"&gt;
 &lt;img
 	style="align:top; max-width:558px; border:1px solid black;"
 	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FjAFQAPX0AA7ZHM.png" /&gt;
+	src="https://pbs.twimg.com/media/FjkYx2zXgAEOq3d.png" /&gt;
 &lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FjAFQAPX0AA7ZHM.png?name=orig" type="image/png" />
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FjkabhXWAAEXXG0.png?name=orig" type="image/png" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FjkYx2zXgAEOq3d.png?name=orig" type="image/png" />
 
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">@sylvain_azarian @FRG2M @Leard44 lol had to look attentively to get the joke</title>
-		<published>2022-12-02T19:48:43+00:00</published>
-		<updated>2022-12-02T19:48:43+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1598766130226638848</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1598766130226638848"/>
+		<title type="html">New blog post: Decoding LunaH-Map. I look at the Allen Telescope Array recordings of the @lunahmap #Artemis1 cubesat. These include two different modulations. One that sends data at 8kbps and another at 128kbps. For the second one I beamform two antennas to have enough SNR. (1/3) pic.twitter.com/6jsp7lonYz</title>
+		<published>2022-12-09T22:17:55+00:00</published>
+		<updated>2022-12-09T22:17:55+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1601340393731551232</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601340393731551232"/>
 		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -269,22 +377,34 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@sylvain_azarian @FRG2M @Leard44 lol had to look attentively to get the joke&lt;/blockquote&gt;
+	&lt;blockquote&gt;New blog post: Decoding LunaH-Map. I look at the Allen Telescope Array recordings of the @lunahmap #Artemis1 cubesat. These include two different modulations. One that sends data at 8kbps and another at 128kbps. For the second one I beamform two antennas to have enough SNR. (1/3) &lt;a href="https://twitter.com/ea4gpz/status/1601340393731551232/photo/1"&gt;pic.twitter.com/6jsp7lonYz&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FjkZ1JuXkAAqNIt.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FjkZ1JuXkAAqNIt.png" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FjkX4fzXkAAcith.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FjkX4fzXkAAcith.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FjkZ1JuXkAAqNIt.png?name=orig" type="image/png" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FjkX4fzXkAAcith.png?name=orig" type="image/png" />
+
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">Great question. I'm not following the development of HAS closely, so I don't know to which extent it is currently operational. twitter.com/GalileoSats/st…</title>
-		<published>2022-12-02T17:44:12+00:00</published>
-		<updated>2022-12-02T17:44:12+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1598734794598232065</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1598734794598232065"/>
+		<title type="html">@DrzalMichal That's awful! At least the MIL-STD thing was credible. It almost sounded like the kind of thing I could have done in an alternate universe. But that list just seems like the template names which Github gives you when you create a new repo.</title>
+		<published>2022-12-09T20:32:42+00:00</published>
+		<updated>2022-12-09T20:32:42+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1601313911768485888</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601313911768485888"/>
 		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -296,7 +416,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Great question. I'm not following the development of HAS closely, so I don't know to which extent it is currently operational. &lt;a href="https://twitter.com/GalileoSats/status/1598630687007031298"&gt;twitter.com/GalileoSats/st…&lt;/a&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;@DrzalMichal That's awful! At least the MIL-STD thing was credible. It almost sounded like the kind of thing I could have done in an alternate universe. But that list just seems like the template names which Github gives you when you create a new repo.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -307,11 +427,11 @@
 	</entry>
 
 	<entry>
-		<title type="html">@wtgowers Reminds me of the stuff that students sometimes write in exams when they have no idea of how to prove something. But in an over the top fashion.</title>
-		<published>2022-12-02T17:40:05+00:00</published>
-		<updated>2022-12-02T17:40:05+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1598733757279719424</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1598733757279719424"/>
+		<title type="html">@DrzalMichal The thing is the repository that ChatGPT mentions doesn't exist. I've never implemented this protocol. ChatGPT is trying desperately to give a plausible sounding answer, like students on an exam question they don't know the answer to.</title>
+		<published>2022-12-09T19:32:34+00:00</published>
+		<updated>2022-12-09T19:32:34+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1601298779889881088</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601298779889881088"/>
 		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -323,7 +443,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@wtgowers Reminds me of the stuff that students sometimes write in exams when they have no idea of how to prove something. But in an over the top fashion.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@DrzalMichal The thing is the repository that ChatGPT mentions doesn't exist. I've never implemented this protocol. ChatGPT is trying desperately to give a plausible sounding answer, like students on an exam question they don't know the answer to.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -334,11 +454,11 @@
 	</entry>
 
 	<entry>
-		<title type="html">@nascom1 Interesting! What inputs do you have from or give to the project for navigation regarding the smooth curve? I'm used to the ramp tables for piecewise linear frequency.</title>
-		<published>2022-12-02T13:16:36+00:00</published>
-		<updated>2022-12-02T13:16:36+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1598667451188891648</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1598667451188891648"/>
+		<title type="html">@Ayliean Nollaig Chridheil dhuibh cuideachd, Ayliean!</title>
+		<published>2022-12-09T18:42:43+00:00</published>
+		<updated>2022-12-09T18:42:43+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1601286233459941376</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601286233459941376"/>
 		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -350,7 +470,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@nascom1 Interesting! What inputs do you have from or give to the project for navigation regarding the smooth curve? I'm used to the ramp tables for piecewise linear frequency.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@Ayliean Nollaig Chridheil dhuibh cuideachd, Ayliean!&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -361,11 +481,11 @@
 	</entry>
 
 	<entry>
-		<title type="html">@nascom1 Is this a smooth curve, or just a large number of straight segments as usual?</title>
-		<published>2022-12-02T06:48:50+00:00</published>
-		<updated>2022-12-02T06:48:50+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1598569865643786240</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1598569865643786240"/>
+		<title type="html">@shannonmstirone That brings memories! Same place, almost three years ago. pic.twitter.com/RRDvch4w2r</title>
+		<published>2022-12-09T18:22:06+00:00</published>
+		<updated>2022-12-09T18:22:06+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1601281047928672257</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601281047928672257"/>
 		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -377,22 +497,28 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@nascom1 Is this a smooth curve, or just a large number of straight segments as usual?&lt;/blockquote&gt;
+	&lt;blockquote&gt;@shannonmstirone That brings memories! Same place, almost three years ago. &lt;a href="https://twitter.com/ea4gpz/status/1601281047928672257/photo/1"&gt;pic.twitter.com/RRDvch4w2r&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FjjkoCoXgAgO5-E.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FjjkoCoXgAgO5-E.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FjjkoCoXgAgO5-E.jpg?name=orig" type="image/jpeg" />
+
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">@nascom1 @coastal8049 Hi Richard, can you share the ranging clock frequency that they use for PN ranging? Is it with the T2B code? I haven't seen the typical tones created by the ranging clock, but I haven't tried very hard to look for them.</title>
-		<published>2022-12-02T06:45:17+00:00</published>
-		<updated>2022-12-02T06:45:17+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1598568970218528769</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1598568970218528769"/>
+		<title type="html">@HamBadges @K8DP_Doug @n0rc @SatNOGS @dk3wn That's a mean comment! @K8DP_Doug made a map which is interesting to look at and probably offers some extra information over what is available in SatNOGS DB.</title>
+		<published>2022-12-09T17:27:49+00:00</published>
+		<updated>2022-12-09T17:27:49+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1601267385578622977</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601267385578622977"/>
 		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -404,7 +530,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@nascom1 @coastal8049 Hi Richard, can you share the ranging clock frequency that they use for PN ranging? Is it with the T2B code? I haven't seen the typical tones created by the ranging clock, but I haven't tried very hard to look for them.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@HamBadges @K8DP_Doug @n0rc @SatNOGS @dk3wn That's a mean comment! @K8DP_Doug made a map which is interesting to look at and probably offers some extra information over what is available in SatNOGS DB.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -415,163 +541,73 @@
 	</entry>
 
 	<entry>
-		<title type="html">@cristi_vicas What is SOTA?</title>
-		<published>2022-12-01T07:49:25+00:00</published>
-		<updated>2022-12-01T07:49:25+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1598222721766555649</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1598222721766555649"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<title type="html">CAS-5A gr_satellites decoder: pic.twitter.com/7V5nqkt29J</title>
+		<published>2022-12-09T17:15:25+00:00</published>
+		<updated>2022-12-09T17:15:25+00:00</updated>
+		<id>https://twitter.com/pe0sat/status/1601264263636865024</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/pe0sat/status/1601264263636865024"/>
+		<author><name>RT: Jan - PE0SAT ☮️ (@pe0sat)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
+	&lt;a href="https://twitter.com/pe0sat"&gt;
 &lt;img
 	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+	alt="pe0sat"
+	src="https://pbs.twimg.com/profile_images/1382059559238434819/7hX8TT53_normal.jpg"
+	title="Jan - PE0SAT ☮️" /&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@cristi_vicas What is SOTA?&lt;/blockquote&gt;
+	&lt;blockquote&gt;CAS-5A gr_satellites decoder: &lt;a href="https://twitter.com/pe0sat/status/1601264263636865024/photo/1"&gt;pic.twitter.com/7V5nqkt29J&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FjjVJWZXEAYAHOX.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FjjVJWZXEAYAHOX.png" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FjjVWuQXwAUyiTi.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FjjVWuQXwAUyiTi.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FjjVJWZXEAYAHOX.png?name=orig" type="image/png" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FjjVWuQXwAUyiTi.png?name=orig" type="image/png" />
+
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">Very interesting to read people takes on this. It makes me wonder to what extent the incentive models in academia are broken. But they make very valid points, since the models aren't going to change immediately. twitter.com/stephtdouglas/…</title>
-		<published>2022-12-01T06:55:04+00:00</published>
-		<updated>2022-12-01T06:55:04+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1598209043952472065</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1598209043952472065"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<title type="html">Tracking a Moon mission with the Dwingeloo telescope tinyurl.com/2lsnj94u pic.twitter.com/XeZTyktQ31</title>
+		<published>2022-12-09T07:40:03+00:00</published>
+		<updated>2022-12-09T07:40:03+00:00</updated>
+		<id>https://twitter.com/daily_image/status/1601119470172389377</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/daily_image/status/1601119470172389377"/>
+		<author><name>RT: ASTRON/JIVE (@daily_image)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
+	&lt;a href="https://twitter.com/daily_image"&gt;
 &lt;img
 	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+	alt="daily_image"
+	src="https://pbs.twimg.com/profile_images/1345180216/Twitter_normal.jpg"
+	title="ASTRON/JIVE" /&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Very interesting to read people takes on this. It makes me wonder to what extent the incentive models in academia are broken. But they make very valid points, since the models aren't going to change immediately. &lt;a href="https://twitter.com/stephtdouglas/status/1598043676818608128"&gt;twitter.com/stephtdouglas/…&lt;/a&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;Tracking a Moon mission with the Dwingeloo telescope &lt;a href="https://tinyurl.com/2lsnj94u"&gt;tinyurl.com/2lsnj94u&lt;/a&gt; &lt;a href="https://twitter.com/daily_image/status/1601119470172389377/photo/1"&gt;pic.twitter.com/XeZTyktQ31&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FjhRrIuXEAE8yas.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FjhRrIuXEAE8yas.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		
-		
-		
-	</entry>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FjhRrIuXEAE8yas.png?name=orig" type="image/png" />
 
-	<entry>
-		<title type="html">@k9eq @ka9q @nascom1 @IanJohnBuckley @coastal8049 For this to work you would need scientists to publish all their code so that anyone can reproduce the results starting from level 1 data. The spacecraft adding authentication doesn't bring value. We could fetch the data again from NASA or whatever, which is trusted in this model.</title>
-		<published>2022-12-01T06:27:13+00:00</published>
-		<updated>2022-12-01T06:27:13+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1598202036159320064</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1598202036159320064"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@k9eq @ka9q @nascom1 @IanJohnBuckley @coastal8049 For this to work you would need scientists to publish all their code so that anyone can reproduce the results starting from level 1 data. The spacecraft adding authentication doesn't bring value. We could fetch the data again from NASA or whatever, which is trusted in this model.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@k9eq @ka9q @nascom1 @IanJohnBuckley @coastal8049 Playing devil's advocate here: how would authentication prove that the data isn't fake? Who creates fake data in your threat model?</title>
-		<published>2022-11-30T06:47:59+00:00</published>
-		<updated>2022-11-30T06:47:59+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1597844875755413505</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1597844875755413505"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@k9eq @ka9q @nascom1 @IanJohnBuckley @coastal8049 Playing devil's advocate here: how would authentication prove that the data isn't fake? Who creates fake data in your threat model?&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@devnulling @gnuradio @GhostOP14 @Ghostop141 Yes, he did. But here I wanted to put something together quickly to postprocess some files. Mike's correlator runs in real time from network data.</title>
-		<published>2022-11-28T23:09:04+00:00</published>
-		<updated>2022-11-28T23:09:04+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1597366997373059072</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1597366997373059072"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@devnulling @gnuradio @GhostOP14 @Ghostop141 Yes, he did. But here I wanted to put something together quickly to postprocess some files. Mike's correlator runs in real time from network data.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">The @IAU_CPS has released a statement on the worries of the astronomy community regarding the brightness &amp;amp; radio frequency usage of the @AST_SpaceMobile #BlueWalker3 satellite which deployed its 64 square meter antenna. It can outshine all but the 15th brightest stars in the sky.</title>
-		<published>2022-11-28T18:11:47+00:00</published>
-		<updated>2022-11-28T18:11:47+00:00</updated>
-		<id>https://twitter.com/cgbassa/status/1597292184143024128</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/cgbassa/status/1597292184143024128"/>
-		<author><name>RT: Cees Bassa (@cgbassa)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/cgbassa"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="cgbassa"
-	src="https://pbs.twimg.com/profile_images/1759350576/avatar_normal.png"
-	title="Cees Bassa" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;The @IAU_CPS has released a statement on the worries of the astronomy community regarding the brightness &amp;amp; radio frequency usage of the @AST_SpaceMobile #BlueWalker3 satellite which deployed its 64 square meter antenna. It can outshine all but the 15th brightest stars in the sky.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
 		
 		
 	</entry>
