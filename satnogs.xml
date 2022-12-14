@@ -5,12 +5,43 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-12-12T06:06:46+00:00</updated>
+	<updated>2022-12-14T04:23:17+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@IK7FMQ @Dj7Zz This TLE set is valid and used to schedule observation to our Network.
+
+Just have in mind that the satellite hasn't been identified yet. This means that the object we follow with this TLE set is the best fit for now and it may not be accurate in the future.</title>
+		<published>2022-12-13T10:54:07+00:00</published>
+		<updated>2022-12-13T10:54:07+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1602617860701962241</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1602617860701962241"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@IK7FMQ @Dj7Zz This TLE set is valid and used to schedule observation to our Network.
+
+Just have in mind that the satellite hasn't been identified yet. This means that the object we follow with this TLE set is the best fit for now and it may not be accurate in the future.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@N8MH @n0rc @SatNOGS @dk3wn @ea4gpz This plot shows @SatNOGS coverage for IO-117 over the last 3 days.  We have close to world wide coverage for this satellite with quite a bit of redundancy in populated areas. pic.twitter.com/I8kTuu03Gt</title>
@@ -635,43 +666,6 @@ You can find out more about it here: &lt;a href="https://community.libre.space/t
 	&lt;blockquote&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
 		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">📍With over 𝟔.𝟓 𝐦𝐢𝐥𝐥𝐢𝐨𝐧 satellite observations, @SatNOGS is the world's biggest, #opensource network of satellite ground stations, distributing the data freely &amp;amp; openly. Powered by a global, collaborative &amp;amp; diverse community.
-#WSW2022
-Join us at: satnogs.org pic.twitter.com/1hB6zvFCuW</title>
-		<published>2022-10-10T13:30:11+00:00</published>
-		<updated>2022-10-10T13:30:11+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1579464313261084672</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1579464313261084672"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;📍With over 𝟔.𝟓 𝐦𝐢𝐥𝐥𝐢𝐨𝐧 satellite observations, @SatNOGS is the world's biggest, #opensource network of satellite ground stations, distributing the data freely &amp;amp; openly. Powered by a global, collaborative &amp;amp; diverse community.
-#WSW2022
-Join us at: &lt;a href="https://satnogs.org/"&gt;satnogs.org&lt;/a&gt; &lt;a href="https://twitter.com/SatNOGS/status/1579464313261084672/photo/1"&gt;pic.twitter.com/1hB6zvFCuW&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FethqKxWIAIQRcR.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FethqKxWIAIQRcR.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FethqKxWIAIQRcR.jpg?name=orig" type="image/jpeg" />
-
 		
 		
 	</entry>
