@@ -5,12 +5,39 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-12-13T07:03:06+00:00</updated>
+	<updated>2022-12-15T05:53:50+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@F5OEOEvariste Can't you use I2C on these tests pads in any revision by using EMIO? All the test pads are connected to 1.8V FPGA pins, if I remember correctly.</title>
+		<published>2022-12-14T07:00:26+00:00</published>
+		<updated>2022-12-14T07:00:26+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1602921439346171905</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1602921439346171905"/>
+		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@F5OEOEvariste Can't you use I2C on these tests pads in any revision by using EMIO? All the test pads are connected to 1.8V FPGA pins, if I remember correctly.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">I haven't been able to find anything in the packets that I know how to interpret. But maybe others will have better ideas. As always, I've shared the data and code.
@@ -584,33 +611,6 @@ Most of the frames contain 0XCD, idle.
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@DrzalMichal The thing is the repository that ChatGPT mentions doesn't exist. I've never implemented this protocol. ChatGPT is trying desperately to give a plausible sounding answer, like students on an exam question they don't know the answer to.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@Ayliean Nollaig Chridheil dhuibh cuideachd, Ayliean!</title>
-		<published>2022-12-09T18:42:43+00:00</published>
-		<updated>2022-12-09T18:42:43+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1601286233459941376</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601286233459941376"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@Ayliean Nollaig Chridheil dhuibh cuideachd, Ayliean!&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
