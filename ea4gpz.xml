@@ -5,7 +5,7 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-12-15T05:53:50+00:00</updated>
+	<updated>2022-12-25T05:57:09+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
@@ -13,19 +13,367 @@
 	<link rel="self" type="application/atom+xml" href="http://" />
 
 	<entry>
-		<title type="html">@F5OEOEvariste Can't you use I2C on these tests pads in any revision by using EMIO? All the test pads are connected to 1.8V FPGA pins, if I remember correctly.</title>
-		<published>2022-12-14T07:00:26+00:00</published>
-		<updated>2022-12-14T07:00:26+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1602921439346171905</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1602921439346171905"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<title type="html">@ea4gpz 
+Decoding Voyager 1 is one of the most interesting page with historical importance I  truly enjoyed reading today. Today is a good day!
+destevez.net/2021/09/decodi…
+
+#voyager1 #python #ASCII #SETI #radar #binary #partnersinspace #Mars #M #motivation pic.twitter.com/3ONLZR6N3G</title>
+		<published>2022-12-23T23:52:22+00:00</published>
+		<updated>2022-12-23T23:52:22+00:00</updated>
+		<id>https://twitter.com/goldstreamhoney/status/1606437591955668993</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/goldstreamhoney/status/1606437591955668993"/>
+		<author><name>RT: LOUIS-PHILIPPE AUDETTE (@goldstreamhoney)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/goldstreamhoney"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="goldstreamhoney"
+	src="https://pbs.twimg.com/profile_images/1116208770911047681/naq1Zz-b_normal.jpg"
+	title="LOUIS-PHILIPPE AUDETTE" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ea4gpz 
+Decoding Voyager 1 is one of the most interesting page with historical importance I  truly enjoyed reading today. Today is a good day!
+&lt;a href="https://destevez.net/2021/09/decoding-voyager-1/"&gt;destevez.net/2021/09/decodi…&lt;/a&gt;
+
+#voyager1 #python #ASCII #SETI #radar #binary #partnersinspace #Mars #M #motivation &lt;a href="https://twitter.com/goldstreamhoney/status/1606437591955668993/photo/1"&gt;pic.twitter.com/3ONLZR6N3G&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fks2ejAaMAAQGVw.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Fks2ejAaMAAQGVw.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/Fks2ejAaMAAQGVw.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@Ayliean Best luck in your new adventures!</title>
+		<published>2022-12-22T06:20:12+00:00</published>
+		<updated>2022-12-22T06:20:12+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1605810415123853312</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1605810415123853312"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
 &lt;img
 	style="align:top; width:75px; border:1px solid black;"
 	alt="ea4gpz"
 	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@Ayliean Best luck in your new adventures!&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">I've just released a proof of concept that lets you create a TLE from GPS ephemeris or a pre/post launch OPM. This can be used to help you contact your spacecraft after launch and identify it to @18thSDS 
+
+Check it out: github.com/dcajacob/tle-t…</title>
+		<published>2022-12-22T01:00:35+00:00</published>
+		<updated>2022-12-22T01:00:35+00:00</updated>
+		<id>https://twitter.com/astrojockey/status/1605729983745253378</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/astrojockey/status/1605729983745253378"/>
+		<author><name>RT: Dan CaJacob (@astrojockey)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/astrojockey"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="astrojockey"
+	src="https://pbs.twimg.com/profile_images/562339566430875648/_EbMmKBA_normal.jpeg"
+	title="Dan CaJacob" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;I've just released a proof of concept that lets you create a TLE from GPS ephemeris or a pre/post launch OPM. This can be used to help you contact your spacecraft after launch and identify it to @18thSDS 
+
+Check it out: &lt;a href="https://github.com/dcajacob/tle-tailor"&gt;github.com/dcajacob/tle-t…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@satnam6502 That made my day. Thanks for sharing.</title>
+		<published>2022-12-17T17:12:48+00:00</published>
+		<updated>2022-12-17T17:12:48+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1604162709125201924</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1604162709125201924"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@satnam6502 That made my day. Thanks for sharing.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@WirelessPi Occasionally there are. Watch out for the "maths" category, where more math-heavy posts go:destevez.net/category/maths/</title>
+		<published>2022-12-17T17:09:01+00:00</published>
+		<updated>2022-12-17T17:09:01+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1604161758653870080</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1604161758653870080"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@WirelessPi Occasionally there are. Watch out for the "maths" category, where more math-heavy posts go:&lt;a href="https://destevez.net/category/maths/"&gt;destevez.net/category/maths/&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">New blog post: A note about non-matched pulse filtering. I show that the losses caused by receiving a PAM waveform with pulse p(t) using a non-matched filter h(t) are given by this equation. destevez.net/2022/12/a-note… pic.twitter.com/mBvfeWQkq9</title>
+		<published>2022-12-17T15:45:21+00:00</published>
+		<updated>2022-12-17T15:45:21+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1604140700601393157</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1604140700601393157"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;New blog post: A note about non-matched pulse filtering. I show that the losses caused by receiving a PAM waveform with pulse p(t) using a non-matched filter h(t) are given by this equation. &lt;a href="https://destevez.net/2022/12/a-note-about-non-matched-pulse-filtering/"&gt;destevez.net/2022/12/a-note…&lt;/a&gt; &lt;a href="https://twitter.com/ea4gpz/status/1604140700601393157/photo/1"&gt;pic.twitter.com/mBvfeWQkq9&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FkMNanwXEAEDHeH.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FkMNanwXEAEDHeH.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FkMNanwXEAEDHeH.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@OpenResearchIns Oh! _The_ book about filters and more filters. So many great ideas. My favourite is perhaps the improved root-Nyquist filter.</title>
+		<published>2022-12-16T23:21:19+00:00</published>
+		<updated>2022-12-16T23:21:19+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1603893062798901248</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1603893062798901248"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@OpenResearchIns Oh! _The_ book about filters and more filters. So many great ideas. My favourite is perhaps the improved root-Nyquist filter.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@Astro_Wael Great read! Exactly the same happens in maths. There one could naively expect that the reviewers' job is just to check if the proofs are correct. But it doesn't work, because no one checks the proofs thoroughly, because it's too much effort.</title>
+		<published>2022-12-16T23:18:41+00:00</published>
+		<updated>2022-12-16T23:18:41+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1603892398815322119</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1603892398815322119"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@Astro_Wael Great read! Exactly the same happens in maths. There one could naively expect that the reviewers' job is just to check if the proofs are correct. But it doesn't work, because no one checks the proofs thoroughly, because it's too much effort.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@coastal8049 Yeah. This is pretty normal. No manouevre is executed exactly as planned. That's what small orbit corrections are for.</title>
+		<published>2022-12-16T22:40:48+00:00</published>
+		<updated>2022-12-16T22:40:48+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1603882865577656320</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1603882865577656320"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@coastal8049 Yeah. This is pretty normal. No manouevre is executed exactly as planned. That's what small orbit corrections are for.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@coastal8049 @astrojockey @LucMilette Yes and no. This is called narrowband interferometry in Moyer's book about deep space navigation. For most accurate results you still need to know the spacecraft's transmit frequency. Although this technique is not as sensitive to TX frequency errors as single station Doppler.</title>
+		<published>2022-12-16T22:37:53+00:00</published>
+		<updated>2022-12-16T22:37:53+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1603882130240684034</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1603882130240684034"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@coastal8049 @astrojockey @LucMilette Yes and no. This is called narrowband interferometry in Moyer's book about deep space navigation. For most accurate results you still need to know the spacecraft's transmit frequency. Although this technique is not as sensitive to TX frequency errors as single station Doppler.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@42Sec @EttusResearch @schne1der_ @IanJohnBuckley In my experience with timing applications, in most cases you need to do an end-to-end measurement of the delay to calibrate it. There are always some terms or errors you can't compute from datasheets. What really matters is that the calibration stays consistent over reboots.</title>
+		<published>2022-12-16T10:47:16+00:00</published>
+		<updated>2022-12-16T10:47:16+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1603703298204340226</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1603703298204340226"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@42Sec @EttusResearch @schne1der_ @IanJohnBuckley In my experience with timing applications, in most cases you need to do an end-to-end measurement of the delay to calibrate it. There are always some terms or errors you can't compute from datasheets. What really matters is that the calibration stays consistent over reboots.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@42Sec @EttusResearch @schne1der_ I wouldn't call this an "issue". I can't think of an SDR which is not specific for timing applications that does better. This said, it would be nice if someone (either in Ettus or in the community) would cross-check/extend/document further Ian's notes: twitter.com/IanJohnBuckley…</title>
+		<published>2022-12-15T22:10:12+00:00</published>
+		<updated>2022-12-15T22:10:12+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1603512776965627931</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1603512776965627931"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@42Sec @EttusResearch @schne1der_ I wouldn't call this an "issue". I can't think of an SDR which is not specific for timing applications that does better. This said, it would be nice if someone (either in Ettus or in the community) would cross-check/extend/document further Ian's notes: &lt;a href="https://twitter.com/IanJohnBuckley/status/1582365449571823616"&gt;twitter.com/IanJohnBuckley…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@F5OEOEvariste Can't you use I2C on these tests pads in any revision by using EMIO? All the test pads are connected to 1.8V FPGA pins, if I remember correctly.</title>
+		<published>2022-12-14T07:00:26+00:00</published>
+		<updated>2022-12-14T07:00:26+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1602921439346171905</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1602921439346171905"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
@@ -46,14 +394,14 @@ Read more: destevez.net/2022/12/decodi… (2/2) pic.twitter.com/k6sfB0YYl2</titl
 		<updated>2022-12-12T20:42:59+00:00</updated>
 		<id>https://twitter.com/ea4gpz/status/1602403663498121226</id>
 		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1602403663498121226"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
 &lt;img
 	style="align:top; width:75px; border:1px solid black;"
 	alt="ea4gpz"
 	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+	title="Daniel Estévez" /&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
@@ -80,14 +428,14 @@ Read more: &lt;a href="https://destevez.net/2022/12/decoding-equuleus/"&gt;deste
 		<updated>2022-12-12T20:42:58+00:00</updated>
 		<id>https://twitter.com/ea4gpz/status/1602403660167843850</id>
 		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1602403660167843850"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
 &lt;img
 	style="align:top; width:75px; border:1px solid black;"
 	alt="ea4gpz"
 	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+	title="Daniel Estévez" /&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
@@ -113,14 +461,14 @@ Read more: &lt;a href="https://destevez.net/2022/12/decoding-equuleus/"&gt;deste
 		<updated>2022-12-12T07:03:23+00:00</updated>
 		<id>https://twitter.com/ea4gpz/status/1602197403762827264</id>
 		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1602197403762827264"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
 &lt;img
 	style="align:top; width:75px; border:1px solid black;"
 	alt="ea4gpz"
 	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+	title="Daniel Estévez" /&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
@@ -185,14 +533,14 @@ Most of the frames contain 0XCD, idle.
 		<updated>2022-12-11T19:52:17+00:00</updated>
 		<id>https://twitter.com/ea4gpz/status/1602028516115103744</id>
 		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1602028516115103744"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
 &lt;img
 	style="align:top; width:75px; border:1px solid black;"
 	alt="ea4gpz"
 	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+	title="Daniel Estévez" /&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
@@ -212,14 +560,14 @@ Most of the frames contain 0XCD, idle.
 		<updated>2022-12-11T19:13:23+00:00</updated>
 		<id>https://twitter.com/ea4gpz/status/1602018729050935296</id>
 		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1602018729050935296"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
 &lt;img
 	style="align:top; width:75px; border:1px solid black;"
 	alt="ea4gpz"
 	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
+	title="Daniel Estévez" /&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
@@ -262,360 +610,6 @@ Most of the frames contain 0XCD, idle.
 &lt;/div&gt;</content>
 		<link rel="enclosure" href="https://pbs.twimg.com/media/FjpQzQhaMAA59oR.jpg?name=orig" type="image/jpeg" />
 
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ka9q @nascom1 The fun thing is that projects weren't aware or didn't notify. It seems that many people didn't know about this astronomical event.</title>
-		<published>2022-12-10T08:53:52+00:00</published>
-		<updated>2022-12-10T08:53:52+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1601500434346422272</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601500434346422272"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q @nascom1 The fun thing is that projects weren't aware or didn't notify. It seems that many people didn't know about this astronomical event.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ka9q @nascom1 You would have had the Mars occultation at Madrid a few hours before LOS, unless you had already handed over to Goldstone. One of the complexes would have seen the occultation anyway, and it happened during Canberra's shift. My bet is this was the occultation rather than rain.</title>
-		<published>2022-12-10T08:52:25+00:00</published>
-		<updated>2022-12-10T08:52:25+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1601500067361587200</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601500067361587200"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q @nascom1 You would have had the Mars occultation at Madrid a few hours before LOS, unless you had already handed over to Goldstone. One of the complexes would have seen the occultation anyway, and it happened during Canberra's shift. My bet is this was the occultation rather than rain.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@DrChrisBridges @gnuradio The 1 is the first quaternion component by the order in which they appear on the packet, but I'm not sure if it's scalar first or scalar last order. I'm picking scalar first order for the analysis, but could well be wrong.</title>
-		<published>2022-12-09T23:14:21+00:00</published>
-		<updated>2022-12-09T23:14:21+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1601354595200299008</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601354595200299008"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@DrChrisBridges @gnuradio The 1 is the first quaternion component by the order in which they appear on the packet, but I'm not sure if it's scalar first or scalar last order. I'm picking scalar first order for the analysis, but could well be wrong.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@DrChrisBridges @gnuradio These quaternions do have unit norm. I have already applied the appropriate scale factor (2e9) to the raw telemetry values to get this plot. pic.twitter.com/FuHUbBvRAQ</title>
-		<published>2022-12-09T23:06:55+00:00</published>
-		<updated>2022-12-09T23:06:55+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1601352724167110657</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601352724167110657"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@DrChrisBridges @gnuradio These quaternions do have unit norm. I have already applied the appropriate scale factor (2e9) to the raw telemetry values to get this plot. &lt;a href="https://twitter.com/ea4gpz/status/1601352724167110657/photo/1"&gt;pic.twitter.com/FuHUbBvRAQ&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fjkl0PZXEAEkQQo.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fjkl0PZXEAEkQQo.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/Fjkl0PZXEAEkQQo.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@DrChrisBridges @gnuradio I hadn't thought of state derivatives, so I'll give this thought a go and maybe it matches some of what I see. How are the derivatives usually represented?</title>
-		<published>2022-12-09T22:49:41+00:00</published>
-		<updated>2022-12-09T22:49:41+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1601348386715684864</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601348386715684864"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@DrChrisBridges @gnuradio I hadn't thought of state derivatives, so I'll give this thought a go and maybe it matches some of what I see. How are the derivatives usually represented?&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@DrChrisBridges @gnuradio The fact that in this image something appears to converge is just because I'm ploting the rotation axis of the relative rotation between intial time and the rest of the times. Near the initial time the rotation is very small and the problem is ill-conditioned.</title>
-		<published>2022-12-09T22:48:25+00:00</published>
-		<updated>2022-12-09T22:48:25+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1601348068800344067</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601348068800344067"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@DrChrisBridges @gnuradio The fact that in this image something appears to converge is just because I'm ploting the rotation axis of the relative rotation between intial time and the rest of the times. Near the initial time the rotation is very small and the problem is ill-conditioned.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@Tomas_Stellar I've counted 1.56 rpm.</title>
-		<published>2022-12-09T22:42:01+00:00</published>
-		<updated>2022-12-09T22:42:01+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1601346456958697474</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601346456958697474"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@Tomas_Stellar I've counted 1.56 rpm.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Still, as usual, there are many mysteries in trying to interpret all this telemetry data. IQ recordings, @gnuradio flowgraphs and Jupyter notebooks are given. Read more in the detailed post: destevez.net/2022/12/decodi… (3/3)</title>
-		<published>2022-12-09T22:17:58+00:00</published>
-		<updated>2022-12-09T22:17:58+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1601340402820591616</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601340402820591616"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Still, as usual, there are many mysteries in trying to interpret all this telemetry data. IQ recordings, @gnuradio flowgraphs and Jupyter notebooks are given. Read more in the detailed post: &lt;a href="https://destevez.net/2022/12/decoding-lunah-map/"&gt;destevez.net/2022/12/decodi…&lt;/a&gt; (3/3)&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">The spacecraft uses Turbo coding and AOS frames. I reverse-engineer some of the telemetry, seeing that it's quaternion data. I relate this with the fading we see in the waterfall, showing that the quaternions are real-time attitude data and the spacecraft is rotating. (2/3) pic.twitter.com/VYX5asUUgW</title>
-		<published>2022-12-09T22:17:57+00:00</published>
-		<updated>2022-12-09T22:17:57+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1601340399947112448</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601340399947112448"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;The spacecraft uses Turbo coding and AOS frames. I reverse-engineer some of the telemetry, seeing that it's quaternion data. I relate this with the fading we see in the waterfall, showing that the quaternions are real-time attitude data and the spacecraft is rotating. (2/3) &lt;a href="https://twitter.com/ea4gpz/status/1601340399947112448/photo/1"&gt;pic.twitter.com/VYX5asUUgW&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FjkabhXWAAEXXG0.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FjkabhXWAAEXXG0.png" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FjkYx2zXgAEOq3d.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FjkYx2zXgAEOq3d.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FjkabhXWAAEXXG0.png?name=orig" type="image/png" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FjkYx2zXgAEOq3d.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">New blog post: Decoding LunaH-Map. I look at the Allen Telescope Array recordings of the @lunahmap #Artemis1 cubesat. These include two different modulations. One that sends data at 8kbps and another at 128kbps. For the second one I beamform two antennas to have enough SNR. (1/3) pic.twitter.com/6jsp7lonYz</title>
-		<published>2022-12-09T22:17:55+00:00</published>
-		<updated>2022-12-09T22:17:55+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1601340393731551232</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601340393731551232"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;New blog post: Decoding LunaH-Map. I look at the Allen Telescope Array recordings of the @lunahmap #Artemis1 cubesat. These include two different modulations. One that sends data at 8kbps and another at 128kbps. For the second one I beamform two antennas to have enough SNR. (1/3) &lt;a href="https://twitter.com/ea4gpz/status/1601340393731551232/photo/1"&gt;pic.twitter.com/6jsp7lonYz&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FjkZ1JuXkAAqNIt.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FjkZ1JuXkAAqNIt.png" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FjkX4fzXkAAcith.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FjkX4fzXkAAcith.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FjkZ1JuXkAAqNIt.png?name=orig" type="image/png" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FjkX4fzXkAAcith.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@DrzalMichal That's awful! At least the MIL-STD thing was credible. It almost sounded like the kind of thing I could have done in an alternate universe. But that list just seems like the template names which Github gives you when you create a new repo.</title>
-		<published>2022-12-09T20:32:42+00:00</published>
-		<updated>2022-12-09T20:32:42+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1601313911768485888</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601313911768485888"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@DrzalMichal That's awful! At least the MIL-STD thing was credible. It almost sounded like the kind of thing I could have done in an alternate universe. But that list just seems like the template names which Github gives you when you create a new repo.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@DrzalMichal The thing is the repository that ChatGPT mentions doesn't exist. I've never implemented this protocol. ChatGPT is trying desperately to give a plausible sounding answer, like students on an exam question they don't know the answer to.</title>
-		<published>2022-12-09T19:32:34+00:00</published>
-		<updated>2022-12-09T19:32:34+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1601298779889881088</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1601298779889881088"/>
-		<author><name>Daniel Estévez (@destevez@mastodon.social) (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez (@destevez@mastodon.social)" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@DrzalMichal The thing is the repository that ChatGPT mentions doesn't exist. I've never implemented this protocol. ChatGPT is trying desperately to give a plausible sounding answer, like students on an exam question they don't know the answer to.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
 		
 		
 	</entry>
