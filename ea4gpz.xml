@@ -5,12 +5,78 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-12-25T05:57:09+00:00</updated>
+	<updated>2022-12-28T06:25:40+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@luigifcruz Cust is quite nice to use, and a single consistent Rust bindings of CUDA. You can keep your kernels in C++. I have at my dayjob a project using Cust and C++ kernels, so I can give some pointers about how to set this up.</title>
+		<published>2022-12-27T20:52:55+00:00</published>
+		<updated>2022-12-27T20:52:55+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1607841981178470400</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1607841981178470400"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@luigifcruz Cust is quite nice to use, and a single consistent Rust bindings of CUDA. You can keep your kernels in C++. I have at my dayjob a project using Cust and C++ kernels, so I can give some pointers about how to set this up.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">#KPLO Lunar occultation diffraction pattern observed today with my 1.8m dish.  Thanks for the great info by @ea4gpz and @cgbassa. 
+
+More info on what this means:
+twitter.com/ea4gpz/status/… pic.twitter.com/jss3OdnOJH</title>
+		<published>2022-12-27T00:15:40+00:00</published>
+		<updated>2022-12-27T00:15:40+00:00</updated>
+		<id>https://twitter.com/coastal8049/status/1607530616958091266</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/coastal8049/status/1607530616958091266"/>
+		<author><name>RT: Scott Tilley (@coastal8049)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/coastal8049"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="coastal8049"
+	src="https://pbs.twimg.com/profile_images/1571958771060215808/LYThoGMk_normal.jpg"
+	title="Scott Tilley" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;#KPLO Lunar occultation diffraction pattern observed today with my 1.8m dish.  Thanks for the great info by @ea4gpz and @cgbassa. 
+
+More info on what this means:
+&lt;a href="https://twitter.com/ea4gpz/status/1118896321124032512"&gt;twitter.com/ea4gpz/status/…&lt;/a&gt; &lt;a href="https://twitter.com/coastal8049/status/1607530616958091266/photo/1"&gt;pic.twitter.com/jss3OdnOJH&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fk8YeFuaYAEuKL1.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Fk8YeFuaYAEuKL1.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/Fk8YeFuaYAEuKL1.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@ea4gpz 
@@ -550,66 +616,6 @@ Most of the frames contain 0XCD, idle.
 	&lt;blockquote&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
 		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ibelings I wonder why. Unless it's mostly elliptically polarized in the opposite direction, I'd guess you'd attenuate it by something between 3dB if it's mostly linear to nothing if it's mostly unpolarized.</title>
-		<published>2022-12-11T19:13:23+00:00</published>
-		<updated>2022-12-11T19:13:23+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1602018729050935296</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1602018729050935296"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ibelings I wonder why. Unless it's mostly elliptically polarized in the opposite direction, I'd guess you'd attenuate it by something between 3dB if it's mostly linear to nothing if it's mostly unpolarized.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@esaspaceflight @NASA_Orion We measured the burn loud and clear with our 25m dish! pic.twitter.com/Kghwc0LsuM</title>
-		<published>2022-12-10T20:54:43+00:00</published>
-		<updated>2022-12-10T20:54:43+00:00</updated>
-		<id>https://twitter.com/radiotelescoop/status/1601681842855256064</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/radiotelescoop/status/1601681842855256064"/>
-		<author><name>RT: Dwingeloo Telescoop (@radiotelescoop)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/radiotelescoop"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="radiotelescoop"
-	src="https://pbs.twimg.com/profile_images/442737519201755136/VG_aS-GP_normal.jpeg"
-	title="Dwingeloo Telescoop" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@esaspaceflight @NASA_Orion We measured the burn loud and clear with our 25m dish! &lt;a href="https://twitter.com/radiotelescoop/status/1601681842855256064/photo/1"&gt;pic.twitter.com/Kghwc0LsuM&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FjpQzQhaMAA59oR.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FjpQzQhaMAA59oR.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FjpQzQhaMAA59oR.jpg?name=orig" type="image/jpeg" />
-
 		
 		
 	</entry>
