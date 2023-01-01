@@ -5,12 +5,163 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2022-12-28T06:25:40+00:00</updated>
+	<updated>2023-01-01T05:08:53+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">"Who We Are" project paper is complete. It includes US amateur radio demographics, a literature review, and practical advice on how (and why) to improve diversity and inclusion.
+
+The paper and other resources can be found at github.com/Abraxas3d/Demo…</title>
+		<published>2022-12-31T16:08:47+00:00</published>
+		<updated>2022-12-31T16:08:47+00:00</updated>
+		<id>https://twitter.com/abraxas3d/status/1609220030184714241</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/abraxas3d/status/1609220030184714241"/>
+		<author><name>RT: Abraxas3d (in the lab) (@abraxas3d)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/abraxas3d"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="abraxas3d"
+	src="https://pbs.twimg.com/profile_images/1307052868306862082/9JJkEJtE_normal.jpg"
+	title="Abraxas3d (in the lab)" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;"Who We Are" project paper is complete. It includes US amateur radio demographics, a literature review, and practical advice on how (and why) to improve diversity and inclusion.
+
+The paper and other resources can be found at &lt;a href="https://github.com/Abraxas3d/Demographics/blob/master/Who-We-Are.pdf"&gt;github.com/Abraxas3d/Demo…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@pe0sat @jwcutler Thanks for sharing! Added this and NUTSat to gr-satellites.</title>
+		<published>2022-12-30T09:24:06+00:00</published>
+		<updated>2022-12-30T09:24:06+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1608755801551949826</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1608755801551949826"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@pe0sat @jwcutler Thanks for sharing! Added this and NUTSat to gr-satellites.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">As always, the IQ recording, GNU Radio flowgraphs and Jupyter notebooks are linked in the post. Read more: destevez.net/2022/12/decodi… (3/3)</title>
+		<published>2022-12-29T15:27:16+00:00</published>
+		<updated>2022-12-29T15:27:16+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1608484807234945025</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1608484807234945025"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;As always, the IQ recording, GNU Radio flowgraphs and Jupyter notebooks are linked in the post. Read more: &lt;a href="https://destevez.net/2022/12/decoding-argomoon/"&gt;destevez.net/2022/12/decodi…&lt;/a&gt; (3/3)&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">There are two modes I recorded: 2kbaud PCM/PSK/PM and 32kbaud PCM/PM/NRZ. Both use r=1/2 Turbo code with 8920 bit frames. I've been able to decode some frames from the low data rate signal, but the SNR of the faster signal is marginal and I have failed to decode any frames. (2/3) pic.twitter.com/uZF3kYMlmm</title>
+		<published>2022-12-29T15:27:16+00:00</published>
+		<updated>2022-12-29T15:27:16+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1608484804223291397</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1608484804223291397"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;There are two modes I recorded: 2kbaud PCM/PSK/PM and 32kbaud PCM/PM/NRZ. Both use r=1/2 Turbo code with 8920 bit frames. I've been able to decode some frames from the low data rate signal, but the SNR of the faster signal is marginal and I have failed to decode any frames. (2/3) &lt;a href="https://twitter.com/ea4gpz/status/1608484804223291397/photo/1"&gt;pic.twitter.com/uZF3kYMlmm&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FlJ8O7hXoAA6FCb.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FlJ8O7hXoAA6FCb.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FlJ8O7hXoAA6FCb.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">New blog post: Decoding ArgoMoon. Another post in the Artemis I series. Here I decode the X-band signal of @Argotec_Space's ArgoMoon cubesat using some Allen Telescope Array IQ recordings done on the day of the launch. (1/3) pic.twitter.com/2rp39wPu8I</title>
+		<published>2022-12-29T15:27:15+00:00</published>
+		<updated>2022-12-29T15:27:15+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1608484799987040257</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1608484799987040257"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;New blog post: Decoding ArgoMoon. Another post in the Artemis I series. Here I decode the X-band signal of @Argotec_Space's ArgoMoon cubesat using some Allen Telescope Array IQ recordings done on the day of the launch. (1/3) &lt;a href="https://twitter.com/ea4gpz/status/1608484799987040257/photo/1"&gt;pic.twitter.com/2rp39wPu8I&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FlJ8Dv9XoAI9RNR.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FlJ8Dv9XoAI9RNR.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FlJ8Dv9XoAI9RNR.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@luigifcruz Cust is quite nice to use, and a single consistent Rust bindings of CUDA. You can keep your kernels in C++. I have at my dayjob a project using Cust and C++ kernels, so I can give some pointers about how to set this up.</title>
@@ -444,173 +595,6 @@ Check it out: &lt;a href="https://github.com/dcajacob/tle-tailor"&gt;github.com/
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@F5OEOEvariste Can't you use I2C on these tests pads in any revision by using EMIO? All the test pads are connected to 1.8V FPGA pins, if I remember correctly.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">I haven't been able to find anything in the packets that I know how to interpret. But maybe others will have better ideas. As always, I've shared the data and code.
-Read more: destevez.net/2022/12/decodi… (2/2) pic.twitter.com/k6sfB0YYl2</title>
-		<published>2022-12-12T20:42:59+00:00</published>
-		<updated>2022-12-12T20:42:59+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1602403663498121226</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1602403663498121226"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;I haven't been able to find anything in the packets that I know how to interpret. But maybe others will have better ideas. As always, I've shared the data and code.
-Read more: &lt;a href="https://destevez.net/2022/12/decoding-equuleus/"&gt;destevez.net/2022/12/decodi…&lt;/a&gt; (2/2) &lt;a href="https://twitter.com/ea4gpz/status/1602403663498121226/photo/1"&gt;pic.twitter.com/k6sfB0YYl2&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fjzhmm2XEAsgymz.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fjzhmm2XEAsgymz.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/Fjzhmm2XEAsgymz.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">New blog post: Decoding @EQUULEUS_en. Another post about an #Artemis1 cubesat. Here I decode the @JAXA_en satellite EQUULEUS, which uses 8192 baud PCM/PSK/PM with 262.144 kHz subcarrier and concatenated coding. (1/2) pic.twitter.com/LGSmDjoafB</title>
-		<published>2022-12-12T20:42:58+00:00</published>
-		<updated>2022-12-12T20:42:58+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1602403660167843850</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1602403660167843850"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;New blog post: Decoding @EQUULEUS_en. Another post about an #Artemis1 cubesat. Here I decode the @JAXA_en satellite EQUULEUS, which uses 8192 baud PCM/PSK/PM with 262.144 kHz subcarrier and concatenated coding. (1/2) &lt;a href="https://twitter.com/ea4gpz/status/1602403660167843850/photo/1"&gt;pic.twitter.com/LGSmDjoafB&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FjzhcdfXoAIwCWX.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FjzhcdfXoAIwCWX.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FjzhcdfXoAIwCWX.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@MindGearStudio @Ayliean youtu.be/IKmX2mJesZA</title>
-		<published>2022-12-12T07:03:23+00:00</published>
-		<updated>2022-12-12T07:03:23+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1602197403762827264</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1602197403762827264"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@MindGearStudio @Ayliean &lt;a href="https://youtu.be/IKmX2mJesZA"&gt;youtu.be/IKmX2mJesZA&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">LunarFlashlight cubesat demodulation.
-Symbol=48076  , CCSDS Turbo 1/6
-Most of the frames contain 0XCD, idle.
-@ea4gpz pic.twitter.com/t05ESD9375</title>
-		<published>2022-12-12T04:05:19+00:00</published>
-		<updated>2022-12-12T04:05:19+00:00</updated>
-		<id>https://twitter.com/LucMilette/status/1602152592804835330</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/LucMilette/status/1602152592804835330"/>
-		<author><name>RT: Jean-Luc Milette (@LucMilette)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/LucMilette"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="LucMilette"
-	src="https://pbs.twimg.com/profile_images/946760195455225856/o6vfYe1O_normal.jpg"
-	title="Jean-Luc Milette" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;LunarFlashlight cubesat demodulation.
-Symbol=48076  , CCSDS Turbo 1/6
-Most of the frames contain 0XCD, idle.
-@ea4gpz &lt;a href="https://twitter.com/LucMilette/status/1602152592804835330/photo/1"&gt;pic.twitter.com/t05ESD9375&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fjv8e4mWAAE9OrZ.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fjv8e4mWAAE9OrZ.jpg" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/Fjv9JxcWAAcJE80.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fjv9JxcWAAcJE80.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/Fjv8e4mWAAE9OrZ.jpg?name=orig" type="image/jpeg" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/Fjv9JxcWAAcJE80.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ibelings Nice! I never understood properly the ordinary and extraordinary waves. I never saw how to pass from the Appleton-Hartree equation to something simple as LHCP vs. RHCP. I read some of Bittencourt's Plasma Physics book, but never got to this point. Do you know a better reference?</title>
-		<published>2022-12-11T19:52:17+00:00</published>
-		<updated>2022-12-11T19:52:17+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1602028516115103744</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1602028516115103744"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ibelings Nice! I never understood properly the ordinary and extraordinary waves. I never saw how to pass from the Appleton-Hartree equation to something simple as LHCP vs. RHCP. I read some of Bittencourt's Plasma Physics book, but never got to this point. Do you know a better reference?&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
