@@ -5,12 +5,252 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-01-01T05:08:53+00:00</updated>
+	<updated>2023-01-06T06:37:33+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@PI9CAM @radiotelescoop Thanks! That was very helpful. I've gone through the plots and assembled a short list of recordings I'd been interested in looking at. Could this be moved over to the web server? (hopefully they're not too large): gist.github.com/daniestevez/c4…</title>
+		<published>2023-01-05T15:35:59+00:00</published>
+		<updated>2023-01-05T15:35:59+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1611023712387764228</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1611023712387764228"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@PI9CAM @radiotelescoop Thanks! That was very helpful. I've gone through the plots and assembled a short list of recordings I'd been interested in looking at. Could this be moved over to the web server? (hopefully they're not too large): &lt;a href="https://gist.github.com/daniestevez/c48dcf6dab78fb8b113bdcc6496e1308"&gt;gist.github.com/daniestevez/c4…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@2m0sql @ka9q @PRStoetzer @AA5PK Yes. QO-100 is used quite okay in this respect. A MEO could be used similarly. LEO is another story. Much higher path loss changes, tumbling and pointing errors, so people can overcompensate.</title>
+		<published>2023-01-05T08:24:54+00:00</published>
+		<updated>2023-01-05T08:24:54+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1610915229893890049</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1610915229893890049"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@2m0sql @ka9q @PRStoetzer @AA5PK Yes. QO-100 is used quite okay in this respect. A MEO could be used similarly. LEO is another story. Much higher path loss changes, tumbling and pointing errors, so people can overcompensate.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@rnbokade This is done sometimes. For instance, the V.26 modem. But the carrier frequency is usually not 2*symbol rate, but much lower. 19.2kHz is hardly "audio frequency" any more.</title>
+		<published>2023-01-04T17:07:44+00:00</published>
+		<updated>2023-01-04T17:07:44+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1610684416703041538</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1610684416703041538"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@rnbokade This is done sometimes. For instance, the V.26 modem. But the carrier frequency is usually not 2*symbol rate, but much lower. 19.2kHz is hardly "audio frequency" any more.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@PI9CAM @radiotelescoop Sorry, forgot the link: gist.github.com/daniestevez/0d…</title>
+		<published>2023-01-03T18:24:48+00:00</published>
+		<updated>2023-01-03T18:24:48+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1610341424184139786</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1610341424184139786"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@PI9CAM @radiotelescoop Sorry, forgot the link: &lt;a href="https://gist.github.com/daniestevez/0d519fd4044f3b9f44e170fd619fbb40"&gt;gist.github.com/daniestevez/0d…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@PI9CAM @radiotelescoop Great! Maybe the following script is useful. It plots the spectrum of the beginning of each SigMF file, as shown here. I used this to sort quickly through all the recordings on the web server and select those that had good SNR and the modulation I wanted. pic.twitter.com/CMFFh68tyD</title>
+		<published>2023-01-03T18:22:12+00:00</published>
+		<updated>2023-01-03T18:22:12+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1610340766538153985</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1610340766538153985"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@PI9CAM @radiotelescoop Great! Maybe the following script is useful. It plots the spectrum of the beginning of each SigMF file, as shown here. I used this to sort quickly through all the recordings on the web server and select those that had good SNR and the modulation I wanted. &lt;a href="https://twitter.com/ea4gpz/status/1610340766538153985/photo/1"&gt;pic.twitter.com/CMFFh68tyD&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FlkUKVvWAAEhVsu.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FlkUKVvWAAEhVsu.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FlkUKVvWAAEhVsu.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">I had to look at some other not-so-good recordings to discover what was happening and solve this small mystery. Read the details at: destevez.net/2023/01/decodi… (2/2) pic.twitter.com/O4qewh1H0R</title>
+		<published>2023-01-02T21:47:09+00:00</published>
+		<updated>2023-01-02T21:47:09+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1610029957857558533</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1610029957857558533"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;I had to look at some other not-so-good recordings to discover what was happening and solve this small mystery. Read the details at: &lt;a href="https://destevez.net/2023/01/decoding-the-orion-residual-carrier-telemetry/"&gt;destevez.net/2023/01/decodi…&lt;/a&gt; (2/2) &lt;a href="https://twitter.com/ea4gpz/status/1610029957857558533/photo/1"&gt;pic.twitter.com/O4qewh1H0R&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Flf5kvdWIAEMLtE.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Flf5kvdWIAEMLtE.png" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/Flf453JXEAgUISK.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Flf453JXEAgUISK.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/Flf5kvdWIAEMLtE.png?name=orig" type="image/png" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/Flf453JXEAgUISK.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">New blog post: Decoding the Orion residual carrier telemetry. Here I look at some @radiotelescoop recordings of #Artemis1 Orion using PCM/PM/NRZ at 2Mbaud. Demodulating this is simple, but I was surprised to discover that the LDPC decoder that I used for OQPSK didn't work. (1/2) pic.twitter.com/i2XUktPVue</title>
+		<published>2023-01-02T21:47:08+00:00</published>
+		<updated>2023-01-02T21:47:08+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1610029954045022208</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1610029954045022208"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;New blog post: Decoding the Orion residual carrier telemetry. Here I look at some @radiotelescoop recordings of #Artemis1 Orion using PCM/PM/NRZ at 2Mbaud. Demodulating this is simple, but I was surprised to discover that the LDPC decoder that I used for OQPSK didn't work. (1/2) &lt;a href="https://twitter.com/ea4gpz/status/1610029954045022208/photo/1"&gt;pic.twitter.com/i2XUktPVue&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Flf5OyrXoAYcGbv.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Flf5OyrXoAYcGbv.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/Flf5OyrXoAYcGbv.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@coastal8049 I wonder if the TC packets could be decoded from this audio. Probably yes.</title>
+		<published>2023-01-01T10:37:00+00:00</published>
+		<updated>2023-01-01T10:37:00+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1609498922183163904</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1609498922183163904"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@coastal8049 I wonder if the TC packets could be decoded from this audio. Probably yes.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">"Who We Are" project paper is complete. It includes US amateur radio demographics, a literature review, and practical advice on how (and why) to improve diversity and inclusion.
@@ -373,228 +613,6 @@ Check it out: &lt;a href="https://github.com/dcajacob/tle-tailor"&gt;github.com/
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@WirelessPi Occasionally there are. Watch out for the "maths" category, where more math-heavy posts go:&lt;a href="https://destevez.net/category/maths/"&gt;destevez.net/category/maths/&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">New blog post: A note about non-matched pulse filtering. I show that the losses caused by receiving a PAM waveform with pulse p(t) using a non-matched filter h(t) are given by this equation. destevez.net/2022/12/a-note… pic.twitter.com/mBvfeWQkq9</title>
-		<published>2022-12-17T15:45:21+00:00</published>
-		<updated>2022-12-17T15:45:21+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1604140700601393157</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1604140700601393157"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;New blog post: A note about non-matched pulse filtering. I show that the losses caused by receiving a PAM waveform with pulse p(t) using a non-matched filter h(t) are given by this equation. &lt;a href="https://destevez.net/2022/12/a-note-about-non-matched-pulse-filtering/"&gt;destevez.net/2022/12/a-note…&lt;/a&gt; &lt;a href="https://twitter.com/ea4gpz/status/1604140700601393157/photo/1"&gt;pic.twitter.com/mBvfeWQkq9&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FkMNanwXEAEDHeH.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FkMNanwXEAEDHeH.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FkMNanwXEAEDHeH.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@OpenResearchIns Oh! _The_ book about filters and more filters. So many great ideas. My favourite is perhaps the improved root-Nyquist filter.</title>
-		<published>2022-12-16T23:21:19+00:00</published>
-		<updated>2022-12-16T23:21:19+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1603893062798901248</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1603893062798901248"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@OpenResearchIns Oh! _The_ book about filters and more filters. So many great ideas. My favourite is perhaps the improved root-Nyquist filter.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@Astro_Wael Great read! Exactly the same happens in maths. There one could naively expect that the reviewers' job is just to check if the proofs are correct. But it doesn't work, because no one checks the proofs thoroughly, because it's too much effort.</title>
-		<published>2022-12-16T23:18:41+00:00</published>
-		<updated>2022-12-16T23:18:41+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1603892398815322119</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1603892398815322119"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@Astro_Wael Great read! Exactly the same happens in maths. There one could naively expect that the reviewers' job is just to check if the proofs are correct. But it doesn't work, because no one checks the proofs thoroughly, because it's too much effort.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@coastal8049 Yeah. This is pretty normal. No manouevre is executed exactly as planned. That's what small orbit corrections are for.</title>
-		<published>2022-12-16T22:40:48+00:00</published>
-		<updated>2022-12-16T22:40:48+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1603882865577656320</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1603882865577656320"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@coastal8049 Yeah. This is pretty normal. No manouevre is executed exactly as planned. That's what small orbit corrections are for.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@coastal8049 @astrojockey @LucMilette Yes and no. This is called narrowband interferometry in Moyer's book about deep space navigation. For most accurate results you still need to know the spacecraft's transmit frequency. Although this technique is not as sensitive to TX frequency errors as single station Doppler.</title>
-		<published>2022-12-16T22:37:53+00:00</published>
-		<updated>2022-12-16T22:37:53+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1603882130240684034</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1603882130240684034"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@coastal8049 @astrojockey @LucMilette Yes and no. This is called narrowband interferometry in Moyer's book about deep space navigation. For most accurate results you still need to know the spacecraft's transmit frequency. Although this technique is not as sensitive to TX frequency errors as single station Doppler.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@42Sec @EttusResearch @schne1der_ @IanJohnBuckley In my experience with timing applications, in most cases you need to do an end-to-end measurement of the delay to calibrate it. There are always some terms or errors you can't compute from datasheets. What really matters is that the calibration stays consistent over reboots.</title>
-		<published>2022-12-16T10:47:16+00:00</published>
-		<updated>2022-12-16T10:47:16+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1603703298204340226</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1603703298204340226"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@42Sec @EttusResearch @schne1der_ @IanJohnBuckley In my experience with timing applications, in most cases you need to do an end-to-end measurement of the delay to calibrate it. There are always some terms or errors you can't compute from datasheets. What really matters is that the calibration stays consistent over reboots.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@42Sec @EttusResearch @schne1der_ I wouldn't call this an "issue". I can't think of an SDR which is not specific for timing applications that does better. This said, it would be nice if someone (either in Ettus or in the community) would cross-check/extend/document further Ian's notes: twitter.com/IanJohnBuckley…</title>
-		<published>2022-12-15T22:10:12+00:00</published>
-		<updated>2022-12-15T22:10:12+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1603512776965627931</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1603512776965627931"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@42Sec @EttusResearch @schne1der_ I wouldn't call this an "issue". I can't think of an SDR which is not specific for timing applications that does better. This said, it would be nice if someone (either in Ettus or in the community) would cross-check/extend/document further Ian's notes: &lt;a href="https://twitter.com/IanJohnBuckley/status/1582365449571823616"&gt;twitter.com/IanJohnBuckley…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@F5OEOEvariste Can't you use I2C on these tests pads in any revision by using EMIO? All the test pads are connected to 1.8V FPGA pins, if I remember correctly.</title>
-		<published>2022-12-14T07:00:26+00:00</published>
-		<updated>2022-12-14T07:00:26+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1602921439346171905</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1602921439346171905"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@F5OEOEvariste Can't you use I2C on these tests pads in any revision by using EMIO? All the test pads are connected to 1.8V FPGA pins, if I remember correctly.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
