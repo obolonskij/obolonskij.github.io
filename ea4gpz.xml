@@ -5,12 +5,39 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-01-15T06:14:40+00:00</updated>
+	<updated>2023-01-16T05:20:43+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@scott23192 What software are you using for the LTE scan?</title>
+		<published>2023-01-15T08:09:37+00:00</published>
+		<updated>2023-01-15T08:09:37+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1614535262977286145</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1614535262977286145"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@scott23192 What software are you using for the LTE scan?&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@devnulling @IanJohnBuckley Still seems too good to be true. I suspect that the overfitting is in the number of geometric configurations they've trained and tested. The positions of TX, RX and people look similar, and perhaps they've only used a few different poses and people positions in the scene.</title>
@@ -570,33 +597,6 @@ The paper and other resources can be found at github.com/Abraxas3d/Demo…</titl
 	&lt;blockquote&gt;"Who We Are" project paper is complete. It includes US amateur radio demographics, a literature review, and practical advice on how (and why) to improve diversity and inclusion.
 
 The paper and other resources can be found at &lt;a href="https://github.com/Abraxas3d/Demographics/blob/master/Who-We-Are.pdf"&gt;github.com/Abraxas3d/Demo…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@pe0sat @jwcutler Thanks for sharing! Added this and NUTSat to gr-satellites.</title>
-		<published>2022-12-30T09:24:06+00:00</published>
-		<updated>2022-12-30T09:24:06+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1608755801551949826</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1608755801551949826"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@pe0sat @jwcutler Thanks for sharing! Added this and NUTSat to gr-satellites.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;

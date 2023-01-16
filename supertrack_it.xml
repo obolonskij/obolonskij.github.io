@@ -5,12 +5,45 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-01-13T10:22:55+00:00</updated>
+	<updated>2023-01-16T05:20:44+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">Bel passaggio notturno di Suomi, elevazione massima 32 gradi. Hackrf+SatDumb 20 mbps snr 10,5 db pic.twitter.com/4BApFiRon2</title>
+		<published>2023-01-15T01:04:02+00:00</published>
+		<updated>2023-01-15T01:04:02+00:00</updated>
+		<id>https://twitter.com/Dario24105/status/1614428160619069441</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/Dario24105/status/1614428160619069441"/>
+		<author><name>RT: Dario (@Dario24105)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/Dario24105"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="Dario24105"
+	src="https://pbs.twimg.com/profile_images/1523205638796500993/ty5wwp3g_normal.jpg"
+	title="Dario" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Bel passaggio notturno di Suomi, elevazione massima 32 gradi. Hackrf+SatDumb 20 mbps snr 10,5 db &lt;a href="https://twitter.com/Dario24105/status/1614428160619069441/photo/1"&gt;pic.twitter.com/4BApFiRon2&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FmeZdcpWIAIMFF2.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FmeZdcpWIAIMFF2.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FmeZdcpWIAIMFF2.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@Dario24105 Grande Dario!</title>
@@ -609,39 +642,6 @@ Data download with speed change.
 &lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
 		<link rel="enclosure" href="https://pbs.twimg.com/media/FjOruvuWYAIEQAk.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Danuri KPLO on 2260.798 MHz. Thanks to Roland @df3lz for headup pic.twitter.com/DyrXBRhqB5</title>
-		<published>2022-12-04T17:47:08+00:00</published>
-		<updated>2022-12-04T17:47:08+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1599460307507638272</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1599460307507638272"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Danuri KPLO on 2260.798 MHz. Thanks to Roland @df3lz for headup &lt;a href="https://twitter.com/supertrack_it/status/1599460307507638272/photo/1"&gt;pic.twitter.com/DyrXBRhqB5&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FjJsnS2WYAIh6EK.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FjJsnS2WYAIh6EK.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FjJsnS2WYAIh6EK.png?name=orig" type="image/png" />
 
 		
 		
