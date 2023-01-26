@@ -5,12 +5,356 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-01-19T07:21:48+00:00</updated>
+	<updated>2023-01-26T08:33:08+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@TargetedColora1 This was recorded in Spain, not in the US. This is the B20 LTE band in many European countries.</title>
+		<published>2023-01-25T19:38:22+00:00</published>
+		<updated>2023-01-25T19:38:22+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1618332468503019521</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1618332468503019521"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@TargetedColora1 This was recorded in Spain, not in the US. This is the B20 LTE band in many European countries.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">These show that the spacecraft is slowly spinning around its Z-axis, which is pointed to the Sun, aiming its solar panels directly to it. The antenna is pointed 23º away from the Earth, but this is okay, because it is a low-gain patch antenna.
+
+Read more: destevez.net/2023/01/decodi… pic.twitter.com/fPkX2xVjG9</title>
+		<published>2023-01-22T14:46:54+00:00</published>
+		<updated>2023-01-22T14:46:54+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1617171955341312002</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1617171955341312002"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;These show that the spacecraft is slowly spinning around its Z-axis, which is pointed to the Sun, aiming its solar panels directly to it. The antenna is pointed 23º away from the Earth, but this is okay, because it is a low-gain patch antenna.
+
+Read more: &lt;a href="https://destevez.net/2023/01/decoding-lunar-flashlight/"&gt;destevez.net/2023/01/decodi…&lt;/a&gt; &lt;a href="https://twitter.com/ea4gpz/status/1617171955341312002/photo/1"&gt;pic.twitter.com/fPkX2xVjG9&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FnFZQ3-XwAUTtiS.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FnFZQ3-XwAUTtiS.png" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FnFYKkuXkAEu11Q.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FnFYKkuXkAEu11Q.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FnFZQ3-XwAUTtiS.png?name=orig" type="image/png" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FnFYKkuXkAEu11Q.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">These packets contain ADCS telemetry. I have managed to interpret correctly the attitude quaternions and gyroscopes data. (3/4) pic.twitter.com/4zwSeWYyMi</title>
+		<published>2023-01-22T14:46:53+00:00</published>
+		<updated>2023-01-22T14:46:53+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1617171951079903234</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1617171951079903234"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;These packets contain ADCS telemetry. I have managed to interpret correctly the attitude quaternions and gyroscopes data. (3/4) &lt;a href="https://twitter.com/ea4gpz/status/1617171951079903234/photo/1"&gt;pic.twitter.com/4zwSeWYyMi&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FnFZAY3X0AAb70I.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FnFZAY3X0AAb70I.png" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FnFXhS_WIAQ0yce.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FnFXhS_WIAQ0yce.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FnFZAY3X0AAb70I.png?name=orig" type="image/png" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FnFXhS_WIAQ0yce.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">As most other lunar cubesats, Lunar Flashlight uses the IRIS radio. It sends AOS frames containing Space Packets. There are no idle frames or packets. APID 1 is specially interesting, since it encapsulates pre-recorded telemetry space packets for 2 hours worth of data. (2/4) pic.twitter.com/CrVtWz673y</title>
+		<published>2023-01-22T14:46:52+00:00</published>
+		<updated>2023-01-22T14:46:52+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1617171946340515841</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1617171946340515841"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;As most other lunar cubesats, Lunar Flashlight uses the IRIS radio. It sends AOS frames containing Space Packets. There are no idle frames or packets. APID 1 is specially interesting, since it encapsulates pre-recorded telemetry space packets for 2 hours worth of data. (2/4) &lt;a href="https://twitter.com/ea4gpz/status/1617171946340515841/photo/1"&gt;pic.twitter.com/CrVtWz673y&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FnFYxjBXgAEN-c4.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FnFYxjBXgAEN-c4.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FnFYxjBXgAEN-c4.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">New blog post: Decoding Lunar Flashlight. I look at a 3 minute recording of the X-band telemetry beacon done by @amsatdl the day after launch. The modulation is 48 kbaud PCM/PM/bi-phase-L, and coding is r=1/6 Turbo with 8920 bit frames. (1/4) pic.twitter.com/JYDOuv9hDA</title>
+		<published>2023-01-22T14:46:51+00:00</published>
+		<updated>2023-01-22T14:46:51+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1617171941923737603</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1617171941923737603"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;New blog post: Decoding Lunar Flashlight. I look at a 3 minute recording of the X-band telemetry beacon done by @amsatdl the day after launch. The modulation is 48 kbaud PCM/PM/bi-phase-L, and coding is r=1/6 Turbo with 8920 bit frames. (1/4) &lt;a href="https://twitter.com/ea4gpz/status/1617171941923737603/photo/1"&gt;pic.twitter.com/JYDOuv9hDA&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FnFYlqUXoAAe1W6.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FnFYlqUXoAAe1W6.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FnFYlqUXoAAe1W6.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@bg2bhc Happy New Year, Wei!</title>
+		<published>2023-01-22T11:18:41+00:00</published>
+		<updated>2023-01-22T11:18:41+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1617119558363656192</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1617119558363656192"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@bg2bhc Happy New Year, Wei!&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@amsatdl @SternwarteBO Let's appreciate all for a moment the work of many volunteers like you to make all of this happen. We take it for granted all too often. Thank you all!</title>
+		<published>2023-01-21T16:01:46+00:00</published>
+		<updated>2023-01-21T16:01:46+00:00</updated>
+		<id>https://twitter.com/dh2va/status/1616828409103126529</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/dh2va/status/1616828409103126529"/>
+		<author><name>RT: Achim Vollhardt (@dh2va)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/dh2va"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="dh2va"
+	src="https://pbs.twimg.com/profile_images/464845539293790208/LK55OiAL_normal.jpeg"
+	title="Achim Vollhardt" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@amsatdl @SternwarteBO Let's appreciate all for a moment the work of many volunteers like you to make all of this happen. We take it for granted all too often. Thank you all!&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The detection was done with a 7 element Yagi with a G/T of around -20 dB/K. The spacecraft antenna was a rather small helix, with just a couple Watts of power. I used a custom algorithm to detect the signal. The CN0 was 2dB.
+
+I wrote about this here: destevez.net/2018/06/dslwp-… (2/2) pic.twitter.com/pjylSXmbRh</title>
+		<published>2023-01-20T18:21:16+00:00</published>
+		<updated>2023-01-20T18:21:16+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1616501127750553632</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1616501127750553632"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The detection was done with a 7 element Yagi with a G/T of around -20 dB/K. The spacecraft antenna was a rather small helix, with just a couple Watts of power. I used a custom algorithm to detect the signal. The CN0 was 2dB.
+
+I wrote about this here: &lt;a href="https://destevez.net/2018/06/dslwp-b-detected-with-7-element-yagi/"&gt;destevez.net/2018/06/dslwp-…&lt;/a&gt; (2/2) &lt;a href="https://twitter.com/ea4gpz/status/1616501127750553632/photo/1"&gt;pic.twitter.com/pjylSXmbRh&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fm729ofXEAE3gqI.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Fm729ofXEAE3gqI.png" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/Fm71hUyWIAINVav.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Fm71hUyWIAINVav.jpg" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/Fm71uXmWQAEWjDP.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Fm71uXmWQAEWjDP.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/Fm729ofXEAE3gqI.png?name=orig" type="image/png" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/Fm71hUyWIAINVav.jpg?name=orig" type="image/jpeg" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/Fm71uXmWQAEWjDP.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Oldies but goldies. Today I received a QSL card for my detection of the Longjiang-2 UHF signal from the Moon in 2018 using a rather small antenna in a rather noisy place. Thanks to all the team at @BY2HIT! (1/2) pic.twitter.com/UOXWbE89zG</title>
+		<published>2023-01-20T18:21:15+00:00</published>
+		<updated>2023-01-20T18:21:15+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1616501123552055304</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1616501123552055304"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Oldies but goldies. Today I received a QSL card for my detection of the Longjiang-2 UHF signal from the Moon in 2018 using a rather small antenna in a rather noisy place. Thanks to all the team at @BY2HIT! (1/2) &lt;a href="https://twitter.com/ea4gpz/status/1616501123552055304/photo/1"&gt;pic.twitter.com/UOXWbE89zG&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fm72VNcXEAEpWaf.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Fm72VNcXEAEpWaf.jpg" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/Fm70ygkXEAYprH5.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Fm70ygkXEAYprH5.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/Fm72VNcXEAEpWaf.jpg?name=orig" type="image/jpeg" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/Fm70ygkXEAYprH5.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@bg2bhc That looks awesome!</title>
+		<published>2023-01-20T15:33:54+00:00</published>
+		<updated>2023-01-20T15:33:54+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1616459006893035521</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1616459006893035521"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@bg2bhc That looks awesome!&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@df2mz @amsatdl @cytangjoseph @SternwarteBO On the other hand not knowing if/when it will transmit this month (for instance) is a deal killer. It might happen that it never transmits when Europe is in view, etc. Remember that direct-to-Earth is 7 bits/s and only intended as a backup communications link.</title>
@@ -284,314 +628,6 @@ This animation shows pretty much what happens: &lt;a href="http://www.gregegan.n
 	&lt;blockquote&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
 		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ka9q Plenty, hahaha. The post includes some examples of telemetry channels I can't figure out.</title>
-		<published>2023-01-08T18:18:52+00:00</published>
-		<updated>2023-01-08T18:18:52+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1612151870297935876</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1612151870297935876"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q Plenty, hahaha. The post includes some examples of telemetry channels I can't figure out.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dh2va @g4bao @cambhams @g3pye Not sure if there is something like usbip in Windows. The LimeSDR works just fine in Linux. What John is trying to do is "more involved". In case an alternative I see needed, SoapyRemote works well (I know it's not the same).</title>
-		<published>2023-01-08T18:15:17+00:00</published>
-		<updated>2023-01-08T18:15:17+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1612150967377477638</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1612150967377477638"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dh2va @g4bao @cambhams @g3pye Not sure if there is something like usbip in Windows. The LimeSDR works just fine in Linux. What John is trying to do is "more involved". In case an alternative I see needed, SoapyRemote works well (I know it's not the same).&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">I reverse engineer the ADCS telemetry, showing how having the gyroscope and quaternion data together helps us a lot by giving us the format of the quaternions (here scalar-last, body to inertial) and the units of the gyroscopes (deg/s).
-Read more: destevez.net/2023/01/decodi… (2/2) pic.twitter.com/efknnSgASy</title>
-		<published>2023-01-08T17:37:31+00:00</published>
-		<updated>2023-01-08T17:37:31+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1612141461692186626</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1612141461692186626"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;I reverse engineer the ADCS telemetry, showing how having the gyroscope and quaternion data together helps us a lot by giving us the format of the quaternions (here scalar-last, body to inertial) and the units of the gyroscopes (deg/s).
-Read more: &lt;a href="https://destevez.net/2023/01/decoding-hakuto-r-m1/"&gt;destevez.net/2023/01/decodi…&lt;/a&gt; (2/2) &lt;a href="https://twitter.com/ea4gpz/status/1612141461692186626/photo/1"&gt;pic.twitter.com/efknnSgASy&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fl96Ar2WIAIGuWC.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fl96Ar2WIAIGuWC.png" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/Fl95E78XoAAS5-2.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fl95E78XoAAS5-2.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/Fl96Ar2WIAIGuWC.png?name=orig" type="image/png" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/Fl95E78XoAAS5-2.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">New blog post: Decoding #hakuto_r M1. Here I decode the X-band telemetry of the @ispace_inc lunar lander using some recordings by @amsatdl. The signal is 16kbaud PCM/PSK/PM with 128kHz subcarrier and 1115 byte k=1/2 Turbo coded AOS frames. (1/2) pic.twitter.com/Pz7itEW4I9</title>
-		<published>2023-01-08T17:37:30+00:00</published>
-		<updated>2023-01-08T17:37:30+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1612141457414164480</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1612141457414164480"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;New blog post: Decoding #hakuto_r M1. Here I decode the X-band telemetry of the @ispace_inc lunar lander using some recordings by @amsatdl. The signal is 16kbaud PCM/PSK/PM with 128kHz subcarrier and 1115 byte k=1/2 Turbo coded AOS frames. (1/2) &lt;a href="https://twitter.com/ea4gpz/status/1612141457414164480/photo/1"&gt;pic.twitter.com/Pz7itEW4I9&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fl95wbEWYAc7LHb.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fl95wbEWYAc7LHb.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/Fl95wbEWYAc7LHb.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@PI9CAM @radiotelescoop Thanks! That was very helpful. I've gone through the plots and assembled a short list of recordings I'd been interested in looking at. Could this be moved over to the web server? (hopefully they're not too large): gist.github.com/daniestevez/c4…</title>
-		<published>2023-01-05T15:35:59+00:00</published>
-		<updated>2023-01-05T15:35:59+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1611023712387764228</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1611023712387764228"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@PI9CAM @radiotelescoop Thanks! That was very helpful. I've gone through the plots and assembled a short list of recordings I'd been interested in looking at. Could this be moved over to the web server? (hopefully they're not too large): &lt;a href="https://gist.github.com/daniestevez/c48dcf6dab78fb8b113bdcc6496e1308"&gt;gist.github.com/daniestevez/c4…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@2m0sql @ka9q @PRStoetzer @AA5PK Yes. QO-100 is used quite okay in this respect. A MEO could be used similarly. LEO is another story. Much higher path loss changes, tumbling and pointing errors, so people can overcompensate.</title>
-		<published>2023-01-05T08:24:54+00:00</published>
-		<updated>2023-01-05T08:24:54+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1610915229893890049</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1610915229893890049"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@2m0sql @ka9q @PRStoetzer @AA5PK Yes. QO-100 is used quite okay in this respect. A MEO could be used similarly. LEO is another story. Much higher path loss changes, tumbling and pointing errors, so people can overcompensate.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@rnbokade This is done sometimes. For instance, the V.26 modem. But the carrier frequency is usually not 2*symbol rate, but much lower. 19.2kHz is hardly "audio frequency" any more.</title>
-		<published>2023-01-04T17:07:44+00:00</published>
-		<updated>2023-01-04T17:07:44+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1610684416703041538</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1610684416703041538"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@rnbokade This is done sometimes. For instance, the V.26 modem. But the carrier frequency is usually not 2*symbol rate, but much lower. 19.2kHz is hardly "audio frequency" any more.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@PI9CAM @radiotelescoop Sorry, forgot the link: gist.github.com/daniestevez/0d…</title>
-		<published>2023-01-03T18:24:48+00:00</published>
-		<updated>2023-01-03T18:24:48+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1610341424184139786</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1610341424184139786"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@PI9CAM @radiotelescoop Sorry, forgot the link: &lt;a href="https://gist.github.com/daniestevez/0d519fd4044f3b9f44e170fd619fbb40"&gt;gist.github.com/daniestevez/0d…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@PI9CAM @radiotelescoop Great! Maybe the following script is useful. It plots the spectrum of the beginning of each SigMF file, as shown here. I used this to sort quickly through all the recordings on the web server and select those that had good SNR and the modulation I wanted. pic.twitter.com/CMFFh68tyD</title>
-		<published>2023-01-03T18:22:12+00:00</published>
-		<updated>2023-01-03T18:22:12+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1610340766538153985</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1610340766538153985"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@PI9CAM @radiotelescoop Great! Maybe the following script is useful. It plots the spectrum of the beginning of each SigMF file, as shown here. I used this to sort quickly through all the recordings on the web server and select those that had good SNR and the modulation I wanted. &lt;a href="https://twitter.com/ea4gpz/status/1610340766538153985/photo/1"&gt;pic.twitter.com/CMFFh68tyD&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FlkUKVvWAAEhVsu.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FlkUKVvWAAEhVsu.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FlkUKVvWAAEhVsu.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">I had to look at some other not-so-good recordings to discover what was happening and solve this small mystery. Read the details at: destevez.net/2023/01/decodi… (2/2) pic.twitter.com/O4qewh1H0R</title>
-		<published>2023-01-02T21:47:09+00:00</published>
-		<updated>2023-01-02T21:47:09+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1610029957857558533</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1610029957857558533"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;I had to look at some other not-so-good recordings to discover what was happening and solve this small mystery. Read the details at: &lt;a href="https://destevez.net/2023/01/decoding-the-orion-residual-carrier-telemetry/"&gt;destevez.net/2023/01/decodi…&lt;/a&gt; (2/2) &lt;a href="https://twitter.com/ea4gpz/status/1610029957857558533/photo/1"&gt;pic.twitter.com/O4qewh1H0R&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Flf5kvdWIAEMLtE.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Flf5kvdWIAEMLtE.png" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/Flf453JXEAgUISK.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Flf453JXEAgUISK.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/Flf5kvdWIAEMLtE.png?name=orig" type="image/png" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/Flf453JXEAgUISK.png?name=orig" type="image/png" />
-
 		
 		
 	</entry>
