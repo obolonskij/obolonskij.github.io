@@ -5,12 +5,180 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-01-26T08:33:08+00:00</updated>
+	<updated>2023-01-30T06:52:11+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">A new stable version of gr-satellites has been released. This includes support for recently launched satellites and a few bug fixes. Conda packages and Ubuntu packages are already available. pic.twitter.com/bw0SKFqwDu</title>
+		<published>2023-01-29T11:35:14+00:00</published>
+		<updated>2023-01-29T11:35:14+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1619660434575081472</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1619660434575081472"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;A new stable version of gr-satellites has been released. This includes support for recently launched satellites and a few bug fixes. Conda packages and Ubuntu packages are already available. &lt;a href="https://twitter.com/ea4gpz/status/1619660434575081472/photo/1"&gt;pic.twitter.com/bw0SKFqwDu&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FnowhY1WQAAO_6Z.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FnowhY1WQAAO_6Z.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FnowhY1WQAAO_6Z.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@BatchDrake Maybe the underlying phenomenon here is that the brightness of the naked eye stars span roughly two orders of magnitude.</title>
+		<published>2023-01-29T11:23:30+00:00</published>
+		<updated>2023-01-29T11:23:30+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1619657483328552960</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1619657483328552960"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@BatchDrake Maybe the underlying phenomenon here is that the brightness of the naked eye stars span roughly two orders of magnitude.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@BatchDrake TIL this. I knew about magnitudes being logarithmic, but always thought they were a more reasonable amount of dBs, such as 3 or 6. Any idea why 4dB came to be? Wikipedia says that the distance between magnitude 6 and 1 was defined to be 20dB, but doesn't say why.</title>
+		<published>2023-01-29T10:41:03+00:00</published>
+		<updated>2023-01-29T10:41:03+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1619646801317093377</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1619646801317093377"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@BatchDrake TIL this. I knew about magnitudes being logarithmic, but always thought they were a more reasonable amount of dBs, such as 3 or 6. Any idea why 4dB came to be? Wikipedia says that the distance between magnitude 6 and 1 was defined to be 20dB, but doesn't say why.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@F4DAV Heisenberg's principle gives the answer maybe?</title>
+		<published>2023-01-27T07:01:05+00:00</published>
+		<updated>2023-01-27T07:01:05+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1618866668419301377</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1618866668419301377"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@F4DAV Heisenberg's principle gives the answer maybe?&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">GMAT R2022a hit the streets today.  Grab a copy if you'd like, at sourceforge.net/projects/gmat/</title>
+		<published>2023-01-27T00:14:10+00:00</published>
+		<updated>2023-01-27T00:14:10+00:00</updated>
+		<id>https://twitter.com/DJCinSB/status/1618764266567532549</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/DJCinSB/status/1618764266567532549"/>
+		<author><name>RT: Darrel Conway (@DJCinSB)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/DJCinSB"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="DJCinSB"
+	src="https://pbs.twimg.com/profile_images/1639745246/image_normal.jpg"
+	title="Darrel Conway" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;GMAT R2022a hit the streets today.  Grab a copy if you'd like, at &lt;a href="https://sourceforge.net/projects/gmat/"&gt;sourceforge.net/projects/gmat/&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@m_ou_se Great! ilog2 is very convenient for dealing with FPGA stuff. Using leading_zeros was a bit awkward.</title>
+		<published>2023-01-26T18:42:37+00:00</published>
+		<updated>2023-01-26T18:42:37+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1618680827990388737</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1618680827990388737"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@m_ou_se Great! ilog2 is very convenient for dealing with FPGA stuff. Using leading_zeros was a bit awkward.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@TargetedColora1 This was recorded in Spain, not in the US. This is the B20 LTE band in many European countries.</title>
@@ -455,174 +623,6 @@ I wrote about this here: &lt;a href="https://destevez.net/2018/06/dslwp-b-detect
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@scott23192 What software are you using for the LTE scan?&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@devnulling @IanJohnBuckley Still seems too good to be true. I suspect that the overfitting is in the number of geometric configurations they've trained and tested. The positions of TX, RX and people look similar, and perhaps they've only used a few different poses and people positions in the scene.</title>
-		<published>2023-01-14T07:57:40+00:00</published>
-		<updated>2023-01-14T07:57:40+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1614169867804102656</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1614169867804102656"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@devnulling @IanJohnBuckley Still seems too good to be true. I suspect that the overfitting is in the number of geometric configurations they've trained and tested. The positions of TX, RX and people look similar, and perhaps they've only used a few different poses and people positions in the scene.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Despite some rumors that Tianwen-1 might have gone silent or lost contact with it's groundstations, we are receiving and streaming #Tianwen1 @SternwarteBO almost continuously since arrival at #Mars.
-Live stream with up to -12h timeshift for review:
-youtube.com/watch?v=VCMqyk…</title>
-		<published>2023-01-10T09:10:27+00:00</published>
-		<updated>2023-01-10T09:10:27+00:00</updated>
-		<id>https://twitter.com/amsatdl/status/1612738630283415552</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/amsatdl/status/1612738630283415552"/>
-		<author><name>RT: AMSAT-DL (@amsatdl)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/amsatdl"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="amsatdl"
-	src="https://pbs.twimg.com/profile_images/1061972198666182657/iQF4MdLc_normal.jpg"
-	title="AMSAT-DL" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Despite some rumors that Tianwen-1 might have gone silent or lost contact with it's groundstations, we are receiving and streaming #Tianwen1 @SternwarteBO almost continuously since arrival at #Mars.
-Live stream with up to -12h timeshift for review:
-&lt;a href="https://www.youtube.com/watch?v=VCMqykEm84w"&gt;youtube.com/watch?v=VCMqyk…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@pe0sat @radiotelescoop @JMuijlwijk I guess the mesh of the dish doesn't go up to 8.4GHz. They already have 2.2GHz.</title>
-		<published>2023-01-10T06:24:24+00:00</published>
-		<updated>2023-01-10T06:24:24+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1612696845066833920</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1612696845066833920"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@pe0sat @radiotelescoop @JMuijlwijk I guess the mesh of the dish doesn't go up to 8.4GHz. They already have 2.2GHz.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ka9q en.wikipedia.org/wiki/Plate_tri…
-This animation shows pretty much what happens: gregegan.net/APPLETS/21/21.… It's customary to place the belt buckle in the middle of a book, holding it between the pages, to see better what is the top side and the bottom side.</title>
-		<published>2023-01-08T18:39:18+00:00</published>
-		<updated>2023-01-08T18:39:18+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1612157010266492930</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1612157010266492930"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q &lt;a href="https://en.wikipedia.org/wiki/Plate_trick"&gt;en.wikipedia.org/wiki/Plate_tri…&lt;/a&gt;
-This animation shows pretty much what happens: &lt;a href="http://www.gregegan.net/APPLETS/21/21.html"&gt;gregegan.net/APPLETS/21/21.…&lt;/a&gt; It's customary to place the belt buckle in the middle of a book, holding it between the pages, to see better what is the top side and the bottom side.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ka9q If you know the spinor trick that involves a book and a belt, that blows my mind every time I do it. I know that it works, I know the math of how it works, but I don't really understand it.</title>
-		<published>2023-01-08T18:33:30+00:00</published>
-		<updated>2023-01-08T18:33:30+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1612155552808697859</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1612155552808697859"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q If you know the spinor trick that involves a book and a belt, that blows my mind every time I do it. I know that it works, I know the math of how it works, but I don't really understand it.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ka9q I'm horrible at visualizing 3D stuff in my head, so probably my intuition is no better than yours in this aspect. I'm afraid I can't say any better than "it's a math trick to encode rotations that just works" or something more profound about "S^4 is a double covering of SO(3)".</title>
-		<published>2023-01-08T18:32:12+00:00</published>
-		<updated>2023-01-08T18:32:12+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1612155224847794183</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1612155224847794183"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q I'm horrible at visualizing 3D stuff in my head, so probably my intuition is no better than yours in this aspect. I'm afraid I can't say any better than "it's a math trick to encode rotations that just works" or something more profound about "S^4 is a double covering of SO(3)".&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
