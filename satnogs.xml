@@ -5,12 +5,78 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-01-26T08:33:10+00:00</updated>
+	<updated>2023-01-31T19:47:48+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">My @satnogs station has just received a beautiful picture taken by the Geoscan-Edelveis satellite. It is rotated by 90 degrees. From left to right, it shows the top of Italy, the alps, lots of clouds, the north pole and space! Decoding was done automatically with @knglaser sw. pic.twitter.com/JBUJTuvgh8</title>
+		<published>2023-01-31T13:46:53+00:00</published>
+		<updated>2023-01-31T13:46:53+00:00</updated>
+		<id>https://twitter.com/eelkevisser/status/1620418342413799425</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/eelkevisser/status/1620418342413799425"/>
+		<author><name>RT: Eelke Visser (@eelkevisser)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/eelkevisser"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="eelkevisser"
+	src="https://pbs.twimg.com/profile_images/1354146277924200448/0M0fKr_p_normal.jpg"
+	title="Eelke Visser" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;My @satnogs station has just received a beautiful picture taken by the Geoscan-Edelveis satellite. It is rotated by 90 degrees. From left to right, it shows the top of Italy, the alps, lots of clouds, the north pole and space! Decoding was done automatically with @knglaser sw. &lt;a href="https://twitter.com/eelkevisser/status/1620418342413799425/photo/1"&gt;pic.twitter.com/JBUJTuvgh8&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fnzegi-XoAACks_.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Fnzegi-XoAACks_.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/Fnzegi-XoAACks_.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">It appears @pe0sat may have found the Skif-D satellite transmitting at 435.566MHz. The Doppler curves he received are best fit with an ~8060km circular orbit at 90 deg inclination. This orbit passes close to the Vostochny launch site at the time of launch on October 22 last year. pic.twitter.com/ILHeqX6Ggu</title>
+		<published>2023-01-24T22:26:18+00:00</published>
+		<updated>2023-01-24T22:26:18+00:00</updated>
+		<id>https://twitter.com/cgbassa/status/1618012341203005441</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/cgbassa/status/1618012341203005441"/>
+		<author><name>RT: Cees Bassa (@cgbassa)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/cgbassa"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="cgbassa"
+	src="https://pbs.twimg.com/profile_images/1759350576/avatar_normal.png"
+	title="Cees Bassa" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;It appears @pe0sat may have found the Skif-D satellite transmitting at 435.566MHz. The Doppler curves he received are best fit with an ~8060km circular orbit at 90 deg inclination. This orbit passes close to the Vostochny launch site at the time of launch on October 22 last year. &lt;a href="https://twitter.com/cgbassa/status/1618012341203005441/photo/1"&gt;pic.twitter.com/ILHeqX6Ggu&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FnRVpXGXgAE1QYl.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FnRVpXGXgAE1QYl.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FnRVpXGXgAE1QYl.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">The @SatNOGS Network📡 is tracking #satellite #FalconSAT-3 🛰️ as it nears re-entry.
@@ -664,92 +730,6 @@ You can check out the observation here: &lt;a href="https://network.satnogs.org/
 &lt;/div&gt;</content>
 		<link rel="enclosure" href="https://pbs.twimg.com/media/FlkkN6yXoAADlYA.jpg?name=orig" type="image/jpeg" />
 
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Satellite #BDSAT-2🛰️ from @SpaceX's #Falcon9 #Transporter6 has been received by station 📡2380 - Piszkesteto UHF of the @SatNOGS network.
-@spacemanictech
-@CEITEC_Brno
-@VUTvBrne
-Check out the Observation: network.satnogs.org/observations/6… 
-And all the updates at: community.libre.space/t/spacex-f9-tr… pic.twitter.com/gH3kOSWY6G</title>
-		<published>2023-01-03T18:21:55+00:00</published>
-		<updated>2023-01-03T18:21:55+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1610340696702984193</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1610340696702984193"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Satellite #BDSAT-2🛰️ from @SpaceX's #Falcon9 #Transporter6 has been received by station 📡2380 - Piszkesteto UHF of the @SatNOGS network.
-@spacemanictech
-@CEITEC_Brno
-@VUTvBrne
-Check out the Observation: &lt;a href="https://network.satnogs.org/observations/6975310/"&gt;network.satnogs.org/observations/6…&lt;/a&gt; 
-And all the updates at: &lt;a href="https://community.libre.space/t/spacex-f9-transporter-6-2023-01-03-14-56-utc/9848/24"&gt;community.libre.space/t/spacex-f9-tr…&lt;/a&gt; &lt;a href="https://twitter.com/SatNOGS/status/1610340696702984193/photo/1"&gt;pic.twitter.com/gH3kOSWY6G&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FlkUAeJXwAEwGp5.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FlkUAeJXwAEwGp5.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FlkUAeJXwAEwGp5.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@SpaceX @CEITEC_Brno 
-@VUTvBrne
-@spacemanictech
-@planetum_cz
-@kosmonautixcz
-@UnseenLabs
-@WeArePlanS
-@momentusspace
-@D_Orbit</title>
-		<published>2023-01-03T16:08:48+00:00</published>
-		<updated>2023-01-03T16:08:48+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1610307197606547462</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1610307197606547462"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@SpaceX @CEITEC_Brno 
-@VUTvBrne
-@spacemanictech
-@planetum_cz
-@kosmonautixcz
-@UnseenLabs
-@WeArePlanS
-@momentusspace
-@D_Orbit&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
 		
 		
 	</entry>
