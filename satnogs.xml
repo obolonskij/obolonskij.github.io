@@ -5,12 +5,80 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-01-31T19:47:48+00:00</updated>
+	<updated>2023-02-02T12:22:48+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">SharjahSat-1 decoder and dashboard working!
+
+dashboard.satnogs.org/d/HqCRmvA4z/sh…
+
+@SatNOGS @SaasstSharjah</title>
+		<published>2023-02-01T10:57:29+00:00</published>
+		<updated>2023-02-01T10:57:29+00:00</updated>
+		<id>https://twitter.com/DL4PD/status/1620738100749299712</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/DL4PD/status/1620738100749299712"/>
+		<author><name>RT: Patrick Dohmen (@DL4PD)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/DL4PD"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="DL4PD"
+	src="https://pbs.twimg.com/profile_images/958654330634145793/_kO0Ptvu_normal.jpg"
+	title="Patrick Dohmen" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;SharjahSat-1 decoder and dashboard working!
+
+&lt;a href="https://dashboard.satnogs.org/d/HqCRmvA4z/sharjahsat-1?orgId=1"&gt;dashboard.satnogs.org/d/HqCRmvA4z/sh…&lt;/a&gt;
+
+@SatNOGS @SaasstSharjah&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">More Skif-D news. This evening I observed what may be the Fregat upper stage that launched Skif-D. It is in the same orbital plane as Skif-D, probably slightly higher, and running ahead of Skif-D. It is slowly rotating, suggesting a tumbling object. pic.twitter.com/V066Y45xUE</title>
+		<published>2023-01-31T22:10:54+00:00</published>
+		<updated>2023-01-31T22:10:54+00:00</updated>
+		<id>https://twitter.com/cgbassa/status/1620545182390444032</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/cgbassa/status/1620545182390444032"/>
+		<author><name>RT: Cees Bassa (@cgbassa)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/cgbassa"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="cgbassa"
+	src="https://pbs.twimg.com/profile_images/1759350576/avatar_normal.png"
+	title="Cees Bassa" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;More Skif-D news. This evening I observed what may be the Fregat upper stage that launched Skif-D. It is in the same orbital plane as Skif-D, probably slightly higher, and running ahead of Skif-D. It is slowly rotating, suggesting a tumbling object. &lt;a href="https://twitter.com/cgbassa/status/1620545182390444032/photo/1"&gt;pic.twitter.com/V066Y45xUE&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fn1VAuMXgAETN2t.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Fn1VAuMXgAETN2t.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/Fn1VAuMXgAETN2t.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">My @satnogs station has just received a beautiful picture taken by the Geoscan-Edelveis satellite. It is rotated by 90 degrees. From left to right, it shows the top of Italy, the alps, lots of clouds, the north pole and space! Decoding was done automatically with @knglaser sw. pic.twitter.com/JBUJTuvgh8</title>
@@ -652,84 +720,6 @@ More details for its identification in:
 	&lt;blockquote&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
 		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Geoscan-Edelveis satellite image received by @PI9CAM @radiotelescoop decoded by @knglaser and overlaid on another satellite image by @tammojan.
-
-Find more about Geoscan-Edelveis mission in this thread:
-
-community.libre.space/t/geoscan-edel… twitter.com/tammojan/statu…</title>
-		<published>2023-01-04T06:40:46+00:00</published>
-		<updated>2023-01-04T06:40:46+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1610526636566368258</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1610526636566368258"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Geoscan-Edelveis satellite image received by @PI9CAM @radiotelescoop decoded by @knglaser and overlaid on another satellite image by @tammojan.
-
-Find more about Geoscan-Edelveis mission in this thread:
-
-&lt;a href="https://community.libre.space/t/geoscan-edelveis-mission/9644/"&gt;community.libre.space/t/geoscan-edel…&lt;/a&gt; &lt;a href="https://twitter.com/tammojan/status/1610372882709766147"&gt;twitter.com/tammojan/statu…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">We have received #satellite Connecta T1.2 🛰️ .
-It was station 📡1089 - ZR6AIC of the @SatNOGS network.
-@WeArePlanS
-#SpaceX #Falcon9 #Transporter6
-
-You can check out the observation here: network.satnogs.org/observations/6… pic.twitter.com/OrkJqfGjgY</title>
-		<published>2023-01-03T19:32:46+00:00</published>
-		<updated>2023-01-03T19:32:46+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1610358527154950152</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1610358527154950152"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;We have received #satellite Connecta T1.2 🛰️ .
-It was station 📡1089 - ZR6AIC of the @SatNOGS network.
-@WeArePlanS
-#SpaceX #Falcon9 #Transporter6
-
-You can check out the observation here: &lt;a href="https://network.satnogs.org/observations/6973912/"&gt;network.satnogs.org/observations/6…&lt;/a&gt; &lt;a href="https://twitter.com/SatNOGS/status/1610358527154950152/photo/1"&gt;pic.twitter.com/OrkJqfGjgY&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FlkkN6yXoAADlYA.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FlkkN6yXoAADlYA.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FlkkN6yXoAADlYA.jpg?name=orig" type="image/jpeg" />
-
 		
 		
 	</entry>
