@@ -5,7 +5,7 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-02-10T10:00:57+00:00</updated>
+	<updated>2023-02-12T08:55:00+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
@@ -13,11 +13,11 @@
 	<link rel="self" type="application/atom+xml" href="http://" />
 
 	<entry>
-		<title type="html">@DrChrisBridges @Avnet ...an FSBL using Vitis (which I believe would be used anyway if the students are loading their bitstreams from the SD card instead of JTAG). More moving parts than desired, I agree, but not too difficult to set up. (2/2).</title>
-		<published>2023-02-07T19:14:45+00:00</published>
-		<updated>2023-02-07T19:14:45+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1623037567078658050</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1623037567078658050"/>
+		<title type="html">@balister @Astro_Wael Yes, it's the maximum sample rate supported by the AD936x in the Pluto.</title>
+		<published>2023-02-11T23:58:34+00:00</published>
+		<updated>2023-02-11T23:58:34+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624558543381704712</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624558543381704712"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -29,7 +29,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@DrChrisBridges @Avnet ...an FSBL using Vitis (which I believe would be used anyway if the students are loading their bitstreams from the SD card instead of JTAG). More moving parts than desired, I agree, but not too difficult to set up. (2/2).&lt;/blockquote&gt;
+	&lt;blockquote&gt;@balister @Astro_Wael Yes, it's the maximum sample rate supported by the AD936x in the Pluto.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -40,11 +40,11 @@
 	</entry>
 
 	<entry>
-		<title type="html">@DrChrisBridges @Avnet But from a pragmatic perspective, properly setting up the PS FCLK's shouldn't be that difficult for students. Drop in a Zynq Processing System block in Vivado with the board presets. You get a TCL that you can use to bring up the PS by JTAG and the ability to build... (1/n)</title>
-		<published>2023-02-07T19:13:23+00:00</published>
-		<updated>2023-02-07T19:13:23+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1623037226266333198</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1623037226266333198"/>
+		<title type="html">@hennichodernich I'm writing my own .dtsi by hand. The only Vivado outputs I use are the bitstream, and the XSA to build the FSBL with Vitis. This is exactly how the ADI build process works. I'm just copying it.</title>
+		<published>2023-02-11T20:13:44+00:00</published>
+		<updated>2023-02-11T20:13:44+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624501963097350147</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624501963097350147"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -56,7 +56,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@DrChrisBridges @Avnet But from a pragmatic perspective, properly setting up the PS FCLK's shouldn't be that difficult for students. Drop in a Zynq Processing System block in Vivado with the board presets. You get a TCL that you can use to bring up the PS by JTAG and the ability to build... (1/n)&lt;/blockquote&gt;
+	&lt;blockquote&gt;@hennichodernich I'm writing my own .dtsi by hand. The only Vivado outputs I use are the bitstream, and the XSA to build the FSBL with Vitis. This is exactly how the ADI build process works. I'm just copying it.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -67,11 +67,11 @@
 	</entry>
 
 	<entry>
-		<title type="html">@DrChrisBridges @Avnet Unfortunately the Zynq is a CPU-centric SoC. It needs the ARM core from the moment it boots. I think some housekeeping needs to be done by the boot ROM / FSBL first in order to be able to program the FPGA.</title>
-		<published>2023-02-07T19:11:51+00:00</published>
-		<updated>2023-02-07T19:11:51+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1623036840386170909</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1623036840386170909"/>
+		<title type="html">@singularityart Support for other Zynq platforms is definitely under the radar. Support for non-Zynq devices is a larger stretch because the Linux software in the ARM CPU is doing a substantial amount of heavy lifting.</title>
+		<published>2023-02-11T20:04:34+00:00</published>
+		<updated>2023-02-11T20:04:34+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624499656787992576</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624499656787992576"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -83,7 +83,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@DrChrisBridges @Avnet Unfortunately the Zynq is a CPU-centric SoC. It needs the ARM core from the moment it boots. I think some housekeeping needs to be done by the boot ROM / FSBL first in order to be able to program the FPGA.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@singularityart Support for other Zynq platforms is definitely under the radar. Support for non-Zynq devices is a larger stretch because the Linux software in the ARM CPU is doing a substantial amount of heavy lifting.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -94,11 +94,11 @@
 	</entry>
 
 	<entry>
-		<title type="html">@DrChrisBridges @Avnet I guess that because in a Zynq you can use the PS FCLKs. Plus cost saving.</title>
-		<published>2023-02-07T17:57:15+00:00</published>
-		<updated>2023-02-07T17:57:15+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1623018065439907847</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1623018065439907847"/>
+		<title type="html">@the_balourdos The trick is that 61.44 Msps don't go continuously through USB. You first record up to 400MiB of IQ data to the Pluto DDR. Then you download the recording over USB Ethernet at a slower rate. For the waterfall, only the waterfall data goes through USB.</title>
+		<published>2023-02-11T20:03:10+00:00</published>
+		<updated>2023-02-11T20:03:10+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624499304000880642</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624499304000880642"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -110,7 +110,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@DrChrisBridges @Avnet I guess that because in a Zynq you can use the PS FCLKs. Plus cost saving.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@the_balourdos The trick is that 61.44 Msps don't go continuously through USB. You first record up to 400MiB of IQ data to the Pluto DDR. Then you download the recording over USB Ethernet at a slower rate. For the waterfall, only the waterfall data goes through USB.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -121,11 +121,11 @@
 	</entry>
 
 	<entry>
-		<title type="html">@albinstigo @ka9q @electrospaces No idea. I haven't been paying much attention to this balloon thingie.</title>
-		<published>2023-02-06T17:44:41+00:00</published>
-		<updated>2023-02-06T17:44:41+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1622652515744350240</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1622652515744350240"/>
+		<title type="html">@hennichodernich The same as the ADI Pluto firmware, which uses buildroot for the rootfs and builds the kernel and uboot separately.</title>
+		<published>2023-02-11T20:01:24+00:00</published>
+		<updated>2023-02-11T20:01:24+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624498857517146115</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624498857517146115"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -137,7 +137,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@albinstigo @ka9q @electrospaces No idea. I haven't been paying much attention to this balloon thingie.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@hennichodernich The same as the ADI Pluto firmware, which uses buildroot for the rootfs and builds the kernel and uboot separately.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -148,11 +148,11 @@
 	</entry>
 
 	<entry>
-		<title type="html">@Kurtulmehtap youtu.be/jq0RewceCwc</title>
-		<published>2023-02-06T10:53:35+00:00</published>
-		<updated>2023-02-06T10:53:35+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1622549059100676098</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1622549059100676098"/>
+		<title type="html">@tdsepsilon @regymm0 Yes. The FPGA computes 4096-point FFTs and power averages of these. The results are sent to the web interface with a websocket. There is no framing. On each websocket message you get 4096 float32's. This  shows how to use this data in another application: github.com/maia-sdr/maia-…</title>
+		<published>2023-02-11T18:27:03+00:00</published>
+		<updated>2023-02-11T18:27:03+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624475114501812225</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624475114501812225"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -164,7 +164,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@Kurtulmehtap &lt;a href="https://youtu.be/jq0RewceCwc"&gt;youtu.be/jq0RewceCwc&lt;/a&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;@tdsepsilon @regymm0 Yes. The FPGA computes 4096-point FFTs and power averages of these. The results are sent to the web interface with a websocket. There is no framing. On each websocket message you get 4096 float32's. This  shows how to use this data in another application: &lt;a href="https://github.com/maia-sdr/maia-sdr/blob/main/maia-httpd/util/spectrum_client.py"&gt;github.com/maia-sdr/maia-…&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -175,11 +175,11 @@
 	</entry>
 
 	<entry>
-		<title type="html">@luigifcruz Yeah, sorry for the confusion. I just checked my code and I'm not using cuda_builder. I'm calling nvcc with Command::new in the build.rs. But for the rest of the stuff (loading the PTX, launching kernels, managing buffers...) I'm using cust and I can recommend it.</title>
-		<published>2023-02-06T08:09:59+00:00</published>
-		<updated>2023-02-06T08:09:59+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1622507886290010112</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1622507886290010112"/>
+		<title type="html">@tdsepsilon @regymm0 The FPGA design is not very intrusive. It has an AXI4 lite slave port, a couple AXI3 master ports for DMA, plus an interrupt line. It can be fitted alongside other designs. The only reason I ripped off the ADI design completely in the Pluto is to make myself some room.</title>
+		<published>2023-02-11T18:11:19+00:00</published>
+		<updated>2023-02-11T18:11:19+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624471155494072320</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624471155494072320"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -191,7 +191,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@luigifcruz Yeah, sorry for the confusion. I just checked my code and I'm not using cuda_builder. I'm calling nvcc with Command::new in the &lt;a href="http://build.rs"&gt;build.rs&lt;/a&gt;. But for the rest of the stuff (loading the PTX, launching kernels, managing buffers...) I'm using cust and I can recommend it.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@tdsepsilon @regymm0 The FPGA design is not very intrusive. It has an AXI4 lite slave port, a couple AXI3 master ports for DMA, plus an interrupt line. It can be fitted alongside other designs. The only reason I ripped off the ADI design completely in the Pluto is to make myself some room.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -202,11 +202,11 @@
 	</entry>
 
 	<entry>
-		<title type="html">@sylvain_azarian @luigifcruz cust uses the following approach docs.rs/cust/latest/cu…</title>
-		<published>2023-02-06T07:12:21+00:00</published>
-		<updated>2023-02-06T07:12:21+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1622493383238250505</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1622493383238250505"/>
+		<title type="html">@tdsepsilon @regymm0 For the ADI 936x interface, I'm using the ADI IP core, so it supports pretty much any setup with that chip, both CMOS and LVDS (presumably the daughterboard is LVDS like the FMCOMMS3?). For networking this uses the Linux network stack, so Ethernet will work just fine.</title>
+		<published>2023-02-11T18:08:19+00:00</published>
+		<updated>2023-02-11T18:08:19+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624470400984834054</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624470400984834054"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -218,7 +218,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@sylvain_azarian @luigifcruz cust uses the following approach &lt;a href="https://docs.rs/cust/latest/cust/memory/index.html"&gt;docs.rs/cust/latest/cu…&lt;/a&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;@tdsepsilon @regymm0 For the ADI 936x interface, I'm using the ADI IP core, so it supports pretty much any setup with that chip, both CMOS and LVDS (presumably the daughterboard is LVDS like the FMCOMMS3?). For networking this uses the Linux network stack, so Ethernet will work just fine.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -229,11 +229,11 @@
 	</entry>
 
 	<entry>
-		<title type="html">@luigifcruz Would using cuda_builder help here? I'm using it to build .cu to .ptx from build.rs because I don't need JIT, but I guess you can also call it at runtime. It seems the standard solution from Rust-CUDA. github.com/Rust-GPU/Rust-…</title>
-		<published>2023-02-06T07:09:30+00:00</published>
-		<updated>2023-02-06T07:09:30+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1622492666255532034</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1622492666255532034"/>
+		<title type="html">@tdsepsilon @regymm0 If you set yourself to add support for another board, feel free to open an issue in the maia-sdr Github repo to share progress and get some advice.</title>
+		<published>2023-02-11T17:56:49+00:00</published>
+		<updated>2023-02-11T17:56:49+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624467508747984897</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624467508747984897"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -245,7 +245,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@luigifcruz Would using cuda_builder help here? I'm using it to build .cu to .ptx from &lt;a href="http://build.rs"&gt;build.rs&lt;/a&gt; because I don't need JIT, but I guess you can also call it at runtime. It seems the standard solution from Rust-CUDA. &lt;a href="https://github.com/Rust-GPU/Rust-CUDA/blob/master/crates/cuda_builder/src/lib.rs"&gt;github.com/Rust-GPU/Rust-…&lt;/a&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;@tdsepsilon @regymm0 If you set yourself to add support for another board, feel free to open an issue in the maia-sdr Github repo to share progress and get some advice.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -256,11 +256,11 @@
 	</entry>
 
 	<entry>
-		<title type="html">@ka9q No FEC at all indeed.</title>
-		<published>2023-02-06T06:27:11+00:00</published>
-		<updated>2023-02-06T06:27:11+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1622482017710485504</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1622482017710485504"/>
+		<title type="html">@tdsepsilon @regymm0 The Vivado project is built using the workflow of the analogdevicesinc/hdl repo, which has projects for many boards. So not too difficult to add a maia-hdl project for another board. Additionally, this needs a kernel module and a small kernel patch, plus UIO support.</title>
+		<published>2023-02-11T17:55:48+00:00</published>
+		<updated>2023-02-11T17:55:48+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624467252627009536</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624467252627009536"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -272,7 +272,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q No FEC at all indeed.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@tdsepsilon @regymm0 The Vivado project is built using the workflow of the analogdevicesinc/hdl repo, which has projects for many boards. So not too difficult to add a maia-hdl project for another board. Additionally, this needs a kernel module and a small kernel patch, plus UIO support.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -283,11 +283,11 @@
 	</entry>
 
 	<entry>
-		<title type="html">@PankajK25774511 @DSP_fact @PI9CAM The usual BER vs EbN0 curves for uncoded BPSK/QPSK apply here. There is no redundancy that I know of.</title>
-		<published>2023-02-05T17:30:41+00:00</published>
-		<updated>2023-02-05T17:30:41+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1622286602650238976</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1622286602650238976"/>
+		<title type="html">@cemaxecuter It took a while, because I started from scratch. Lots of "pipework" had to be developed, including horrible crimes with the Linux kernel for cache management, a WebGL2 render engine, etc. Now that all this is in place, future steps (an FM/AM/SSB receiver perhaps) will be easier.</title>
+		<published>2023-02-11T17:50:59+00:00</published>
+		<updated>2023-02-11T17:50:59+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624466037767827457</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624466037767827457"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -299,7 +299,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@PankajK25774511 @DSP_fact @PI9CAM The usual BER vs EbN0 curves for uncoded BPSK/QPSK apply here. There is no redundancy that I know of.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@cemaxecuter It took a while, because I started from scratch. Lots of "pipework" had to be developed, including horrible crimes with the Linux kernel for cache management, a WebGL2 render engine, etc. Now that all this is in place, future steps (an FM/AM/SSB receiver perhaps) will be easier.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -310,13 +310,13 @@
 	</entry>
 
 	<entry>
-		<title type="html">In one of the recordings the SNR is so good that there are very few bit errors. This has helped me validate that the CRC used is the standard CCSDS CRC-16. 97% of the decoded frames have good CRC. (2/n)
-
-Read more: destevez.net/2023/02/more-d… pic.twitter.com/bFizIsbuId</title>
-		<published>2023-02-05T09:57:55+00:00</published>
-		<updated>2023-02-05T09:57:55+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1622172662620364801</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1622172662620364801"/>
+		<title type="html">Flashing the Maia SDR firmware on the Pluto is as easy as updating the ADI firmware. The UI can run on a web browser on a PC or mobile device.
+Detailed instructions: maia-sdr.org/installation/
+Firmware download: github.com/maia-sdr/pluto…</title>
+		<published>2023-02-11T15:50:41+00:00</published>
+		<updated>2023-02-11T15:50:41+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624435766314106884</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624435766314106884"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -328,36 +328,84 @@ Read more: destevez.net/2023/02/more-d… pic.twitter.com/bFizIsbuId</title>
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;In one of the recordings the SNR is so good that there are very few bit errors. This has helped me validate that the CRC used is the standard CCSDS CRC-16. 97% of the decoded frames have good CRC. (2/n)
-
-Read more: &lt;a href="https://destevez.net/2023/02/more-details-about-orion-uncoded-telemetry/"&gt;destevez.net/2023/02/more-d…&lt;/a&gt; &lt;a href="https://twitter.com/ea4gpz/status/1622172662620364801/photo/1"&gt;pic.twitter.com/bFizIsbuId&lt;/a&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;Flashing the Maia SDR firmware on the Pluto is as easy as updating the ADI firmware. The UI can run on a web browser on a PC or mobile device.
+Detailed instructions: &lt;a href="https://maia-sdr.org/installation/"&gt;maia-sdr.org/installation/&lt;/a&gt;
+Firmware download: &lt;a href="https://github.com/maia-sdr/plutosdr-fw/releases/latest"&gt;github.com/maia-sdr/pluto…&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FoMdYF_XgAIi8l_.png?name=orig"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">There are also clocks at 2x and 3x this frequency, used to perform 2 or 3 multiplications with a DSP in a single 62.5 MHz cycle.</title>
+		<published>2023-02-11T15:50:41+00:00</published>
+		<updated>2023-02-11T15:50:41+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624435764510466048</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624435764510466048"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;There are also clocks at 2x and 3x this frequency, used to perform 2 or 3 multiplications with a DSP in a single 62.5 MHz cycle.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">This is the clocking. The AD9361 CMOS interface clock can go from a couple MHz to 61.44 MHz. Most of the Maia SDR core runs at 62.5 MHz to always have one sample or less per clock cycle. pic.twitter.com/JnWxDYpq3w</title>
+		<published>2023-02-11T15:50:40+00:00</published>
+		<updated>2023-02-11T15:50:40+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624435762165940230</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624435762165940230"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;This is the clocking. The AD9361 CMOS interface clock can go from a couple MHz to 61.44 MHz. Most of the Maia SDR core runs at 62.5 MHz to always have one sample or less per clock cycle. &lt;a href="https://twitter.com/ea4gpz/status/1624435762165940230/photo/1"&gt;pic.twitter.com/JnWxDYpq3w&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fose_lgXoAQeCBx.png?name=orig"&gt;
 &lt;img
 	style="align:top; max-width:558px; border:1px solid black;"
 	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FoMdYF_XgAIi8l_.png" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FoMcsN5WQAAk6Ca.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FoMcsN5WQAAk6Ca.png" /&gt;
+	src="https://pbs.twimg.com/media/Fose_lgXoAQeCBx.png" /&gt;
 &lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FoMdYF_XgAIi8l_.png?name=orig" type="image/png" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FoMcsN5WQAAk6Ca.png?name=orig" type="image/png" />
+		<link rel="enclosure" href="https://pbs.twimg.com/media/Fose_lgXoAQeCBx.png?name=orig" type="image/png" />
 
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">New blog post: More details about Orion uncoded telemetry. I decode a bunch more of #artemis1 recordings from @PI9CAM, finding that in all of them the telemetry is uncoded (instead of LDPC). These correspond to the last part of the mission (return from DRO). (1/n)</title>
-		<published>2023-02-05T09:57:55+00:00</published>
-		<updated>2023-02-05T09:57:55+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1622172659764105218</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1622172659764105218"/>
+		<title type="html">The Maia SDR IP is in blue, the axi_ad9361 in yellow, and the AXI interconnect in salmon. The interconnect also uses a lot of resources for no good reason. We could do much better with a custom interconnect. pic.twitter.com/5yOV3yjioQ</title>
+		<published>2023-02-11T15:50:40+00:00</published>
+		<updated>2023-02-11T15:50:40+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624435758726582274</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624435758726582274"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -369,115 +417,28 @@ Read more: &lt;a href="https://destevez.net/2023/02/more-details-about-orion-unc
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;New blog post: More details about Orion uncoded telemetry. I decode a bunch more of #artemis1 recordings from @PI9CAM, finding that in all of them the telemetry is uncoded (instead of LDPC). These correspond to the last part of the mission (return from DRO). (1/n)&lt;/blockquote&gt;
+	&lt;blockquote&gt;The Maia SDR IP is in blue, the axi_ad9361 in yellow, and the AXI interconnect in salmon. The interconnect also uses a lot of resources for no good reason. We could do much better with a custom interconnect. &lt;a href="https://twitter.com/ea4gpz/status/1624435758726582274/photo/1"&gt;pic.twitter.com/5yOV3yjioQ&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@drmpeg I can, but there is a sensitivity penalty, so I'm avoiding them for the time being.</title>
-		<published>2023-02-05T07:54:15+00:00</published>
-		<updated>2023-02-05T07:54:15+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1622141537332219904</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1622141537332219904"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@drmpeg I can, but there is a sensitivity penalty, so I'm avoiding them for the time being.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">The TCP sink in the flowgraph goes to another machine where socat sends the data into a named pipe which then is read by a small C application that sends the data to the LimeSDR. The latency would be reduced further by counting samples in this application instead of the flowgraph</title>
-		<published>2023-02-04T22:37:20+00:00</published>
-		<updated>2023-02-04T22:37:20+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1622001388044652544</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1622001388044652544"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;The TCP sink in the flowgraph goes to another machine where socat sends the data into a named pipe which then is read by a small C application that sends the data to the LimeSDR. The latency would be reduced further by counting samples in this application instead of the flowgraph&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Made a good improvement with latency. Now my round-trip-time from TX to RX through the satellite is 1.3-1.6 seconds. Not too bad, given that RTT to GEO is 0.26 s, and a FECFRAME at 125ksyms is 0.26 s long, so the minimum latency would be 0.52 s. pic.twitter.com/gbEBRMERC3</title>
-		<published>2023-02-04T22:37:20+00:00</published>
-		<updated>2023-02-04T22:37:20+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1622001384685015042</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1622001384685015042"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Made a good improvement with latency. Now my round-trip-time from TX to RX through the satellite is 1.3-1.6 seconds. Not too bad, given that RTT to GEO is 0.26 s, and a FECFRAME at 125ksyms is 0.26 s long, so the minimum latency would be 0.52 s. &lt;a href="https://twitter.com/ea4gpz/status/1622001384685015042/photo/1"&gt;pic.twitter.com/gbEBRMERC3&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FoKBTVnWYAAUG_D.jpg?name=orig"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FosewRyWYAItrPz.png?name=orig"&gt;
 &lt;img
 	style="align:top; max-width:558px; border:1px solid black;"
 	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FoKBTVnWYAAUG_D.jpg" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FoJ_b8UXoAAOfDJ.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FoJ_b8UXoAAOfDJ.jpg" /&gt;
+	src="https://pbs.twimg.com/media/FosewRyWYAItrPz.png" /&gt;
 &lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FoKBTVnWYAAUG_D.jpg?name=orig" type="image/jpeg" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FoJ_b8UXoAAOfDJ.jpg?name=orig" type="image/jpeg" />
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FosewRyWYAItrPz.png?name=orig" type="image/png" />
 
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">@otti_sat @F5OEOEvariste Yes</title>
-		<published>2023-02-04T10:58:08+00:00</published>
-		<updated>2023-02-04T10:58:08+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1621825428276092928</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1621825428276092928"/>
+		<title type="html">For people used to Xilinx FPGAs, the Zynq 7010 can seem a rather small FPGA, so how well are we doing on resource usage? We're at ~25% utilization, so there is room for plenty more ideas. A good portion of this is used by the axi_ad9631. A custom interface would reduce the usage. pic.twitter.com/HhKTS0BvOV</title>
+		<published>2023-02-11T15:50:39+00:00</published>
+		<updated>2023-02-11T15:50:39+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624435755379572736</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624435755379572736"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -489,22 +450,34 @@ Read more: &lt;a href="https://destevez.net/2023/02/more-details-about-orion-unc
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@otti_sat @F5OEOEvariste Yes&lt;/blockquote&gt;
+	&lt;blockquote&gt;For people used to Xilinx FPGAs, the Zynq 7010 can seem a rather small FPGA, so how well are we doing on resource usage? We're at ~25% utilization, so there is room for plenty more ideas. A good portion of this is used by the axi_ad9631. A custom interface would reduce the usage. &lt;a href="https://twitter.com/ea4gpz/status/1624435755379572736/photo/1"&gt;pic.twitter.com/HhKTS0BvOV&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FoseN_NX0AAXDQ4.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FoseN_NX0AAXDQ4.png" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FosaZ8pWIAImbkf.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FosaZ8pWIAImbkf.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FoseN_NX0AAXDQ4.png?name=orig" type="image/png" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FosaZ8pWIAImbkf.png?name=orig" type="image/png" />
+
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">@astrojockey @drmpeg @gnuradio After giving this some thought, I'm going to try @matt_rambling's latency management idea to have at most a single frame in flight through the flowgraph. A normal FECFRAME at ~50kbps is already more than one second long.</title>
-		<published>2023-02-04T08:25:15+00:00</published>
-		<updated>2023-02-04T08:25:15+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1621786952394473477</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1621786952394473477"/>
+		<title type="html">Here is the Vivado block design. There is the ADI axi_ad9361 interface in yellow (configured to reduce resource usage), the Maia SDR IP core in blue, an AXI interconnect to drive both from the CPU, and not much else. pic.twitter.com/mP1Eip0IaK</title>
+		<published>2023-02-11T15:50:38+00:00</published>
+		<updated>2023-02-11T15:50:38+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624435752049278977</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624435752049278977"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -516,22 +489,31 @@ Read more: &lt;a href="https://destevez.net/2023/02/more-details-about-orion-unc
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@astrojockey @drmpeg @gnuradio After giving this some thought, I'm going to try @matt_rambling's latency management idea to have at most a single frame in flight through the flowgraph. A normal FECFRAME at ~50kbps is already more than one second long.&lt;/blockquote&gt;
+	&lt;blockquote&gt;Here is the Vivado block design. There is the ADI axi_ad9361 interface in yellow (configured to reduce resource usage), the Maia SDR IP core in blue, an AXI interconnect to drive both from the CPU, and not much else. &lt;a href="https://twitter.com/ea4gpz/status/1624435752049278977/photo/1"&gt;pic.twitter.com/mP1Eip0IaK&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fosd6EKXsAIHbOE.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Fosd6EKXsAIHbOE.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		
+		<link rel="enclosure" href="https://pbs.twimg.com/media/Fosd6EKXsAIHbOE.png?name=orig" type="image/png" />
+
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">@astrojockey @drmpeg @gnuradio It is</title>
-		<published>2023-02-03T21:54:13+00:00</published>
-		<updated>2023-02-03T21:54:13+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1621628147119562753</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1621628147119562753"/>
+		<title type="html">Maia SDR (maia-sdr.org) is composed by:
+* maia-hdl, the FPGA design, written in Amaranth. It has a custom FFT with low resource usage.
+* maia-httpd, an async Rust application that runs on the Pluto ARM CPU.
+* maia-wasm, a Rust web application using wasm and WebGL2.</title>
+		<published>2023-02-11T15:50:37+00:00</published>
+		<updated>2023-02-11T15:50:37+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624435749255892993</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624435749255892993"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -543,7 +525,10 @@ Read more: &lt;a href="https://destevez.net/2023/02/more-details-about-orion-unc
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@astrojockey @drmpeg @gnuradio It is&lt;/blockquote&gt;
+	&lt;blockquote&gt;Maia SDR (&lt;a href="http://maia-sdr.org"&gt;maia-sdr.org&lt;/a&gt;) is composed by:
+* maia-hdl, the FPGA design, written in Amaranth. It has a custom FFT with low resource usage.
+* maia-httpd, an async Rust application that runs on the Pluto ARM CPU.
+* maia-wasm, a Rust web application using wasm and WebGL2.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -554,11 +539,11 @@ Read more: &lt;a href="https://destevez.net/2023/02/more-details-about-orion-unc
 	</entry>
 
 	<entry>
-		<title type="html">@drmpeg @gnuradio Thanks for the suggestion. I just tried, and it doesn't seem to break anything, but it doesn't reduce the latency appreciably either. I think the main culprit are all the output buffers of the 8 or 9 blocks that comprise the DVB-S2 encoder chain.</title>
-		<published>2023-02-03T21:47:04+00:00</published>
-		<updated>2023-02-03T21:47:04+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1621626349302546432</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1621626349302546432"/>
+		<title type="html">Happy to release Maia SDR, an open-source FPGA-based SDR project focusing on the ADALM Pluto. This first release can display the waterfall on a web browser using WebGL2 and record in SigMF format, at up to 61.44 Msps. Here is a short demo, and some technical details. 🧵 pic.twitter.com/IX86LqdzLf</title>
+		<published>2023-02-11T15:50:36+00:00</published>
+		<updated>2023-02-11T15:50:36+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624435744684052480</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624435744684052480"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -570,12 +555,61 @@ Read more: &lt;a href="https://destevez.net/2023/02/more-details-about-orion-unc
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@drmpeg @gnuradio Thanks for the suggestion. I just tried, and it doesn't seem to break anything, but it doesn't reduce the latency appreciably either. I think the main culprit are all the output buffers of the 8 or 9 blocks that comprise the DVB-S2 encoder chain.&lt;/blockquote&gt;
+	&lt;blockquote&gt;Happy to release Maia SDR, an open-source FPGA-based SDR project focusing on the ADALM Pluto. This first release can display the waterfall on a web browser using WebGL2 and record in SigMF format, at up to 61.44 Msps. Here is a short demo, and some technical details. 🧵 &lt;a href="https://twitter.com/ea4gpz/status/1624435744684052480/video/1"&gt;pic.twitter.com/IX86LqdzLf&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;&lt;a href="https://twitter.com/ea4gpz/status/1624435744684052480/video/1"&gt;Video&lt;/a&gt;
+&lt;video
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://video.twimg.com/ext_tw_video/1624418870541910017/pu/vid/1280x720/4fb2fE5r-uFh8qFc.mp4?tag=12" poster="https://pbs.twimg.com/ext_tw_video_thumb/1624418870541910017/pu/img/wjwngw7Af8joYFX0.jpg" /&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
+		<link rel="enclosure" href="https://video.twimg.com/ext_tw_video/1624418870541910017/pu/vid/1280x720/4fb2fE5r-uFh8qFc.mp4?tag=12" type="video/mp4" />
+<link rel="enclosure" href="https://pbs.twimg.com/ext_tw_video_thumb/1624418870541910017/pu/img/wjwngw7Af8joYFX0.jpg" type="image/jpeg" />
+
 		
+		
+	</entry>
+
+	<entry>
+		<title type="html">#SiliWiz is finally publicly available! Try it here: app.siliwiz.com
+
+And make sure you take a look at the lessons: bit.ly/siliwiz-lesson pic.twitter.com/VKlOZY7nb6</title>
+		<published>2023-02-11T12:38:11+00:00</published>
+		<updated>2023-02-11T12:38:11+00:00</updated>
+		<id>https://twitter.com/matthewvenn/status/1624387319019995136</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/matthewvenn/status/1624387319019995136"/>
+		<author><name>RT: Matthew Venn (@matthewvenn)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/matthewvenn"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="matthewvenn"
+	src="https://pbs.twimg.com/profile_images/1586642928587472896/hFUKXJ4p_normal.jpg"
+	title="Matthew Venn" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;#SiliWiz is finally publicly available! Try it here: &lt;a href="https://app.siliwiz.com/"&gt;app.siliwiz.com&lt;/a&gt;
+
+And make sure you take a look at the lessons: &lt;a href="https://bit.ly/siliwiz-lesson"&gt;bit.ly/siliwiz-lesson&lt;/a&gt; &lt;a href="https://twitter.com/matthewvenn/status/1624387319019995136/photo/1"&gt;pic.twitter.com/VKlOZY7nb6&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/For7hMDX0AUWhgr.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/For7hMDX0AUWhgr.jpg" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/For7nrwXEAAq_bT.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/For7nrwXEAAq_bT.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/For7hMDX0AUWhgr.jpg?name=orig" type="image/jpeg" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/For7nrwXEAAq_bT.jpg?name=orig" type="image/jpeg" />
+
 		
 		
 	</entry>
