@@ -5,7 +5,7 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-02-12T08:55:00+00:00</updated>
+	<updated>2023-02-13T06:14:03+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
@@ -13,11 +13,11 @@
 	<link rel="self" type="application/atom+xml" href="http://" />
 
 	<entry>
-		<title type="html">@balister @Astro_Wael Yes, it's the maximum sample rate supported by the AD936x in the Pluto.</title>
-		<published>2023-02-11T23:58:34+00:00</published>
-		<updated>2023-02-11T23:58:34+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624558543381704712</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624558543381704712"/>
+		<title type="html">@aang254 @NuandLLC I'll have to cross-check this with the register map reference to understand what kind of magic they're attempting. analog.com/media/cn/techn…</title>
+		<published>2023-02-12T22:15:48+00:00</published>
+		<updated>2023-02-12T22:15:48+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624895069487607808</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624895069487607808"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -29,7 +29,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@balister @Astro_Wael Yes, it's the maximum sample rate supported by the AD936x in the Pluto.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@aang254 @NuandLLC I'll have to cross-check this with the register map reference to understand what kind of magic they're attempting. &lt;a href="https://www.analog.com/media/cn/technical-documentation/user-guides/ad9364_register_map_reference_manual_ug-672.pdf"&gt;analog.com/media/cn/techn…&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -40,11 +40,12 @@
 	</entry>
 
 	<entry>
-		<title type="html">@hennichodernich I'm writing my own .dtsi by hand. The only Vivado outputs I use are the bitstream, and the XSA to build the FSBL with Vitis. This is exactly how the ADI build process works. I'm just copying it.</title>
-		<published>2023-02-11T20:13:44+00:00</published>
-		<updated>2023-02-11T20:13:44+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624501963097350147</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624501963097350147"/>
+		<title type="html">@aang254 @NuandLLC Back at home life is so much easier with grep and gitk. There are a bunch of commits related to "overclocking" in the dev-set-feature branch. The main on is github.com/Nuand/bladeRF/…
+They're basically setting a bunch AD9361 registers by hand.</title>
+		<published>2023-02-12T22:14:59+00:00</published>
+		<updated>2023-02-12T22:14:59+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624894866546212864</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624894866546212864"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -56,7 +57,8 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@hennichodernich I'm writing my own .dtsi by hand. The only Vivado outputs I use are the bitstream, and the XSA to build the FSBL with Vitis. This is exactly how the ADI build process works. I'm just copying it.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@aang254 @NuandLLC Back at home life is so much easier with grep and gitk. There are a bunch of commits related to "overclocking" in the dev-set-feature branch. The main on is &lt;a href="https://github.com/Nuand/bladeRF/commit/beb9296680e9582a0fdd7f673563974cb26d83bc"&gt;github.com/Nuand/bladeRF/…&lt;/a&gt;
+They're basically setting a bunch AD9361 registers by hand.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -67,11 +69,11 @@
 	</entry>
 
 	<entry>
-		<title type="html">@singularityart Support for other Zynq platforms is definitely under the radar. Support for non-Zynq devices is a larger stretch because the Linux software in the ARM CPU is doing a substantial amount of heavy lifting.</title>
-		<published>2023-02-11T20:04:34+00:00</published>
-		<updated>2023-02-11T20:04:34+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624499656787992576</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624499656787992576"/>
+		<title type="html">Just had a closer look at how this works. It's a ring of 3 transistor-resistor inverters. You can freely choose NMOS or PMOS for each of the inverters, but the resistor needs to pull up or down accordingly. twitter.com/matthewvenn/st…</title>
+		<published>2023-02-12T22:01:05+00:00</published>
+		<updated>2023-02-12T22:01:05+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624891366638600192</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624891366638600192"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -83,7 +85,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@singularityart Support for other Zynq platforms is definitely under the radar. Support for non-Zynq devices is a larger stretch because the Linux software in the ARM CPU is doing a substantial amount of heavy lifting.&lt;/blockquote&gt;
+	&lt;blockquote&gt;Just had a closer look at how this works. It's a ring of 3 transistor-resistor inverters. You can freely choose NMOS or PMOS for each of the inverters, but the resistor needs to pull up or down accordingly. &lt;a href="https://twitter.com/matthewvenn/status/1624721244976295937"&gt;twitter.com/matthewvenn/st…&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -94,11 +96,11 @@
 	</entry>
 
 	<entry>
-		<title type="html">@the_balourdos The trick is that 61.44 Msps don't go continuously through USB. You first record up to 400MiB of IQ data to the Pluto DDR. Then you download the recording over USB Ethernet at a slower rate. For the waterfall, only the waterfall data goes through USB.</title>
-		<published>2023-02-11T20:03:10+00:00</published>
-		<updated>2023-02-11T20:03:10+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624499304000880642</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624499304000880642"/>
+		<title type="html">@aang254 @F4DAV @FlUxIuS @NuandLLC Does "no noticeable impact" mean still error-free decode or roughly the same MER? If the SNR is good enough you could throw in some amount of signal distortion and still be above the FEC threshold.</title>
+		<published>2023-02-12T21:06:29+00:00</published>
+		<updated>2023-02-12T21:06:29+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624877625645604864</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624877625645604864"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -110,7 +112,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@the_balourdos The trick is that 61.44 Msps don't go continuously through USB. You first record up to 400MiB of IQ data to the Pluto DDR. Then you download the recording over USB Ethernet at a slower rate. For the waterfall, only the waterfall data goes through USB.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@aang254 @F4DAV @FlUxIuS @NuandLLC Does "no noticeable impact" mean still error-free decode or roughly the same MER? If the SNR is good enough you could throw in some amount of signal distortion and still be above the FEC threshold.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -121,11 +123,11 @@
 	</entry>
 
 	<entry>
-		<title type="html">@hennichodernich The same as the ADI Pluto firmware, which uses buildroot for the rootfs and builds the kernel and uboot separately.</title>
-		<published>2023-02-11T20:01:24+00:00</published>
-		<updated>2023-02-11T20:01:24+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624498857517146115</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624498857517146115"/>
+		<title type="html">@aang254 @NuandLLC Did you find this in the code? I didn't, but I'm on a phone, so I can't grep.</title>
+		<published>2023-02-12T18:08:45+00:00</published>
+		<updated>2023-02-12T18:08:45+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624832899324207105</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624832899324207105"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -137,7 +139,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@hennichodernich The same as the ADI Pluto firmware, which uses buildroot for the rootfs and builds the kernel and uboot separately.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@aang254 @NuandLLC Did you find this in the code? I didn't, but I'm on a phone, so I can't grep.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -148,11 +150,12 @@
 	</entry>
 
 	<entry>
-		<title type="html">@tdsepsilon @regymm0 Yes. The FPGA computes 4096-point FFTs and power averages of these. The results are sent to the web interface with a websocket. There is no framing. On each websocket message you get 4096 float32's. This  shows how to use this data in another application: github.com/maia-sdr/maia-…</title>
-		<published>2023-02-11T18:27:03+00:00</published>
-		<updated>2023-02-11T18:27:03+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624475114501812225</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624475114501812225"/>
+		<title type="html">@FlUxIuS @aang254 @NuandLLC Yes, but the rate is usually down to 61.44Msps by the time it exits the chip. The main question is what register settings get around this limitation. The official opinion is apparently "don't do this":
+ez.analog.com/wide-band-rf-t…</title>
+		<published>2023-02-12T17:34:25+00:00</published>
+		<updated>2023-02-12T17:34:25+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624824258454032384</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624824258454032384"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -164,7 +167,8 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@tdsepsilon @regymm0 Yes. The FPGA computes 4096-point FFTs and power averages of these. The results are sent to the web interface with a websocket. There is no framing. On each websocket message you get 4096 float32's. This  shows how to use this data in another application: &lt;a href="https://github.com/maia-sdr/maia-sdr/blob/main/maia-httpd/util/spectrum_client.py"&gt;github.com/maia-sdr/maia-…&lt;/a&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;@FlUxIuS @aang254 @NuandLLC Yes, but the rate is usually down to 61.44Msps by the time it exits the chip. The main question is what register settings get around this limitation. The official opinion is apparently "don't do this":
+&lt;a href="https://ez.analog.com/wide-band-rf-transceivers/design-support/w/documents/10067/ad936x-maximum-rx-digital-path-data-rates"&gt;ez.analog.com/wide-band-rf-t…&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -175,11 +179,12 @@
 	</entry>
 
 	<entry>
-		<title type="html">@tdsepsilon @regymm0 The FPGA design is not very intrusive. It has an AXI4 lite slave port, a couple AXI3 master ports for DMA, plus an interrupt line. It can be fitted alongside other designs. The only reason I ripped off the ADI design completely in the Pluto is to make myself some room.</title>
-		<published>2023-02-11T18:11:19+00:00</published>
-		<updated>2023-02-11T18:11:19+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624471155494072320</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624471155494072320"/>
+		<title type="html">@aang254 @NuandLLC So there is this constant that makes the function return -EINVAL if we try to set a sample rate higher than 61.44Msps. I guess Nuand have patched this to change the max, but I haven't seen the patch yet.
+github.com/analogdevicesi…</title>
+		<published>2023-02-12T16:32:41+00:00</published>
+		<updated>2023-02-12T16:32:41+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624808723418939393</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624808723418939393"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -191,7 +196,8 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@tdsepsilon @regymm0 The FPGA design is not very intrusive. It has an AXI4 lite slave port, a couple AXI3 master ports for DMA, plus an interrupt line. It can be fitted alongside other designs. The only reason I ripped off the ADI design completely in the Pluto is to make myself some room.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@aang254 @NuandLLC So there is this constant that makes the function return -EINVAL if we try to set a sample rate higher than 61.44Msps. I guess Nuand have patched this to change the max, but I haven't seen the patch yet.
+&lt;a href="https://github.com/analogdevicesinc/no-OS/blob/975ceaaf5c2ca0fa68f18c066ee635653cd674b5/drivers/rf-transceiver/ad9361/ad9361.h#L2848"&gt;github.com/analogdevicesi…&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -202,11 +208,12 @@
 	</entry>
 
 	<entry>
-		<title type="html">@tdsepsilon @regymm0 For the ADI 936x interface, I'm using the ADI IP core, so it supports pretty much any setup with that chip, both CMOS and LVDS (presumably the daughterboard is LVDS like the FMCOMMS3?). For networking this uses the Linux network stack, so Ethernet will work just fine.</title>
-		<published>2023-02-11T18:08:19+00:00</published>
-		<updated>2023-02-11T18:08:19+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624470400984834054</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624470400984834054"/>
+		<title type="html">@aang254 @NuandLLC It seems the key is in this function. Probably worth to study what happens when we try to set a sample rate of 122.88Msps.
+github.com/analogdevicesi…</title>
+		<published>2023-02-12T16:24:37+00:00</published>
+		<updated>2023-02-12T16:24:37+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624806693455421444</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624806693455421444"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -218,7 +225,8 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@tdsepsilon @regymm0 For the ADI 936x interface, I'm using the ADI IP core, so it supports pretty much any setup with that chip, both CMOS and LVDS (presumably the daughterboard is LVDS like the FMCOMMS3?). For networking this uses the Linux network stack, so Ethernet will work just fine.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@aang254 @NuandLLC It seems the key is in this function. Probably worth to study what happens when we try to set a sample rate of 122.88Msps.
+&lt;a href="https://github.com/analogdevicesinc/no-OS/blob/975ceaaf5c2ca0fa68f18c066ee635653cd674b5/drivers/rf-transceiver/ad9361/ad9361.c#L4763"&gt;github.com/analogdevicesi…&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -229,11 +237,12 @@
 	</entry>
 
 	<entry>
-		<title type="html">@tdsepsilon @regymm0 If you set yourself to add support for another board, feel free to open an issue in the maia-sdr Github repo to share progress and get some advice.</title>
-		<published>2023-02-11T17:56:49+00:00</published>
-		<updated>2023-02-11T17:56:49+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624467508747984897</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624467508747984897"/>
+		<title type="html">@aang254 @NuandLLC This patch to tune down to 47MHz is interesting, but unrelated.
+github.com/Nuand/bladeRF/…</title>
+		<published>2023-02-12T16:09:58+00:00</published>
+		<updated>2023-02-12T16:09:58+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624803004590219264</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624803004590219264"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -245,7 +254,8 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@tdsepsilon @regymm0 If you set yourself to add support for another board, feel free to open an issue in the maia-sdr Github repo to share progress and get some advice.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@aang254 @NuandLLC This patch to tune down to 47MHz is interesting, but unrelated.
+&lt;a href="https://github.com/Nuand/bladeRF/blob/b132f75308f62e7bd074f3f61f8be603bfe8671a/thirdparty/analogdevicesinc/no-OS_local/patches/0004-0bba46e-pr-598.patch"&gt;github.com/Nuand/bladeRF/…&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -256,11 +266,12 @@
 	</entry>
 
 	<entry>
-		<title type="html">@tdsepsilon @regymm0 The Vivado project is built using the workflow of the analogdevicesinc/hdl repo, which has projects for many boards. So not too difficult to add a maia-hdl project for another board. Additionally, this needs a kernel module and a small kernel patch, plus UIO support.</title>
-		<published>2023-02-11T17:55:48+00:00</published>
-		<updated>2023-02-11T17:55:48+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624467252627009536</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624467252627009536"/>
+		<title type="html">@aang254 @NuandLLC This seems to use the noOS libad936x from ADI.
+github.com/Nuand/bladeRF/…</title>
+		<published>2023-02-12T16:03:17+00:00</published>
+		<updated>2023-02-12T16:03:17+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624801323911610369</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624801323911610369"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -272,7 +283,8 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@tdsepsilon @regymm0 The Vivado project is built using the workflow of the analogdevicesinc/hdl repo, which has projects for many boards. So not too difficult to add a maia-hdl project for another board. Additionally, this needs a kernel module and a small kernel patch, plus UIO support.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@aang254 @NuandLLC This seems to use the noOS libad936x from ADI.
+&lt;a href="https://github.com/Nuand/bladeRF/blob/b132f75308f62e7bd074f3f61f8be603bfe8671a/host/libraries/libbladeRF/src/board/bladerf2/rfic_host.c#L359"&gt;github.com/Nuand/bladeRF/…&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -283,11 +295,11 @@
 	</entry>
 
 	<entry>
-		<title type="html">@cemaxecuter It took a while, because I started from scratch. Lots of "pipework" had to be developed, including horrible crimes with the Linux kernel for cache management, a WebGL2 render engine, etc. Now that all this is in place, future steps (an FM/AM/SSB receiver perhaps) will be easier.</title>
-		<published>2023-02-11T17:50:59+00:00</published>
-		<updated>2023-02-11T17:50:59+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624466037767827457</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624466037767827457"/>
+		<title type="html">@aang254 @NuandLLC I guess it would be possible to skip a half-band decimation stage in the AD9361 using undocumented register settings. The timing on the digital interface may work under some conditions. Any pointers to documentation or code where they do this?</title>
+		<published>2023-02-12T15:45:44+00:00</published>
+		<updated>2023-02-12T15:45:44+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624796906445496322</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624796906445496322"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -299,7 +311,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@cemaxecuter It took a while, because I started from scratch. Lots of "pipework" had to be developed, including horrible crimes with the Linux kernel for cache management, a WebGL2 render engine, etc. Now that all this is in place, future steps (an FM/AM/SSB receiver perhaps) will be easier.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@aang254 @NuandLLC I guess it would be possible to skip a half-band decimation stage in the AD9361 using undocumented register settings. The timing on the digital interface may work under some conditions. Any pointers to documentation or code where they do this?&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -310,13 +322,11 @@
 	</entry>
 
 	<entry>
-		<title type="html">Flashing the Maia SDR firmware on the Pluto is as easy as updating the ADI firmware. The UI can run on a web browser on a PC or mobile device.
-Detailed instructions: maia-sdr.org/installation/
-Firmware download: github.com/maia-sdr/pluto…</title>
-		<published>2023-02-11T15:50:41+00:00</published>
-		<updated>2023-02-11T15:50:41+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624435766314106884</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624435766314106884"/>
+		<title type="html">@aang254 @NuandLLC How does this work? Doesn't the BladeRF xA4 use an AD9361, which has a maximum sample rate of 61.44Msps?</title>
+		<published>2023-02-12T15:30:25+00:00</published>
+		<updated>2023-02-12T15:30:25+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624793052530311169</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624793052530311169"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -328,9 +338,7 @@ Firmware download: github.com/maia-sdr/pluto…</title>
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Flashing the Maia SDR firmware on the Pluto is as easy as updating the ADI firmware. The UI can run on a web browser on a PC or mobile device.
-Detailed instructions: &lt;a href="https://maia-sdr.org/installation/"&gt;maia-sdr.org/installation/&lt;/a&gt;
-Firmware download: &lt;a href="https://github.com/maia-sdr/plutosdr-fw/releases/latest"&gt;github.com/maia-sdr/pluto…&lt;/a&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;@aang254 @NuandLLC How does this work? Doesn't the BladeRF xA4 use an AD9361, which has a maximum sample rate of 61.44Msps?&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -341,11 +349,11 @@ Firmware download: &lt;a href="https://github.com/maia-sdr/plutosdr-fw/releases/
 	</entry>
 
 	<entry>
-		<title type="html">There are also clocks at 2x and 3x this frequency, used to perform 2 or 3 multiplications with a DSP in a single 62.5 MHz cycle.</title>
-		<published>2023-02-11T15:50:41+00:00</published>
-		<updated>2023-02-11T15:50:41+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624435764510466048</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624435764510466048"/>
+		<title type="html">@matthewvenn Patience and redraw when DRC doesn't pass. No tricks involved.</title>
+		<published>2023-02-12T14:13:25+00:00</published>
+		<updated>2023-02-12T14:13:25+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624773673675550722</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624773673675550722"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -357,7 +365,7 @@ Firmware download: &lt;a href="https://github.com/maia-sdr/plutosdr-fw/releases/
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;There are also clocks at 2x and 3x this frequency, used to perform 2 or 3 multiplications with a DSP in a single 62.5 MHz cycle.&lt;/blockquote&gt;
+	&lt;blockquote&gt;@matthewvenn Patience and redraw when DRC doesn't pass. No tricks involved.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -368,11 +376,11 @@ Firmware download: &lt;a href="https://github.com/maia-sdr/plutosdr-fw/releases/
 	</entry>
 
 	<entry>
-		<title type="html">This is the clocking. The AD9361 CMOS interface clock can go from a couple MHz to 61.44 MHz. Most of the Maia SDR core runs at 62.5 MHz to always have one sample or less per clock cycle. pic.twitter.com/JnWxDYpq3w</title>
-		<published>2023-02-11T15:50:40+00:00</published>
-		<updated>2023-02-11T15:50:40+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624435762165940230</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624435762165940230"/>
+		<title type="html">@DL5BCA Probably at some point, yes.</title>
+		<published>2023-02-12T14:12:36+00:00</published>
+		<updated>2023-02-12T14:12:36+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624773468553195521</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624773468553195521"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -384,28 +392,115 @@ Firmware download: &lt;a href="https://github.com/maia-sdr/plutosdr-fw/releases/
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;This is the clocking. The AD9361 CMOS interface clock can go from a couple MHz to 61.44 MHz. Most of the Maia SDR core runs at 62.5 MHz to always have one sample or less per clock cycle. &lt;a href="https://twitter.com/ea4gpz/status/1624435762165940230/photo/1"&gt;pic.twitter.com/JnWxDYpq3w&lt;/a&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;@DL5BCA Probably at some point, yes.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fose_lgXoAQeCBx.png?name=orig"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@danieldk1 Yes. Porting the project to that board wouldn't be difficult. See this for more details about porting: twitter.com/ea4gpz/status/…</title>
+		<published>2023-02-12T09:29:22+00:00</published>
+		<updated>2023-02-12T09:29:22+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624702190408372224</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624702190408372224"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@danieldk1 Yes. Porting the project to that board wouldn't be difficult. See this for more details about porting: &lt;a href="https://twitter.com/ea4gpz/status/1624467252627009536"&gt;twitter.com/ea4gpz/status/…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">You can grab these designs here and play with them in siliwiz.com
+gist.github.com/daniestevez/3c… (12/12)</title>
+		<published>2023-02-12T09:27:07+00:00</published>
+		<updated>2023-02-12T09:27:07+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624701622952640512</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624701622952640512"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;You can grab these designs here and play with them in &lt;a href="http://siliwiz.com"&gt;siliwiz.com&lt;/a&gt;
+&lt;a href="https://gist.github.com/daniestevez/3cf72a331bda87ef43a4266ea7a5a3a8"&gt;gist.github.com/daniestevez/3c…&lt;/a&gt; (12/12)&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">To simulate this, we need to change the step and duration to:
+.tran 1p 2n
+The oscillator frequency turns out to be around 3.5 GHz. (11/12) pic.twitter.com/x62lyKDKyS</title>
+		<published>2023-02-12T09:27:06+00:00</published>
+		<updated>2023-02-12T09:27:06+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624701621052530688</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624701621052530688"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;To simulate this, we need to change the step and duration to:
+.tran 1p 2n
+The oscillator frequency turns out to be around 3.5 GHz. (11/12) &lt;a href="https://twitter.com/ea4gpz/status/1624701621052530688/photo/1"&gt;pic.twitter.com/x62lyKDKyS&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FowX0KqWcAARZSu.png?name=orig"&gt;
 &lt;img
 	style="align:top; max-width:558px; border:1px solid black;"
 	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fose_lgXoAQeCBx.png" /&gt;
+	src="https://pbs.twimg.com/media/FowX0KqWcAARZSu.png" /&gt;
 &lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/Fose_lgXoAQeCBx.png?name=orig" type="image/png" />
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FowX0KqWcAARZSu.png?name=orig" type="image/png" />
 
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">The Maia SDR IP is in blue, the axi_ad9361 in yellow, and the AXI interconnect in salmon. The interconnect also uses a lot of resources for no good reason. We could do much better with a custom interconnect. pic.twitter.com/5yOV3yjioQ</title>
-		<published>2023-02-11T15:50:40+00:00</published>
-		<updated>2023-02-11T15:50:40+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624435758726582274</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624435758726582274"/>
+		<title type="html">I've also made a ring oscillator formed by three inverters. (10/12) pic.twitter.com/pSwcge3yxw</title>
+		<published>2023-02-12T09:27:06+00:00</published>
+		<updated>2023-02-12T09:27:06+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624701618552811520</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624701618552811520"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -417,28 +512,28 @@ Firmware download: &lt;a href="https://github.com/maia-sdr/plutosdr-fw/releases/
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;The Maia SDR IP is in blue, the axi_ad9361 in yellow, and the AXI interconnect in salmon. The interconnect also uses a lot of resources for no good reason. We could do much better with a custom interconnect. &lt;a href="https://twitter.com/ea4gpz/status/1624435758726582274/photo/1"&gt;pic.twitter.com/5yOV3yjioQ&lt;/a&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;I've also made a ring oscillator formed by three inverters. (10/12) &lt;a href="https://twitter.com/ea4gpz/status/1624701618552811520/photo/1"&gt;pic.twitter.com/pSwcge3yxw&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FosewRyWYAItrPz.png?name=orig"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FowXtJwWIAUlpcc.png?name=orig"&gt;
 &lt;img
 	style="align:top; max-width:558px; border:1px solid black;"
 	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FosewRyWYAItrPz.png" /&gt;
+	src="https://pbs.twimg.com/media/FowXtJwWIAUlpcc.png" /&gt;
 &lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FosewRyWYAItrPz.png?name=orig" type="image/png" />
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FowXtJwWIAUlpcc.png?name=orig" type="image/png" />
 
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">For people used to Xilinx FPGAs, the Zynq 7010 can seem a rather small FPGA, so how well are we doing on resource usage? We're at ~25% utilization, so there is room for plenty more ideas. A good portion of this is used by the axi_ad9631. A custom interface would reduce the usage. pic.twitter.com/HhKTS0BvOV</title>
-		<published>2023-02-11T15:50:39+00:00</published>
-		<updated>2023-02-11T15:50:39+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624435755379572736</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624435755379572736"/>
+		<title type="html">We add to the plot the 3 inputs and output, offsetting them vertically as we would do in an oscilloscope. At 500MHz, the gate delay is apparent. Look at the rise time of not(C) through the transmission gate when the input goes from 111 to 110. (9/12) pic.twitter.com/h2dqCggiPb</title>
+		<published>2023-02-12T09:27:05+00:00</published>
+		<updated>2023-02-12T09:27:05+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624701615771983872</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624701615771983872"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -450,34 +545,30 @@ Firmware download: &lt;a href="https://github.com/maia-sdr/plutosdr-fw/releases/
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;For people used to Xilinx FPGAs, the Zynq 7010 can seem a rather small FPGA, so how well are we doing on resource usage? We're at ~25% utilization, so there is room for plenty more ideas. A good portion of this is used by the axi_ad9631. A custom interface would reduce the usage. &lt;a href="https://twitter.com/ea4gpz/status/1624435755379572736/photo/1"&gt;pic.twitter.com/HhKTS0BvOV&lt;/a&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;We add to the plot the 3 inputs and output, offsetting them vertically as we would do in an oscilloscope. At 500MHz, the gate delay is apparent. Look at the rise time of not(C) through the transmission gate when the input goes from 111 to 110. (9/12) &lt;a href="https://twitter.com/ea4gpz/status/1624701615771983872/photo/1"&gt;pic.twitter.com/h2dqCggiPb&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FoseN_NX0AAXDQ4.png?name=orig"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FowXehgXsAIHrxR.png?name=orig"&gt;
 &lt;img
 	style="align:top; max-width:558px; border:1px solid black;"
 	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FoseN_NX0AAXDQ4.png" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FosaZ8pWIAImbkf.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FosaZ8pWIAImbkf.png" /&gt;
+	src="https://pbs.twimg.com/media/FowXehgXsAIHrxR.png" /&gt;
 &lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FoseN_NX0AAXDQ4.png?name=orig" type="image/png" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FosaZ8pWIAImbkf.png?name=orig" type="image/png" />
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FowXehgXsAIHrxR.png?name=orig" type="image/png" />
 
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">Here is the Vivado block design. There is the ADI axi_ad9361 interface in yellow (configured to reduce resource usage), the Maia SDR IP core in blue, an AXI interconnect to drive both from the CPU, and not much else. pic.twitter.com/mP1Eip0IaK</title>
-		<published>2023-02-11T15:50:38+00:00</published>
-		<updated>2023-02-11T15:50:38+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624435752049278977</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624435752049278977"/>
+		<title type="html">And we adjust the simulation step and length accordingly:
+.tran 1p 16n
+(8/12)</title>
+		<published>2023-02-12T09:27:04+00:00</published>
+		<updated>2023-02-12T09:27:04+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1624701613385388032</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624701613385388032"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -489,127 +580,14 @@ Firmware download: &lt;a href="https://github.com/maia-sdr/plutosdr-fw/releases/
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Here is the Vivado block design. There is the ADI axi_ad9361 interface in yellow (configured to reduce resource usage), the Maia SDR IP core in blue, an AXI interconnect to drive both from the CPU, and not much else. &lt;a href="https://twitter.com/ea4gpz/status/1624435752049278977/photo/1"&gt;pic.twitter.com/mP1Eip0IaK&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fosd6EKXsAIHbOE.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fosd6EKXsAIHbOE.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/Fosd6EKXsAIHbOE.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Maia SDR (maia-sdr.org) is composed by:
-* maia-hdl, the FPGA design, written in Amaranth. It has a custom FFT with low resource usage.
-* maia-httpd, an async Rust application that runs on the Pluto ARM CPU.
-* maia-wasm, a Rust web application using wasm and WebGL2.</title>
-		<published>2023-02-11T15:50:37+00:00</published>
-		<updated>2023-02-11T15:50:37+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624435749255892993</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624435749255892993"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Maia SDR (&lt;a href="http://maia-sdr.org"&gt;maia-sdr.org&lt;/a&gt;) is composed by:
-* maia-hdl, the FPGA design, written in Amaranth. It has a custom FFT with low resource usage.
-* maia-httpd, an async Rust application that runs on the Pluto ARM CPU.
-* maia-wasm, a Rust web application using wasm and WebGL2.&lt;/blockquote&gt;
+	&lt;blockquote&gt;And we adjust the simulation step and length accordingly:
+.tran 1p 16n
+(8/12)&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
 		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Happy to release Maia SDR, an open-source FPGA-based SDR project focusing on the ADALM Pluto. This first release can display the waterfall on a web browser using WebGL2 and record in SigMF format, at up to 61.44 Msps. Here is a short demo, and some technical details. 🧵 pic.twitter.com/IX86LqdzLf</title>
-		<published>2023-02-11T15:50:36+00:00</published>
-		<updated>2023-02-11T15:50:36+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624435744684052480</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624435744684052480"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Happy to release Maia SDR, an open-source FPGA-based SDR project focusing on the ADALM Pluto. This first release can display the waterfall on a web browser using WebGL2 and record in SigMF format, at up to 61.44 Msps. Here is a short demo, and some technical details. 🧵 &lt;a href="https://twitter.com/ea4gpz/status/1624435744684052480/video/1"&gt;pic.twitter.com/IX86LqdzLf&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://twitter.com/ea4gpz/status/1624435744684052480/video/1"&gt;Video&lt;/a&gt;
-&lt;video
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://video.twimg.com/ext_tw_video/1624418870541910017/pu/vid/1280x720/4fb2fE5r-uFh8qFc.mp4?tag=12" poster="https://pbs.twimg.com/ext_tw_video_thumb/1624418870541910017/pu/img/wjwngw7Af8joYFX0.jpg" /&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://video.twimg.com/ext_tw_video/1624418870541910017/pu/vid/1280x720/4fb2fE5r-uFh8qFc.mp4?tag=12" type="video/mp4" />
-<link rel="enclosure" href="https://pbs.twimg.com/ext_tw_video_thumb/1624418870541910017/pu/img/wjwngw7Af8joYFX0.jpg" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">#SiliWiz is finally publicly available! Try it here: app.siliwiz.com
-
-And make sure you take a look at the lessons: bit.ly/siliwiz-lesson pic.twitter.com/VKlOZY7nb6</title>
-		<published>2023-02-11T12:38:11+00:00</published>
-		<updated>2023-02-11T12:38:11+00:00</updated>
-		<id>https://twitter.com/matthewvenn/status/1624387319019995136</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/matthewvenn/status/1624387319019995136"/>
-		<author><name>RT: Matthew Venn (@matthewvenn)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/matthewvenn"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="matthewvenn"
-	src="https://pbs.twimg.com/profile_images/1586642928587472896/hFUKXJ4p_normal.jpg"
-	title="Matthew Venn" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;#SiliWiz is finally publicly available! Try it here: &lt;a href="https://app.siliwiz.com/"&gt;app.siliwiz.com&lt;/a&gt;
-
-And make sure you take a look at the lessons: &lt;a href="https://bit.ly/siliwiz-lesson"&gt;bit.ly/siliwiz-lesson&lt;/a&gt; &lt;a href="https://twitter.com/matthewvenn/status/1624387319019995136/photo/1"&gt;pic.twitter.com/VKlOZY7nb6&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/For7hMDX0AUWhgr.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/For7hMDX0AUWhgr.jpg" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/For7nrwXEAAq_bT.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/For7nrwXEAAq_bT.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/For7hMDX0AUWhgr.jpg?name=orig" type="image/jpeg" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/For7nrwXEAAq_bT.jpg?name=orig" type="image/jpeg" />
-
 		
 		
 	</entry>
