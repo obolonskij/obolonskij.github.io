@@ -5,12 +5,153 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-02-13T06:14:03+00:00</updated>
+	<updated>2023-02-15T08:51:21+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@bastibl @FutureSDR Re: resize, you need to register a closure like this to the Window onresize event: github.com/maia-sdr/maia-…</title>
+		<published>2023-02-14T20:53:09+00:00</published>
+		<updated>2023-02-14T20:53:09+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1625599045124165632</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1625599045124165632"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@bastibl @FutureSDR Re: resize, you need to register a closure like this to the Window onresize event: &lt;a href="https://github.com/maia-sdr/maia-sdr/blob/main/maia-wasm/src/ui.rs#L185"&gt;github.com/maia-sdr/maia-…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@bastibl @FutureSDR ... And to call Waterfall::put_waterfall_spectrum (as WebSocketClient does). Perhaps a standalone example where the waterfall data is generated locally would help (plus be useful for testing). Any comments about improving the reusability of this are more than welcome.</title>
+		<published>2023-02-14T17:27:46+00:00</published>
+		<updated>2023-02-14T17:27:46+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1625547360167247874</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1625547360167247874"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@bastibl @FutureSDR ... And to call Waterfall::put_waterfall_spectrum (as WebSocketClient does). Perhaps a standalone example where the waterfall data is generated locally would help (plus be useful for testing). Any comments about improving the reusability of this are more than welcome.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@bastibl @FutureSDR Great! Looking at maia-wasm/lib.rs, to put the waterfall plot on another web app, you probably need the RenderEngine and Waterfall objects, and likely the Waterfall interaction (for zoom and pan). It's necessary to set up a request_animantion_frame loop as done below. ...</title>
+		<published>2023-02-14T17:25:50+00:00</published>
+		<updated>2023-02-14T17:25:50+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1625546875330871301</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1625546875330871301"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@bastibl @FutureSDR Great! Looking at maia-wasm/lib.rs, to put the waterfall plot on another web app, you probably need the RenderEngine and Waterfall objects, and likely the Waterfall interaction (for zoom and pan). It's necessary to set up a request_animantion_frame loop as done below. ...&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@ea4gpz The Python script for debugging the websocket is also helpful for @FutureSDR  :-) github.com/maia-sdr/maia-… hope we can also factor out the waterfall plot into reusable web components. pic.twitter.com/p2FxZzRxWH</title>
+		<published>2023-02-14T16:13:21+00:00</published>
+		<updated>2023-02-14T16:13:21+00:00</updated>
+		<id>https://twitter.com/bastibl/status/1625528632587304962</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/bastibl/status/1625528632587304962"/>
+		<author><name>RT: Bastian Bloessl (@bastibl)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/bastibl"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="bastibl"
+	src="https://pbs.twimg.com/profile_images/921298109321408512/W-xEnBEn_normal.jpg"
+	title="Bastian Bloessl" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ea4gpz The Python script for debugging the websocket is also helpful for @FutureSDR  :-) &lt;a href="https://github.com/maia-sdr/maia-sdr/tree/main/maia-httpd/util"&gt;github.com/maia-sdr/maia-…&lt;/a&gt; hope we can also factor out the waterfall plot into reusable web components. &lt;a href="https://twitter.com/bastibl/status/1625528632587304962/video/1"&gt;pic.twitter.com/p2FxZzRxWH&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://twitter.com/bastibl/status/1625528632587304962/video/1"&gt;Video&lt;/a&gt;
+&lt;video
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://video.twimg.com/ext_tw_video/1625528087369613312/pu/vid/1280x720/1JYjIvRP-A-nhvQ1.mp4?tag=12" poster="https://pbs.twimg.com/ext_tw_video_thumb/1625528087369613312/pu/img/gtC5h86CVnSZBpz7.jpg" /&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://video.twimg.com/ext_tw_video/1625528087369613312/pu/vid/1280x720/1JYjIvRP-A-nhvQ1.mp4?tag=12" type="video/mp4" />
+<link rel="enclosure" href="https://pbs.twimg.com/ext_tw_video_thumb/1625528087369613312/pu/img/gtC5h86CVnSZBpz7.jpg" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@aang254 @nascom1 @ka9q @tj_astro @NASAVoyager The data from that post is from July 2020, and I don't think the configuration has changed since then. My understanding is that RS decoding is handled by the project instead of the DSN because the code is not the CCSDS one.</title>
+		<published>2023-02-14T13:09:06+00:00</published>
+		<updated>2023-02-14T13:09:06+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1625482265999409152</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1625482265999409152"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@aang254 @nascom1 @ka9q @tj_astro @NASAVoyager The data from that post is from July 2020, and I don't think the configuration has changed since then. My understanding is that RS decoding is handled by the project instead of the DSN because the code is not the CCSDS one.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@aang254 @NuandLLC I'll have to cross-check this with the register map reference to understand what kind of magic they're attempting. analog.com/media/cn/techn…</title>
@@ -420,169 +561,6 @@ github.com/Nuand/bladeRF/…</title>
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@danieldk1 Yes. Porting the project to that board wouldn't be difficult. See this for more details about porting: &lt;a href="https://twitter.com/ea4gpz/status/1624467252627009536"&gt;twitter.com/ea4gpz/status/…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">You can grab these designs here and play with them in siliwiz.com
-gist.github.com/daniestevez/3c… (12/12)</title>
-		<published>2023-02-12T09:27:07+00:00</published>
-		<updated>2023-02-12T09:27:07+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624701622952640512</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624701622952640512"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;You can grab these designs here and play with them in &lt;a href="http://siliwiz.com"&gt;siliwiz.com&lt;/a&gt;
-&lt;a href="https://gist.github.com/daniestevez/3cf72a331bda87ef43a4266ea7a5a3a8"&gt;gist.github.com/daniestevez/3c…&lt;/a&gt; (12/12)&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">To simulate this, we need to change the step and duration to:
-.tran 1p 2n
-The oscillator frequency turns out to be around 3.5 GHz. (11/12) pic.twitter.com/x62lyKDKyS</title>
-		<published>2023-02-12T09:27:06+00:00</published>
-		<updated>2023-02-12T09:27:06+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624701621052530688</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624701621052530688"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;To simulate this, we need to change the step and duration to:
-.tran 1p 2n
-The oscillator frequency turns out to be around 3.5 GHz. (11/12) &lt;a href="https://twitter.com/ea4gpz/status/1624701621052530688/photo/1"&gt;pic.twitter.com/x62lyKDKyS&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FowX0KqWcAARZSu.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FowX0KqWcAARZSu.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FowX0KqWcAARZSu.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">I've also made a ring oscillator formed by three inverters. (10/12) pic.twitter.com/pSwcge3yxw</title>
-		<published>2023-02-12T09:27:06+00:00</published>
-		<updated>2023-02-12T09:27:06+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624701618552811520</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624701618552811520"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;I've also made a ring oscillator formed by three inverters. (10/12) &lt;a href="https://twitter.com/ea4gpz/status/1624701618552811520/photo/1"&gt;pic.twitter.com/pSwcge3yxw&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FowXtJwWIAUlpcc.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FowXtJwWIAUlpcc.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FowXtJwWIAUlpcc.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">We add to the plot the 3 inputs and output, offsetting them vertically as we would do in an oscilloscope. At 500MHz, the gate delay is apparent. Look at the rise time of not(C) through the transmission gate when the input goes from 111 to 110. (9/12) pic.twitter.com/h2dqCggiPb</title>
-		<published>2023-02-12T09:27:05+00:00</published>
-		<updated>2023-02-12T09:27:05+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624701615771983872</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624701615771983872"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;We add to the plot the 3 inputs and output, offsetting them vertically as we would do in an oscilloscope. At 500MHz, the gate delay is apparent. Look at the rise time of not(C) through the transmission gate when the input goes from 111 to 110. (9/12) &lt;a href="https://twitter.com/ea4gpz/status/1624701615771983872/photo/1"&gt;pic.twitter.com/h2dqCggiPb&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FowXehgXsAIHrxR.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FowXehgXsAIHrxR.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FowXehgXsAIHrxR.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">And we adjust the simulation step and length accordingly:
-.tran 1p 16n
-(8/12)</title>
-		<published>2023-02-12T09:27:04+00:00</published>
-		<updated>2023-02-12T09:27:04+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624701613385388032</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624701613385388032"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;And we adjust the simulation step and length accordingly:
-.tran 1p 16n
-(8/12)&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
