@@ -5,12 +5,269 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-02-15T08:51:21+00:00</updated>
+	<updated>2023-02-20T06:59:02+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@_ph4as_ @NuandLLC So it seems. The Pluto uses CMOS, on the other hand, so going up to 122.88Msps may or may not work.</title>
+		<published>2023-02-19T21:59:48+00:00</published>
+		<updated>2023-02-19T21:59:48+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1627427759642353665</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1627427759642353665"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@_ph4as_ @NuandLLC So it seems. The Pluto uses CMOS, on the other hand, so going up to 122.88Msps may or may not work.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@_ph4as_ @NuandLLC Yes, and it goes through the Zynq CPU, so it doesn't get anywhere near the 480 Mbps USB 2.0 max data rate.</title>
+		<published>2023-02-19T21:43:54+00:00</published>
+		<updated>2023-02-19T21:43:54+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1627423758079209474</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1627423758079209474"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@_ph4as_ @NuandLLC Yes, and it goes through the Zynq CPU, so it doesn't get anywhere near the 480 Mbps USB 2.0 max data rate.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@_ph4as_ @NuandLLC It's important to see whether the AD936x digital interface can keep up. I don't know if the bladeRF is using the LVDS or the CMOS interface. Per the datasheet, the CMOS interface can only go up to 61.44 MHz DDR (and serve only 1RX 1TX), while the LVDS can go much faster.</title>
+		<published>2023-02-19T21:42:31+00:00</published>
+		<updated>2023-02-19T21:42:31+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1627423408341364736</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1627423408341364736"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@_ph4as_ @NuandLLC It's important to see whether the AD936x digital interface can keep up. I don't know if the bladeRF is using the LVDS or the CMOS interface. Per the datasheet, the CMOS interface can only go up to 61.44 MHz DDR (and serve only 1RX 1TX), while the LVDS can go much faster.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@_ph4as_ @NuandLLC Not for realtime streaming through USB 2.0, since that's only capable of a few Msps. However, it could be possible for short recordings, either with the ADI firmware or with Maia SDR...</title>
+		<published>2023-02-19T21:41:11+00:00</published>
+		<updated>2023-02-19T21:41:11+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1627423072914493442</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1627423072914493442"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@_ph4as_ @NuandLLC Not for realtime streaming through USB 2.0, since that's only capable of a few Msps. However, it could be possible for short recordings, either with the ADI firmware or with Maia SDR...&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">New blog post: Running the AD9361 at 122.88 Msps. Some comments about how the newest @NuandLLC bladeRF software manages to run the AD9361 at 122.88 Msps. Includes heavily commented code describing the register settings that they use.
+destevez.net/2023/02/runnin…</title>
+		<published>2023-02-19T21:12:05+00:00</published>
+		<updated>2023-02-19T21:12:05+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1627415749894590469</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1627415749894590469"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;New blog post: Running the AD9361 at 122.88 Msps. Some comments about how the newest @NuandLLC bladeRF software manages to run the AD9361 at 122.88 Msps. Includes heavily commented code describing the register settings that they use.
+&lt;a href="https://destevez.net/2023/02/running-the-ad9361-at-122-88-msps/"&gt;destevez.net/2023/02/runnin…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Just added a demo of the Maia SDR WebGL2 waterfall to the website. Check it out. This runs directly in the browser. No need to install anything or to have any hardware. maia-sdr.org/waterfall-demo/ pic.twitter.com/bTLqlPUmoL</title>
+		<published>2023-02-18T23:14:47+00:00</published>
+		<updated>2023-02-18T23:14:47+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1627084241619279873</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1627084241619279873"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Just added a demo of the Maia SDR WebGL2 waterfall to the website. Check it out. This runs directly in the browser. No need to install anything or to have any hardware. &lt;a href="https://maia-sdr.org/waterfall-demo/"&gt;maia-sdr.org/waterfall-demo/&lt;/a&gt; &lt;a href="https://twitter.com/ea4gpz/status/1627084241619279873/photo/1"&gt;pic.twitter.com/bTLqlPUmoL&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FpSQdw2acAM8H_i.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FpSQdw2acAM8H_i.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FpSQdw2acAM8H_i.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@mattjhsn There is no sound. Demodulation of analog signals is planned but not implemented yet.</title>
+		<published>2023-02-18T20:53:09+00:00</published>
+		<updated>2023-02-18T20:53:09+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1627048595890311168</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1627048595890311168"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@mattjhsn There is no sound. Demodulation of analog signals is planned but not implemented yet.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@abraxas3d Great! Let me know any issues you find or general feedback.</title>
+		<published>2023-02-18T20:52:23+00:00</published>
+		<updated>2023-02-18T20:52:23+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1627048405305262082</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1627048405305262082"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@abraxas3d Great! Let me know any issues you find or general feedback.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The book by @m_ou_se about Rust Atomics and Locks just arrived at the office. pic.twitter.com/ZJZgmZdDp5</title>
+		<published>2023-02-17T07:52:13+00:00</published>
+		<updated>2023-02-17T07:52:13+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1626489682572808192</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1626489682572808192"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The book by @m_ou_se about Rust Atomics and Locks just arrived at the office. &lt;a href="https://twitter.com/ea4gpz/status/1626489682572808192/photo/1"&gt;pic.twitter.com/ZJZgmZdDp5&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FpJzvcYWYAAoQHI.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FpJzvcYWYAAoQHI.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FpJzvcYWYAAoQHI.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@bastibl @FutureSDR Re: resize, you need to register a closure like this to the Window onresize event: github.com/maia-sdr/maia-…</title>
@@ -310,257 +567,6 @@ ez.analog.com/wide-band-rf-t…</title>
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@FlUxIuS @aang254 @NuandLLC Yes, but the rate is usually down to 61.44Msps by the time it exits the chip. The main question is what register settings get around this limitation. The official opinion is apparently "don't do this":
 &lt;a href="https://ez.analog.com/wide-band-rf-transceivers/design-support/w/documents/10067/ad936x-maximum-rx-digital-path-data-rates"&gt;ez.analog.com/wide-band-rf-t…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@aang254 @NuandLLC So there is this constant that makes the function return -EINVAL if we try to set a sample rate higher than 61.44Msps. I guess Nuand have patched this to change the max, but I haven't seen the patch yet.
-github.com/analogdevicesi…</title>
-		<published>2023-02-12T16:32:41+00:00</published>
-		<updated>2023-02-12T16:32:41+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624808723418939393</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624808723418939393"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@aang254 @NuandLLC So there is this constant that makes the function return -EINVAL if we try to set a sample rate higher than 61.44Msps. I guess Nuand have patched this to change the max, but I haven't seen the patch yet.
-&lt;a href="https://github.com/analogdevicesinc/no-OS/blob/975ceaaf5c2ca0fa68f18c066ee635653cd674b5/drivers/rf-transceiver/ad9361/ad9361.h#L2848"&gt;github.com/analogdevicesi…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@aang254 @NuandLLC It seems the key is in this function. Probably worth to study what happens when we try to set a sample rate of 122.88Msps.
-github.com/analogdevicesi…</title>
-		<published>2023-02-12T16:24:37+00:00</published>
-		<updated>2023-02-12T16:24:37+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624806693455421444</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624806693455421444"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@aang254 @NuandLLC It seems the key is in this function. Probably worth to study what happens when we try to set a sample rate of 122.88Msps.
-&lt;a href="https://github.com/analogdevicesinc/no-OS/blob/975ceaaf5c2ca0fa68f18c066ee635653cd674b5/drivers/rf-transceiver/ad9361/ad9361.c#L4763"&gt;github.com/analogdevicesi…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@aang254 @NuandLLC This patch to tune down to 47MHz is interesting, but unrelated.
-github.com/Nuand/bladeRF/…</title>
-		<published>2023-02-12T16:09:58+00:00</published>
-		<updated>2023-02-12T16:09:58+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624803004590219264</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624803004590219264"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@aang254 @NuandLLC This patch to tune down to 47MHz is interesting, but unrelated.
-&lt;a href="https://github.com/Nuand/bladeRF/blob/b132f75308f62e7bd074f3f61f8be603bfe8671a/thirdparty/analogdevicesinc/no-OS_local/patches/0004-0bba46e-pr-598.patch"&gt;github.com/Nuand/bladeRF/…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@aang254 @NuandLLC This seems to use the noOS libad936x from ADI.
-github.com/Nuand/bladeRF/…</title>
-		<published>2023-02-12T16:03:17+00:00</published>
-		<updated>2023-02-12T16:03:17+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624801323911610369</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624801323911610369"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@aang254 @NuandLLC This seems to use the noOS libad936x from ADI.
-&lt;a href="https://github.com/Nuand/bladeRF/blob/b132f75308f62e7bd074f3f61f8be603bfe8671a/host/libraries/libbladeRF/src/board/bladerf2/rfic_host.c#L359"&gt;github.com/Nuand/bladeRF/…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@aang254 @NuandLLC I guess it would be possible to skip a half-band decimation stage in the AD9361 using undocumented register settings. The timing on the digital interface may work under some conditions. Any pointers to documentation or code where they do this?</title>
-		<published>2023-02-12T15:45:44+00:00</published>
-		<updated>2023-02-12T15:45:44+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624796906445496322</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624796906445496322"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@aang254 @NuandLLC I guess it would be possible to skip a half-band decimation stage in the AD9361 using undocumented register settings. The timing on the digital interface may work under some conditions. Any pointers to documentation or code where they do this?&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@aang254 @NuandLLC How does this work? Doesn't the BladeRF xA4 use an AD9361, which has a maximum sample rate of 61.44Msps?</title>
-		<published>2023-02-12T15:30:25+00:00</published>
-		<updated>2023-02-12T15:30:25+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624793052530311169</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624793052530311169"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@aang254 @NuandLLC How does this work? Doesn't the BladeRF xA4 use an AD9361, which has a maximum sample rate of 61.44Msps?&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@matthewvenn Patience and redraw when DRC doesn't pass. No tricks involved.</title>
-		<published>2023-02-12T14:13:25+00:00</published>
-		<updated>2023-02-12T14:13:25+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624773673675550722</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624773673675550722"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@matthewvenn Patience and redraw when DRC doesn't pass. No tricks involved.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@DL5BCA Probably at some point, yes.</title>
-		<published>2023-02-12T14:12:36+00:00</published>
-		<updated>2023-02-12T14:12:36+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624773468553195521</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624773468553195521"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@DL5BCA Probably at some point, yes.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@danieldk1 Yes. Porting the project to that board wouldn't be difficult. See this for more details about porting: twitter.com/ea4gpz/status/…</title>
-		<published>2023-02-12T09:29:22+00:00</published>
-		<updated>2023-02-12T09:29:22+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624702190408372224</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624702190408372224"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@danieldk1 Yes. Porting the project to that board wouldn't be difficult. See this for more details about porting: &lt;a href="https://twitter.com/ea4gpz/status/1624467252627009536"&gt;twitter.com/ea4gpz/status/…&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
