@@ -5,12 +5,215 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-02-20T06:59:02+00:00</updated>
+	<updated>2023-02-24T06:44:47+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">Just seen that I messed up writing this. I meant normal non-cacheable *buffereable* memory (that's what AWCACHE = 4'b0011 stands for). For non-buffereable memory I'm sure the answer is 'yes' because the BRESP must come from the final destination.</title>
+		<published>2023-02-23T06:34:16+00:00</published>
+		<updated>2023-02-23T06:34:16+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1628644391241015296</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1628644391241015296"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Just seen that I messed up writing this. I meant normal non-cacheable *buffereable* memory (that's what AWCACHE = 4'b0011 stands for). For non-buffereable memory I'm sure the answer is 'yes' because the BRESP must come from the final destination.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@IanJohnBuckley Good point! I know that the PS is AXI3 and usually implement my PL stuff to talk AXI3. Xilinx seems to want to trick people into using AXI4 for everything and then spend some logic for an AXI4-AXI3 protocol converter when going into the PS.</title>
+		<published>2023-02-23T06:14:09+00:00</published>
+		<updated>2023-02-23T06:14:09+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1628639328963371009</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1628639328963371009"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@IanJohnBuckley Good point! I know that the PS is AXI3 and usually implement my PL stuff to talk AXI3. Xilinx seems to want to trick people into using AXI4 for everything and then spend some logic for an AXI4-AXI3 protocol converter when going into the PS.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">This page goes into more detail about multi-copy atomicity and uses pretty much the example I mentioned. It says that if the forwarding buffer sends early BRESP, then it is responsible of ensuring that master 2 observes the effects of the writes.
+developer.arm.com/documentation/… pic.twitter.com/OOc9lxxFvA</title>
+		<published>2023-02-21T20:50:09+00:00</published>
+		<updated>2023-02-21T20:50:09+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1628135006190112791</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1628135006190112791"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;This page goes into more detail about multi-copy atomicity and uses pretty much the example I mentioned. It says that if the forwarding buffer sends early BRESP, then it is responsible of ensuring that master 2 observes the effects of the writes.
+&lt;a href="https://developer.arm.com/documentation/ka002179/latest"&gt;developer.arm.com/documentation/…&lt;/a&gt; &lt;a href="https://twitter.com/ea4gpz/status/1628135006190112791/photo/1"&gt;pic.twitter.com/OOc9lxxFvA&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FphMEJCXECE0JN_.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FphMEJCXECE0JN_.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FphMEJCXECE0JN_.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">I think I found the answer. The AMBA spec says that a completion response to a write guarantees that it is observable to any manager, because ARM systems are multi-copy atomic. pic.twitter.com/lUZfos0XUD</title>
+		<published>2023-02-21T20:50:08+00:00</published>
+		<updated>2023-02-21T20:50:08+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1628135001567989786</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1628135001567989786"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;I think I found the answer. The AMBA spec says that a completion response to a write guarantees that it is observable to any manager, because ARM systems are multi-copy atomic. &lt;a href="https://twitter.com/ea4gpz/status/1628135001567989786/photo/1"&gt;pic.twitter.com/lUZfos0XUD&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FphL8cGXEBQ8-ji.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FphL8cGXEBQ8-ji.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FphL8cGXEBQ8-ji.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@hhallam This raises the question: when/how can we be certain that the write result is readable by the CPU?</title>
+		<published>2023-02-21T18:55:32+00:00</published>
+		<updated>2023-02-21T18:55:32+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1628106161432952833</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1628106161432952833"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@hhallam This raises the question: when/how can we be certain that the write result is readable by the CPU?&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The use case in mind is the Zynq FPGA doing a write to DDR and the CPU attempting to read the same address afterwards. The AMBA protocol specs say that the BRESP can be produced by an intermediate point, but doesn't say what happens if two masters don't share such point. (2/2)</title>
+		<published>2023-02-21T18:40:03+00:00</published>
+		<updated>2023-02-21T18:40:03+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1628102266358988814</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1628102266358988814"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The use case in mind is the Zynq FPGA doing a write to DDR and the CPU attempting to read the same address afterwards. The AMBA protocol specs say that the BRESP can be produced by an intermediate point, but doesn't say what happens if two masters don't share such point. (2/2)&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">AXI question: after a write to normal non-cacheable non-buffereable (AWCACHE = 4'b0011) memory has finished (BRESP received), is the result of the write immediately  visible to reads from other masters? (1/2)</title>
+		<published>2023-02-21T18:40:03+00:00</published>
+		<updated>2023-02-21T18:40:03+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1628102263708188685</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1628102263708188685"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;AXI question: after a write to normal non-cacheable non-buffereable (AWCACHE = 4'b0011) memory has finished (BRESP received), is the result of the write immediately  visible to reads from other masters? (1/2)&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@_ph4as_ @NuandLLC So it seems. The Pluto uses CMOS, on the other hand, so going up to 122.88Msps may or may not work.</title>
@@ -379,199 +582,6 @@ destevez.net/2023/02/runnin…</title>
 		<link rel="enclosure" href="https://video.twimg.com/ext_tw_video/1625528087369613312/pu/vid/1280x720/1JYjIvRP-A-nhvQ1.mp4?tag=12" type="video/mp4" />
 <link rel="enclosure" href="https://pbs.twimg.com/ext_tw_video_thumb/1625528087369613312/pu/img/gtC5h86CVnSZBpz7.jpg" type="image/jpeg" />
 
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@aang254 @nascom1 @ka9q @tj_astro @NASAVoyager The data from that post is from July 2020, and I don't think the configuration has changed since then. My understanding is that RS decoding is handled by the project instead of the DSN because the code is not the CCSDS one.</title>
-		<published>2023-02-14T13:09:06+00:00</published>
-		<updated>2023-02-14T13:09:06+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1625482265999409152</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1625482265999409152"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@aang254 @nascom1 @ka9q @tj_astro @NASAVoyager The data from that post is from July 2020, and I don't think the configuration has changed since then. My understanding is that RS decoding is handled by the project instead of the DSN because the code is not the CCSDS one.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@aang254 @NuandLLC I'll have to cross-check this with the register map reference to understand what kind of magic they're attempting. analog.com/media/cn/techn…</title>
-		<published>2023-02-12T22:15:48+00:00</published>
-		<updated>2023-02-12T22:15:48+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624895069487607808</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624895069487607808"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@aang254 @NuandLLC I'll have to cross-check this with the register map reference to understand what kind of magic they're attempting. &lt;a href="https://www.analog.com/media/cn/technical-documentation/user-guides/ad9364_register_map_reference_manual_ug-672.pdf"&gt;analog.com/media/cn/techn…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@aang254 @NuandLLC Back at home life is so much easier with grep and gitk. There are a bunch of commits related to "overclocking" in the dev-set-feature branch. The main on is github.com/Nuand/bladeRF/…
-They're basically setting a bunch AD9361 registers by hand.</title>
-		<published>2023-02-12T22:14:59+00:00</published>
-		<updated>2023-02-12T22:14:59+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624894866546212864</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624894866546212864"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@aang254 @NuandLLC Back at home life is so much easier with grep and gitk. There are a bunch of commits related to "overclocking" in the dev-set-feature branch. The main on is &lt;a href="https://github.com/Nuand/bladeRF/commit/beb9296680e9582a0fdd7f673563974cb26d83bc"&gt;github.com/Nuand/bladeRF/…&lt;/a&gt;
-They're basically setting a bunch AD9361 registers by hand.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Just had a closer look at how this works. It's a ring of 3 transistor-resistor inverters. You can freely choose NMOS or PMOS for each of the inverters, but the resistor needs to pull up or down accordingly. twitter.com/matthewvenn/st…</title>
-		<published>2023-02-12T22:01:05+00:00</published>
-		<updated>2023-02-12T22:01:05+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624891366638600192</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624891366638600192"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Just had a closer look at how this works. It's a ring of 3 transistor-resistor inverters. You can freely choose NMOS or PMOS for each of the inverters, but the resistor needs to pull up or down accordingly. &lt;a href="https://twitter.com/matthewvenn/status/1624721244976295937"&gt;twitter.com/matthewvenn/st…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@aang254 @F4DAV @FlUxIuS @NuandLLC Does "no noticeable impact" mean still error-free decode or roughly the same MER? If the SNR is good enough you could throw in some amount of signal distortion and still be above the FEC threshold.</title>
-		<published>2023-02-12T21:06:29+00:00</published>
-		<updated>2023-02-12T21:06:29+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624877625645604864</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624877625645604864"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@aang254 @F4DAV @FlUxIuS @NuandLLC Does "no noticeable impact" mean still error-free decode or roughly the same MER? If the SNR is good enough you could throw in some amount of signal distortion and still be above the FEC threshold.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@aang254 @NuandLLC Did you find this in the code? I didn't, but I'm on a phone, so I can't grep.</title>
-		<published>2023-02-12T18:08:45+00:00</published>
-		<updated>2023-02-12T18:08:45+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624832899324207105</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624832899324207105"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@aang254 @NuandLLC Did you find this in the code? I didn't, but I'm on a phone, so I can't grep.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@FlUxIuS @aang254 @NuandLLC Yes, but the rate is usually down to 61.44Msps by the time it exits the chip. The main question is what register settings get around this limitation. The official opinion is apparently "don't do this":
-ez.analog.com/wide-band-rf-t…</title>
-		<published>2023-02-12T17:34:25+00:00</published>
-		<updated>2023-02-12T17:34:25+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1624824258454032384</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1624824258454032384"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@FlUxIuS @aang254 @NuandLLC Yes, but the rate is usually down to 61.44Msps by the time it exits the chip. The main question is what register settings get around this limitation. The official opinion is apparently "don't do this":
-&lt;a href="https://ez.analog.com/wide-band-rf-transceivers/design-support/w/documents/10067/ad936x-maximum-rx-digital-path-data-rates"&gt;ez.analog.com/wide-band-rf-t…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
 		
 		
 	</entry>
