@@ -5,12 +5,39 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-02-24T06:44:47+00:00</updated>
+	<updated>2023-02-25T08:39:29+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@coastal8049 @cgbassa What are you using for this? Do you sample ~50 MHz of bandwidth at once?</title>
+		<published>2023-02-25T08:31:15+00:00</published>
+		<updated>2023-02-25T08:31:15+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1629398607597129728</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1629398607597129728"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@coastal8049 @cgbassa What are you using for this? Do you sample ~50 MHz of bandwidth at once?&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Just seen that I messed up writing this. I meant normal non-cacheable *buffereable* memory (that's what AWCACHE = 4'b0011 stands for). For non-buffereable memory I'm sure the answer is 'yes' because the BRESP must come from the final destination.</title>
@@ -517,33 +544,6 @@ destevez.net/2023/02/runnin…</title>
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@bastibl @FutureSDR ... And to call Waterfall::put_waterfall_spectrum (as WebSocketClient does). Perhaps a standalone example where the waterfall data is generated locally would help (plus be useful for testing). Any comments about improving the reusability of this are more than welcome.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@bastibl @FutureSDR Great! Looking at maia-wasm/lib.rs, to put the waterfall plot on another web app, you probably need the RenderEngine and Waterfall objects, and likely the Waterfall interaction (for zoom and pan). It's necessary to set up a request_animantion_frame loop as done below. ...</title>
-		<published>2023-02-14T17:25:50+00:00</published>
-		<updated>2023-02-14T17:25:50+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1625546875330871301</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1625546875330871301"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@bastibl @FutureSDR Great! Looking at maia-wasm/lib.rs, to put the waterfall plot on another web app, you probably need the RenderEngine and Waterfall objects, and likely the Waterfall interaction (for zoom and pan). It's necessary to set up a request_animantion_frame loop as done below. ...&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
