@@ -5,12 +5,147 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-02-27T09:32:24+00:00</updated>
+	<updated>2023-02-28T07:55:31+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@Tomek_SP5LOT @robinlgetz It should be possible, but probably some software support is missing.</title>
+		<published>2023-02-28T06:24:14+00:00</published>
+		<updated>2023-02-28T06:24:14+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1630453808223465473</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1630453808223465473"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@Tomek_SP5LOT @robinlgetz It should be possible, but probably some software support is missing.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@scott23192 @dernasherbrezon @knglaser @Tomek_SP5LOT @geekc0der @SatNOGS @du_ba1 @HRPTEgor Packet reception timestamps could be useful as a substitute of sequence numbers.</title>
+		<published>2023-02-28T06:23:19+00:00</published>
+		<updated>2023-02-28T06:23:19+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1630453575150186496</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1630453575150186496"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@scott23192 @dernasherbrezon @knglaser @Tomek_SP5LOT @geekc0der @SatNOGS @du_ba1 @HRPTEgor Packet reception timestamps could be useful as a substitute of sequence numbers.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@robinlgetz I'm going with 2nd RF channel, because it has the most potential, though I haven't seen many people making good use of it. The USB UART is something I learnt recently and was very useful for debugging a boot problem.</title>
+		<published>2023-02-27T19:03:38+00:00</published>
+		<updated>2023-02-27T19:03:38+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1630282528777969667</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1630282528777969667"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@robinlgetz I'm going with 2nd RF channel, because it has the most potential, though I haven't seen many people making good use of it. The USB UART is something I learnt recently and was very useful for debugging a boot problem.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Just curious - what is the most used additional features found on #plutosdr rev C/D?</title>
+		<published>2023-02-27T18:49:11+00:00</published>
+		<updated>2023-02-27T18:49:11+00:00</updated>
+		<id>https://twitter.com/robinlgetz/status/1630278892232507396</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/robinlgetz/status/1630278892232507396"/>
+		<author><name>RT: Robin Getz 🇨🇦 (@robinlgetz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/robinlgetz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="robinlgetz"
+	src="https://pbs.twimg.com/profile_images/1366482151684902913/rBaczm7D_normal.png"
+	title="Robin Getz 🇨🇦" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Just curious - what is the most used additional features found on #plutosdr rev C/D?&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@Tomek_SP5LOT @geekc0der @SatNOGS @du_ba1 @scott23192 @HRPTEgor The packets have a CRC16, so it is unlikely to get wrong packets. Unfortunately, the packets don't have a sequence number, so combining data from multiple receivers will be tricky.</title>
+		<published>2023-02-27T16:23:24+00:00</published>
+		<updated>2023-02-27T16:23:24+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1630242205637152768</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1630242205637152768"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@Tomek_SP5LOT @geekc0der @SatNOGS @du_ba1 @scott23192 @HRPTEgor The packets have a CRC16, so it is unlikely to get wrong packets. Unfortunately, the packets don't have a sequence number, so combining data from multiple receivers will be tricky.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@HRPTEgor What do you use to update the display of the image in real time? In gr-satellites we use feh.</title>
@@ -422,149 +557,6 @@ developer.arm.com/documentation/… pic.twitter.com/OOc9lxxFvA</title>
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@_ph4as_ @NuandLLC It's important to see whether the AD936x digital interface can keep up. I don't know if the bladeRF is using the LVDS or the CMOS interface. Per the datasheet, the CMOS interface can only go up to 61.44 MHz DDR (and serve only 1RX 1TX), while the LVDS can go much faster.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@_ph4as_ @NuandLLC Not for realtime streaming through USB 2.0, since that's only capable of a few Msps. However, it could be possible for short recordings, either with the ADI firmware or with Maia SDR...</title>
-		<published>2023-02-19T21:41:11+00:00</published>
-		<updated>2023-02-19T21:41:11+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1627423072914493442</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1627423072914493442"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@_ph4as_ @NuandLLC Not for realtime streaming through USB 2.0, since that's only capable of a few Msps. However, it could be possible for short recordings, either with the ADI firmware or with Maia SDR...&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">New blog post: Running the AD9361 at 122.88 Msps. Some comments about how the newest @NuandLLC bladeRF software manages to run the AD9361 at 122.88 Msps. Includes heavily commented code describing the register settings that they use.
-destevez.net/2023/02/runnin…</title>
-		<published>2023-02-19T21:12:05+00:00</published>
-		<updated>2023-02-19T21:12:05+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1627415749894590469</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1627415749894590469"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;New blog post: Running the AD9361 at 122.88 Msps. Some comments about how the newest @NuandLLC bladeRF software manages to run the AD9361 at 122.88 Msps. Includes heavily commented code describing the register settings that they use.
-&lt;a href="https://destevez.net/2023/02/running-the-ad9361-at-122-88-msps/"&gt;destevez.net/2023/02/runnin…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Just added a demo of the Maia SDR WebGL2 waterfall to the website. Check it out. This runs directly in the browser. No need to install anything or to have any hardware. maia-sdr.org/waterfall-demo/ pic.twitter.com/bTLqlPUmoL</title>
-		<published>2023-02-18T23:14:47+00:00</published>
-		<updated>2023-02-18T23:14:47+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1627084241619279873</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1627084241619279873"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Just added a demo of the Maia SDR WebGL2 waterfall to the website. Check it out. This runs directly in the browser. No need to install anything or to have any hardware. &lt;a href="https://maia-sdr.org/waterfall-demo/"&gt;maia-sdr.org/waterfall-demo/&lt;/a&gt; &lt;a href="https://twitter.com/ea4gpz/status/1627084241619279873/photo/1"&gt;pic.twitter.com/bTLqlPUmoL&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FpSQdw2acAM8H_i.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FpSQdw2acAM8H_i.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FpSQdw2acAM8H_i.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@mattjhsn There is no sound. Demodulation of analog signals is planned but not implemented yet.</title>
-		<published>2023-02-18T20:53:09+00:00</published>
-		<updated>2023-02-18T20:53:09+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1627048595890311168</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1627048595890311168"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@mattjhsn There is no sound. Demodulation of analog signals is planned but not implemented yet.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@abraxas3d Great! Let me know any issues you find or general feedback.</title>
-		<published>2023-02-18T20:52:23+00:00</published>
-		<updated>2023-02-18T20:52:23+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1627048405305262082</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1627048405305262082"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@abraxas3d Great! Let me know any issues you find or general feedback.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
