@@ -5,12 +5,153 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-02-28T07:55:31+00:00</updated>
+	<updated>2023-03-01T08:39:52+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">Thanks to SatNogs decodes from @Tomek_SP5LOT, here is the new CAS-5A image packet format with size &amp;amp; packet sequence info.   Will be very helpful! pic.twitter.com/hBpDd5JwUG</title>
+		<published>2023-03-01T01:59:08+00:00</published>
+		<updated>2023-03-01T01:59:08+00:00</updated>
+		<id>https://twitter.com/scott23192/status/1630749478561935360</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/scott23192/status/1630749478561935360"/>
+		<author><name>RT: Scott Chapman (@scott23192)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/scott23192"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="scott23192"
+	src="https://pbs.twimg.com/profile_images/378800000430359740/d58801d302e48aed02c2dfe3e9311f40_normal.jpeg"
+	title="Scott Chapman" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Thanks to SatNogs decodes from @Tomek_SP5LOT, here is the new CAS-5A image packet format with size &amp;amp; packet sequence info.   Will be very helpful! &lt;a href="https://twitter.com/scott23192/status/1630749478561935360/photo/1"&gt;pic.twitter.com/hBpDd5JwUG&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FqGV8QyXwAAG9S-.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FqGV8QyXwAAG9S-.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FqGV8QyXwAAG9S-.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@du_ba1 @dernasherbrezon @scott23192 @knglaser @Tomek_SP5LOT @geekc0der @SatNOGS @HRPTEgor The folks at @BY2HIT implemented SSDV for the Longjiang mission. Perhaps there is a chance for collaboration with @bg2bhc and colleagues.</title>
+		<published>2023-02-28T21:35:11+00:00</published>
+		<updated>2023-02-28T21:35:11+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1630683054741291008</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1630683054741291008"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@du_ba1 @dernasherbrezon @scott23192 @knglaser @Tomek_SP5LOT @geekc0der @SatNOGS @HRPTEgor The folks at @BY2HIT implemented SSDV for the Longjiang mission. Perhaps there is a chance for collaboration with @bg2bhc and colleagues.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@Tomek_SP5LOT @pe0sat @knglaser @geekc0der @SatNOGS @du_ba1 @scott23192 @HRPTEgor This highlights the importance of satellite missions collaborating with software developers, in order to have the software ready well ahead of launch.</title>
+		<published>2023-02-28T21:33:12+00:00</published>
+		<updated>2023-02-28T21:33:12+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1630682556277600257</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1630682556277600257"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@Tomek_SP5LOT @pe0sat @knglaser @geekc0der @SatNOGS @du_ba1 @scott23192 @HRPTEgor This highlights the importance of satellite missions collaborating with software developers, in order to have the software ready well ahead of launch.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@Tomek_SP5LOT @pe0sat @knglaser @geekc0der @SatNOGS @du_ba1 @scott23192 @HRPTEgor Yes. This is not enough. Only the stable versions have a conda package. This hasn't been released in a stable version yet. Sorry. Not easy to find a good balance between satellites being launched frequently and the overhead of releasing stable versions.</title>
+		<published>2023-02-28T21:32:09+00:00</published>
+		<updated>2023-02-28T21:32:09+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1630682291554107392</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1630682291554107392"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@Tomek_SP5LOT @pe0sat @knglaser @geekc0der @SatNOGS @du_ba1 @scott23192 @HRPTEgor Yes. This is not enough. Only the stable versions have a conda package. This hasn't been released in a stable version yet. Sorry. Not easy to find a good balance between satellites being launched frequently and the overhead of releasing stable versions.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@dernasherbrezon @scott23192 @knglaser @Tomek_SP5LOT @geekc0der @SatNOGS @du_ba1 @HRPTEgor My idea was using common packets for synchronization, indeed.</title>
+		<published>2023-02-28T21:28:22+00:00</published>
+		<updated>2023-02-28T21:28:22+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1630681339757494272</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1630681339757494272"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@dernasherbrezon @scott23192 @knglaser @Tomek_SP5LOT @geekc0der @SatNOGS @du_ba1 @HRPTEgor My idea was using common packets for synchronization, indeed.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@Tomek_SP5LOT @robinlgetz It should be possible, but probably some software support is missing.</title>
@@ -422,141 +563,6 @@ developer.arm.com/documentation/… pic.twitter.com/OOc9lxxFvA</title>
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@hhallam This raises the question: when/how can we be certain that the write result is readable by the CPU?&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">The use case in mind is the Zynq FPGA doing a write to DDR and the CPU attempting to read the same address afterwards. The AMBA protocol specs say that the BRESP can be produced by an intermediate point, but doesn't say what happens if two masters don't share such point. (2/2)</title>
-		<published>2023-02-21T18:40:03+00:00</published>
-		<updated>2023-02-21T18:40:03+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1628102266358988814</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1628102266358988814"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;The use case in mind is the Zynq FPGA doing a write to DDR and the CPU attempting to read the same address afterwards. The AMBA protocol specs say that the BRESP can be produced by an intermediate point, but doesn't say what happens if two masters don't share such point. (2/2)&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">AXI question: after a write to normal non-cacheable non-buffereable (AWCACHE = 4'b0011) memory has finished (BRESP received), is the result of the write immediately  visible to reads from other masters? (1/2)</title>
-		<published>2023-02-21T18:40:03+00:00</published>
-		<updated>2023-02-21T18:40:03+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1628102263708188685</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1628102263708188685"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;AXI question: after a write to normal non-cacheable non-buffereable (AWCACHE = 4'b0011) memory has finished (BRESP received), is the result of the write immediately  visible to reads from other masters? (1/2)&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@_ph4as_ @NuandLLC So it seems. The Pluto uses CMOS, on the other hand, so going up to 122.88Msps may or may not work.</title>
-		<published>2023-02-19T21:59:48+00:00</published>
-		<updated>2023-02-19T21:59:48+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1627427759642353665</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1627427759642353665"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@_ph4as_ @NuandLLC So it seems. The Pluto uses CMOS, on the other hand, so going up to 122.88Msps may or may not work.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@_ph4as_ @NuandLLC Yes, and it goes through the Zynq CPU, so it doesn't get anywhere near the 480 Mbps USB 2.0 max data rate.</title>
-		<published>2023-02-19T21:43:54+00:00</published>
-		<updated>2023-02-19T21:43:54+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1627423758079209474</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1627423758079209474"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@_ph4as_ @NuandLLC Yes, and it goes through the Zynq CPU, so it doesn't get anywhere near the 480 Mbps USB 2.0 max data rate.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@_ph4as_ @NuandLLC It's important to see whether the AD936x digital interface can keep up. I don't know if the bladeRF is using the LVDS or the CMOS interface. Per the datasheet, the CMOS interface can only go up to 61.44 MHz DDR (and serve only 1RX 1TX), while the LVDS can go much faster.</title>
-		<published>2023-02-19T21:42:31+00:00</published>
-		<updated>2023-02-19T21:42:31+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1627423408341364736</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1627423408341364736"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@_ph4as_ @NuandLLC It's important to see whether the AD936x digital interface can keep up. I don't know if the bladeRF is using the LVDS or the CMOS interface. Per the datasheet, the CMOS interface can only go up to 61.44 MHz DDR (and serve only 1RX 1TX), while the LVDS can go much faster.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
