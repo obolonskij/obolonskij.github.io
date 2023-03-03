@@ -5,12 +5,39 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-03-01T08:39:52+00:00</updated>
+	<updated>2023-03-03T07:50:45+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@luigifcruz Either write down a couple words in the TODO list, or nothing at all. If I don't feel strongly compelled to start working on the idea now, or if I forget about it, maybe it wasn't so good after all.</title>
+		<published>2023-03-03T06:50:03+00:00</published>
+		<updated>2023-03-03T06:50:03+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1631547467593383940</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1631547467593383940"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@luigifcruz Either write down a couple words in the TODO list, or nothing at all. If I don't feel strongly compelled to start working on the idea now, or if I forget about it, maybe it wasn't so good after all.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Thanks to SatNogs decodes from @Tomek_SP5LOT, here is the new CAS-5A image packet format with size &amp;amp; packet sequence info.   Will be very helpful! pic.twitter.com/hBpDd5JwUG</title>
@@ -541,33 +568,6 @@ developer.arm.com/documentation/… pic.twitter.com/OOc9lxxFvA</title>
 &lt;/div&gt;</content>
 		<link rel="enclosure" href="https://pbs.twimg.com/media/FphL8cGXEBQ8-ji.png?name=orig" type="image/png" />
 
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@hhallam This raises the question: when/how can we be certain that the write result is readable by the CPU?</title>
-		<published>2023-02-21T18:55:32+00:00</published>
-		<updated>2023-02-21T18:55:32+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1628106161432952833</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1628106161432952833"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@hhallam This raises the question: when/how can we be certain that the write result is readable by the CPU?&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
 		
 		
 	</entry>
