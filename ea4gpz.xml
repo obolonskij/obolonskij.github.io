@@ -5,12 +5,147 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-03-05T08:24:59+00:00</updated>
+	<updated>2023-03-06T09:59:58+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@matt_rambling @ka9q @whereisyvette Each antenna has its own completely different sidelobe pattern. The idea to use one antenna, pointing to the interferer, as reference to calibrate the others looks good. Maybe "minimum variance distorsionless response" or some other adaptive idea is also good here.</title>
+		<published>2023-03-05T20:58:13+00:00</published>
+		<updated>2023-03-05T20:58:13+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1632485692008701952</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1632485692008701952"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@matt_rambling @ka9q @whereisyvette Each antenna has its own completely different sidelobe pattern. The idea to use one antenna, pointing to the interferer, as reference to calibrate the others looks good. Maybe "minimum variance distorsionless response" or some other adaptive idea is also good here.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@ka9q @matt_rambling @whereisyvette I don't know about the VLA antennas, but for the ATA, nullforming for a signal entering through the feed sidelobes would be an interesting exercise. The channel response is anything but flat. Coherence bandwidth on the order of 25 MHz.</title>
+		<published>2023-03-05T20:46:54+00:00</published>
+		<updated>2023-03-05T20:46:54+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1632482842482552833</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1632482842482552833"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ka9q @matt_rambling @whereisyvette I don't know about the VLA antennas, but for the ATA, nullforming for a signal entering through the feed sidelobes would be an interesting exercise. The channel response is anything but flat. Coherence bandwidth on the order of 25 MHz.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Maia SDR spotted in the wild. twitter.com/ea4eoz/status/…</title>
+		<published>2023-03-05T18:44:57+00:00</published>
+		<updated>2023-03-05T18:44:57+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1632452155205378048</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1632452155205378048"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Maia SDR spotted in the wild. &lt;a href="https://twitter.com/ea4eoz/status/1632445550825021441"&gt;twitter.com/ea4eoz/status/…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@MoonbaseOtago @matthewvenn You can edit the spice code twitter.com/ea4gpz/status/…</title>
+		<published>2023-03-05T17:51:50+00:00</published>
+		<updated>2023-03-05T17:51:50+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1632438786448564225</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1632438786448564225"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@MoonbaseOtago @matthewvenn You can edit the spice code &lt;a href="https://twitter.com/ea4gpz/status/1624701611636412417?t=Xfzt9DWzFrDKsF7Mgerw0Q&amp;s=19"&gt;twitter.com/ea4gpz/status/…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@matt_rambling @ka9q @whereisyvette And because you need to do this parameter estimation and signal subtraction per antenna and over a pretty large bandwidth.</title>
+		<published>2023-03-05T10:28:26+00:00</published>
+		<updated>2023-03-05T10:28:26+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1632327199914164234</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1632327199914164234"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@matt_rambling @ka9q @whereisyvette And because you need to do this parameter estimation and signal subtraction per antenna and over a pretty large bandwidth.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@whitequark Yes! Sounds a great idea.</title>
@@ -440,141 +575,6 @@ Then we'll take 250 designs and manufacture them into a real chip with @efabless
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@Tomek_SP5LOT @pe0sat @knglaser @geekc0der @SatNOGS @du_ba1 @scott23192 @HRPTEgor Yes. This is not enough. Only the stable versions have a conda package. This hasn't been released in a stable version yet. Sorry. Not easy to find a good balance between satellites being launched frequently and the overhead of releasing stable versions.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@dernasherbrezon @scott23192 @knglaser @Tomek_SP5LOT @geekc0der @SatNOGS @du_ba1 @HRPTEgor My idea was using common packets for synchronization, indeed.</title>
-		<published>2023-02-28T21:28:22+00:00</published>
-		<updated>2023-02-28T21:28:22+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1630681339757494272</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1630681339757494272"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@dernasherbrezon @scott23192 @knglaser @Tomek_SP5LOT @geekc0der @SatNOGS @du_ba1 @HRPTEgor My idea was using common packets for synchronization, indeed.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@Tomek_SP5LOT @robinlgetz It should be possible, but probably some software support is missing.</title>
-		<published>2023-02-28T06:24:14+00:00</published>
-		<updated>2023-02-28T06:24:14+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1630453808223465473</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1630453808223465473"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@Tomek_SP5LOT @robinlgetz It should be possible, but probably some software support is missing.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@scott23192 @dernasherbrezon @knglaser @Tomek_SP5LOT @geekc0der @SatNOGS @du_ba1 @HRPTEgor Packet reception timestamps could be useful as a substitute of sequence numbers.</title>
-		<published>2023-02-28T06:23:19+00:00</published>
-		<updated>2023-02-28T06:23:19+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1630453575150186496</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1630453575150186496"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@scott23192 @dernasherbrezon @knglaser @Tomek_SP5LOT @geekc0der @SatNOGS @du_ba1 @HRPTEgor Packet reception timestamps could be useful as a substitute of sequence numbers.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@robinlgetz I'm going with 2nd RF channel, because it has the most potential, though I haven't seen many people making good use of it. The USB UART is something I learnt recently and was very useful for debugging a boot problem.</title>
-		<published>2023-02-27T19:03:38+00:00</published>
-		<updated>2023-02-27T19:03:38+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1630282528777969667</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1630282528777969667"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@robinlgetz I'm going with 2nd RF channel, because it has the most potential, though I haven't seen many people making good use of it. The USB UART is something I learnt recently and was very useful for debugging a boot problem.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Just curious - what is the most used additional features found on #plutosdr rev C/D?</title>
-		<published>2023-02-27T18:49:11+00:00</published>
-		<updated>2023-02-27T18:49:11+00:00</updated>
-		<id>https://twitter.com/robinlgetz/status/1630278892232507396</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/robinlgetz/status/1630278892232507396"/>
-		<author><name>RT: Robin Getz 🇨🇦 (@robinlgetz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/robinlgetz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="robinlgetz"
-	src="https://pbs.twimg.com/profile_images/1366482151684902913/rBaczm7D_normal.png"
-	title="Robin Getz 🇨🇦" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Just curious - what is the most used additional features found on #plutosdr rev C/D?&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
