@@ -5,12 +5,66 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-03-06T09:59:58+00:00</updated>
+	<updated>2023-03-08T12:22:53+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@RealSexyCyborg I'm surprised that youtiaos look very similar to Spanish churros.</title>
+		<published>2023-03-08T08:28:01+00:00</published>
+		<updated>2023-03-08T08:28:01+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1633384060671098880</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1633384060671098880"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@RealSexyCyborg I'm surprised that youtiaos look very similar to Spanish churros.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@olegkutkov Interesting. It must have a really good thermal dissipation.</title>
+		<published>2023-03-08T07:19:50+00:00</published>
+		<updated>2023-03-08T07:19:50+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1633366899709865985</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1633366899709865985"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@olegkutkov Interesting. It must have a really good thermal dissipation.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@matt_rambling @ka9q @whereisyvette Each antenna has its own completely different sidelobe pattern. The idea to use one antenna, pointing to the interferer, as reference to calibrate the others looks good. Maybe "minimum variance distorsionless response" or some other adaptive idea is also good here.</title>
@@ -521,60 +575,6 @@ Then we'll take 250 designs and manufacture them into a real chip with @efabless
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@du_ba1 @dernasherbrezon @scott23192 @knglaser @Tomek_SP5LOT @geekc0der @SatNOGS @HRPTEgor The folks at @BY2HIT implemented SSDV for the Longjiang mission. Perhaps there is a chance for collaboration with @bg2bhc and colleagues.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@Tomek_SP5LOT @pe0sat @knglaser @geekc0der @SatNOGS @du_ba1 @scott23192 @HRPTEgor This highlights the importance of satellite missions collaborating with software developers, in order to have the software ready well ahead of launch.</title>
-		<published>2023-02-28T21:33:12+00:00</published>
-		<updated>2023-02-28T21:33:12+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1630682556277600257</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1630682556277600257"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@Tomek_SP5LOT @pe0sat @knglaser @geekc0der @SatNOGS @du_ba1 @scott23192 @HRPTEgor This highlights the importance of satellite missions collaborating with software developers, in order to have the software ready well ahead of launch.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@Tomek_SP5LOT @pe0sat @knglaser @geekc0der @SatNOGS @du_ba1 @scott23192 @HRPTEgor Yes. This is not enough. Only the stable versions have a conda package. This hasn't been released in a stable version yet. Sorry. Not easy to find a good balance between satellites being launched frequently and the overhead of releasing stable versions.</title>
-		<published>2023-02-28T21:32:09+00:00</published>
-		<updated>2023-02-28T21:32:09+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1630682291554107392</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1630682291554107392"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@Tomek_SP5LOT @pe0sat @knglaser @geekc0der @SatNOGS @du_ba1 @scott23192 @HRPTEgor Yes. This is not enough. Only the stable versions have a conda package. This hasn't been released in a stable version yet. Sorry. Not easy to find a good balance between satellites being launched frequently and the overhead of releasing stable versions.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
