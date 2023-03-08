@@ -5,12 +5,55 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-02-20T06:59:06+00:00</updated>
+	<updated>2023-03-08T20:16:46+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">Check out the @grafana #dashboard 💻 with the data received from #CAS-5A 🛰️ , collected by @SatNOGS. 📡
+#Opensource @kaitai_io
+
+• Catch the dashboard at: dashboard.satnogs.org/d/_OK0f1bVk/ca…
+
+• Follow the excellent collaborative work performed by the community: community.libre.space/t/jielong-3-ca… pic.twitter.com/8geZvXuUnj</title>
+		<published>2023-03-08T17:14:30+00:00</published>
+		<updated>2023-03-08T17:14:30+00:00</updated>
+		<id>https://twitter.com/SatNOGS/status/1633516552925634562</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1633516552925634562"/>
+		<author><name>SatNOGS (@SatNOGS)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/SatNOGS"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="SatNOGS"
+	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
+	title="SatNOGS" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Check out the @grafana #dashboard 💻 with the data received from #CAS-5A 🛰️ , collected by @SatNOGS. 📡
+#Opensource @kaitai_io
+
+• Catch the dashboard at: &lt;a href="https://dashboard.satnogs.org/d/_OK0f1bVk/cas-5a?orgId=1&amp;refresh=30s"&gt;dashboard.satnogs.org/d/_OK0f1bVk/ca…&lt;/a&gt;
+
+• Follow the excellent collaborative work performed by the community: &lt;a href="https://community.libre.space/t/jielong-3-camsat-cas-5a-2022-12-09-06-35-utc/9865"&gt;community.libre.space/t/jielong-3-ca…&lt;/a&gt; &lt;a href="https://twitter.com/SatNOGS/status/1633516552925634562/photo/1"&gt;pic.twitter.com/8geZvXuUnj&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fqtp-9oXoAINOdo.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Fqtp-9oXoAINOdo.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/Fqtp-9oXoAINOdo.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Check the @grafana #dashboard wt #data received from #GeoscanEdelveis 🛰️ &amp;amp; collected by @SatNOGS. 📡
@@ -691,45 +734,6 @@ For more updates, follow: &lt;a href="https://community.libre.space/t/spacex-f9-
 	&lt;blockquote&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
 		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Check out the #dashboard with the #data received from #PolyITAN-1🛰️ and collected by the @SatNOGS Network. 📡
-#opensource
-You can find the @grafana
-@kaitai_io dashboard💻 at: dashboard.satnogs.org/d/JAYw-l2Vk/po… pic.twitter.com/NHrJ52uAtE</title>
-		<published>2023-01-14T10:32:39+00:00</published>
-		<updated>2023-01-14T10:32:39+00:00</updated>
-		<id>https://twitter.com/SatNOGS/status/1614208867063169024</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/SatNOGS/status/1614208867063169024"/>
-		<author><name>SatNOGS (@SatNOGS)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/SatNOGS"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="SatNOGS"
-	src="https://pbs.twimg.com/profile_images/1284420408071127041/HQWykvi9_normal.jpg"
-	title="SatNOGS" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Check out the #dashboard with the #data received from #PolyITAN-1🛰️ and collected by the @SatNOGS Network. 📡
-#opensource
-You can find the @grafana
-@kaitai_io dashboard💻 at: &lt;a href="https://dashboard.satnogs.org/d/JAYw-l2Vk/polyitan-1?orgId=1&amp;refresh=5m&amp;from=now-1y%2Fy&amp;to=now-1y%2Fy"&gt;dashboard.satnogs.org/d/JAYw-l2Vk/po…&lt;/a&gt; &lt;a href="https://twitter.com/SatNOGS/status/1614208867063169024/photo/1"&gt;pic.twitter.com/NHrJ52uAtE&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FmbR82jWQAAUVAq.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FmbR82jWQAAUVAq.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FmbR82jWQAAUVAq.jpg?name=orig" type="image/jpeg" />
-
 		
 		
 	</entry>
