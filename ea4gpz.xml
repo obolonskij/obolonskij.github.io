@@ -5,12 +5,70 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-03-10T09:55:21+00:00</updated>
+	<updated>2023-03-11T10:54:52+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@jrugelesuribe For the REST API you can take a look at the URLs in github.com/maia-sdr/maia-… and make some GET requests to see how the JSON looks like.
+
+For the websocket, see github.com/maia-sdr/maia-…</title>
+		<published>2023-03-10T16:41:29+00:00</published>
+		<updated>2023-03-10T16:41:29+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1634233021590310913</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1634233021590310913"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@jrugelesuribe For the REST API you can take a look at the URLs in &lt;a href="https://github.com/maia-sdr/maia-sdr/blob/main/maia-wasm/src/ui.rs#L32"&gt;github.com/maia-sdr/maia-…&lt;/a&gt; and make some GET requests to see how the JSON looks like.
+
+For the websocket, see &lt;a href="https://github.com/maia-sdr/maia-sdr/blob/main/maia-httpd/util/spectrum_client.py"&gt;github.com/maia-sdr/maia-…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@hennichodernich I'm bypassing it for the IQ samples. I'm using it for control of LO frequency, gain, etc.</title>
+		<published>2023-03-10T16:16:05+00:00</published>
+		<updated>2023-03-10T16:16:05+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1634226627268706305</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1634226627268706305"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@hennichodernich I'm bypassing it for the IQ samples. I'm using it for control of LO frequency, gain, etc.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@jrugelesuribe SigMF archives are tar files. You can extract the tar and use the sigmf-data file directly (it is an int16 or int8 raw file).</title>
@@ -504,66 +562,6 @@ But building this as a product to integrate into telescope backends is a lot of 
 	&lt;blockquote&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
 		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@pe0sat @Tomek_SP5LOT Oops! You're absolutely right. I've only been testing this with KISS files, so never noticed the problem.</title>
-		<published>2023-03-04T10:06:42+00:00</published>
-		<updated>2023-03-04T10:06:42+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1631959341795274752</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1631959341795274752"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@pe0sat @Tomek_SP5LOT Oops! You're absolutely right. I've only been testing this with KISS files, so never noticed the problem.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Just added support to gr-satellites for the new CAS-5A image downlink format. This image is from a recording by @Tomek_SP5LOT and @pe0sat, and it is missing a couple chunks near the beginning, hence the bad results. pic.twitter.com/60mrPLYmch</title>
-		<published>2023-03-04T09:38:31+00:00</published>
-		<updated>2023-03-04T09:38:31+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1631952249592111105</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1631952249592111105"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Just added support to gr-satellites for the new CAS-5A image downlink format. This image is from a recording by @Tomek_SP5LOT and @pe0sat, and it is missing a couple chunks near the beginning, hence the bad results. &lt;a href="https://twitter.com/ea4gpz/status/1631952249592111105/photo/1"&gt;pic.twitter.com/60mrPLYmch&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FqXb3KjWwAEt9JX.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FqXb3KjWwAEt9JX.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FqXb3KjWwAEt9JX.jpg?name=orig" type="image/jpeg" />
-
 		
 		
 	</entry>
