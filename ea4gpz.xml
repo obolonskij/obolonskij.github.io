@@ -5,12 +5,186 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-03-11T10:54:52+00:00</updated>
+	<updated>2023-03-14T07:17:42+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@sp9acq1 No</title>
+		<published>2023-03-14T06:11:24+00:00</published>
+		<updated>2023-03-14T06:11:24+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1635524008559902720</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1635524008559902720"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@sp9acq1 No&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Many people have replied with great ideas. However this was a quick Sunday morning project: Python script to record Maia SDR waterfall data to disk. This will be used to investigate transponder usage statistics. pic.twitter.com/WrC7de2Yqw</title>
+		<published>2023-03-13T17:19:46+00:00</published>
+		<updated>2023-03-13T17:19:46+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1635329819654381569</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1635329819654381569"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Many people have replied with great ideas. However this was a quick Sunday morning project: Python script to record Maia SDR waterfall data to disk. This will be used to investigate transponder usage statistics. &lt;a href="https://twitter.com/ea4gpz/status/1635329819654381569/photo/1"&gt;pic.twitter.com/WrC7de2Yqw&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FrHbjfGXoAAKH_1.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FrHbjfGXoAAKH_1.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FrHbjfGXoAAKH_1.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@F4DAV My question is why does it produce problems I think you could inject a 1998-ish signal at any point in the system and you wouldn't care, provided such signal is say 60dB weaker than the LO.</title>
+		<published>2023-03-12T11:49:36+00:00</published>
+		<updated>2023-03-12T11:49:36+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1634884341699342337</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1634884341699342337"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@F4DAV My question is why does it produce problems I think you could inject a 1998-ish signal at any point in the system and you wouldn't care, provided such signal is say 60dB weaker than the LO.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@F4DAV But the IF is L-band, right? Why would it matter that you have leakage at the LO frequency. That (or its downconverted version) wouldn't get to the IF. I could imagine a second LO leaking into the LO port, but its level would be much lower than the actual LO.</title>
+		<published>2023-03-12T11:21:38+00:00</published>
+		<updated>2023-03-12T11:21:38+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1634877304143859714</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1634877304143859714"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@F4DAV But the IF is L-band, right? Why would it matter that you have leakage at the LO frequency. That (or its downconverted version) wouldn't get to the IF. I could imagine a second LO leaking into the LO port, but its level would be much lower than the actual LO.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@F4DAV Why is LO leakage a huge problem here? (I'm asking about effects, not causes)</title>
+		<published>2023-03-12T10:54:58+00:00</published>
+		<updated>2023-03-12T10:54:58+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1634870592447950848</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1634870592447950848"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@F4DAV Why is LO leakage a huge problem here? (I'm asking about effects, not causes)&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">This is Maia SDR receiving the QO-100 WB transponder. Any guesses of what I have in mind? pic.twitter.com/kJhnfCId2w</title>
+		<published>2023-03-12T09:45:04+00:00</published>
+		<updated>2023-03-12T09:45:04+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1634853000689725447</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1634853000689725447"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;This is Maia SDR receiving the QO-100 WB transponder. Any guesses of what I have in mind? &lt;a href="https://twitter.com/ea4gpz/status/1634853000689725447/photo/1"&gt;pic.twitter.com/kJhnfCId2w&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FrAqIU9WAAUP6ya.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FrAqIU9WAAUP6ya.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FrAqIU9WAAUP6ya.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@jrugelesuribe For the REST API you can take a look at the URLs in github.com/maia-sdr/maia-… and make some GET requests to see how the JSON looks like.
@@ -387,176 +561,6 @@ Shouldn't we boycott all mention of Isp and regard it as a silly convention? Or 
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@matt_rambling @ka9q @whereisyvette And because you need to do this parameter estimation and signal subtraction per antenna and over a pretty large bandwidth.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@whitequark Yes! Sounds a great idea.</title>
-		<published>2023-03-05T08:16:38+00:00</published>
-		<updated>2023-03-05T08:16:38+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1632294032960368640</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1632294032960368640"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@whitequark Yes! Sounds a great idea.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ka9q @whereisyvette This paper probably has all someone needs to get started radionavlab.ae.utexas.edu/wp-content/upl…
-But building this as a product to integrate into telescope backends is a lot of work. I'm not sure there is the budget to do this, or if there is, that spending it on this would be a priority.</title>
-		<published>2023-03-05T07:50:56+00:00</published>
-		<updated>2023-03-05T07:50:56+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1632287564412403714</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1632287564412403714"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q @whereisyvette This paper probably has all someone needs to get started &lt;a href="https://radionavlab.ae.utexas.edu/wp-content/uploads/2022/10/starlink-structure.pdf"&gt;radionavlab.ae.utexas.edu/wp-content/upl…&lt;/a&gt;
-But building this as a product to integrate into telescope backends is a lot of work. I'm not sure there is the budget to do this, or if there is, that spending it on this would be a priority.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">#Maia from @destevez@mastodon.social is working well in ORI Remote Labs West. Excellent instructions, useful code, all open source: github.com/maia-sdr/maia-… pic.twitter.com/vVmPnEOOBA</title>
-		<published>2023-03-05T02:39:26+00:00</published>
-		<updated>2023-03-05T02:39:26+00:00</updated>
-		<id>https://twitter.com/OpenResearchIns/status/1632209172862312448</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/OpenResearchIns/status/1632209172862312448"/>
-		<author><name>RT: Open Research Institute (@OpenResearchIns)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/OpenResearchIns"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="OpenResearchIns"
-	src="https://pbs.twimg.com/profile_images/1610502231345991680/cO3_Ljhy_normal.jpg"
-	title="Open Research Institute" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;#Maia from @destevez@mastodon.social is working well in ORI Remote Labs West. Excellent instructions, useful code, all open source: &lt;a href="https://github.com/maia-sdr/maia-sdr"&gt;github.com/maia-sdr/maia-…&lt;/a&gt; &lt;a href="https://twitter.com/OpenResearchIns/status/1632209172862312448/photo/1"&gt;pic.twitter.com/vVmPnEOOBA&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FqbFl3JXgAANNxw.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FqbFl3JXgAANNxw.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FqbFl3JXgAANNxw.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@whereisyvette Starlinks move faster than GEOs, so perhaps even shorter integrations are effective.</title>
-		<published>2023-03-04T14:45:09+00:00</published>
-		<updated>2023-03-04T14:45:09+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1632029417466724352</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1632029417466724352"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@whereisyvette Starlinks move faster than GEOs, so perhaps even shorter integrations are effective.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@whereisyvette On the order of 100s or so. The key is that the phase of the RFI tends not to stay constant over relatively extended periods of time, whereas the phase of the source varies little as long as the UV doesn't change much. Try to do this before flagging.</title>
-		<published>2023-03-04T14:44:36+00:00</published>
-		<updated>2023-03-04T14:44:36+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1632029278324834304</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1632029278324834304"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@whereisyvette On the order of 100s or so. The key is that the phase of the RFI tends not to stay constant over relatively extended periods of time, whereas the phase of the source varies little as long as the UV doesn't change much. Try to do this before flagging.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@pe0sat @Tomek_SP5LOT Just fixed this.</title>
-		<published>2023-03-04T10:34:23+00:00</published>
-		<updated>2023-03-04T10:34:23+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1631966309511561218</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1631966309511561218"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@pe0sat @Tomek_SP5LOT Just fixed this.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
