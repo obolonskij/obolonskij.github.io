@@ -5,7 +5,7 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-03-17T11:27:20+00:00</updated>
+	<updated>2023-03-22T19:10:31+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
@@ -13,11 +13,11 @@
 	<link rel="self" type="application/atom+xml" href="http://" />
 
 	<entry>
-		<title type="html">@bastibl @AndrePuschmann Awesome!</title>
-		<published>2023-03-17T09:59:35+00:00</published>
-		<updated>2023-03-17T09:59:35+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1636668595940761600</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1636668595940761600"/>
+		<title type="html">@BMenkuec @F4DAV I think so. If someone asks for a subtle difference in meaning, for me guard interval is the time gap between symbols to avoid ISI, and CP is the thing you fill it with to be able to do delays as circular shifts implemented by multiplication in the frequency domain.</title>
+		<published>2023-03-22T18:29:22+00:00</published>
+		<updated>2023-03-22T18:29:22+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1638608824339767296</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638608824339767296"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -29,7 +29,7 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@bastibl @AndrePuschmann Awesome!&lt;/blockquote&gt;
+	&lt;blockquote&gt;@BMenkuec @F4DAV I think so. If someone asks for a subtle difference in meaning, for me guard interval is the time gap between symbols to avoid ISI, and CP is the thing you fill it with to be able to do delays as circular shifts implemented by multiplication in the frequency domain.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
@@ -40,44 +40,480 @@
 	</entry>
 
 	<entry>
-		<title type="html">The adoption of Maia SDR goes pretty fast :-) @ea4gpz It's a demo of @AndrePuschmann pic.twitter.com/1qhfKAhap5</title>
-		<published>2023-03-17T09:53:57+00:00</published>
-		<updated>2023-03-17T09:53:57+00:00</updated>
-		<id>https://twitter.com/bastibl/status/1636667175560724480</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/bastibl/status/1636667175560724480"/>
-		<author><name>RT: Bastian Bloessl (@bastibl)</name></author>
+		<title type="html">@F4DAV @BMenkuec I haven't heard of something like this being used in practice. These days almost everyone uses OFDM or similar for problems like this.</title>
+		<published>2023-03-22T18:27:49+00:00</published>
+		<updated>2023-03-22T18:27:49+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1638608433736720452</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638608433736720452"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/bastibl"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
 &lt;img
 	style="align:top; width:75px; border:1px solid black;"
-	alt="bastibl"
-	src="https://pbs.twimg.com/profile_images/921298109321408512/W-xEnBEn_normal.jpg"
-	title="Bastian Bloessl" /&gt;
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;The adoption of Maia SDR goes pretty fast :-) @ea4gpz It's a demo of @AndrePuschmann &lt;a href="https://twitter.com/bastibl/status/1636667175560724480/photo/1"&gt;pic.twitter.com/1qhfKAhap5&lt;/a&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;@F4DAV @BMenkuec I haven't heard of something like this being used in practice. These days almost everyone uses OFDM or similar for problems like this.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FracHebX0AIVRO7.jpg?name=orig"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@F4DAV @BMenkuec DVB-S2 also has SOF, and optionally pilots, so there is some overhead as well. DVB-T2 is designed for far worse channels than DVB-S2, so probably has higher overhead. But that's not intrinsic of OFDM. It's something the designer can choose.</title>
+		<published>2023-03-22T18:25:47+00:00</published>
+		<updated>2023-03-22T18:25:47+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1638607925223768064</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638607925223768064"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@F4DAV @BMenkuec DVB-S2 also has SOF, and optionally pilots, so there is some overhead as well. DVB-T2 is designed for far worse channels than DVB-S2, so probably has higher overhead. But that's not intrinsic of OFDM. It's something the designer can choose.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@F4DAV @BMenkuec OFDM is close to Shannon. Why wouldn't it? For a single-carrier modulation, in theory nothing prevents you from making the pulse shape look however you like. The same for the pulse filter in the receiver. You could notch out that CW interferer.</title>
+		<published>2023-03-22T12:49:57+00:00</published>
+		<updated>2023-03-22T12:49:57+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1638523408680988672</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638523408680988672"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@F4DAV @BMenkuec OFDM is close to Shannon. Why wouldn't it? For a single-carrier modulation, in theory nothing prevents you from making the pulse shape look however you like. The same for the pulse filter in the receiver. You could notch out that CW interferer.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@BMenkuec If the receiver knew the channel response exactly, then it could deconvolve it from the received signal. There are a bunch of techniques in linear algebra to address this problem (both in time domain and frequency domain), none of them perfect. This is what I had in mind.</title>
+		<published>2023-03-22T11:05:27+00:00</published>
+		<updated>2023-03-22T11:05:27+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1638497111363706882</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638497111363706882"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@BMenkuec If the receiver knew the channel response exactly, then it could deconvolve it from the received signal. There are a bunch of techniques in linear algebra to address this problem (both in time domain and frequency domain), none of them perfect. This is what I had in mind.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@F4DAV @BMenkuec I think that's not a good idea. It looks like the opposite of the water filling algorithm. You're better off putting more power into the frequencies which aren't faded.</title>
+		<published>2023-03-22T10:46:26+00:00</published>
+		<updated>2023-03-22T10:46:26+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1638492324224200704</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638492324224200704"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@F4DAV @BMenkuec I think that's not a good idea. It looks like the opposite of the water filling algorithm. You're better off putting more power into the frequencies which aren't faded.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@BMenkuec You need linear algebra one way or another to correct for a frequency selective fading channel (for instance, see rake receiver).</title>
+		<published>2023-03-22T10:45:16+00:00</published>
+		<updated>2023-03-22T10:45:16+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1638492030736252929</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638492030736252929"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@BMenkuec You need linear algebra one way or another to correct for a frequency selective fading channel (for instance, see rake receiver).&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@BMenkuec I don't know so much about PCIe and high-speed digital in general. Maybe folks like @azonenberg can give a better answer. My impression is that the PCIe channel has great SNR and is pretty flat and ideal, so you don't need so much RF comms tricks. OFDM is used for cable TV, etc.</title>
+		<published>2023-03-22T10:43:50+00:00</published>
+		<updated>2023-03-22T10:43:50+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1638491668050595841</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638491668050595841"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@BMenkuec I don't know so much about PCIe and high-speed digital in general. Maybe folks like @azonenberg can give a better answer. My impression is that the PCIe channel has great SNR and is pretty flat and ideal, so you don't need so much RF comms tricks. OFDM is used for cable TV, etc.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@BMenkuec The main advantage of OFDM is that it turns a channel with frequency selective fading into a set of parallel channels with flat fading. We could also say that it's kind of computationally efficient, because it uses FFTs, whereas other systems may require other linear algebra.</title>
+		<published>2023-03-22T09:09:08+00:00</published>
+		<updated>2023-03-22T09:09:08+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1638467836099149824</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638467836099149824"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@BMenkuec The main advantage of OFDM is that it turns a channel with frequency selective fading into a set of parallel channels with flat fading. We could also say that it's kind of computationally efficient, because it uses FFTs, whereas other systems may require other linear algebra.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@jxjputaoshu @mavazquezCTTC If we assume that the bandwidths B_j are fixed and that each channel has a (possibly) different and known N_0,j, then I think that we can obtain the water filling solution with Lagrange multipliers as I did for the equal noise case.</title>
+		<published>2023-03-22T07:36:41+00:00</published>
+		<updated>2023-03-22T07:36:41+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1638444571658006530</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638444571658006530"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@jxjputaoshu @mavazquezCTTC If we assume that the bandwidths B_j are fixed and that each channel has a (possibly) different and known N_0,j, then I think that we can obtain the water filling solution with Lagrange multipliers as I did for the equal noise case.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@mavazquezCTTC That question is a bit broad. Do you mean each channel has a different N_0? What can the transmitter know about these N_0's? Are the bandwidths fixed? Can the receiver do coherent combining of the channels (if so they're no longer independent)? What does the receiver know?</title>
+		<published>2023-03-22T07:35:35+00:00</published>
+		<updated>2023-03-22T07:35:35+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1638444294418702339</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638444294418702339"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@mavazquezCTTC That question is a bit broad. Do you mean each channel has a different N_0? What can the transmitter know about these N_0's? Are the bandwidths fixed? Can the receiver do coherent combining of the channels (if so they're no longer independent)? What does the receiver know?&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@ka9q @vk5qi I did this a while ago. It on was on an AWGN channel. destevez.net/2016/10/simula…</title>
+		<published>2023-03-22T07:04:34+00:00</published>
+		<updated>2023-03-22T07:04:34+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1638436490853117957</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638436490853117957"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ka9q @vk5qi I did this a while ago. It on was on an AWGN channel. &lt;a href="https://destevez.net/2016/10/simulating-jt-modes-how-low-can-they-get/"&gt;destevez.net/2016/10/simula…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">New blog post: About channel capacity and sub-channels. A short note on why if we divide a band-limited  AWGN channel into subchannels, we achieve the maximum capacity when the SNRs of all the subchannels are equal to the SNR of the whole channel. destevez.net/2023/03/about-…</title>
+		<published>2023-03-21T21:23:41+00:00</published>
+		<updated>2023-03-21T21:23:41+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1638290307321085952</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638290307321085952"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;New blog post: About channel capacity and sub-channels. A short note on why if we divide a band-limited  AWGN channel into subchannels, we achieve the maximum capacity when the SNRs of all the subchannels are equal to the SNR of the whole channel. &lt;a href="https://destevez.net/2023/03/about-channel-capacity-and-sub-channels/"&gt;destevez.net/2023/03/about-…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@whitequark @DRMacIver Was going to suggest (half jokingly) fly to Ibiza or Malaga, which is very cheap. But probably due to Brexit the Spanish health system won't treat folks from the UK.</title>
+		<published>2023-03-21T17:56:45+00:00</published>
+		<updated>2023-03-21T17:56:45+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1638238227902394378</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638238227902394378"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@whitequark @DRMacIver Was going to suggest (half jokingly) fly to Ibiza or Malaga, which is very cheap. But probably due to Brexit the Spanish health system won't treat folks from the UK.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@luigifcruz Perhaps more realistically than plugging it into BLADE, you also have two USRP N320 at the ATA.</title>
+		<published>2023-03-21T07:12:48+00:00</published>
+		<updated>2023-03-21T07:12:48+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1638076173061160960</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638076173061160960"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@luigifcruz Perhaps more realistically than plugging it into BLADE, you also have two USRP N320 at the ATA.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@IanJohnBuckley @luigifcruz I'd swear the ATA RFSoC boards are on 100G (perhaps even dual?). They do something like 16 channels, 700MHz bandwidth, 8bit IQ (ore close to this; I'm quoting from memory).</title>
+		<published>2023-03-21T07:04:48+00:00</published>
+		<updated>2023-03-21T07:04:48+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1638074160722190336</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638074160722190336"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@IanJohnBuckley @luigifcruz I'd swear the ATA RFSoC boards are on 100G (perhaps even dual?). They do something like 16 channels, 700MHz bandwidth, 8bit IQ (ore close to this; I'm quoting from memory).&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@gm8arv @G4GUO Oh, looks odd. Maybe wireshark (or the protocol documentation) helps understand what's happening.</title>
+		<published>2023-03-20T06:41:51+00:00</published>
+		<updated>2023-03-20T06:41:51+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1637705996175921155</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1637705996175921155"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@gm8arv @G4GUO Oh, looks odd. Maybe wireshark (or the protocol documentation) helps understand what's happening.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The max-hold and min-hold over a week look rather interesting. They show some rather strong signals, as well as distortion products. (4/4)
+
+Read more: destevez.net/2023/03/monito… pic.twitter.com/xyQDoRDGPl</title>
+		<published>2023-03-19T19:05:26+00:00</published>
+		<updated>2023-03-19T19:05:26+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1637530738823241729</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1637530738823241729"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The max-hold and min-hold over a week look rather interesting. They show some rather strong signals, as well as distortion products. (4/4)
+
+Read more: &lt;a href="https://destevez.net/2023/03/monitoring-the-qo-100-wb-transponder-usage-with-maia-sdr/"&gt;destevez.net/2023/03/monito…&lt;/a&gt; &lt;a href="https://twitter.com/ea4gpz/status/1637530738823241729/photo/1"&gt;pic.twitter.com/xyQDoRDGPl&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FrmtdkzWYAAMN4-.png?name=orig"&gt;
 &lt;img
 	style="align:top; max-width:558px; border:1px solid black;"
 	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FracHebX0AIVRO7.jpg" /&gt;
+	src="https://pbs.twimg.com/media/FrmtdkzWYAAMN4-.png" /&gt;
 &lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FracHebX0AIVRO7.jpg?name=orig" type="image/jpeg" />
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FrmtdkzWYAAMN4-.png?name=orig" type="image/png" />
 
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">@M0TTQ @MX5AKA @theRSGB Well said!</title>
-		<published>2023-03-16T18:52:10+00:00</published>
-		<updated>2023-03-16T18:52:10+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1636440237550256143</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1636440237550256143"/>
+		<title type="html">It also shows how to use the receiver noise floor power to measure and calibrate out gain variations in the receiver. These are mainly caused by changes in the temperature of the LNB, which is cooler and has more gain at night. (3/4) pic.twitter.com/bLMIdpABv6</title>
+		<published>2023-03-19T19:05:25+00:00</published>
+		<updated>2023-03-19T19:05:25+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1637530735132246018</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1637530735132246018"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -89,489 +525,18 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@M0TTQ @MX5AKA @theRSGB Well said!&lt;/blockquote&gt;
+	&lt;blockquote&gt;It also shows how to use the receiver noise floor power to measure and calibrate out gain variations in the receiver. These are mainly caused by changes in the temperature of the LNB, which is cooler and has more gain at night. (3/4) &lt;a href="https://twitter.com/ea4gpz/status/1637530735132246018/photo/1"&gt;pic.twitter.com/bLMIdpABv6&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ktemkin Sounds like a great idea.</title>
-		<published>2023-03-16T15:24:15+00:00</published>
-		<updated>2023-03-16T15:24:15+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1636387913352224774</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1636387913352224774"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ktemkin Sounds like a great idea.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">This is really cool! twitter.com/ktemkin/status…</title>
-		<published>2023-03-16T15:23:45+00:00</published>
-		<updated>2023-03-16T15:23:45+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1636387787917377539</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1636387787917377539"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;This is really cool! &lt;a href="https://twitter.com/ktemkin/status/1636356500129189891"&gt;twitter.com/ktemkin/status…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@G4GUO @gm8arv If you need a higher rate for TX you'll probably need to change a bunch of stuff in the DUC.</title>
-		<published>2023-03-15T20:33:13+00:00</published>
-		<updated>2023-03-15T20:33:13+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1636103276553814019</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1636103276553814019"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@G4GUO @gm8arv If you need a higher rate for TX you'll probably need to change a bunch of stuff in the DUC.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@gm8arv @G4GUO I'm sure there is a single TX channel, even if you have multiple receivers.</title>
-		<published>2023-03-15T20:03:45+00:00</published>
-		<updated>2023-03-15T20:03:45+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1636095861959675905</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1636095861959675905"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@gm8arv @G4GUO I'm sure there is a single TX channel, even if you have multiple receivers.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@gm8arv @G4GUO I vaguely remember that TX audio data is always sent regardless of whether you're in RX only. Might misremember, so don't quote me on that, but matches what you see.</title>
-		<published>2023-03-15T19:39:18+00:00</published>
-		<updated>2023-03-15T19:39:18+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1636089709620330504</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1636089709620330504"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@gm8arv @G4GUO I vaguely remember that TX audio data is always sent regardless of whether you're in RX only. Might misremember, so don't quote me on that, but matches what you see.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@sp9acq1 No</title>
-		<published>2023-03-14T06:11:24+00:00</published>
-		<updated>2023-03-14T06:11:24+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1635524008559902720</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1635524008559902720"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@sp9acq1 No&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Many people have replied with great ideas. However this was a quick Sunday morning project: Python script to record Maia SDR waterfall data to disk. This will be used to investigate transponder usage statistics. pic.twitter.com/WrC7de2Yqw</title>
-		<published>2023-03-13T17:19:46+00:00</published>
-		<updated>2023-03-13T17:19:46+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1635329819654381569</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1635329819654381569"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Many people have replied with great ideas. However this was a quick Sunday morning project: Python script to record Maia SDR waterfall data to disk. This will be used to investigate transponder usage statistics. &lt;a href="https://twitter.com/ea4gpz/status/1635329819654381569/photo/1"&gt;pic.twitter.com/WrC7de2Yqw&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FrHbjfGXoAAKH_1.png?name=orig"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FrmtNa9X0AEhvQ9.png?name=orig"&gt;
 &lt;img
 	style="align:top; max-width:558px; border:1px solid black;"
 	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FrHbjfGXoAAKH_1.png" /&gt;
+	src="https://pbs.twimg.com/media/FrmtNa9X0AEhvQ9.png" /&gt;
 &lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FrHbjfGXoAAKH_1.png?name=orig" type="image/png" />
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FrmtNa9X0AEhvQ9.png?name=orig" type="image/png" />
 
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@F4DAV My question is why does it produce problems I think you could inject a 1998-ish signal at any point in the system and you wouldn't care, provided such signal is say 60dB weaker than the LO.</title>
-		<published>2023-03-12T11:49:36+00:00</published>
-		<updated>2023-03-12T11:49:36+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1634884341699342337</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1634884341699342337"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@F4DAV My question is why does it produce problems I think you could inject a 1998-ish signal at any point in the system and you wouldn't care, provided such signal is say 60dB weaker than the LO.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@F4DAV But the IF is L-band, right? Why would it matter that you have leakage at the LO frequency. That (or its downconverted version) wouldn't get to the IF. I could imagine a second LO leaking into the LO port, but its level would be much lower than the actual LO.</title>
-		<published>2023-03-12T11:21:38+00:00</published>
-		<updated>2023-03-12T11:21:38+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1634877304143859714</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1634877304143859714"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@F4DAV But the IF is L-band, right? Why would it matter that you have leakage at the LO frequency. That (or its downconverted version) wouldn't get to the IF. I could imagine a second LO leaking into the LO port, but its level would be much lower than the actual LO.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@F4DAV Why is LO leakage a huge problem here? (I'm asking about effects, not causes)</title>
-		<published>2023-03-12T10:54:58+00:00</published>
-		<updated>2023-03-12T10:54:58+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1634870592447950848</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1634870592447950848"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@F4DAV Why is LO leakage a huge problem here? (I'm asking about effects, not causes)&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">This is Maia SDR receiving the QO-100 WB transponder. Any guesses of what I have in mind? pic.twitter.com/kJhnfCId2w</title>
-		<published>2023-03-12T09:45:04+00:00</published>
-		<updated>2023-03-12T09:45:04+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1634853000689725447</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1634853000689725447"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;This is Maia SDR receiving the QO-100 WB transponder. Any guesses of what I have in mind? &lt;a href="https://twitter.com/ea4gpz/status/1634853000689725447/photo/1"&gt;pic.twitter.com/kJhnfCId2w&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FrAqIU9WAAUP6ya.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FrAqIU9WAAUP6ya.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FrAqIU9WAAUP6ya.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@jrugelesuribe For the REST API you can take a look at the URLs in github.com/maia-sdr/maia-… and make some GET requests to see how the JSON looks like.
-
-For the websocket, see github.com/maia-sdr/maia-…</title>
-		<published>2023-03-10T16:41:29+00:00</published>
-		<updated>2023-03-10T16:41:29+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1634233021590310913</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1634233021590310913"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@jrugelesuribe For the REST API you can take a look at the URLs in &lt;a href="https://github.com/maia-sdr/maia-sdr/blob/main/maia-wasm/src/ui.rs#L32"&gt;github.com/maia-sdr/maia-…&lt;/a&gt; and make some GET requests to see how the JSON looks like.
-
-For the websocket, see &lt;a href="https://github.com/maia-sdr/maia-sdr/blob/main/maia-httpd/util/spectrum_client.py"&gt;github.com/maia-sdr/maia-…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@hennichodernich I'm bypassing it for the IQ samples. I'm using it for control of LO frequency, gain, etc.</title>
-		<published>2023-03-10T16:16:05+00:00</published>
-		<updated>2023-03-10T16:16:05+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1634226627268706305</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1634226627268706305"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@hennichodernich I'm bypassing it for the IQ samples. I'm using it for control of LO frequency, gain, etc.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@jrugelesuribe SigMF archives are tar files. You can extract the tar and use the sigmf-data file directly (it is an int16 or int8 raw file).</title>
-		<published>2023-03-10T06:36:53+00:00</published>
-		<updated>2023-03-10T06:36:53+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1634080869609512960</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1634080869609512960"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@jrugelesuribe SigMF archives are tar files. You can extract the tar and use the sigmf-data file directly (it is an int16 or int8 raw file).&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">.. my real question is: is there ANY good reason to condone the continued use of Isp as a concept, instead of just using the exhaust velocity Ve measured in e.g. m/s.  ?
-Shouldn't we boycott all mention of Isp and regard it as a silly convention? Or am I missing something?</title>
-		<published>2023-03-09T21:15:14+00:00</published>
-		<updated>2023-03-09T21:15:14+00:00</updated>
-		<id>https://twitter.com/planet4589/status/1633939526531026948</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/planet4589/status/1633939526531026948"/>
-		<author><name>RT: Jonathan McDowell (@planet4589)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/planet4589"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="planet4589"
-	src="https://pbs.twimg.com/profile_images/1418798871355002886/K6uHjp90_normal.jpg"
-	title="Jonathan McDowell" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;.. my real question is: is there ANY good reason to condone the continued use of Isp as a concept, instead of just using the exhaust velocity Ve measured in e.g. m/s.  ?
-Shouldn't we boycott all mention of Isp and regard it as a silly convention? Or am I missing something?&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@JanGromes What's the sx126x_patch.bin file?</title>
-		<published>2023-03-09T15:18:33+00:00</published>
-		<updated>2023-03-09T15:18:33+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1633849761110409216</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1633849761110409216"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@JanGromes What's the sx126x_patch.bin file?&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@alicja_musial Thanks for the info! The situation is striking compared to the rest of Europe (what's up with some of the European tiny countries?). Best luck and heartfelt support in your fight.</title>
-		<published>2023-03-08T21:09:02+00:00</published>
-		<updated>2023-03-08T21:09:02+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1633575576844877827</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1633575576844877827"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@alicja_musial Thanks for the info! The situation is striking compared to the rest of Europe (what's up with some of the European tiny countries?). Best luck and heartfelt support in your fight.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
 		
 		
 	</entry>
