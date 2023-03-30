@@ -5,7 +5,7 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-03-22T19:10:31+00:00</updated>
+	<updated>2023-03-30T07:12:38+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
@@ -13,507 +13,50 @@
 	<link rel="self" type="application/atom+xml" href="http://" />
 
 	<entry>
-		<title type="html">@BMenkuec @F4DAV I think so. If someone asks for a subtle difference in meaning, for me guard interval is the time gap between symbols to avoid ISI, and CP is the thing you fill it with to be able to do delays as circular shifts implemented by multiplication in the frequency domain.</title>
-		<published>2023-03-22T18:29:22+00:00</published>
-		<updated>2023-03-22T18:29:22+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1638608824339767296</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638608824339767296"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<title type="html">POSITION AVAILABLE: buff.ly/3LXOzaD 
+We are seeking a highly motivated and experienced scientist to serve as Project Scientist for the Allen Telescope Array (ATA) hosted at the Hat Creek Radio Observatory. 
+
+Salary range: $73,610 and $133,154 pic.twitter.com/9NMvvPHxqa</title>
+		<published>2023-03-29T23:30:01+00:00</published>
+		<updated>2023-03-29T23:30:01+00:00</updated>
+		<id>https://twitter.com/SETIInstitute/status/1641221201077891076</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/SETIInstitute/status/1641221201077891076"/>
+		<author><name>RT: The SETI Institute (@SETIInstitute)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
+	&lt;a href="https://twitter.com/SETIInstitute"&gt;
 &lt;img
 	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
+	alt="SETIInstitute"
+	src="https://pbs.twimg.com/profile_images/1614146204291723267/VkQmAcR8_normal.jpg"
+	title="The SETI Institute" /&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@BMenkuec @F4DAV I think so. If someone asks for a subtle difference in meaning, for me guard interval is the time gap between symbols to avoid ISI, and CP is the thing you fill it with to be able to do delays as circular shifts implemented by multiplication in the frequency domain.&lt;/blockquote&gt;
+	&lt;blockquote&gt;POSITION AVAILABLE: &lt;a href="https://buff.ly/3LXOzaD"&gt;buff.ly/3LXOzaD&lt;/a&gt; 
+We are seeking a highly motivated and experienced scientist to serve as Project Scientist for the Allen Telescope Array (ATA) hosted at the Hat Creek Radio Observatory. 
+
+Salary range: $73,610 and $133,154 &lt;a href="https://twitter.com/SETIInstitute/status/1641221201077891076/photo/1"&gt;pic.twitter.com/9NMvvPHxqa&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@F4DAV @BMenkuec I haven't heard of something like this being used in practice. These days almost everyone uses OFDM or similar for problems like this.</title>
-		<published>2023-03-22T18:27:49+00:00</published>
-		<updated>2023-03-22T18:27:49+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1638608433736720452</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638608433736720452"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@F4DAV @BMenkuec I haven't heard of something like this being used in practice. These days almost everyone uses OFDM or similar for problems like this.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@F4DAV @BMenkuec DVB-S2 also has SOF, and optionally pilots, so there is some overhead as well. DVB-T2 is designed for far worse channels than DVB-S2, so probably has higher overhead. But that's not intrinsic of OFDM. It's something the designer can choose.</title>
-		<published>2023-03-22T18:25:47+00:00</published>
-		<updated>2023-03-22T18:25:47+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1638607925223768064</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638607925223768064"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@F4DAV @BMenkuec DVB-S2 also has SOF, and optionally pilots, so there is some overhead as well. DVB-T2 is designed for far worse channels than DVB-S2, so probably has higher overhead. But that's not intrinsic of OFDM. It's something the designer can choose.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@F4DAV @BMenkuec OFDM is close to Shannon. Why wouldn't it? For a single-carrier modulation, in theory nothing prevents you from making the pulse shape look however you like. The same for the pulse filter in the receiver. You could notch out that CW interferer.</title>
-		<published>2023-03-22T12:49:57+00:00</published>
-		<updated>2023-03-22T12:49:57+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1638523408680988672</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638523408680988672"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@F4DAV @BMenkuec OFDM is close to Shannon. Why wouldn't it? For a single-carrier modulation, in theory nothing prevents you from making the pulse shape look however you like. The same for the pulse filter in the receiver. You could notch out that CW interferer.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@BMenkuec If the receiver knew the channel response exactly, then it could deconvolve it from the received signal. There are a bunch of techniques in linear algebra to address this problem (both in time domain and frequency domain), none of them perfect. This is what I had in mind.</title>
-		<published>2023-03-22T11:05:27+00:00</published>
-		<updated>2023-03-22T11:05:27+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1638497111363706882</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638497111363706882"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@BMenkuec If the receiver knew the channel response exactly, then it could deconvolve it from the received signal. There are a bunch of techniques in linear algebra to address this problem (both in time domain and frequency domain), none of them perfect. This is what I had in mind.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@F4DAV @BMenkuec I think that's not a good idea. It looks like the opposite of the water filling algorithm. You're better off putting more power into the frequencies which aren't faded.</title>
-		<published>2023-03-22T10:46:26+00:00</published>
-		<updated>2023-03-22T10:46:26+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1638492324224200704</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638492324224200704"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@F4DAV @BMenkuec I think that's not a good idea. It looks like the opposite of the water filling algorithm. You're better off putting more power into the frequencies which aren't faded.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@BMenkuec You need linear algebra one way or another to correct for a frequency selective fading channel (for instance, see rake receiver).</title>
-		<published>2023-03-22T10:45:16+00:00</published>
-		<updated>2023-03-22T10:45:16+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1638492030736252929</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638492030736252929"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@BMenkuec You need linear algebra one way or another to correct for a frequency selective fading channel (for instance, see rake receiver).&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@BMenkuec I don't know so much about PCIe and high-speed digital in general. Maybe folks like @azonenberg can give a better answer. My impression is that the PCIe channel has great SNR and is pretty flat and ideal, so you don't need so much RF comms tricks. OFDM is used for cable TV, etc.</title>
-		<published>2023-03-22T10:43:50+00:00</published>
-		<updated>2023-03-22T10:43:50+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1638491668050595841</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638491668050595841"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@BMenkuec I don't know so much about PCIe and high-speed digital in general. Maybe folks like @azonenberg can give a better answer. My impression is that the PCIe channel has great SNR and is pretty flat and ideal, so you don't need so much RF comms tricks. OFDM is used for cable TV, etc.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@BMenkuec The main advantage of OFDM is that it turns a channel with frequency selective fading into a set of parallel channels with flat fading. We could also say that it's kind of computationally efficient, because it uses FFTs, whereas other systems may require other linear algebra.</title>
-		<published>2023-03-22T09:09:08+00:00</published>
-		<updated>2023-03-22T09:09:08+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1638467836099149824</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638467836099149824"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@BMenkuec The main advantage of OFDM is that it turns a channel with frequency selective fading into a set of parallel channels with flat fading. We could also say that it's kind of computationally efficient, because it uses FFTs, whereas other systems may require other linear algebra.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@jxjputaoshu @mavazquezCTTC If we assume that the bandwidths B_j are fixed and that each channel has a (possibly) different and known N_0,j, then I think that we can obtain the water filling solution with Lagrange multipliers as I did for the equal noise case.</title>
-		<published>2023-03-22T07:36:41+00:00</published>
-		<updated>2023-03-22T07:36:41+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1638444571658006530</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638444571658006530"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@jxjputaoshu @mavazquezCTTC If we assume that the bandwidths B_j are fixed and that each channel has a (possibly) different and known N_0,j, then I think that we can obtain the water filling solution with Lagrange multipliers as I did for the equal noise case.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@mavazquezCTTC That question is a bit broad. Do you mean each channel has a different N_0? What can the transmitter know about these N_0's? Are the bandwidths fixed? Can the receiver do coherent combining of the channels (if so they're no longer independent)? What does the receiver know?</title>
-		<published>2023-03-22T07:35:35+00:00</published>
-		<updated>2023-03-22T07:35:35+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1638444294418702339</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638444294418702339"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@mavazquezCTTC That question is a bit broad. Do you mean each channel has a different N_0? What can the transmitter know about these N_0's? Are the bandwidths fixed? Can the receiver do coherent combining of the channels (if so they're no longer independent)? What does the receiver know?&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ka9q @vk5qi I did this a while ago. It on was on an AWGN channel. destevez.net/2016/10/simula…</title>
-		<published>2023-03-22T07:04:34+00:00</published>
-		<updated>2023-03-22T07:04:34+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1638436490853117957</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638436490853117957"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q @vk5qi I did this a while ago. It on was on an AWGN channel. &lt;a href="https://destevez.net/2016/10/simulating-jt-modes-how-low-can-they-get/"&gt;destevez.net/2016/10/simula…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">New blog post: About channel capacity and sub-channels. A short note on why if we divide a band-limited  AWGN channel into subchannels, we achieve the maximum capacity when the SNRs of all the subchannels are equal to the SNR of the whole channel. destevez.net/2023/03/about-…</title>
-		<published>2023-03-21T21:23:41+00:00</published>
-		<updated>2023-03-21T21:23:41+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1638290307321085952</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638290307321085952"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;New blog post: About channel capacity and sub-channels. A short note on why if we divide a band-limited  AWGN channel into subchannels, we achieve the maximum capacity when the SNRs of all the subchannels are equal to the SNR of the whole channel. &lt;a href="https://destevez.net/2023/03/about-channel-capacity-and-sub-channels/"&gt;destevez.net/2023/03/about-…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@whitequark @DRMacIver Was going to suggest (half jokingly) fly to Ibiza or Malaga, which is very cheap. But probably due to Brexit the Spanish health system won't treat folks from the UK.</title>
-		<published>2023-03-21T17:56:45+00:00</published>
-		<updated>2023-03-21T17:56:45+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1638238227902394378</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638238227902394378"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@whitequark @DRMacIver Was going to suggest (half jokingly) fly to Ibiza or Malaga, which is very cheap. But probably due to Brexit the Spanish health system won't treat folks from the UK.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@luigifcruz Perhaps more realistically than plugging it into BLADE, you also have two USRP N320 at the ATA.</title>
-		<published>2023-03-21T07:12:48+00:00</published>
-		<updated>2023-03-21T07:12:48+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1638076173061160960</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638076173061160960"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@luigifcruz Perhaps more realistically than plugging it into BLADE, you also have two USRP N320 at the ATA.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@IanJohnBuckley @luigifcruz I'd swear the ATA RFSoC boards are on 100G (perhaps even dual?). They do something like 16 channels, 700MHz bandwidth, 8bit IQ (ore close to this; I'm quoting from memory).</title>
-		<published>2023-03-21T07:04:48+00:00</published>
-		<updated>2023-03-21T07:04:48+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1638074160722190336</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1638074160722190336"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@IanJohnBuckley @luigifcruz I'd swear the ATA RFSoC boards are on 100G (perhaps even dual?). They do something like 16 channels, 700MHz bandwidth, 8bit IQ (ore close to this; I'm quoting from memory).&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@gm8arv @G4GUO Oh, looks odd. Maybe wireshark (or the protocol documentation) helps understand what's happening.</title>
-		<published>2023-03-20T06:41:51+00:00</published>
-		<updated>2023-03-20T06:41:51+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1637705996175921155</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1637705996175921155"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@gm8arv @G4GUO Oh, looks odd. Maybe wireshark (or the protocol documentation) helps understand what's happening.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">The max-hold and min-hold over a week look rather interesting. They show some rather strong signals, as well as distortion products. (4/4)
-
-Read more: destevez.net/2023/03/monito… pic.twitter.com/xyQDoRDGPl</title>
-		<published>2023-03-19T19:05:26+00:00</published>
-		<updated>2023-03-19T19:05:26+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1637530738823241729</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1637530738823241729"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;The max-hold and min-hold over a week look rather interesting. They show some rather strong signals, as well as distortion products. (4/4)
-
-Read more: &lt;a href="https://destevez.net/2023/03/monitoring-the-qo-100-wb-transponder-usage-with-maia-sdr/"&gt;destevez.net/2023/03/monito…&lt;/a&gt; &lt;a href="https://twitter.com/ea4gpz/status/1637530738823241729/photo/1"&gt;pic.twitter.com/xyQDoRDGPl&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FrmtdkzWYAAMN4-.png?name=orig"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FsbJ-8oXsAASeEk.jpg?name=orig"&gt;
 &lt;img
 	style="align:top; max-width:558px; border:1px solid black;"
 	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FrmtdkzWYAAMN4-.png" /&gt;
+	src="https://pbs.twimg.com/media/FsbJ-8oXsAASeEk.jpg" /&gt;
 &lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FrmtdkzWYAAMN4-.png?name=orig" type="image/png" />
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FsbJ-8oXsAASeEk.jpg?name=orig" type="image/jpeg" />
 
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">It also shows how to use the receiver noise floor power to measure and calibrate out gain variations in the receiver. These are mainly caused by changes in the temperature of the LNB, which is cooler and has more gain at night. (3/4) pic.twitter.com/bLMIdpABv6</title>
-		<published>2023-03-19T19:05:25+00:00</published>
-		<updated>2023-03-19T19:05:25+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1637530735132246018</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1637530735132246018"/>
+		<title type="html">@DSP_fact Indeed, because the Fourier coefficients are 1/n times an ell^2 sequence, so they must belong to ell^1.</title>
+		<published>2023-03-29T18:36:19+00:00</published>
+		<updated>2023-03-29T18:36:19+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1641147288922750998</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1641147288922750998"/>
 		<author><name>Daniel Estévez (@ea4gpz)</name></author>
 		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;a href="https://twitter.com/ea4gpz"&gt;
@@ -525,18 +68,506 @@ Read more: &lt;a href="https://destevez.net/2023/03/monitoring-the-qo-100-wb-tra
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;It also shows how to use the receiver noise floor power to measure and calibrate out gain variations in the receiver. These are mainly caused by changes in the temperature of the LNB, which is cooler and has more gain at night. (3/4) &lt;a href="https://twitter.com/ea4gpz/status/1637530735132246018/photo/1"&gt;pic.twitter.com/bLMIdpABv6&lt;/a&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;@DSP_fact Indeed, because the Fourier coefficients are 1/n times an ell^2 sequence, so they must belong to ell^1.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FrmtNa9X0AEhvQ9.png?name=orig"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@m_ou_se When there is and where there isn't a happens before relationship. I never managed to understand this concept well from other sources.</title>
+		<published>2023-03-29T18:32:52+00:00</published>
+		<updated>2023-03-29T18:32:52+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1641146419342868480</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1641146419342868480"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@m_ou_se When there is and where there isn't a happens before relationship. I never managed to understand this concept well from other sources.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Please consider making a contribution to the Canadian Center for Experimental Radio Astronomy 
+ gofund.me/33909bc3</title>
+		<published>2023-03-29T02:30:11+00:00</published>
+		<updated>2023-03-29T02:30:11+00:00</updated>
+		<id>https://twitter.com/coastal8049/status/1640904153164828672</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/coastal8049/status/1640904153164828672"/>
+		<author><name>RT: Scott Tilley 🇺🇦 (@coastal8049)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/coastal8049"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="coastal8049"
+	src="https://pbs.twimg.com/profile_images/1571958771060215808/LYThoGMk_normal.jpg"
+	title="Scott Tilley 🇺🇦" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Please consider making a contribution to the Canadian Center for Experimental Radio Astronomy 
+ &lt;a href="https://gofund.me/33909bc3"&gt;gofund.me/33909bc3&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The ATA was one of the first radio telescopes to record data on #grb221009A (the "BOAT"), only a few hours after the GRB was detected. Thanks to the multiwavelength rapid response, we were able to shed new light on the physical mechanisms at play in GRBs in unprecedented detail. twitter.com/SETIInstitute/…</title>
+		<published>2023-03-28T22:58:58+00:00</published>
+		<updated>2023-03-28T22:58:58+00:00</updated>
+		<id>https://twitter.com/Astro_Wael/status/1640850999572336641</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/Astro_Wael/status/1640850999572336641"/>
+		<author><name>RT: Wael Farah (@Astro_Wael)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/Astro_Wael"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="Astro_Wael"
+	src="https://pbs.twimg.com/profile_images/1387078178045235206/hT7GTsTZ_normal.jpg"
+	title="Wael Farah" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The ATA was one of the first radio telescopes to record data on #grb221009A (the "BOAT"), only a few hours after the GRB was detected. Thanks to the multiwavelength rapid response, we were able to shed new light on the physical mechanisms at play in GRBs in unprecedented detail. &lt;a href="https://twitter.com/SETIInstitute/status/1640777037710237701"&gt;twitter.com/SETIInstitute/…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@tnt @tmbinc @AndrePuschmann Yeah, anything works for me.</title>
+		<published>2023-03-28T17:52:10+00:00</published>
+		<updated>2023-03-28T17:52:10+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1640773790723350534</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640773790723350534"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@tnt @tmbinc @AndrePuschmann Yeah, anything works for me.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@tnt @tmbinc @AndrePuschmann In any case, if the size of packets is fixed, a small variation of DmaBRAMWrite would be a good solution. Fixed packets is key to simplify some stuff. Because the size of the buffers in the ring-buffer can be equal to the packet size and we can drive the DMA with a single counter</title>
+		<published>2023-03-28T17:20:56+00:00</published>
+		<updated>2023-03-28T17:20:56+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1640765932107694086</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640765932107694086"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@tnt @tmbinc @AndrePuschmann In any case, if the size of packets is fixed, a small variation of DmaBRAMWrite would be a good solution. Fixed packets is key to simplify some stuff. Because the size of the buffers in the ring-buffer can be equal to the packet size and we can drive the DMA with a single counter&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@tnt @tmbinc @AndrePuschmann I'm thinking that we can cheat to DmaBRAMWrite if fosphor's AXI-S output is always valid mid-packet and the size of packets is fixed and known. We could ignore DmaBRAMWrite's raddr, and it wouldn't care that it is an AXI-S the one writing into rdata.</title>
+		<published>2023-03-28T17:18:33+00:00</published>
+		<updated>2023-03-28T17:18:33+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1640765330367606784</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640765330367606784"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@tnt @tmbinc @AndrePuschmann I'm thinking that we can cheat to DmaBRAMWrite if fosphor's AXI-S output is always valid mid-packet and the size of packets is fixed and known. We could ignore DmaBRAMWrite's raddr, and it wouldn't care that it is an AXI-S the one writing into rdata.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@tnt @tmbinc @AndrePuschmann It doesn't support TLAST. The use case for this is recording IQ to the DDR until the DDR is full or the user presses stop. Here we need a ring-buffer in DDR, which is more similar to what DmaBRAMWrite.</title>
+		<published>2023-03-28T17:15:29+00:00</published>
+		<updated>2023-03-28T17:15:29+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1640764557642661889</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640764557642661889"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@tnt @tmbinc @AndrePuschmann It doesn't support TLAST. The use case for this is recording IQ to the DDR until the DDR is full or the user presses stop. Here we need a ring-buffer in DDR, which is more similar to what DmaBRAMWrite.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@tnt @AndrePuschmann @tmbinc Thanks! That short description helps me read through the Verilog code. Understood that histogramming each FFT in the FPGA is much better than histogramming FFT averages in software.</title>
+		<published>2023-03-28T17:07:23+00:00</published>
+		<updated>2023-03-28T17:07:23+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1640762520565678089</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640762520565678089"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@tnt @AndrePuschmann @tmbinc Thanks! That short description helps me read through the Verilog code. Understood that histogramming each FFT in the FPGA is much better than histogramming FFT averages in software.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@tnt @tmbinc @AndrePuschmann If something like this is done, then it would be possible to use maia-httpd with small modifications to send the histogram packets out as messages on a websocket server.</title>
+		<published>2023-03-28T17:05:50+00:00</published>
+		<updated>2023-03-28T17:05:50+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1640762129350361099</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640762129350361099"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@tnt @tmbinc @AndrePuschmann If something like this is done, then it would be possible to use maia-httpd with small modifications to send the histogram packets out as messages on a websocket server.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@tnt @tmbinc @AndrePuschmann I'm looking at github.com/EttusResearch/… and thinking about how to drop it in. FFT'd input and config is straightforward. For the AXI-S output, none of the maia-hdl DMAs work directly. Either use a good 'ol AXI-DMA or ditch the fosphor packetizer and use github.com/maia-sdr/maia-…</title>
+		<published>2023-03-28T17:04:36+00:00</published>
+		<updated>2023-03-28T17:04:36+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1640761818405634055</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640761818405634055"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@tnt @tmbinc @AndrePuschmann I'm looking at &lt;a href="https://github.com/EttusResearch/uhd/blob/master/fpga/usrp3/lib/rfnoc/fosphor/f15_core.v"&gt;github.com/EttusResearch/…&lt;/a&gt; and thinking about how to drop it in. FFT'd input and config is straightforward. For the AXI-S output, none of the maia-hdl DMAs work directly. Either use a good 'ol AXI-DMA or ditch the fosphor packetizer and use &lt;a href="https://github.com/maia-sdr/maia-sdr/blob/main/maia-hdl/maia_hdl/dma.py#L17"&gt;github.com/maia-sdr/maia-…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@AndrePuschmann @tnt @tmbinc The current output is FFT averages at a configurable rate. I thought of turning this into a histogram (in software) by registering "hits" in a frequency x power matrix and applying exponential decay. I haven't studied fosphor for inspiration, so I don't know if this ide is close.</title>
+		<published>2023-03-28T16:22:31+00:00</published>
+		<updated>2023-03-28T16:22:31+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1640751228861775880</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640751228861775880"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@AndrePuschmann @tnt @tmbinc The current output is FFT averages at a configurable rate. I thought of turning this into a histogram (in software) by registering "hits" in a frequency x power matrix and applying exponential decay. I haven't studied fosphor for inspiration, so I don't know if this ide is close.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@AndrePuschmann @tnt @tmbinc I had porting some form of fosphor to Maia SDR vaguely in my sights (as low priority). What part of fosphor usually runs on the FPGA? Or, more precisely, what kind of output should Maia SDR produce so that fosphor can be implemented in a rather standalone way?</title>
+		<published>2023-03-28T16:20:16+00:00</published>
+		<updated>2023-03-28T16:20:16+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1640750665352790018</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640750665352790018"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@AndrePuschmann @tnt @tmbinc I had porting some form of fosphor to Maia SDR vaguely in my sights (as low priority). What part of fosphor usually runs on the FPGA? Or, more precisely, what kind of output should Maia SDR produce so that fosphor can be implemented in a rather standalone way?&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ In any case, the albedo is already factored in the RCS figures of the webpage, which was your original question. However, something to keep in mind is that some asteroids have small albedos, around 0.05 - 0.1</title>
+		<published>2023-03-27T21:06:30+00:00</published>
+		<updated>2023-03-27T21:06:30+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1640460308451065856</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640460308451065856"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ In any case, the albedo is already factored in the RCS figures of the webpage, which was your original question. However, something to keep in mind is that some asteroids have small albedos, around 0.05 - 0.1&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ It turns out that what happens with my earlier reference is that the Deff column is actually listing Deff*sqrt(radar_albedo). For instance, 343 Chaldea has Deff = 37 km in the webpage, and Deff = 96 km in the paper. The radar albedo is 0.15.</title>
+		<published>2023-03-27T21:05:01+00:00</published>
+		<updated>2023-03-27T21:05:01+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1640459935795531776</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640459935795531776"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ It turns out that what happens with my earlier reference is that the Deff column is actually listing Deff*sqrt(radar_albedo). For instance, 343 Chaldea has Deff = 37 km in the webpage, and Deff = 96 km in the paper. The radar albedo is 0.15.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ I'm calculating this quotient picking some asteroids at random from the reference I gave, and the quotient always comes close to 1. This is unexpected! It pays off to compare with Table 4 in echo.jpl.nasa.gov/asteroids/MBAs… which has some of the same asteroids...</title>
+		<published>2023-03-27T21:00:23+00:00</published>
+		<updated>2023-03-27T21:00:23+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1640458768147443722</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640458768147443722"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ I'm calculating this quotient picking some asteroids at random from the reference I gave, and the quotient always comes close to 1. This is unexpected! It pays off to compare with Table 4 in &lt;a href="https://echo.jpl.nasa.gov/asteroids/MBAs/magri.etal.2007.mbas.pdf"&gt;echo.jpl.nasa.gov/asteroids/MBAs…&lt;/a&gt; which has some of the same asteroids...&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ On closer look, there is indeed something weird in that reference. All the sources I'm reading define the albedo as the quotient between RCS and physical area of the projection of the asteroid (here OC means opposite-circular polarization)... pic.twitter.com/8mVo2QF3rW</title>
+		<published>2023-03-27T20:58:21+00:00</published>
+		<updated>2023-03-27T20:58:21+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1640458256765317138</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640458256765317138"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ On closer look, there is indeed something weird in that reference. All the sources I'm reading define the albedo as the quotient between RCS and physical area of the projection of the asteroid (here OC means opposite-circular polarization)... &lt;a href="https://twitter.com/ea4gpz/status/1640458256765317138/photo/1"&gt;pic.twitter.com/8mVo2QF3rW&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FsQTremXsAElo7V.png?name=orig"&gt;
 &lt;img
 	style="align:top; max-width:558px; border:1px solid black;"
 	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FrmtNa9X0AEhvQ9.png" /&gt;
+	src="https://pbs.twimg.com/media/FsQTremXsAElo7V.png" /&gt;
 &lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FrmtNa9X0AEhvQ9.png?name=orig" type="image/png" />
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FsQTremXsAElo7V.png?name=orig" type="image/png" />
 
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@GalileoSats Every time I read someone doing this these days I imagine they're still running a dusty Baudot teletype.</title>
+		<published>2023-03-27T17:11:56+00:00</published>
+		<updated>2023-03-27T17:11:56+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1640401280014209025</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640401280014209025"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@GalileoSats Every time I read someone doing this these days I imagine they're still running a dusty Baudot teletype.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ I found this table, from which I got the idea that the radar cross section is within a few dB of the physical cross section: johnstonsarchive.net/astro/radarast…</title>
+		<published>2023-03-26T20:54:49+00:00</published>
+		<updated>2023-03-26T20:54:49+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1640094979845390338</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640094979845390338"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ I found this table, from which I got the idea that the radar cross section is within a few dB of the physical cross section: &lt;a href="http://www.johnstonsarchive.net/astro/radarasteroids.html"&gt;johnstonsarchive.net/astro/radarast…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
 		
 		
 	</entry>
