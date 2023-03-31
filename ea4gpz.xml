@@ -5,12 +5,93 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-03-30T07:12:38+00:00</updated>
+	<updated>2023-03-31T06:10:20+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@df2mz @ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ In Ka/Ka the transponder goes downwards. That's why I used it for this silly example.</title>
+		<published>2023-03-30T21:17:40+00:00</published>
+		<updated>2023-03-30T21:17:40+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1641550283841871874</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1641550283841871874"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@df2mz @ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ In Ka/Ka the transponder goes downwards. That's why I used it for this silly example.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@ka9q @nascom1 @df2mz @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ There are some celestial objects that reflect using the Ka/Ka turnaround ratio. But they are about 500 million light years away, if I did my math right.</title>
+		<published>2023-03-30T20:59:41+00:00</published>
+		<updated>2023-03-30T20:59:41+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1641545756027879424</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1641545756027879424"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ka9q @nascom1 @df2mz @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ There are some celestial objects that reflect using the Ka/Ka turnaround ratio. But they are about 500 million light years away, if I did my math right.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@drmpeg @coastal8049 @patchvonbraun This. Make the number of received framed massive if needed and tell the kernel to allocate more USB memory.</title>
+		<published>2023-03-30T17:58:41+00:00</published>
+		<updated>2023-03-30T17:58:41+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1641500206595227649</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1641500206595227649"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@drmpeg @coastal8049 @patchvonbraun This. Make the number of received framed massive if needed and tell the kernel to allocate more USB memory.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">POSITION AVAILABLE: buff.ly/3LXOzaD 
@@ -476,93 +557,6 @@ Salary range: $73,610 and $133,154 &lt;a href="https://twitter.com/SETIInstitute
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ I'm calculating this quotient picking some asteroids at random from the reference I gave, and the quotient always comes close to 1. This is unexpected! It pays off to compare with Table 4 in &lt;a href="https://echo.jpl.nasa.gov/asteroids/MBAs/magri.etal.2007.mbas.pdf"&gt;echo.jpl.nasa.gov/asteroids/MBAs…&lt;/a&gt; which has some of the same asteroids...&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ On closer look, there is indeed something weird in that reference. All the sources I'm reading define the albedo as the quotient between RCS and physical area of the projection of the asteroid (here OC means opposite-circular polarization)... pic.twitter.com/8mVo2QF3rW</title>
-		<published>2023-03-27T20:58:21+00:00</published>
-		<updated>2023-03-27T20:58:21+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1640458256765317138</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640458256765317138"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ On closer look, there is indeed something weird in that reference. All the sources I'm reading define the albedo as the quotient between RCS and physical area of the projection of the asteroid (here OC means opposite-circular polarization)... &lt;a href="https://twitter.com/ea4gpz/status/1640458256765317138/photo/1"&gt;pic.twitter.com/8mVo2QF3rW&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FsQTremXsAElo7V.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FsQTremXsAElo7V.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FsQTremXsAElo7V.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@GalileoSats Every time I read someone doing this these days I imagine they're still running a dusty Baudot teletype.</title>
-		<published>2023-03-27T17:11:56+00:00</published>
-		<updated>2023-03-27T17:11:56+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1640401280014209025</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640401280014209025"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@GalileoSats Every time I read someone doing this these days I imagine they're still running a dusty Baudot teletype.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ I found this table, from which I got the idea that the radar cross section is within a few dB of the physical cross section: johnstonsarchive.net/astro/radarast…</title>
-		<published>2023-03-26T20:54:49+00:00</published>
-		<updated>2023-03-26T20:54:49+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1640094979845390338</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640094979845390338"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ I found this table, from which I got the idea that the radar cross section is within a few dB of the physical cross section: &lt;a href="http://www.johnstonsarchive.net/astro/radarasteroids.html"&gt;johnstonsarchive.net/astro/radarast…&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
