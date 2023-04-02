@@ -5,12 +5,153 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-03-31T06:10:20+00:00</updated>
+	<updated>2023-04-02T05:28:25+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@tnt @IanJohnBuckley In principle this is just to build changesets of the Maia SDR bitstream, but nothing (other than the fact that PRs from new contributors need their pipeline to be approved manually for it to run) prevents people from submitting a PR that uses Vivado totally differently.</title>
+		<published>2023-04-01T15:30:52+00:00</published>
+		<updated>2023-04-01T15:30:52+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1642187782373228549</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1642187782373228549"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@tnt @IanJohnBuckley In principle this is just to build changesets of the Maia SDR bitstream, but nothing (other than the fact that PRs from new contributors need their pipeline to be approved manually for it to run) prevents people from submitting a PR that uses Vivado totally differently.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@tnt @IanJohnBuckley Yeah. If I get to the point where I run people's PRs in a webpack Vivado setup on a machine I own, I don't know if Xilinx would consider this fair game.</title>
+		<published>2023-04-01T15:29:45+00:00</published>
+		<updated>2023-04-01T15:29:45+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1642187500109156355</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1642187500109156355"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@tnt @IanJohnBuckley Yeah. If I get to the point where I run people's PRs in a webpack Vivado setup on a machine I own, I don't know if Xilinx would consider this fair game.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@IanJohnBuckley Gitlab's self-hosted (aka free) runners don't have enough disk to hold a Vivado installation. Plus potentially licensing problems. Should be straightforward to set up a dedicated runner in hardware/VM that you own. This is what I'm currently trying to arrange.</title>
+		<published>2023-04-01T15:27:09+00:00</published>
+		<updated>2023-04-01T15:27:09+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1642186847555035138</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1642186847555035138"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@IanJohnBuckley Gitlab's self-hosted (aka free) runners don't have enough disk to hold a Vivado installation. Plus potentially licensing problems. Should be straightforward to set up a dedicated runner in hardware/VM that you own. This is what I'm currently trying to arrange.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">The maia-sdr Github actions system to build Pluto SDR firmware images automatically on the main branch and pull requests is now working reasonably well. This doesn't run Vivado to build the FPGA image. We're looking into options for running Vivado in a dedicated runner. pic.twitter.com/vuNnH0quEU</title>
+		<published>2023-04-01T15:14:07+00:00</published>
+		<updated>2023-04-01T15:14:07+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1642183568028839938</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1642183568028839938"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;The maia-sdr Github actions system to build Pluto SDR firmware images automatically on the main branch and pull requests is now working reasonably well. This doesn't run Vivado to build the FPGA image. We're looking into options for running Vivado in a dedicated runner. &lt;a href="https://twitter.com/ea4gpz/status/1642183568028839938/photo/1"&gt;pic.twitter.com/vuNnH0quEU&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fso1OFxWYAIKKfS.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Fso1OFxWYAIKKfS.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/Fso1OFxWYAIKKfS.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@FutureSDR @bastibl @loic_fejoz This is really nice! Will be a good replacement for csdr, which seems not very maintained anymore.</title>
+		<published>2023-04-01T07:11:18+00:00</published>
+		<updated>2023-04-01T07:11:18+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1642062061759766528</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1642062061759766528"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@FutureSDR @bastibl @loic_fejoz This is really nice! Will be a good replacement for csdr, which seems not very maintained anymore.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@df2mz @ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ In Ka/Ka the transponder goes downwards. That's why I used it for this silly example.</title>
@@ -422,141 +563,6 @@ Salary range: $73,610 and $133,154 &lt;a href="https://twitter.com/SETIInstitute
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@tnt @tmbinc @AndrePuschmann I'm looking at &lt;a href="https://github.com/EttusResearch/uhd/blob/master/fpga/usrp3/lib/rfnoc/fosphor/f15_core.v"&gt;github.com/EttusResearch/…&lt;/a&gt; and thinking about how to drop it in. FFT'd input and config is straightforward. For the AXI-S output, none of the maia-hdl DMAs work directly. Either use a good 'ol AXI-DMA or ditch the fosphor packetizer and use &lt;a href="https://github.com/maia-sdr/maia-sdr/blob/main/maia-hdl/maia_hdl/dma.py#L17"&gt;github.com/maia-sdr/maia-…&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@AndrePuschmann @tnt @tmbinc The current output is FFT averages at a configurable rate. I thought of turning this into a histogram (in software) by registering "hits" in a frequency x power matrix and applying exponential decay. I haven't studied fosphor for inspiration, so I don't know if this ide is close.</title>
-		<published>2023-03-28T16:22:31+00:00</published>
-		<updated>2023-03-28T16:22:31+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1640751228861775880</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640751228861775880"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@AndrePuschmann @tnt @tmbinc The current output is FFT averages at a configurable rate. I thought of turning this into a histogram (in software) by registering "hits" in a frequency x power matrix and applying exponential decay. I haven't studied fosphor for inspiration, so I don't know if this ide is close.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@AndrePuschmann @tnt @tmbinc I had porting some form of fosphor to Maia SDR vaguely in my sights (as low priority). What part of fosphor usually runs on the FPGA? Or, more precisely, what kind of output should Maia SDR produce so that fosphor can be implemented in a rather standalone way?</title>
-		<published>2023-03-28T16:20:16+00:00</published>
-		<updated>2023-03-28T16:20:16+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1640750665352790018</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640750665352790018"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@AndrePuschmann @tnt @tmbinc I had porting some form of fosphor to Maia SDR vaguely in my sights (as low priority). What part of fosphor usually runs on the FPGA? Or, more precisely, what kind of output should Maia SDR produce so that fosphor can be implemented in a rather standalone way?&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ In any case, the albedo is already factored in the RCS figures of the webpage, which was your original question. However, something to keep in mind is that some asteroids have small albedos, around 0.05 - 0.1</title>
-		<published>2023-03-27T21:06:30+00:00</published>
-		<updated>2023-03-27T21:06:30+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1640460308451065856</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640460308451065856"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ In any case, the albedo is already factored in the RCS figures of the webpage, which was your original question. However, something to keep in mind is that some asteroids have small albedos, around 0.05 - 0.1&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ It turns out that what happens with my earlier reference is that the Deff column is actually listing Deff*sqrt(radar_albedo). For instance, 343 Chaldea has Deff = 37 km in the webpage, and Deff = 96 km in the paper. The radar albedo is 0.15.</title>
-		<published>2023-03-27T21:05:01+00:00</published>
-		<updated>2023-03-27T21:05:01+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1640459935795531776</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640459935795531776"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ It turns out that what happens with my earlier reference is that the Deff column is actually listing Deff*sqrt(radar_albedo). For instance, 343 Chaldea has Deff = 37 km in the webpage, and Deff = 96 km in the paper. The radar albedo is 0.15.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ I'm calculating this quotient picking some asteroids at random from the reference I gave, and the quotient always comes close to 1. This is unexpected! It pays off to compare with Table 4 in echo.jpl.nasa.gov/asteroids/MBAs… which has some of the same asteroids...</title>
-		<published>2023-03-27T21:00:23+00:00</published>
-		<updated>2023-03-27T21:00:23+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1640458768147443722</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640458768147443722"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@ka9q @nascom1 @OK9UWU @dereksgc @CSIRO_ATNF @UTAS_ I'm calculating this quotient picking some asteroids at random from the reference I gave, and the quotient always comes close to 1. This is unexpected! It pays off to compare with Table 4 in &lt;a href="https://echo.jpl.nasa.gov/asteroids/MBAs/magri.etal.2007.mbas.pdf"&gt;echo.jpl.nasa.gov/asteroids/MBAs…&lt;/a&gt; which has some of the same asteroids...&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
