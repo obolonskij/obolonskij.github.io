@@ -5,12 +5,171 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-04-02T05:28:25+00:00</updated>
+	<updated>2023-04-03T05:41:06+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">Read more: destevez.net/2023/04/measur…</title>
+		<published>2023-04-02T14:52:47+00:00</published>
+		<updated>2023-04-02T14:52:47+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1642540586119905281</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1642540586119905281"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Read more: &lt;a href="https://destevez.net/2023/04/measuring-the-qo-100-wb-transponder-power-budget/"&gt;destevez.net/2023/04/measur…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">From the point of communications theory, when we introduce the receiver noise of a typical groundstation, the beacon is at 7 dB Es/N0, but the remaining 7 MHz only has -2.7 dB SNR. This means that low rate MODCODs such as QPSK 1/4 would make more efficient use of BW &amp;amp; power.(4/5)</title>
+		<published>2023-04-02T14:52:46+00:00</published>
+		<updated>2023-04-02T14:52:46+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1642540584031203332</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1642540584031203332"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;From the point of communications theory, when we introduce the receiver noise of a typical groundstation, the beacon is at 7 dB Es/N0, but the remaining 7 MHz only has -2.7 dB SNR. This means that low rate MODCODs such as QPSK 1/4 would make more efficient use of BW &amp;amp; power.(4/5)&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">With the transfer function, we can set a reasonable operating point of 73 dB·Hz. In this configuration, the beacon uses 50% of the power, the other signals 30%, and the transponder noise floor takes the remaining 20%. (3/5) pic.twitter.com/ueiy1Ka4cf</title>
+		<published>2023-04-02T14:52:46+00:00</published>
+		<updated>2023-04-02T14:52:46+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1642540581447507968</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1642540581447507968"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;With the transfer function, we can set a reasonable operating point of 73 dB·Hz. In this configuration, the beacon uses 50% of the power, the other signals 30%, and the transponder noise floor takes the remaining 20%. (3/5) &lt;a href="https://twitter.com/ea4gpz/status/1642540581447507968/photo/1"&gt;pic.twitter.com/ueiy1Ka4cf&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fst5ot8WwAEPTH_.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Fst5ot8WwAEPTH_.png" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/Fst4WMgX0AAdqQC.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Fst4WMgX0AAdqQC.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/Fst5ot8WwAEPTH_.png?name=orig" type="image/png" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/Fst4WMgX0AAdqQC.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">Assuming that the beacon uplink power is constant, we can estimate the transponder input power. This gives us output versus input power data. It turns out that the transponder is already quite in compression, even with only the DVB-S2 beacon active. (2/5) pic.twitter.com/ddFAojLHm5</title>
+		<published>2023-04-02T14:52:45+00:00</published>
+		<updated>2023-04-02T14:52:45+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1642540578024878083</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1642540578024878083"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Assuming that the beacon uplink power is constant, we can estimate the transponder input power. This gives us output versus input power data. It turns out that the transponder is already quite in compression, even with only the DVB-S2 beacon active. (2/5) &lt;a href="https://twitter.com/ea4gpz/status/1642540578024878083/photo/1"&gt;pic.twitter.com/ddFAojLHm5&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fst5PK-X0AMpR-Z.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Fst5PK-X0AMpR-Z.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/Fst5PK-X0AMpR-Z.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">New blog post: Measuring the QO-100 WB transponder power budget. I use the waterfall data I have been recording with Maia SDR for over 3 weeks to compute the transponder input to output power transfer function and the allocation of output power to different signals. (1/5) pic.twitter.com/lZUSnUXEjk</title>
+		<published>2023-04-02T14:52:44+00:00</published>
+		<updated>2023-04-02T14:52:44+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1642540574388396032</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1642540574388396032"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;New blog post: Measuring the QO-100 WB transponder power budget. I use the waterfall data I have been recording with Maia SDR for over 3 weeks to compute the transponder input to output power transfer function and the allocation of output power to different signals. (1/5) &lt;a href="https://twitter.com/ea4gpz/status/1642540574388396032/photo/1"&gt;pic.twitter.com/lZUSnUXEjk&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fst5EBBXwAE9pbm.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/Fst5EBBXwAE9pbm.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/Fst5EBBXwAE9pbm.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@tnt @IanJohnBuckley In principle this is just to build changesets of the Maia SDR bitstream, but nothing (other than the fact that PRs from new contributors need their pipeline to be approved manually for it to run) prevents people from submitting a PR that uses Vivado totally differently.</title>
@@ -428,141 +587,6 @@ Salary range: $73,610 and $133,154 &lt;a href="https://twitter.com/SETIInstitute
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@tnt @tmbinc @AndrePuschmann In any case, if the size of packets is fixed, a small variation of DmaBRAMWrite would be a good solution. Fixed packets is key to simplify some stuff. Because the size of the buffers in the ring-buffer can be equal to the packet size and we can drive the DMA with a single counter&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@tnt @tmbinc @AndrePuschmann I'm thinking that we can cheat to DmaBRAMWrite if fosphor's AXI-S output is always valid mid-packet and the size of packets is fixed and known. We could ignore DmaBRAMWrite's raddr, and it wouldn't care that it is an AXI-S the one writing into rdata.</title>
-		<published>2023-03-28T17:18:33+00:00</published>
-		<updated>2023-03-28T17:18:33+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1640765330367606784</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640765330367606784"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@tnt @tmbinc @AndrePuschmann I'm thinking that we can cheat to DmaBRAMWrite if fosphor's AXI-S output is always valid mid-packet and the size of packets is fixed and known. We could ignore DmaBRAMWrite's raddr, and it wouldn't care that it is an AXI-S the one writing into rdata.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@tnt @tmbinc @AndrePuschmann It doesn't support TLAST. The use case for this is recording IQ to the DDR until the DDR is full or the user presses stop. Here we need a ring-buffer in DDR, which is more similar to what DmaBRAMWrite.</title>
-		<published>2023-03-28T17:15:29+00:00</published>
-		<updated>2023-03-28T17:15:29+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1640764557642661889</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640764557642661889"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@tnt @tmbinc @AndrePuschmann It doesn't support TLAST. The use case for this is recording IQ to the DDR until the DDR is full or the user presses stop. Here we need a ring-buffer in DDR, which is more similar to what DmaBRAMWrite.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@tnt @AndrePuschmann @tmbinc Thanks! That short description helps me read through the Verilog code. Understood that histogramming each FFT in the FPGA is much better than histogramming FFT averages in software.</title>
-		<published>2023-03-28T17:07:23+00:00</published>
-		<updated>2023-03-28T17:07:23+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1640762520565678089</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640762520565678089"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@tnt @AndrePuschmann @tmbinc Thanks! That short description helps me read through the Verilog code. Understood that histogramming each FFT in the FPGA is much better than histogramming FFT averages in software.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@tnt @tmbinc @AndrePuschmann If something like this is done, then it would be possible to use maia-httpd with small modifications to send the histogram packets out as messages on a websocket server.</title>
-		<published>2023-03-28T17:05:50+00:00</published>
-		<updated>2023-03-28T17:05:50+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1640762129350361099</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640762129350361099"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@tnt @tmbinc @AndrePuschmann If something like this is done, then it would be possible to use maia-httpd with small modifications to send the histogram packets out as messages on a websocket server.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@tnt @tmbinc @AndrePuschmann I'm looking at github.com/EttusResearch/… and thinking about how to drop it in. FFT'd input and config is straightforward. For the AXI-S output, none of the maia-hdl DMAs work directly. Either use a good 'ol AXI-DMA or ditch the fosphor packetizer and use github.com/maia-sdr/maia-…</title>
-		<published>2023-03-28T17:04:36+00:00</published>
-		<updated>2023-03-28T17:04:36+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1640761818405634055</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640761818405634055"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@tnt @tmbinc @AndrePuschmann I'm looking at &lt;a href="https://github.com/EttusResearch/uhd/blob/master/fpga/usrp3/lib/rfnoc/fosphor/f15_core.v"&gt;github.com/EttusResearch/…&lt;/a&gt; and thinking about how to drop it in. FFT'd input and config is straightforward. For the AXI-S output, none of the maia-hdl DMAs work directly. Either use a good 'ol AXI-DMA or ditch the fosphor packetizer and use &lt;a href="https://github.com/maia-sdr/maia-sdr/blob/main/maia-hdl/maia_hdl/dma.py#L17"&gt;github.com/maia-sdr/maia-…&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
