@@ -5,12 +5,39 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-04-03T05:41:06+00:00</updated>
+	<updated>2023-04-04T05:22:17+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@F5OEOEvariste Yeah, lower rate FEC usually breaks down in synchronization earlier than in FEC decoding. But even so, it is still better if the channel  is power constrained.</title>
+		<published>2023-04-03T10:42:03+00:00</published>
+		<updated>2023-04-03T10:42:03+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1642839873617838081</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1642839873617838081"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@F5OEOEvariste Yeah, lower rate FEC usually breaks down in synchronization earlier than in FEC decoding. But even so, it is still better if the channel  is power constrained.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">Read more: destevez.net/2023/04/measur…</title>
@@ -560,33 +587,6 @@ Salary range: $73,610 and $133,154 &lt;a href="https://twitter.com/SETIInstitute
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;@tnt @tmbinc @AndrePuschmann Yeah, anything works for me.&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@tnt @tmbinc @AndrePuschmann In any case, if the size of packets is fixed, a small variation of DmaBRAMWrite would be a good solution. Fixed packets is key to simplify some stuff. Because the size of the buffers in the ring-buffer can be equal to the packet size and we can drive the DMA with a single counter</title>
-		<published>2023-03-28T17:20:56+00:00</published>
-		<updated>2023-03-28T17:20:56+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1640765932107694086</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1640765932107694086"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@tnt @tmbinc @AndrePuschmann In any case, if the size of packets is fixed, a small variation of DmaBRAMWrite would be a good solution. Fixed packets is key to simplify some stuff. Because the size of the buffers in the ring-buffer can be equal to the packet size and we can drive the DMA with a single counter&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;
