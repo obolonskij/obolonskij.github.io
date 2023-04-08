@@ -5,12 +5,120 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-04-07T05:42:22+00:00</updated>
+	<updated>2023-04-08T05:02:49+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@DutchSpace Interesting! 47dBHz CN0 for a VHF LEO satellite sounds a bit weak, doesn't it?</title>
+		<published>2023-04-07T16:50:30+00:00</published>
+		<updated>2023-04-07T16:50:30+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1644382152497278979</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1644382152497278979"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@DutchSpace Interesting! 47dBHz CN0 for a VHF LEO satellite sounds a bit weak, doesn't it?&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@JoshFishPhoto From that plot it's not so clear if Tianwen-1 is more powerful, or maybe MRO, which has much more bandwidth.</title>
+		<published>2023-04-07T16:45:38+00:00</published>
+		<updated>2023-04-07T16:45:38+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1644380926443507712</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1644380926443507712"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@JoshFishPhoto From that plot it's not so clear if Tianwen-1 is more powerful, or maybe MRO, which has much more bandwidth.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@ka9q @MX5AKA @RiaJairam In Europe we don't have the FCC bandwidth restriction, yet the same happens regarding 27MHz and 10m. I don't know why it happens. As you pointed out, a bunch of those folks on 27 are also hams. Not sure what rule changes would benefit ham radio.</title>
+		<published>2023-04-07T05:53:45+00:00</published>
+		<updated>2023-04-07T05:53:45+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1644216872072540160</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1644216872072540160"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@ka9q @MX5AKA @RiaJairam In Europe we don't have the FCC bandwidth restriction, yet the same happens regarding 27MHz and 10m. I don't know why it happens. As you pointed out, a bunch of those folks on 27 are also hams. Not sure what rule changes would benefit ham radio.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@boteball @ka9q The KiwiSDR is a direct sampling receiver, so this would be an aliasing image.</title>
+		<published>2023-04-07T05:48:31+00:00</published>
+		<updated>2023-04-07T05:48:31+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1644215556411740160</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1644215556411740160"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@boteball @ka9q The KiwiSDR is a direct sampling receiver, so this would be an aliasing image.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@w4www_raker @df2mz @amsatdl @cytangjoseph @SternwarteBO There is the Space Frequencies Coordination Group.</title>
@@ -499,138 +607,6 @@ What's most interesting about this is that usual DOR tones are spaced 38 MHz. Th
 &lt;/div&gt;
 &lt;div style="display: inline-block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;From the point of communications theory, when we introduce the receiver noise of a typical groundstation, the beacon is at 7 dB Es/N0, but the remaining 7 MHz only has -2.7 dB SNR. This means that low rate MODCODs such as QPSK 1/4 would make more efficient use of BW &amp;amp; power.(4/5)&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">With the transfer function, we can set a reasonable operating point of 73 dB·Hz. In this configuration, the beacon uses 50% of the power, the other signals 30%, and the transponder noise floor takes the remaining 20%. (3/5) pic.twitter.com/ueiy1Ka4cf</title>
-		<published>2023-04-02T14:52:46+00:00</published>
-		<updated>2023-04-02T14:52:46+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1642540581447507968</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1642540581447507968"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;With the transfer function, we can set a reasonable operating point of 73 dB·Hz. In this configuration, the beacon uses 50% of the power, the other signals 30%, and the transponder noise floor takes the remaining 20%. (3/5) &lt;a href="https://twitter.com/ea4gpz/status/1642540581447507968/photo/1"&gt;pic.twitter.com/ueiy1Ka4cf&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fst5ot8WwAEPTH_.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fst5ot8WwAEPTH_.png" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/Fst4WMgX0AAdqQC.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fst4WMgX0AAdqQC.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/Fst5ot8WwAEPTH_.png?name=orig" type="image/png" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/Fst4WMgX0AAdqQC.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Assuming that the beacon uplink power is constant, we can estimate the transponder input power. This gives us output versus input power data. It turns out that the transponder is already quite in compression, even with only the DVB-S2 beacon active. (2/5) pic.twitter.com/ddFAojLHm5</title>
-		<published>2023-04-02T14:52:45+00:00</published>
-		<updated>2023-04-02T14:52:45+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1642540578024878083</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1642540578024878083"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Assuming that the beacon uplink power is constant, we can estimate the transponder input power. This gives us output versus input power data. It turns out that the transponder is already quite in compression, even with only the DVB-S2 beacon active. (2/5) &lt;a href="https://twitter.com/ea4gpz/status/1642540578024878083/photo/1"&gt;pic.twitter.com/ddFAojLHm5&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fst5PK-X0AMpR-Z.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fst5PK-X0AMpR-Z.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/Fst5PK-X0AMpR-Z.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">New blog post: Measuring the QO-100 WB transponder power budget. I use the waterfall data I have been recording with Maia SDR for over 3 weeks to compute the transponder input to output power transfer function and the allocation of output power to different signals. (1/5) pic.twitter.com/lZUSnUXEjk</title>
-		<published>2023-04-02T14:52:44+00:00</published>
-		<updated>2023-04-02T14:52:44+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1642540574388396032</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1642540574388396032"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;New blog post: Measuring the QO-100 WB transponder power budget. I use the waterfall data I have been recording with Maia SDR for over 3 weeks to compute the transponder input to output power transfer function and the allocation of output power to different signals. (1/5) &lt;a href="https://twitter.com/ea4gpz/status/1642540574388396032/photo/1"&gt;pic.twitter.com/lZUSnUXEjk&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/Fst5EBBXwAE9pbm.png?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/Fst5EBBXwAE9pbm.png" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/Fst5EBBXwAE9pbm.png?name=orig" type="image/png" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@tnt @IanJohnBuckley In principle this is just to build changesets of the Maia SDR bitstream, but nothing (other than the fact that PRs from new contributors need their pipeline to be approved manually for it to run) prevents people from submitting a PR that uses Vivado totally differently.</title>
-		<published>2023-04-01T15:30:52+00:00</published>
-		<updated>2023-04-01T15:30:52+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1642187782373228549</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1642187782373228549"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@tnt @IanJohnBuckley In principle this is just to build changesets of the Maia SDR bitstream, but nothing (other than the fact that PRs from new contributors need their pipeline to be approved manually for it to run) prevents people from submitting a PR that uses Vivado totally differently.&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div style="display: block; vertical-align: top;"&gt;
 	&lt;blockquote&gt;&lt;/blockquote&gt;

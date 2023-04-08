@@ -5,12 +5,39 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-03-30T07:12:39+00:00</updated>
+	<updated>2023-04-08T05:02:50+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">Found this interesting italian YouTube channel about UFO/UAP youtube.com/@intermundia-u…</title>
+		<published>2023-04-07T16:10:00+00:00</published>
+		<updated>2023-04-07T16:10:00+00:00</updated>
+		<id>https://twitter.com/supertrack_it/status/1644371958023200770</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1644371958023200770"/>
+		<author><name>supertrack (@supertrack_it)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/supertrack_it"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="supertrack_it"
+	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
+	title="supertrack" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;Found this interesting italian YouTube channel about UFO/UAP &lt;a href="https://www.youtube.com/@intermundia-ufo/videos"&gt;youtube.com/@intermundia-u…&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@redplanet00 Great picture, Fred!  Stau over the Alpes and Foehn 30 kts gusting to 45 kts in Susa valley</title>
@@ -631,33 +658,6 @@ Best signal -16
 &lt;/div&gt;</content>
 		<link rel="enclosure" href="https://pbs.twimg.com/media/FmeZdcpWIAIMFF2.jpg?name=orig" type="image/jpeg" />
 
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@Dario24105 Grande Dario!</title>
-		<published>2023-01-11T10:46:38+00:00</published>
-		<updated>2023-01-11T10:46:38+00:00</updated>
-		<id>https://twitter.com/supertrack_it/status/1613125224186216449</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/supertrack_it/status/1613125224186216449"/>
-		<author><name>supertrack (@supertrack_it)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/supertrack_it"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="supertrack_it"
-	src="https://pbs.twimg.com/profile_images/487279949691092995/X3yT9sta_normal.jpeg"
-	title="supertrack" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@Dario24105 Grande Dario!&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
 		
 		
 	</entry>
