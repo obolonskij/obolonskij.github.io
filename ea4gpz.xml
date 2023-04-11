@@ -5,12 +5,189 @@
 	<id>http://</id>
 	<icon>https://twitter.com//favicon.ico</icon>
 	<logo>https://twitter.com//favicon.ico</logo>
-	<updated>2023-04-09T07:52:15+00:00</updated>
+	<updated>2023-04-11T05:40:48+00:00</updated>
 	<author>
 		<name>RSS-Bridge</name>
 	</author>
 	<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz" />
 	<link rel="self" type="application/atom+xml" href="http://" />
+
+	<entry>
+		<title type="html">@eb3frn @ea3hmj @BymCt1 Also, I hear this was done with a 10MHz observing bandwidth. @BatchDrake and I really need to get working on hooking up Maia SDR to SigDigger. That would give you a bandwidth of nearly 60 MHz, for an increase in sensitivity of about 3.9 dB.</title>
+		<published>2023-04-10T06:04:40+00:00</published>
+		<updated>2023-04-10T06:04:40+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1645306783748038657</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1645306783748038657"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@eb3frn @ea3hmj @BymCt1 Also, I hear this was done with a 10MHz observing bandwidth. @BatchDrake and I really need to get working on hooking up Maia SDR to SigDigger. That would give you a bandwidth of nearly 60 MHz, for an increase in sensitivity of about 3.9 dB.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">@eb3frn @ea3hmj @BymCt1 This is awesome! I'm wondering how the link budget looks like for this kind of detection, and also whether an interferometric detection between these two stations would be possible.</title>
+		<published>2023-04-10T05:59:19+00:00</published>
+		<updated>2023-04-10T05:59:19+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1645305440442408961</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1645305440442408961"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;@eb3frn @ea3hmj @BymCt1 This is awesome! I'm wondering how the link budget looks like for this kind of detection, and also whether an interferometric detection between these two stations would be possible.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">I’m very glad to anounce the Venus detection at 47GHz. It has been performed first in the @ea3hmj 120cm dish and later in the @BymCt1 dish that confirms our detection. More details and study very soon!
+#radioastronomy #hamradio #ghzbands pic.twitter.com/HnT2ACEUM1</title>
+		<published>2023-04-09T19:32:33+00:00</published>
+		<updated>2023-04-09T19:32:33+00:00</updated>
+		<id>https://twitter.com/eb3frn/status/1645147706308935681</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/eb3frn/status/1645147706308935681"/>
+		<author><name>RT: eb3frn (@eb3frn)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/eb3frn"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="eb3frn"
+	src="https://pbs.twimg.com/profile_images/475320766813065217/XsWBk5Vi_normal.jpeg"
+	title="eb3frn" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;I’m very glad to anounce the Venus detection at 47GHz. It has been performed first in the @ea3hmj 120cm dish and later in the @BymCt1 dish that confirms our detection. More details and study very soon!
+#radioastronomy #hamradio #ghzbands &lt;a href="https://twitter.com/eb3frn/status/1645147706308935681/photo/1"&gt;pic.twitter.com/HnT2ACEUM1&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FtS9HeCXsAAuUGj.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FtS9HeCXsAAuUGj.jpg" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FtS9HeEWAAQTCz5.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FtS9HeEWAAQTCz5.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FtS9HeCXsAAuUGj.jpg?name=orig" type="image/jpeg" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FtS9HeEWAAQTCz5.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">In this case the other stations rob a lot of power from the beacon, decreasing the transponder gain by 3.5 dB compared to an idle transponder, and greatly changing the power distribution from what I showed in the previous post.
+Read more: destevez.net/2023/04/more-a…
+(2/2) pic.twitter.com/nsEOgyMdQg</title>
+		<published>2023-04-09T16:41:44+00:00</published>
+		<updated>2023-04-09T16:41:44+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1645104720527126528</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1645104720527126528"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;In this case the other stations rob a lot of power from the beacon, decreasing the transponder gain by 3.5 dB compared to an idle transponder, and greatly changing the power distribution from what I showed in the previous post.
+Read more: &lt;a href="https://destevez.net/2023/04/more-about-the-qo-100-wb-transponder-power-budget/"&gt;destevez.net/2023/04/more-a…&lt;/a&gt;
+(2/2) &lt;a href="https://twitter.com/ea4gpz/status/1645104720527126528/photo/1"&gt;pic.twitter.com/nsEOgyMdQg&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FtSV73pXgAAooz0.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FtSV73pXgAAooz0.png" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FtSVQHxWwAAJuek.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FtSVQHxWwAAJuek.png" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FtSV73pXgAAooz0.png?name=orig" type="image/png" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FtSVQHxWwAAJuek.png?name=orig" type="image/png" />
+
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">New blog post: More about the QO-100 WB transponder power budget. Some corrections about my previous post. Looking at a situation in which the transponder is heavily used, it makes sense to increase the compression operating point compared to which I used last. (1/2) pic.twitter.com/pPkb23hKzg</title>
+		<published>2023-04-09T16:41:43+00:00</published>
+		<updated>2023-04-09T16:41:43+00:00</updated>
+		<id>https://twitter.com/ea4gpz/status/1645104716546752513</id>
+		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1645104716546752513"/>
+		<author><name>Daniel Estévez (@ea4gpz)</name></author>
+		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;a href="https://twitter.com/ea4gpz"&gt;
+&lt;img
+	style="align:top; width:75px; border:1px solid black;"
+	alt="ea4gpz"
+	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
+	title="Daniel Estévez" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style="display: inline-block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;New blog post: More about the QO-100 WB transponder power budget. Some corrections about my previous post. Looking at a situation in which the transponder is heavily used, it makes sense to increase the compression operating point compared to which I used last. (1/2) &lt;a href="https://twitter.com/ea4gpz/status/1645104716546752513/photo/1"&gt;pic.twitter.com/pPkb23hKzg&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div style="display: block; vertical-align: top;"&gt;
+	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FtSVmnhX0AUn6DJ.png?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FtSVmnhX0AUn6DJ.png" /&gt;
+&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FtSU5HwX0AMEyf-.jpg?name=orig"&gt;
+&lt;img
+	style="align:top; max-width:558px; border:1px solid black;"
+	referrerpolicy="no-referrer"
+	src="https://pbs.twimg.com/media/FtSU5HwX0AMEyf-.jpg" /&gt;
+&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+		<link rel="enclosure" href="https://pbs.twimg.com/media/FtSVmnhX0AUn6DJ.png?name=orig" type="image/png" />
+<link rel="enclosure" href="https://pbs.twimg.com/media/FtSU5HwX0AMEyf-.jpg?name=orig" type="image/jpeg" />
+
+		
+		
+	</entry>
 
 	<entry>
 		<title type="html">@satnam6502 Have you seen Siliwiz? app.siliwiz.com/?preset=invert…</title>
@@ -436,187 +613,6 @@ What's most interesting about this is that usual DOR tones are spaced 38 MHz. Th
 &lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;</content>
 		<link rel="enclosure" href="https://pbs.twimg.com/media/FtDmS8CX0Bst4Ho.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">Oh, and they also have a spectrum of all the spacecraft at Mars taken with the DSS-14 70m dish in Goldstone. This paper is awesome! twitter.com/ea4gpz/status/… pic.twitter.com/6dje7GkBxs</title>
-		<published>2023-04-06T19:30:45+00:00</published>
-		<updated>2023-04-06T19:30:45+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1644060092772372495</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1644060092772372495"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;Oh, and they also have a spectrum of all the spacecraft at Mars taken with the DSS-14 70m dish in Goldstone. This paper is awesome! &lt;a href="https://twitter.com/ea4gpz/status/1644057435257163793"&gt;twitter.com/ea4gpz/status/…&lt;/a&gt; &lt;a href="https://twitter.com/ea4gpz/status/1644060092772372495/photo/1"&gt;pic.twitter.com/6dje7GkBxs&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FtDfrMjX0AMi28K.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FtDfrMjX0AMi28K.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FtDfrMjX0AMi28K.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@df2mz @amsatdl @cytangjoseph @SternwarteBO Just seen this paper. They list a transmit frequency of 8400.06 MHz for Zhurong. They say "known or assumed [...]", so I don't know if it's correct. ipnpr.jpl.nasa.gov/progress_repor… pic.twitter.com/jaKZu11Dw4</title>
-		<published>2023-04-06T19:20:12+00:00</published>
-		<updated>2023-04-06T19:20:12+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1644057435257163793</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1644057435257163793"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@df2mz @amsatdl @cytangjoseph @SternwarteBO Just seen this paper. They list a transmit frequency of 8400.06 MHz for Zhurong. They say "known or assumed [...]", so I don't know if it's correct. &lt;a href="https://ipnpr.jpl.nasa.gov/progress_report/42-230/42-230B.pdf"&gt;ipnpr.jpl.nasa.gov/progress_repor…&lt;/a&gt; &lt;a href="https://twitter.com/ea4gpz/status/1644057435257163793/photo/1"&gt;pic.twitter.com/jaKZu11Dw4&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FtDdXtOX0CIUO6l.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FtDdXtOX0CIUO6l.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FtDdXtOX0CIUO6l.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@IanJohnBuckley @Astro_Wael This was literally last Wednesday. pic.twitter.com/k3MrzaZi1o</title>
-		<published>2023-04-06T17:55:44+00:00</published>
-		<updated>2023-04-06T17:55:44+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1644036179971436569</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1644036179971436569"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@IanJohnBuckley @Astro_Wael This was literally last Wednesday. &lt;a href="https://twitter.com/ea4gpz/status/1644036179971436569/photo/1"&gt;pic.twitter.com/k3MrzaZi1o&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FtDKL2LWcAACTXx.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FtDKL2LWcAACTXx.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FtDKL2LWcAACTXx.jpg?name=orig" type="image/jpeg" />
-
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">@Astro_Wael Much nicer weather than last week!</title>
-		<published>2023-04-06T17:36:23+00:00</published>
-		<updated>2023-04-06T17:36:23+00:00</updated>
-		<id>https://twitter.com/ea4gpz/status/1644031311374618626</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/ea4gpz/status/1644031311374618626"/>
-		<author><name>Daniel Estévez (@ea4gpz)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/ea4gpz"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="ea4gpz"
-	src="https://pbs.twimg.com/profile_images/1178008371225595905/1gtBHxvG_normal.jpg"
-	title="Daniel Estévez" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;@Astro_Wael Much nicer weather than last week!&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		
-		
-		
-	</entry>
-
-	<entry>
-		<title type="html">The third and last day of the ATA workshop 2023. Participants took an image of CasA, folded the crab pulsar, took a spectrum of mars, and even observed the sun in the radio! I’m calling it a success!
-#radioastronomy #seti #pulsars #frbs 
-#transients pic.twitter.com/20NBCctGjs</title>
-		<published>2023-04-06T13:13:56+00:00</published>
-		<updated>2023-04-06T13:13:56+00:00</updated>
-		<id>https://twitter.com/Astro_Wael/status/1643965263392706561</id>
-		<link rel="alternate" type="text/html" href="https://twitter.com/Astro_Wael/status/1643965263392706561"/>
-		<author><name>RT: Wael Farah (@Astro_Wael)</name></author>
-		<content type="html">&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;a href="https://twitter.com/Astro_Wael"&gt;
-&lt;img
-	style="align:top; width:75px; border:1px solid black;"
-	alt="Astro_Wael"
-	src="https://pbs.twimg.com/profile_images/1387078178045235206/hT7GTsTZ_normal.jpg"
-	title="Wael Farah" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div style="display: inline-block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;The third and last day of the ATA workshop 2023. Participants took an image of CasA, folded the crab pulsar, took a spectrum of mars, and even observed the sun in the radio! I’m calling it a success!
-#radioastronomy #seti #pulsars #frbs 
-#transients &lt;a href="https://twitter.com/Astro_Wael/status/1643965263392706561/photo/1"&gt;pic.twitter.com/20NBCctGjs&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div style="display: block; vertical-align: top;"&gt;
-	&lt;blockquote&gt;&lt;a href="https://pbs.twimg.com/media/FtCJsK6aMAMwYmR.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FtCJsK6aMAMwYmR.jpg" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FtCJsK2aEAAM_ig.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FtCJsK2aEAAM_ig.jpg" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FtCJsK1aMAAnMlB.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FtCJsK1aMAAnMlB.jpg" /&gt;
-&lt;/a&gt;&lt;a href="https://pbs.twimg.com/media/FtCJsK3aAAArc3R.jpg?name=orig"&gt;
-&lt;img
-	style="align:top; max-width:558px; border:1px solid black;"
-	referrerpolicy="no-referrer"
-	src="https://pbs.twimg.com/media/FtCJsK3aAAArc3R.jpg" /&gt;
-&lt;/a&gt;&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-		<link rel="enclosure" href="https://pbs.twimg.com/media/FtCJsK6aMAMwYmR.jpg?name=orig" type="image/jpeg" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FtCJsK2aEAAM_ig.jpg?name=orig" type="image/jpeg" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FtCJsK1aMAAnMlB.jpg?name=orig" type="image/jpeg" />
-<link rel="enclosure" href="https://pbs.twimg.com/media/FtCJsK3aAAArc3R.jpg?name=orig" type="image/jpeg" />
 
 		
 		
